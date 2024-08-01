@@ -66,14 +66,16 @@ id,pollster,polling_start_date,polling_end_date,sampleSize,marginError,link,spre
 ```json
 [
     {
-        "id": 12345,
-        "type": "rcp_average",
-        "polling_start_date": "2024-07-01",
-        "polling_end_date": "2024-07-10",
-        "spread_winner": "Trump",
-        "spread_value": 1.5,
-        "trump_value": 47.5,
-        "harris_value": 46.0
+        "id":"7386",
+        "type":"rcp_average",
+        "polling_period":"7\/22 - 7\/31",
+        "polling_start_date":"2024-07-22",
+        "polling_end_date":"2024-07-31",
+        "spread_winner":"Trump",
+        "spread_value":"+1.2",
+        "trump_value":"47.7",
+        "harris_value":"46.5",
+        "fetch_date":"2024-08-01"
     }
 ]
 ```
