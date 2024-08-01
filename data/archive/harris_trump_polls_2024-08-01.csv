@@ -1,0 +1,53 @@
+id,pollster,polling_start_date,polling_end_date,sampleSize,marginError,spread_winner,spread_value,trump_value,harris_value
+146217,Rasmussen Reports,,,1074 LV,3.0,Trump,7.0,50,43
+146230,Morning Consult,,,11297 RV,1.0,Harris,1.0,45,46
+146140,Reuters/Ipsos,,,1018 RV,3.0,Harris,2.0,42,44
+146134,Morning Consult,,,4001 RV,,Trump,2.0,47,45
+146141,Yahoo News,,,1178 RV,,Tie,0.0,46,46
+146125,Quinnipiac,,,1257 RV,2.8,Trump,2.0,49,47
+146109,Forbes/HarrisX,,,2753 RV,1.9,Trump,6.0,53,47
+146084,CBS News,,,2247 LV,2.7,Trump,3.0,51,48
+146103,Reuters/Ipsos,,,992 RV,3.5,Tie,0.0,44,44
+146104,Morning Consult,,,2045 RV,2.0,Trump,1.0,46,45
+146005,Forbes/HarrisX,,,1918 RV,2.2,Trump,4.0,52,48
+146044,SurveyUSA,,,1098 LV,3.3,Trump,3.0,45,42
+145917,NPR/PBS/Marist,,,1174 RV,3.3,Harris,1.0,49,50
+145931,FOX News,,,1210 RV,3.0,Trump,1.0,49,48
+145941,NBC News,,,800 RV,3.5,Trump,2.0,47,45
+145841,Emerson,,,1370 RV,2.6,Trump,6.0,49,43
+145896,ABC News/Wash Post,,,2041 RV,2.0,Harris,2.0,47,49
+145740,Reuters/Ipsos,,,892 RV,3.5,Trump,1.0,43,42
+146105,Yahoo News,,,1171 RV,2.9,Trump,2.0,47,45
+145731,CNN,,,1045 RV,3.7,Trump,2.0,47,45
+145680,Data for Progress (D)**,,,1011 LV,3.0,Trump,3.0,48,45
+145794,Forbes/HarrisX,,,1500 RV,2.5,Trump,6.0,53,47
+143937,Emerson,,,1225 RV,2.7,Trump,3.0,46,43
+142949,Harvard-Harris,,,2851 RV,,Trump,12.0,52,40
+142883,FOX News,,,1001 RV,3.0,Trump,5.0,50,45
+142508,Harvard-Harris,,,2116 RV,2.0,Trump,7.0,48,41
+142016,Harvard-Harris,,,2103 RV,,Trump,6.0,46,40
+141418,Harvard-Harris,,,2068 RV,,Trump,9.0,47,38
+141133,Harvard-Harris,,,2090 RV,,Trump,7.0,47,40
+140846,Harvard-Harris,,,2004 RV,,Trump,11.0,50,39
+140637,Harvard-Harris,,,1845 RV,,Trump,10.0,48,38
+140284,Harvard-Harris,,,2905 RV,,Trump,10.0,48,38
+140493,Yahoo News,,,1014 RV,2.7,Trump,3.0,45,42
+140022,Harvard-Harris,,,1838 RV,,Trump,10.0,49,39
+139992,Rasmussen Reports,,,900 LV,3.0,Trump,3.0,45,42
+139967,PPP (D),,,1056 RV,,Tie,0.0,47,47
+139727,Harvard-Harris,,,2050 RV,,Trump,8.0,48,40
+139499,Harvard-Harris,,,1851 RV,,Trump,6.0,46,40
+139188,Harvard-Harris,,,2212 RV,,Trump,7.0,47,40
+138310,Harvard-Harris,,,2010 RV,,Trump,11.0,49,38
+138272,Federalist/Susquehanna,,,800 LV,3.4,Harris,15.0,39,54
+136826,Harvard-Harris,,,1885 RV ,,Trump,7.0,47,40
+136281,Harvard-Harris,,,1308 RV,,Trump,6.0,45,39
+135830,Harvard-Harris,,,1963 RV,,Trump,7.0,47,40
+135500,Federalist/Susquehanna,,,800 LV,3.5,Harris,3.0,46,49
+135417,Harvard-Harris,,,1966 RV,,Trump,6.0,47,41
+135133,Harvard-Harris,,,1990 RV,,Trump,11.0,49,38
+134994,Harvard-Harris,,,2026 RV,,Trump,12.0,51,39
+134702,Federalist/Susquehanna,,,800 LV,3.4,Harris,1.0,45,46
+134512,Harvard-Harris,,,1815 RV,,Trump,10.0,49,39
+134092,Harvard-Harris,,,1989 RV,,Trump,9.0,50,41
+133441,Rasmussen Reports,,,1000 LV,3.0,Trump,13.0,52,39

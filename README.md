@@ -1,2 +1,12 @@
-# polls
-Automating the collection of political polls
+# Polls
+Automating the collection of political polls.
+
+## Sources
+
+### RealClearPolitics
+
+## Process
+
+## Outputs
+
+
