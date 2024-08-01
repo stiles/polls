@@ -1,53 +1,53 @@
-id,pollster,polling_start_date,polling_end_date,sampleSize,marginError,spread_winner,spread_value,trump_value,harris_value
-146217,Rasmussen Reports,2024-07-22,2024-07-24,1074 LV,3.0,Trump,7.0,50,43
-146230,Morning Consult,2024-07-22,2024-07-24,11297 RV,1.0,Harris,1.0,45,46
-146140,Reuters/Ipsos,2024-07-22,2024-07-23,1018 RV,3.0,Harris,2.0,42,44
-146134,Morning Consult,2024-07-21,2024-07-22,4001 RV,,Trump,2.0,47,45
-146141,Yahoo News,2024-07-19,2024-07-22,1178 RV,,Tie,0.0,46,46
-146125,Quinnipiac,2024-07-19,2024-07-21,1257 RV,2.8,Trump,2.0,49,47
-146109,Forbes/HarrisX,2024-07-19,2024-07-21,2753 RV,1.9,Trump,6.0,53,47
-146084,CBS News,2024-07-16,2024-07-18,2247 LV,2.7,Trump,3.0,51,48
-146103,Reuters/Ipsos,2024-07-15,2024-07-16,992 RV,3.5,Tie,0.0,44,44
-146104,Morning Consult,2024-07-15,2024-07-15,2045 RV,2.0,Trump,1.0,46,45
-146005,Forbes/HarrisX,2024-07-13,2024-07-15,1918 RV,2.2,Trump,4.0,52,48
-146044,SurveyUSA,2024-07-12,2024-07-15,1098 LV,3.3,Trump,3.0,45,42
-145917,NPR/PBS/Marist,2024-07-09,2024-07-10,1174 RV,3.3,Harris,1.0,49,50
-145931,FOX News,2024-07-07,2024-07-10,1210 RV,3.0,Trump,1.0,49,48
-145941,NBC News,2024-07-07,2024-07-09,800 RV,3.5,Trump,2.0,47,45
-145841,Emerson,2024-07-07,2024-07-08,1370 RV,2.6,Trump,6.0,49,43
-145896,ABC News/Wash Post,2024-07-05,2024-07-09,2041 RV,2.0,Harris,2.0,47,49
-145740,Reuters/Ipsos,2024-07-01,2024-07-02,892 RV,3.5,Trump,1.0,43,42
-146105,Yahoo News,2024-06-28,2024-07-01,1171 RV,2.9,Trump,2.0,47,45
-145731,CNN,2024-06-28,2024-06-30,1045 RV,3.7,Trump,2.0,47,45
-145680,Data for Progress (D)**,2024-06-28,2024-06-28,1011 LV,3.0,Trump,3.0,48,45
-145794,Forbes/HarrisX,2024-06-28,2024-06-30,1500 RV,2.5,Trump,6.0,53,47
-143937,Emerson,2024-02-13,2024-02-14,1225 RV,2.7,Trump,3.0,46,43
-142949,Harvard-Harris,2023-11-15,2023-11-16,2851 RV,,Trump,12.0,52,40
-142883,FOX News,2023-11-10,2023-11-13,1001 RV,3.0,Trump,5.0,50,45
-142508,Harvard-Harris,2023-10-18,2023-10-19,2116 RV,2.0,Trump,7.0,48,41
-142016,Harvard-Harris,2023-09-12,2023-09-14,2103 RV,,Trump,6.0,46,40
-141418,Harvard-Harris,2023-07-19,2023-07-20,2068 RV,,Trump,9.0,47,38
-141133,Harvard-Harris,2023-06-14,2023-06-15,2090 RV,,Trump,7.0,47,40
-140846,Harvard-Harris,2023-05-17,2023-05-18,2004 RV,,Trump,11.0,50,39
-140637,Harvard-Harris,2023-04-18,2023-04-19,1845 RV,,Trump,10.0,48,38
-140284,Harvard-Harris,2023-03-22,2023-03-23,2905 RV,,Trump,10.0,48,38
-140493,Yahoo News,2023-02-23,2023-02-27,1014 RV,2.7,Trump,3.0,45,42
-140022,Harvard-Harris,2023-02-15,2023-02-16,1838 RV,,Trump,10.0,49,39
-139992,Rasmussen Reports,2023-02-08,2023-02-12,900 LV,3.0,Trump,3.0,45,42
-139967,PPP (D),2023-02-10,2023-02-11,1056 RV,,Tie,0.0,47,47
-139727,Harvard-Harris,2023-01-18,2023-01-19,2050 RV,,Trump,8.0,48,40
-139499,Harvard-Harris,2022-12-14,2022-12-15,1851 RV,,Trump,6.0,46,40
-139188,Harvard-Harris,2022-11-16,2022-11-17,2212 RV,,Trump,7.0,47,40
-138310,Harvard-Harris,2022-10-12,2022-10-13,2010 RV,,Trump,11.0,49,38
-138272,Federalist/Susquehanna,2022-10-04,2022-10-11,800 LV,3.4,Harris,15.0,39,54
-136826,Harvard-Harris,2022-07-27,2022-07-28,1885 RV ,,Trump,7.0,47,40
-136281,Harvard-Harris,2022-06-28,2022-06-29,1308 RV,,Trump,6.0,45,39
-135830,Harvard-Harris,2022-05-18,2022-05-19,1963 RV,,Trump,7.0,47,40
-135500,Federalist/Susquehanna,2022-04-19,2022-04-27,800 LV,3.5,Harris,3.0,46,49
-135417,Harvard-Harris,2022-04-20,2022-04-21,1966 RV,,Trump,6.0,47,41
-135133,Harvard-Harris,2022-03-23,2022-03-24,1990 RV,,Trump,11.0,49,38
-134994,Harvard-Harris,2022-02-23,2022-02-24,2026 RV,,Trump,12.0,51,39
-134702,Federalist/Susquehanna,2022-02-03,2022-02-09,800 LV,3.4,Harris,1.0,45,46
-134512,Harvard-Harris,2022-01-19,2022-01-20,1815 RV,,Trump,10.0,49,39
-134092,Harvard-Harris,2021-11-30,2021-12-02,1989 RV,,Trump,9.0,50,41
-133441,Rasmussen Reports,2021-09-21,2021-09-22,1000 LV,3.0,Trump,13.0,52,39
+id,pollster,polling_start_date,polling_end_date,sampleSize,marginError,link,spread_winner,spread_value,trump_value,harris_value
+146217,Rasmussen Reports,2024-07-22,2024-07-24,1074 LV,3.0,https://www.rasmussenreports.com/public_content/politics/biden_administration/election_2024_trump_50_harris_43,Trump,7.0,50,43
+146230,Morning Consult,2024-07-22,2024-07-24,11297 RV,1.0,https://pro.morningconsult.com/trackers/2024-presidential-election-polling,Harris,1.0,45,46
+146140,Reuters/Ipsos,2024-07-22,2024-07-23,1018 RV,3.0,https://www.reuters.com/world/us/harris-leads-trump-44-42-us-presidential-race-reutersipsos-poll-finds-2024-07-23/,Harris,2.0,42,44
+146134,Morning Consult,2024-07-21,2024-07-22,4001 RV,,https://pro.morningconsult.com/analysis/kamala-harris-biden-campaign-polling,Trump,2.0,47,45
+146141,Yahoo News,2024-07-19,2024-07-22,1178 RV,,https://www.scribd.com/document/752747800/20240722-pol,Tie,0.0,46,46
+146125,Quinnipiac,2024-07-19,2024-07-21,1257 RV,2.8,https://poll.qu.edu/poll-release?releaseid=3901,Trump,2.0,49,47
+146109,Forbes/HarrisX,2024-07-19,2024-07-21,2753 RV,1.9,https://www.harrisx.com/content/hop-july-19-21-2024,Trump,6.0,53,47
+146084,CBS News,2024-07-16,2024-07-18,2247 LV,2.7,https://www.cbsnews.com/news/trump-poll-biden-national-07-18-2024/,Trump,3.0,51,48
+146103,Reuters/Ipsos,2024-07-15,2024-07-16,992 RV,3.5,https://www.reuters.com/world/us/four-five-americans-fear-country-is-sliding-into-chaos-reutersipsos-poll-finds-2024-07-16/,Tie,0.0,44,44
+146104,Morning Consult,2024-07-15,2024-07-15,2045 RV,2.0,https://pro.morningconsult.com/analysis/democratic-voters-remain-divided-over-ditching-biden,Trump,1.0,46,45
+146005,Forbes/HarrisX,2024-07-13,2024-07-15,1918 RV,2.2,https://www.harrisx.com/content/trump-assassination-attempt-full-results,Trump,4.0,52,48
+146044,SurveyUSA,2024-07-12,2024-07-15,1098 LV,3.3,https://www.surveyusa.com/client/PollReport.aspx?g=5d217599-3223-4ba1-ba09-3464095c0001,Trump,3.0,45,42
+145917,NPR/PBS/Marist,2024-07-09,2024-07-10,1174 RV,3.3,https://maristpoll.marist.edu/wp-content/uploads/2024/07/NPR_PBS-News_Marist-Poll_USA-NOS-and-Tables_202407101544.pdf,Harris,1.0,49,50
+145931,FOX News,2024-07-07,2024-07-10,1210 RV,3.0,https://static.foxnews.com/foxnews.com/content/uploads/2024/07/Fox_July-7-10-2024_National_Topline_July-14-Release.pdf,Trump,1.0,49,48
+145941,NBC News,2024-07-07,2024-07-09,800 RV,3.5,https://www.realclearpolitics.com/docs/2024/240240_NBC_July_2024_Poll_7.14_RELEASE_CORRECTED_.pdf,Trump,2.0,47,45
+145841,Emerson,2024-07-07,2024-07-08,1370 RV,2.6,https://emersoncollegepolling.com/july-2024-national-poll-trump-46-biden-43/,Trump,6.0,49,43
+145896,ABC News/Wash Post,2024-07-05,2024-07-09,2041 RV,2.0,https://docs.google.com/spreadsheets/d/1oLv3PqktVHZ1bKWZJzGct7ADi9qTqJZWpNALJsD_ZiA/edit?gid=1892265243#gid=1892265243,Harris,2.0,47,49
+145740,Reuters/Ipsos,2024-07-01,2024-07-02,892 RV,3.5,https://www.ipsos.com/sites/default/files/ct/news/documents/2024-07/Reuters%20Ipsos%20Presidential%20Debate%20Topline%2007%2002%202024%20PDF.pdf,Trump,1.0,43,42
+146105,Yahoo News,2024-06-28,2024-07-01,1171 RV,2.9,https://www.yahoo.com/news/new-yahoo-newsyougov-poll-60-of-americans-say-biden-is-not-fit-for-another-term-as-president-after-disastrous-debate--yet-2024-contest-with-trump-remains-too-close-to-call-204915250.html,Trump,2.0,47,45
+145731,CNN,2024-06-28,2024-06-30,1045 RV,3.7,https://s3.documentcloud.org/documents/24787646/cnn-poll.pdf,Trump,2.0,47,45
+145680,Data for Progress (D)**,2024-06-28,2024-06-28,1011 LV,3.0,https://www.dataforprogress.org/blog/2024/6/29/in-post-debate-poll-voters-think-biden-is-too-old-to-be-president-yet-alternative-candidates-perform-similarly-against-trump,Trump,3.0,48,45
+145794,Forbes/HarrisX,2024-06-28,2024-06-30,1500 RV,2.5,https://www.realclearpolitics.com/docs/2024/668471ab99503bfba4fb9dfc_HarrisX_Post-Debate_Poll_2_(1).pdf,Trump,6.0,53,47
+143937,Emerson,2024-02-13,2024-02-14,1225 RV,2.7,https://emersoncollegepolling.com/february-2024-national-poll-biden-performs-strongest-against-trump-among-prominent-democrats/,Trump,3.0,46,43
+142949,Harvard-Harris,2023-11-15,2023-11-16,2851 RV,,https://harvardharrispoll.com/wp-content/uploads/2023/11/HHP_Nov23_KeyResults.pdf,Trump,12.0,52,40
+142883,FOX News,2023-11-10,2023-11-13,1001 RV,3.0,https://www.foxnews.com/official-polls/fox-news-poll-support-trump-hits-62-gop-primary,Trump,5.0,50,45
+142508,Harvard-Harris,2023-10-18,2023-10-19,2116 RV,2.0,https://harvardharrispoll.com/key-results-october-4/,Trump,7.0,48,41
+142016,Harvard-Harris,2023-09-12,2023-09-14,2103 RV,,https://harvardharrispoll.com/topline-september-2/,Trump,6.0,46,40
+141418,Harvard-Harris,2023-07-19,2023-07-20,2068 RV,,https://harvardharrispoll.com/wp-content/uploads/2023/07/HHP_July2023_KeyResults.pdf,Trump,9.0,47,38
+141133,Harvard-Harris,2023-06-14,2023-06-15,2090 RV,,https://harvardharrispoll.com/wp-content/uploads/2023/06/HHP_June2023_KeyResults.pdf,Trump,7.0,47,40
+140846,Harvard-Harris,2023-05-17,2023-05-18,2004 RV,,https://harvardharrispoll.com/wp-content/uploads/2023/05/HHP_May2023_KeyResults.pdf,Trump,11.0,50,39
+140637,Harvard-Harris,2023-04-18,2023-04-19,1845 RV,,https://harvardharrispoll.com/wp-content/uploads/2023/04/HHP_April2023_KeyResults.pdf,Trump,10.0,48,38
+140284,Harvard-Harris,2023-03-22,2023-03-23,2905 RV,,https://harvardharrispoll.com/wp-content/uploads/2023/03/HHP_March_2023_KeyResults.pdf,Trump,10.0,48,38
+140493,Yahoo News,2023-02-23,2023-02-27,1014 RV,2.7,https://news.yahoo.com/2024-poll-desantis-slides-as-trump-surges-to-1st-head-to-head-lead-in-months-202853979.html,Trump,3.0,45,42
+140022,Harvard-Harris,2023-02-15,2023-02-16,1838 RV,,https://harvardharrispoll.com/wp-content/uploads/2023/02/HHP_Feb2023_KeyResults.pdf,Trump,10.0,49,39
+139992,Rasmussen Reports,2023-02-08,2023-02-12,900 LV,3.0,https://www.rasmussenreports.com/public_content/politics/biden_administration/2024_biden_narrowly_leads_trump,Trump,3.0,45,42
+139967,PPP (D),2023-02-10,2023-02-11,1056 RV,,https://www.publicpolicypolling.com/wp-content/uploads/2023/02/NationalResults21423.pdf,Tie,0.0,47,47
+139727,Harvard-Harris,2023-01-18,2023-01-19,2050 RV,,https://harvardharrispoll.com/key-results-january-3/,Trump,8.0,48,40
+139499,Harvard-Harris,2022-12-14,2022-12-15,1851 RV,,https://harvardharrispoll.com/wp-content/uploads/2022/12/HHP_Dec2022_KeyResults.pdf,Trump,6.0,46,40
+139188,Harvard-Harris,2022-11-16,2022-11-17,2212 RV,,https://harvardharrispoll.com/wp-content/uploads/2022/11/HHP_Nov2022_KeyResults.pdf,Trump,7.0,47,40
+138310,Harvard-Harris,2022-10-12,2022-10-13,2010 RV,,https://harvardharrispoll.com/key-results-october-3/,Trump,11.0,49,38
+138272,Federalist/Susquehanna,2022-10-04,2022-10-11,800 LV,3.4,https://thefederalist.com/2022/10/13/in-new-fdrlst-susquehanna-poll-voters-affirm-dobbs-oppose-big-tech-censorship/,Harris,15.0,39,54
+136826,Harvard-Harris,2022-07-27,2022-07-28,1885 RV ,,https://thehill.com/homenews/campaign/3582999-trump-beats-biden-harris-in-hypothetical-2024-matchup-poll/,Trump,7.0,47,40
+136281,Harvard-Harris,2022-06-28,2022-06-29,1308 RV,,https://harvardharrispoll.com/wp-content/uploads/2022/07/HHP_June2022_KeyResults.pdf,Trump,6.0,45,39
+135830,Harvard-Harris,2022-05-18,2022-05-19,1963 RV,,https://harvardharrispoll.com/key-results-may/,Trump,7.0,47,40
+135500,Federalist/Susquehanna,2022-04-19,2022-04-27,800 LV,3.5,https://www.scribd.com/document/572044598/New-FDRLST-Susquehanna-Poll-Shows-GOP-With-10-Point-Generic-Ballot-Lead-Strong-Approval-For-Elon-Musk-s-Twitter-Purchase-Opposition-To-Trans-Sports,Harris,3.0,46,49
+135417,Harvard-Harris,2022-04-20,2022-04-21,1966 RV,,https://harvardharrispoll.com/key-results-april/,Trump,6.0,47,41
+135133,Harvard-Harris,2022-03-23,2022-03-24,1990 RV,,https://thehill.com/homenews/campaign/600146-poll-trump-leads-biden-harris-in-2024-matchups,Trump,11.0,49,38
+134994,Harvard-Harris,2022-02-23,2022-02-24,2026 RV,,https://mcusercontent.com/ca678077bc522bd7bd74bacbf/files/a7e91458-499d-d0b4-70c5-192fa4bba67f/HHP_Feb_2022_Final_Deck_002_.pdf,Trump,12.0,51,39
+134702,Federalist/Susquehanna,2022-02-03,2022-02-09,800 LV,3.4,https://www.scribd.com/document/558262784/New-FDRLST-Susquehanna-Polls-Shows-GOP-6-Ahead-Of-2022-Mid-Terms-Topline-Results,Harris,1.0,45,46
+134512,Harvard-Harris,2022-01-19,2022-01-20,1815 RV,,https://thehill.com/homenews/administration/591117-biden-approval-rating-hits-new-low-poll,Trump,10.0,49,39
+134092,Harvard-Harris,2021-11-30,2021-12-02,1989 RV,,https://mcusercontent.com/ca678077bc522bd7bd74bacbf/files/420beaf6-8cb5-04e6-02db-69814f5573fb/HHP_November_vF_002_.pdf,Trump,9.0,50,41
+133441,Rasmussen Reports,2021-09-21,2021-09-22,1000 LV,3.0,https://www.rasmussenreports.com/public_content/politics/general_politics/september_2021/trump_2024_would_beat_either_biden_or_harris,Trump,13.0,52,39

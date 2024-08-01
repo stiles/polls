@@ -1,15 +1,15 @@
 
 # Polls
 
-Automating the collection of political polls.
+Practicing automated collection of political polls.
 
-This project automates the fetching, processing and storing of political poll data, focusing on key matchups in upcoming elections. It uses Python scripts to retrieve data from various sources and stores the outputs in CSV and JSON formats on AWS S3.
+This project the fetches, processes and stores political polling data, focusing on key matchups in upcoming elections. It uses Python scripts to retrieve data from various sources and stores the outputs in CSV and JSON formats on AWS S3. The process runs twice daily using Github Actions. 
 
 ## Sources
 
 ### RealClearPolitics
 
-- **Website**: [RealClearPolitics](https://www.realclearpolitics.com/)
+- **Source**: [RealClearPolitics](https://www.realclearpolitics.com/)
 - **API endpoint**: `https://www.realclearpolitics.com/api/polls-feed`
 - **Poll example**: 2024 General Election: Trump vs Harris
 
@@ -40,26 +40,29 @@ This project automates the fetching, processing and storing of political poll da
 
 ### Paths on S3
 
-- **Bucket**: `stilesdata.com`
-
 - **CSV files**:
-  - [Harris-Trump Polls CSV](s3://stilesdata.com/polling/harris_trump_polls.csv)
-  - [Harris-Trump Average CSV](s3://stilesdata.com/polling/harris_trump_avg.csv)
-  - [Harris-Trump Average Archive CSV](s3://stilesdata.com/polling/archive/harris_trump_avg_YYYY-MM-DD.csv)
+  - All Harris-Trump polls (*2022-present*): 
+  [https://stilesdata.com/polling/harris_trump_polls.csv](https://stilesdata.com/polling/harris_trump_polls.csv)
+  - Latest Harris-Trump average: 
+  [https://stilesdata.com/polling/harris_trump_avg.csv](https://stilesdata.com/polling/harris_trump_avg.csv)
+  - Harris-Trump average archive files (*stored by date*):
+  [https://stilesdata.com/polling/archive/harris_trump_avg_YYYY-MM-DD.csv](https://stilesdata.com/polling/archive/harris_trump_avg_YYYY-MM-DD.csv)
 
 - **JSON files**:
-  - [Harris-Trump Polls JSON](s3://stilesdata.com/polling/harris_trump_polls.json)
-  - [Harris-Trump Average JSON](s3://stilesdata.com/polling/harris_trump_avg.json)
+  - All Harris-Trump polls (*2022-present*): 
+  [https://stilesdata.com/polling/harris_trump_polls.json](https://stilesdata.com/polling/harris_trump_polls.json)
+  - Latest Harris-Trump average: 
+  [https://stilesdata.com/polling/harris_trump_avg.json](https://stilesdata.com/polling/harris_trump_avg.json)
 
-### Sample outputs
+### Formats
 
-#### Harris-Trump Polls (CSV)
+#### Harris-Trump polls (CSV)
 ```
-id,type,pollster,polling_start_date,polling_end_date,sampleSize,marginError,spread_winner,spread_value,trump_value,harris_value
-12345,Poll,ABC Polling,2024-07-01,2024-07-10,1000,3.0,Trump,2.0,48,46
+id,pollster,polling_start_date,polling_end_date,sampleSize,marginError,link,spread_winner,spread_value,trump_value,harris_value
+146230,Morning Consult,2024-07-22,2024-07-24,11297 RV,1.0,https://pro.morningconsult.com/trackers/2024-presidential-election-polling,Harris,1.0,45,46
 ```
 
-#### Harris-Trump Average (JSON)
+#### Harris-Trump average (JSON)
 ```json
 [
     {

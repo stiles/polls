@@ -176,7 +176,7 @@ def main():
     harris_trump_polls = (
         pd.DataFrame(flattened_data)
         .query('type!="poll_rcp_avg" and type!="rcp_average"')
-        .drop(["polling_period", "link", "type"], axis=1)
+        .drop(["polling_period", "type"], axis=1)
     )
 
     # Apply cleaning functions only to the individual polls dataframe
