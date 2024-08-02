@@ -4,9 +4,6 @@
 import json
 import pandas as pd
 import requests
-import jupyter_black
-
-jupyter_black.load()
 today = pd.Timestamp.today().strftime("%Y-%m-%d")
 
 
