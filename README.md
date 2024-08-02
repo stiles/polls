@@ -1,26 +1,24 @@
 
-# Polls
+# US election polls
 
-Practicing automated collection of political polls.
-
-This project the fetches, processes and stores political polling data, focusing on key matchups in upcoming elections. It uses Python scripts to retrieve data stores the outputs in CSV and JSON formats in the `data` directory and on AWS S3. The process runs twice daily using Github Actions.
+This project is a non-commercial exercise in the automated collection of political polls. It fetches, processes and stores political polling data, focusing on key state and national matchups in the upcoming presidential election. It uses Python scripts to retrieve data and stores the outputs in CSV and JSON formats in the `data` directory and on AWS S3. The process runs three times per day — at 6 am, noon and 6 pm Pacific Time — using a Github Actions workflow.
 
 ## Sources
 
 ### RealClearPolitics
 
 - **Source**: [RealClearPolitics](https://www.realclearpolitics.com/)
-- **API endpoint**: `https://www.realclearpolitics.com/api/polls-feed`
-- **Poll example**: 2024 General Election: Trump vs Harris
+- **Poll JSON files**: Outlined in `data/polls_config.json`
+- **Poll types**: The head-to-head general election matchup between former President Trump and Vice President Harris at the national level and in several "swing" states: Pennsylvania, Michigan, Wisconsin, Georgia, North Carolina, Nevada and Arizona. Polls tangential to the race, such as the national mood about the country's trajectory, the generic partisan congressional ballot and Harris' political favorability, are also collected. 
 
 ## Process
 
-1. **Data fetching**: The script retrieves poll data from the RealClearPolitics API using POST requests. 
+1. **Data fetching**: Python scripts retrieve poll data and RealClearPolitics averages from json endpoints for each poll group (general, state, topic, etc.). 
 
 2. **Data processing**: 
-    - Extracts relevant fields, including poll dates, candidates and spread values.
-    - Cleans and formats the data into structured DataFrames.
-    - Splits `polling_period` into `polling_start_date` and `polling_end_date` for averages.
+    - Extract relevant fields, including poll dates, candidates, topics and spread values.
+    - Clean and format data into structured DataFrames.
+    - Splits listings of individual polls and RCP averages into separate outputs.
 
 3. **Data cleaning**:
     - Standardizes date formats to `%Y-%m-%d`.
@@ -37,7 +35,11 @@ This project the fetches, processes and stores political polling data, focusing 
 - **CSV**: Stores structured tabular data for easy analysis.
 - **JSON**: Provides a flexible format suitable for web applications and APIs.
 
-### Paths on S3
+### What's collected
+
+
+
+
 
 - **CSV files**:
   - All Harris-Trump polls (*2022-present*): 

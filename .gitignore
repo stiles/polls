@@ -3,7 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-notebooks/
+notebooks/fetch_selected_polls.ipynb
+notebooks/rcp_polls.ipynb
+
 
 # C extensions
 *.so
