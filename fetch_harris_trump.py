@@ -129,6 +129,10 @@ def export_data_to_s3(dataframes):
             s3_csv_key_archive = f"polling/archive/{name}_{today}.csv"
             s3_client.upload_file(str(csv_out), S3_BUCKET, s3_csv_key_archive)
             print(f"CSV archive uploaded to s3://{S3_BUCKET}/{s3_csv_key_archive}")
+            s3_json_key_archive = f"polling/archive/{name}_{today}.json"
+            s3_client.upload_file(str(json_out), S3_BUCKET, s3_json_key_archive)
+            print(f"JSON archive uploaded to s3://{S3_BUCKET}/{s3_json_key_archive}")
+
 
         # Upload files to S3
         s3_client.upload_file(str(csv_out), S3_BUCKET, s3_csv_key)
