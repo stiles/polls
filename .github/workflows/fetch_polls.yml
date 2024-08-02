@@ -25,7 +25,7 @@ jobs:
       - name: execute py script # run fetch_harris_trump.py to get the latest average  
         run: |
           python fetch_harris_trump.py
-          python fetch_harris_trump_archive.py
+          python make_harris_trump_trend.py
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
