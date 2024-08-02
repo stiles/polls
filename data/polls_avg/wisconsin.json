@@ -1,0 +1,19 @@
+[
+    {
+        "id":"8305",
+        "type":"rcp_average",
+        "pollster":"rcp_average",
+        "date":"7\/6 - 7\/28",
+        "sampleSize":"",
+        "marginError":0.0,
+        "link":null,
+        "spread_winner":"Trump",
+        "spread_value":0.2,
+        "trump_value":"48.2",
+        "harris_value":"48.0",
+        "name":"2024 Wisconsin: Trump vs. Harris",
+        "slug":"wisconsin",
+        "polling_start_date":"2024-07-06",
+        "polling_end_date":"2024-07-28"
+    }
+]

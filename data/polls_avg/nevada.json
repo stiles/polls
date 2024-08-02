@@ -1,0 +1,19 @@
+[
+    {
+        "id":"8306",
+        "type":"rcp_average",
+        "pollster":"rcp_average",
+        "date":"7\/15 - 7\/28",
+        "sampleSize":"",
+        "marginError":0.0,
+        "link":null,
+        "spread_winner":"Trump",
+        "spread_value":4,
+        "trump_value":"47.5",
+        "harris_value":"43.5",
+        "name":"2024 Nevada: Trump vs. Harris",
+        "slug":"nevada",
+        "polling_start_date":"2024-07-15",
+        "polling_end_date":"2024-07-28"
+    }
+]

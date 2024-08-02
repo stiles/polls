@@ -1,0 +1,19 @@
+[
+    {
+        "id":"6690",
+        "type":"rcp_average",
+        "pollster":"rcp_average",
+        "date":"7\/1 - 7\/30",
+        "sampleSize":"",
+        "marginError":0.0,
+        "link":null,
+        "spread_winner":"Unfavorable",
+        "spread_value":7.1,
+        "favorable_value":"43.0",
+        "unfavorable_value":"50.1",
+        "name":"Kamala Harris Favorability",
+        "slug":"harris_favorability",
+        "polling_start_date":"2024-07-01",
+        "polling_end_date":"2024-07-30"
+    }
+]
