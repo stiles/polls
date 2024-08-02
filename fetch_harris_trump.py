@@ -53,7 +53,7 @@ def fetch_poll_data():
     try:
         # Fetch poll data from RCP
         response = requests.post(
-            "https://www.realclearpolitics.com/poll/race/7386/polling_data.json",
+            "https://www.realclearpolling.com/api/polls-feed",
             headers=headers,
             data=params_json,  # Pass the data as raw text
         )
