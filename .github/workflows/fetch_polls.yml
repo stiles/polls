@@ -3,27 +3,30 @@ name: fetch_polls
 on:
   workflow_dispatch:
   schedule:
-    - cron: '00 01,13 * * *' # runs at 6 am and 6 pm Pacific everyday
+    - cron: '00 1,7,13 * * *' 
+    # Daily at 6 am, noon and 6 pm Pacific
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: checkout repo content
-        uses: actions/checkout@v3 # checkout repository content
+        uses: actions/checkout@v3 # checkout repo
 
       - name: setup python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.9' # install python version
+          python-version: '3.9' 
           
       - name: install python packages
         run: |
+          set -e
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: execute py script # run fetch_harris_trump.py to get the latest average  
+      - name: execute py script
         run: |
+          set -e
           python fetch_harris_trump.py
           python make_harris_trump_trend.py
         env:
@@ -32,13 +35,15 @@ jobs:
           
       - name: commit files
         run: |
+          set -e
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
           git commit -m "update data" -a --allow-empty --author="stiles <stiles@users.noreply.github.com>"
 
       - name: push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
+        run: |
+          set -e  # Stop execution if a command fails
+          git push origin main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
