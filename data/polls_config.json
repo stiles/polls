@@ -1,0 +1,62 @@
+[
+    {
+        "pollingDataUrl": "https://www.realclearpolitics.com/poll/race/7386/polling_data.json",
+        "pollName": "2024 General Election: Trump vs Harris",
+        "slug": "general"
+    },
+     {
+        "pollingDataUrl": "https://www.realclearpolitics.com/poll/race/8510/polling_data.json",
+        "pollName": "General Election: Trump vs. Harris vs. Kennedy vs. West vs. Stein",
+        "slug": "general_third_parties"
+    },
+    {
+        "pollingDataUrl": "https://www.realclearpolitics.com/poll/race/8302/polling_data.json",
+        "pollName": "2024 Georgia: Trump vs. Harris",
+        "slug": "georgia"
+    },
+    {
+        "pollingDataUrl": "https://www.realclearpolitics.com/poll/race/8303/polling_data.json",
+        "pollName": "2024 Pennsylvania: Trump vs. Harris",
+        "slug": "pennsylvania"
+    },
+    {
+        "pollingDataUrl": "https://www.realclearpolitics.com/poll/race/8304/polling_data.json",
+        "pollName": "2024 Michigan: Trump vs. Harris",
+        "slug": "michigan"
+    },
+    {
+        "pollingDataUrl": "https://www.realclearpolitics.com/poll/race/8305/polling_data.json",
+        "pollName": "2024 Wisconsin: Trump vs. Harris",
+        "slug": "wisconsin"
+    },
+    {
+        "pollingDataUrl": "https://www.realclearpolitics.com/poll/race/8306/polling_data.json",
+        "pollName": "2024 Nevada: Trump vs. Harris",
+        "slug": "nevada"
+    },
+    {
+        "pollingDataUrl": "https://www.realclearpolitics.com/poll/race/8307/polling_data.json",
+        "pollName": "2024 Arizona: Trump vs. Harris",
+        "slug": "arizona"
+    },
+     {
+        "pollingDataUrl": "https://www.realclearpolitics.com/poll/race/8394/polling_data.json",
+        "pollName": "2024 North Carolina: Trump vs. Harris",
+        "slug": "north_carolina"
+    },
+    {
+        "pollingDataUrl": "https://www.realclearpolitics.com/poll/race/7969/polling_data.json",
+        "pollName": "2024 Generic Congressional Vote",
+        "slug": "congress_generic"
+    },
+    {
+        "pollingDataUrl": "https://www.realclearpolitics.com/poll/race/6690/polling_data.json",
+        "pollName": "Kamala Harris Favorability",
+        "slug": "harris_favorability"
+    },
+    {
+        "pollingDataUrl": "https://www.realclearpolitics.com/poll/race/902/polling_data.json",
+        "pollName": "Direction of Country",
+        "slug": "country_direction"
+    }
+]

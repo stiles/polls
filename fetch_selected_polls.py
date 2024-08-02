@@ -11,60 +11,11 @@ headers = {
     "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
 }
 
+# Read RCP polling config file to determine which polls to request
+# Load the JSON config file
+with open("data/polls_config.json", "r") as f:
+    polls = json.load(f)
 
-# RCP polling meta
-polls = [
-    {
-        "pollingDataUrl": "https://www.realclearpolitics.com/poll/race/7386/polling_data.json",
-        "pollName": "2024 General Election: Trump vs Harris",
-        "slug": "national",
-    },
-    {
-        "pollingDataUrl": "https://www.realclearpolitics.com/poll/race/8302/polling_data.json",
-        "pollName": "2024 Georgia: Trump vs. Harris",
-        "slug": "georgia",
-    },
-    {
-        "pollingDataUrl": "https://www.realclearpolitics.com/poll/race/8303/polling_data.json",
-        "pollName": "2024 Pennsylvania: Trump vs. Harris",
-        "slug": "pennsylvania",
-    },
-    {
-        "pollingDataUrl": "https://www.realclearpolitics.com/poll/race/8304/polling_data.json",
-        "pollName": "2024 Michigan: Trump vs. Harris",
-        "slug": "michigan",
-    },
-    {
-        "pollingDataUrl": "https://www.realclearpolitics.com/poll/race/8305/polling_data.json",
-        "pollName": "2024 Wisconsin: Trump vs. Harris",
-        "slug": "wisconsin",
-    },
-    {
-        "pollingDataUrl": "https://www.realclearpolitics.com/poll/race/8306/polling_data.json",
-        "pollName": "2024 Nevada: Trump vs. Harris",
-        "slug": "nevada",
-    },
-    {
-        "pollingDataUrl": "https://www.realclearpolitics.com/poll/race/8307/polling_data.json",
-        "pollName": "2024 Arizona: Trump vs. Harris",
-        "slug": "arizona",
-    },
-    {
-        "pollingDataUrl": "https://www.realclearpolitics.com/poll/race/7969/polling_data.json",
-        "pollName": "2024 Generic Congressional Vote",
-        "slug": "congress_generic",
-    },
-    {
-        "pollingDataUrl": "https://www.realclearpolitics.com/poll/race/6690/polling_data.json",
-        "pollName": "Kamala Harris Favorability",
-        "slug": "harris_favorability",
-    },
-    {
-        "pollingDataUrl": "https://www.realclearpolitics.com/poll/race/902/polling_data.json",
-        "pollName": "Direction of Country",
-        "slug": "country_direction",
-    },
-]
 
 
 # Processing functions
@@ -112,6 +63,8 @@ def clean_polling_period(df):
     ).dt.strftime("%Y-%m-%d")
 
 
+# Fetch polls
+# Empty dictoinaries to store results
 poll_dataframes = {}
 poll_dataframes_avg = {}
 
@@ -179,7 +132,7 @@ for p in polls:
 # Export json files for each subject's individual polls
 for p in poll_dataframes:
     poll_dataframes[f"{p}"].to_json(
-        f"../data/polls/{p}.json", indent=4, orient="records"
+        f"data/polls/{p}.json", indent=4, orient="records"
     )
 
 
@@ -193,7 +146,7 @@ for slug, df in poll_dataframes.items():
         polls_data[slug] = df.to_dict(orient="records")
 
 # Write the JSON structure to a file
-output_file = "../data/polls/combined/select_poll_results.json"
+output_file = "data/polls/combined/select_poll_results.json"
 with open(output_file, "w") as f:
     json.dump(polls_data, f, indent=4)
 
@@ -203,7 +156,7 @@ print(f"Polls data written to {output_file}")
 # Export json files for each subject's average
 for p in poll_dataframes_avg:
     poll_dataframes_avg[f"{p}"].to_json(
-        f"../data/polls_avg/{p}.json", indent=4, orient="records"
+        f"data/polls_avg/{p}.json", indent=4, orient="records"
     )
 
 
@@ -218,7 +171,7 @@ for slug, df in poll_dataframes_avg.items():
         avg_polls_list.append(poll_dict)
 
 # Write the list of polls to a JSON file
-output_file = "../data/polls_avg/combined/select_poll_averages.json"
+output_file = "data/polls_avg/combined/select_poll_averages.json"
 with open(output_file, "w") as f:
     json.dump(avg_polls_list, f, indent=4)
 
