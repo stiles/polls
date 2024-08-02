@@ -3,7 +3,7 @@
 
 Practicing automated collection of political polls.
 
-This project the fetches, processes and stores political polling data, focusing on key matchups in upcoming elections. It uses Python scripts to retrieve data from various sources and stores the outputs in CSV and JSON formats on AWS S3. The process runs twice daily using Github Actions. 
+This project the fetches, processes and stores political polling data, focusing on key matchups in upcoming elections. It uses Python scripts to retrieve data stores the outputs in CSV and JSON formats in the `data` directory and on AWS S3. The process runs twice daily using Github Actions.
 
 ## Sources
 
@@ -35,7 +35,6 @@ This project the fetches, processes and stores political polling data, focusing 
 ### File formats
 
 - **CSV**: Stores structured tabular data for easy analysis.
-
 - **JSON**: Provides a flexible format suitable for web applications and APIs.
 
 ### Paths on S3
@@ -47,12 +46,16 @@ This project the fetches, processes and stores political polling data, focusing 
   [https://stilesdata.com/polling/harris_trump_avg.csv](https://stilesdata.com/polling/harris_trump_avg.csv)
   - Harris-Trump average archive files (*stored by date*):
   [https://stilesdata.com/polling/archive/harris_trump_avg_YYYY-MM-DD.csv](https://stilesdata.com/polling/archive/harris_trump_avg_YYYY-MM-DD.csv)
+   - Harris-Trump average timeseries (archive files combined): 
+  [https://stilesdata.com/polling/harris_trump_trend_data.csv](https://stilesdata.com/polling/harris_trump_trend_data.csv)
 
 - **JSON files**:
   - All Harris-Trump polls (*2022-present*): 
   [https://stilesdata.com/polling/harris_trump_polls.json](https://stilesdata.com/polling/harris_trump_polls.json)
   - Latest Harris-Trump average: 
   [https://stilesdata.com/polling/harris_trump_avg.json](https://stilesdata.com/polling/harris_trump_avg.json)
+   - Harris-Trump average timeseries (archive files combined): 
+  [https://stilesdata.com/polling/harris_trump_trend_data.json](https://stilesdata.com/polling/harris_trump_trend_data.json)
 
 ### Formats
 
@@ -106,4 +109,4 @@ Feel free to submit issues or pull requests to contribute to this project.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under Creative Commons. See the [LICENSE](LICENSE) file for more details.
