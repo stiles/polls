@@ -5,15 +5,14 @@ This project is a non-commercial exercise in the automated collection of politic
 
 ## Sources
 
-### RealClearPolitics
+### [RealClearPolitics](https://www.realclearpolitics.com/)
 
-- **Source**: [RealClearPolitics](https://www.realclearpolitics.com/)
-- **Data: Poll JSON files**: Outlined in `data/polls_config.json`
-- **Poll subjects**: The head-to-head general election matchup between former President Trump and Vice President Harris at the national level and in several "swing" states: Pennsylvania, Michigan, Wisconsin, Georgia, North Carolina, Nevada and Arizona. Polls tangential to the race, such as the national mood about the country's trajectory, the generic partisan congressional ballot and Harris' political favorability, are also collected. 
+- **Data:** Poll JSON files outlined in `data/polls_config.json`
+- **Poll subjects**: The head-to-head general election matchup between former President Trump and Vice President Harris at the national level and in several "swing" states: `Pennsylvania`, `Michigan`, `Wisconsin`, `Georgia`, `North Carolina`, `Nevada` and `Arizona`. Polls tangential to the race, such as the national mood about the country's trajectory, the generic partisan congressional ballot and Harris' political favorability, are also collected. 
 
 ## Process
 
-1. **Data fetching**: A python script — `fetch_polls.py` retrieves poll data and RealClearPolitics averages from json endpoints (outlined in `data/polls_config.json`) for each poll group (general election, state, topic, etc.). 
+1. **Data fetching**: A python script — `fetch_polls.py` — retrieves poll data and RealClearPolitics averages from json endpoints (outlined in `data/polls_config.json`) for each poll group (general election, state, topic, etc.). 
 
 2. **Data processing**: 
     - Extract relevant fields, including poll dates, candidates, topics and spread values.
