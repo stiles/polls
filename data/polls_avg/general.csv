@@ -1,0 +1,2 @@
+id,type,pollster,date,sampleSize,marginError,link,spread_winner,spread_value,trump_value,harris_value,name,slug,polling_start_date,polling_end_date
+7386,rcp_average,rcp_average,7/22 - 7/31,,0.0,,Trump,1.2,47.7,46.5,2024 General Election: Trump vs Harris,general,2024-07-22,2024-07-31

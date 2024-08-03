@@ -1,0 +1,3 @@
+id,type,pollster,date,sampleSize,marginError,link,spread_winner,spread_value,trump_value,harris_value,name,slug,polling_start_date,polling_end_date
+146341,poll_rcp_avg,Bloomberg/MrnConsult,7/24 - 7/28,706 RV,4.0,https://pro-assets.morningconsult.com/wp-uploads/2024/07/Bloomberg-Swing-State-Wave-10.pdf,Trump,2.0,48,46,2024 North Carolina: Trump vs. Harris,north_carolina,2024-07-24,2024-07-28
+144009,poll_rcp_avg,The Hill/Emerson,2/14 - 2/16,1000 RV,3.0,https://emersoncollegepolling.com/north-carolina-2024-poll-trump-47-biden-44/,Trump,9.0,50,41,2024 North Carolina: Trump vs. Harris,north_carolina,2024-02-14,2024-02-16

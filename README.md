@@ -30,30 +30,15 @@ This project is a non-commercial exercise in the automated collection of politic
 
 ### Outputs
 
-#### General election 
 
-- Harris-Trump, all polls: [json](data/polls/general.json) 
-- Harris-Trump, all polls, plus third parties: [json](data/polls/general_third_parties.json) 
 
-#### States
+TABLE HERE
 
-- Arizona: [json](data/polls/arizona.json) 
-- Georgia: [json](data/polls/georgia.json) 
-- Michigan: [json](data/polls/michigan.json) 
-- Nevada: [json](data/polls/nevada.json) 
-- North Carolina: [json](data/polls/north_carolina.json) 
-- Pennsylvania: [json](data/polls/pennsylvania.json) 
-- Wisconsin: [json](data/polls/wisconsin.json)
 
-#### Trend
 
-Harris-Trump timeseries: [json](data/polls/)
 
-#### Related national polls
 
-- Congress generic ballot: [json](data/polls/congress_generic.json) 
-- Direction of the country: [json](data/polls/country_direction.json) 
-- Harris favorability: [json](data/polls/harris_favorability.json) 
+
 
 
 ### Formats

@@ -8,8 +8,8 @@ from datetime import datetime, timedelta
 # Determine the absolute paths for input and output files
 BASE = Path(__file__).resolve().parent
 BASE_URL = "https://stilesdata.com/polling/archive/"
-JSON_OUT = BASE / "data/harris_trump_trend_data.json"
-CSV_OUT = BASE / "data/harris_trump_trend_data.csv"
+JSON_OUT = BASE / "data/polls_avg/trend/harris_trump_trend_data.json"
+CSV_OUT = BASE / "data/polls_avg/trend/harris_trump_trend_data.csv"
 
 # Function to list public archive URLs
 def list_archive_urls(start_date, end_date):
@@ -36,13 +36,13 @@ def read_and_concatenate_json_from_urls(urls):
             print(f"Failed to read {url}: {e}")
 
     if data_frames:
-        combined_df = pd.concat(data_frames, ignore_index=True)
+        combined_df = pd.concat(data_frames, ignore_index=True).drop(['polling_period', 'polling_start_date', 'polling_end_date'], axis=1)
         return combined_df
     else:
         return pd.DataFrame()  # Return empty DataFrame if no data
 
 # Set the date range for files to read
-start_date = datetime(2024, 8, 1)  # Replace with the actual start date of your data
+start_date = datetime(2024, 7, 31)  # Replace with the actual start date of your data
 end_date = datetime.now()  # Up to today's date
 
 # Get the list of archive URLs

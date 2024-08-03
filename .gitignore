@@ -5,6 +5,7 @@ __pycache__/
 
 notebooks/fetch_selected_polls.ipynb
 notebooks/rcp_polls.ipynb
+notebooks/fetch_harris_trump_rcp_avg_archive.ipynb
 
 
 # C extensions

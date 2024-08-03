@@ -13,9 +13,8 @@ headers = {
 
 # Read RCP polling config file to determine which polls to request
 # Load the JSON config file
-with open("data/polls_config.json", "r") as f:
+with open("data/reference/polls_config.json", "r") as f:
     polls = json.load(f)
-
 
 
 # Processing functions
@@ -135,6 +134,11 @@ for p in poll_dataframes:
         f"data/polls/{p}.json", indent=4, orient="records"
     )
 
+# Export csv files for each subject's individual polls
+for p in poll_dataframes:
+    poll_dataframes[f"{p}"].to_csv(
+        f"data/polls/{p}.csv", index=False
+    )
 
 # Create a dictionary to hold all subjects' polls data
 polls_data = {}
@@ -146,7 +150,7 @@ for slug, df in poll_dataframes.items():
         polls_data[slug] = df.to_dict(orient="records")
 
 # Write the JSON structure to a file
-output_file = "data/polls/combined/select_poll_results.json"
+output_file = "data/polls/_combined/select_poll_results.json"
 with open(output_file, "w") as f:
     json.dump(polls_data, f, indent=4)
 
@@ -159,6 +163,11 @@ for p in poll_dataframes_avg:
         f"data/polls_avg/{p}.json", indent=4, orient="records"
     )
 
+# Export csv files for each subject's average
+for p in poll_dataframes_avg:
+    poll_dataframes_avg[f"{p}"].to_csv(
+        f"data/polls_avg/{p}.csv", index=False
+    )
 
 # List to hold poll average dictionaries
 avg_polls_list = []
@@ -171,8 +180,13 @@ for slug, df in poll_dataframes_avg.items():
         avg_polls_list.append(poll_dict)
 
 # Write the list of polls to a JSON file
-output_file = "data/polls_avg/combined/select_poll_averages.json"
+output_file = "data/polls_avg/_combined/select_poll_averages.json"
 with open(output_file, "w") as f:
     json.dump(avg_polls_list, f, indent=4)
 
 print(f"Polls data written to {output_file}")
+
+# Output Harris-Trump average
+trend_archive = pd.read_json('data/polls_avg/general.json')
+trend_archive.to_json(f'data/polls_avg/trend/daily/harris_trump_avg_{today}.csv', orient='records', indent=4)
+trend_archive.to_csv(f'data/polls_avg/trend/daily/harris_trump_avg_{today}.csv', index=False)
