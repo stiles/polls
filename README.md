@@ -13,7 +13,7 @@ This project is a non-commercial exercise in the automated collection of politic
 
 ## Process
 
-1. **Data fetching**: Python scripts retrieve poll data and RealClearPolitics averages from json endpoints for each poll group (general, state, topic, etc.). 
+1. **Data fetching**: A python script — `fetch_polls.py` retrieves poll data and RealClearPolitics averages from json endpoints (outlined in `data/polls_config.json`) for each poll group (general election, state, topic, etc.). 
 
 2. **Data processing**: 
     - Extract relevant fields, including poll dates, candidates, topics and spread values.
@@ -30,7 +30,7 @@ This project is a non-commercial exercise in the automated collection of politic
 
 ### Outputs
 
-Below is a table of poll data files available on S3.
+Below is a table of poll data files available on S3:
 
 | Subject                         | Location       | All polls                                                                | Current average                                                         |
 |---------------------------------|----------------|----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
@@ -49,7 +49,7 @@ Below is a table of poll data files available on S3.
 
 In addition, the `process_trend.py` script outputs a timeseries file with the Harris-Trump head-to-head average. This is derived from daily snapshots as part of the workflow in the `data/polls_avg/_trend/daily` directory. 
 
-That trend process began with the birth of the repo starting on August 1, 2024. An extended historical trend was also created by scraping past RCP averages from Wayback Machine snapshots like [this one](https://web.archive.org/web/20240221200133/https://www.realclearpolling.com/polls/president/general/2024/trump-vs-harris). That latter process is documented in `notebooks/fetch_harris_trump_rcp_avg_archive.ipynb`. 
+That trend collection began with the birth of the repo on August 1, 2024. An extended historical trend was also created by scraping past RCP averages from Wayback Machine snapshots like [this one](https://web.archive.org/web/20240221200133/https://www.realclearpolling.com/polls/president/general/2024/trump-vs-harris). That latter process is documented in `notebooks/fetch_harris_trump_rcp_avg_archive.ipynb`. 
 
 - **Harris-Trump RCP average trend:** [JSON](https://stilesdata.com/polling/harris_trump/polls_avg/_trend/harris_trump_trend.json) | [CSV](https://stilesdata.com/polling/harris_trump/polls_avg/_trend/harris_trump_trend.csv)
 
@@ -95,11 +95,11 @@ To set up the project and run the data collection scripts, follow these steps:
    pip install -r requirements.txt
    ```
 
-3. Optional: Set up AWS credentials as environment variables for accessing S3 (passed in the Github Actions workflow):
+3. Optional: To store data on S3, update `.github/workflows/fetch_polls.yml` with your path to S3: `s3://{YOUR_BUCKET_NAME}` and configure environment variables (passed in the workflow) in as Github secrets. S3 storage only happens when the workflow runs.
    - `AWS_ACCESS_KEY_ID`
    - `AWS_SECRET_ACCESS_KEY`
 
-4. Execute scripts to fetch and process poll data and trend timeseries:
+4. Execute scripts to fetch and process poll data and trend timeseries locally or by running the workflow:
    ```bash
    python fetch_polls.py
    python process_polls.py
@@ -107,8 +107,12 @@ To set up the project and run the data collection scripts, follow these steps:
 
 ## Contributing
 
-Please submit any issues or pull requests to contribute to this project. 
+Please submit any issues or pull requests to contribute to this project. Questions? [Holler](mailto:mattstiles@gmail.com).
 
 ## License
 
 This project is licensed under Creative Commons. See the [LICENSE](LICENSE) file for more details.
+
+## Disclaimer
+
+This repo is a personal project that serves as an example for how to create simple data pipelines. It is not affiliated with or used by my employer.
