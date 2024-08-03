@@ -28,36 +28,33 @@ This project is a non-commercial exercise in the automated collection of politic
     - Saves processed data as CSV and JSON files.
     - Uploads files to AWS S3 for persistent storage.
 
-## Outputs
+### Outputs
 
-### File formats
+#### General election 
 
-- **CSV**: Stores structured tabular data for easy analysis.
-- **JSON**: Provides a flexible format suitable for web applications and APIs.
+- Harris-Trump, all polls: [json](data/polls/general.json) 
+- Harris-Trump, all polls, plus third parties: [json](data/polls/general_third_parties.json) 
 
-### What's collected
+#### States
 
+- Arizona: [json](data/polls/arizona.json) 
+- Georgia: [json](data/polls/georgia.json) 
+- Michigan: [json](data/polls/michigan.json) 
+- Nevada: [json](data/polls/nevada.json) 
+- North Carolina: [json](data/polls/north_carolina.json) 
+- Pennsylvania: [json](data/polls/pennsylvania.json) 
+- Wisconsin: [json](data/polls/wisconsin.json)
 
+#### Trend
 
+Harris-Trump timeseries: [json](data/polls/)
 
+#### Related national polls
 
-- **CSV files**:
-  - All Harris-Trump polls (*2022-present*): 
-  [https://stilesdata.com/polling/harris_trump_polls.csv](https://stilesdata.com/polling/harris_trump_polls.csv)
-  - Latest Harris-Trump average: 
-  [https://stilesdata.com/polling/harris_trump_avg.csv](https://stilesdata.com/polling/harris_trump_avg.csv)
-  - Harris-Trump average archive files (*stored by date*):
-  [https://stilesdata.com/polling/archive/harris_trump_avg_YYYY-MM-DD.csv](https://stilesdata.com/polling/archive/harris_trump_avg_YYYY-MM-DD.csv)
-   - Harris-Trump average timeseries (archive files combined): 
-  [https://stilesdata.com/polling/harris_trump_trend_data.csv](https://stilesdata.com/polling/harris_trump_trend_data.csv)
+- Congress generic ballot: [json](data/polls/congress_generic.json) 
+- Direction of the country: [json](data/polls/country_direction.json) 
+- Harris favorability: [json](data/polls/harris_favorability.json) 
 
-- **JSON files**:
-  - All Harris-Trump polls (*2022-present*): 
-  [https://stilesdata.com/polling/harris_trump_polls.json](https://stilesdata.com/polling/harris_trump_polls.json)
-  - Latest Harris-Trump average: 
-  [https://stilesdata.com/polling/harris_trump_avg.json](https://stilesdata.com/polling/harris_trump_avg.json)
-   - Harris-Trump average timeseries (archive files combined): 
-  [https://stilesdata.com/polling/harris_trump_trend_data.json](https://stilesdata.com/polling/harris_trump_trend_data.json)
 
 ### Formats
 
