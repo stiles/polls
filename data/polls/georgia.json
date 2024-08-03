@@ -1,5 +1,22 @@
 [
     {
+        "id":"146411",
+        "type":"poll_rcp_avg",
+        "pollster":"Trafalgar\/InsiderAdvantage",
+        "date":"7\/29 - 7\/30",
+        "sampleSize":" LV",
+        "marginError":3.5,
+        "link":"https:\/\/pollingplus.com\/news\/trump-leads-in-georgia-by-two-points",
+        "spread_winner":"Trump",
+        "spread_value":2.0,
+        "trump_value":"49",
+        "harris_value":"47",
+        "name":"2024 Georgia: Trump vs. Harris",
+        "slug":"georgia",
+        "polling_start_date":"2024-07-29",
+        "polling_end_date":"2024-07-30"
+    },
+    {
         "id":"146335",
         "type":"poll_rcp_avg",
         "pollster":"Bloomberg\/MrnConsult",
@@ -52,7 +69,7 @@
     },
     {
         "id":"146002",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"FOX 5 Atlanta\/InsiderAdvantage",
         "date":"7\/15 - 7\/16",
         "sampleSize":"800 LV",
