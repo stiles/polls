@@ -30,9 +30,24 @@ This project is a non-commercial exercise in the automated collection of politic
 
 ### Outputs
 
+Below is a table of poll data files available on S3.
+
+| Subject                         | Location       | All polls                                                                | Current average                                                         |
+|---------------------------------|----------------|----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
+| Trump v. Harris                 | National       | [JSON](https://stilesdata.com/polling/harris_trump/polls/general.json) \| [CSV](https://stilesdata.com/polling/harris_trump/polls/general.csv)         | [JSON](https://stilesdata.com/polling/harris_trump/polls_avg/general.json) \| [CSV](https://stilesdata.com/polling/harris_trump/polls_avg/general.csv)         |
+| Trump v. Harris + third parties | National       | [JSON](https://stilesdata.com/polling/harris_trump/polls/general_third_parties.json) \| [CSV](https://stilesdata.com/polling/harris_trump/polls/general_third_parties.csv) | [JSON](https://stilesdata.com/polling/harris_trump/polls_avg/general_third_parties.json) \| [CSV](https://stilesdata.com/polling/harris_trump/polls_avg/general_third_parties.csv) |
+| Trump v. Harris                 | Arizona        | [JSON](https://stilesdata.com/polling/harris_trump/polls/arizona.json) \| [CSV](https://stilesdata.com/polling/harris_trump/polls/arizona.csv)         | [JSON](https://stilesdata.com/polling/harris_trump/polls_avg/arizona.json) \| [CSV](https://stilesdata.com/polling/harris_trump/polls_avg/arizona.csv)         |
+| Trump v. Harris                 | Georgia        | [JSON](https://stilesdata.com/polling/harris_trump/polls/georgia.json) \| [CSV](https://stilesdata.com/polling/harris_trump/polls/georgia.csv)         | [JSON](https://stilesdata.com/polling/harris_trump/polls_avg/georgia.json) \| [CSV](https://stilesdata.com/polling/harris_trump/polls_avg/georgia.csv)         |
+| Trump v. Harris                 | Michigan       | [JSON](https://stilesdata.com/polling/harris_trump/polls/michigan.json) \| [CSV](https://stilesdata.com/polling/harris_trump/polls/michigan.csv)       | [JSON](https://stilesdata.com/polling/harris_trump/polls_avg/michigan.json) \| [CSV](https://stilesdata.com/polling/harris_trump/polls_avg/michigan.csv)       |
+| Trump v. Harris                 | Nevada         | [JSON](https://stilesdata.com/polling/harris_trump/polls/nevada.json) \| [CSV](https://stilesdata.com/polling/harris_trump/polls/nevada.csv)           | [JSON](https://stilesdata.com/polling/harris_trump/polls_avg/nevada.json) \| [CSV](https://stilesdata.com/polling/harris_trump/polls_avg/nevada.csv)           |
+| Trump v. Harris                 | North Carolina | [JSON](https://stilesdata.com/polling/harris_trump/polls/north_carolina.json) \| [CSV](https://stilesdata.com/polling/harris_trump/polls/north_carolina.csv) | [JSON](https://stilesdata.com/polling/harris_trump/polls_avg/north_carolina.json) \| [CSV](https://stilesdata.com/polling/harris_trump/polls_avg/north_carolina.csv) |
+| Trump v. Harris                 | Pennsylvania   | [JSON](https://stilesdata.com/polling/harris_trump/polls/pennsylvania.json) \| [CSV](https://stilesdata.com/polling/harris_trump/polls/pennsylvania.csv) | [JSON](https://stilesdata.com/polling/harris_trump/polls_avg/pennsylvania.json) \| [CSV](https://stilesdata.com/polling/harris_trump/polls_avg/pennsylvania.csv) |
+| Trump v. Harris                 | Wisconsin      | [JSON](https://stilesdata.com/polling/harris_trump/polls/wisconsin.json) \| [CSV](https://stilesdata.com/polling/harris_trump/polls/wisconsin.csv)     | [JSON](https://stilesdata.com/polling/harris_trump/polls_avg/wisconsin.json) \| [CSV](https://stilesdata.com/polling/harris_trump/polls_avg/wisconsin.csv)     |
+| Congress generic ballot         | National       | [JSON](https://stilesdata.com/polling/harris_trump/polls/congress_generic.json) \| [CSV](https://stilesdata.com/polling/harris_trump/polls/congress_generic.csv) | [JSON](https://stilesdata.com/polling/harris_trump/polls_avg/congress_generic.json) \| [CSV](https://stilesdata.com/polling/harris_trump/polls_avg/congress_generic.csv) |
+| Direction of country            | National       | [JSON](https://stilesdata.com/polling/harris_trump/polls/country_direction.json) \| [CSV](https://stilesdata.com/polling/harris_trump/polls/country_direction.csv) | [JSON](https://stilesdata.com/polling/harris_trump/polls_avg/country_direction.json) \| [CSV](https://stilesdata.com/polling/harris_trump/polls_avg/country_direction.csv) |
+| Harris favorability             | National       | [JSON](https://stilesdata.com/polling/harris_trump/polls/harris_favorability.json) \| [CSV](https://stilesdata.com/polling/harris_trump/polls/harris_favorability.csv) | [JSON](https://stilesdata.com/polling/harris_trump/polls_avg/harris_favorability.json) \| [CSV](https://stilesdata.com/polling/harris_trump/polls_avg/harris_favorability.csv) |
 
 
-TABLE HERE
 
 
 
