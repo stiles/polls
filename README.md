@@ -29,7 +29,7 @@ This project is a non-commercial exercise in the automated collection of politic
 
 ### Outputs
 
-Below is a table of poll data files available on S3:
+Below is a table of poll data files output by this process to S3:
 
 | Subject                         | Location       | All polls                                                                | Current average                                                         |
 |---------------------------------|----------------|----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
