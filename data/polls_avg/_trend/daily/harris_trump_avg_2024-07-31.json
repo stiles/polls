@@ -207,84 +207,57 @@
         "spread_value":1.9
     },
     {
-        "id":7386,
+        "id":"7386",
         "type":"rcp_average",
         "spread_winner":"Trump",
         "fetch_date":"2024-07-26",
-        "trump_value":47.9,
-        "harris_value":46.2,
+        "trump_value":"47.9",
+        "harris_value":"46.2",
         "spread_value":1.7
     },
     {
-        "id":7386,
+        "id":"7386",
         "type":"rcp_average",
         "spread_winner":"Trump",
         "fetch_date":"2024-07-27",
-        "trump_value":47.9,
-        "harris_value":46.2,
+        "trump_value":"47.9",
+        "harris_value":"46.2",
         "spread_value":1.7
     },
     {
-        "id":7386,
+        "id":"7386",
         "type":"rcp_average",
         "spread_winner":"Trump",
         "fetch_date":"2024-07-28",
-        "trump_value":47.9,
-        "harris_value":46.2,
+        "trump_value":"47.9",
+        "harris_value":"46.2",
         "spread_value":1.7
     },
     {
-        "id":7386,
+        "id":"7386",
         "type":"rcp_average",
         "spread_winner":"Trump",
         "fetch_date":"2024-07-29",
-        "trump_value":47.9,
-        "harris_value":46.2,
+        "trump_value":"47.9",
+        "harris_value":"46.2",
         "spread_value":1.7
     },
     {
-        "id":7386,
+        "id":"7386",
         "type":"rcp_average",
         "spread_winner":"Trump",
         "fetch_date":"2024-07-30",
-        "trump_value":47.9,
-        "harris_value":46.2,
+        "trump_value":"47.9",
+        "harris_value":"46.2",
         "spread_value":1.7
     },
     {
-        "id":7386,
+        "id":"7386",
         "type":"rcp_average",
         "spread_winner":"Trump",
         "fetch_date":"2024-07-31",
-        "trump_value":47.9,
-        "harris_value":46.2,
+        "trump_value":"47.9",
+        "harris_value":"46.2",
         "spread_value":1.7
-    },
-    {
-        "id":7386,
-        "type":"rcp_average",
-        "spread_winner":"Trump",
-        "fetch_date":"2024-08-01",
-        "trump_value":47.7,
-        "harris_value":46.5,
-        "spread_value":1.2
-    },
-    {
-        "id":7386,
-        "type":"rcp_average",
-        "spread_winner":"Trump",
-        "fetch_date":"2024-08-02",
-        "trump_value":47.7,
-        "harris_value":46.5,
-        "spread_value":1.2
-    },
-    {
-        "id":7386,
-        "type":"rcp_average",
-        "spread_winner":"Trump",
-        "fetch_date":"2024-08-03",
-        "trump_value":47.7,
-        "harris_value":46.5,
-        "spread_value":1.2
     }
 ]
