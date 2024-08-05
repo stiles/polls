@@ -1,2 +1,2 @@
 id,type,pollster,date,sampleSize,marginError,link,spread_winner,spread_value,trump_value,harris_value,name,slug,polling_start_date,polling_end_date
-8302,rcp_average,rcp_average,7/9 - 7/30,,0.0,,Trump,2.0,48.6,46.6,2024 Georgia: Trump vs. Harris,georgia,2024-07-09,2024-07-30
+8302,rcp_average,rcp_average,7/22 - 7/30,,0.0,,Trump,0.8,47.8,47.0,2024 Georgia: Trump vs. Harris,georgia,2024-07-22,2024-07-30

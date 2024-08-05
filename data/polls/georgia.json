@@ -1,5 +1,22 @@
 [
     {
+        "id":"146412",
+        "type":"poll_rcp_avg",
+        "pollster":"PPP (D)",
+        "date":"7\/29 - 7\/30",
+        "sampleSize":"662 LV",
+        "marginError":3.8,
+        "link":"https:\/\/thehill.com\/homenews\/campaign\/4801296-trump-harris-polls-arizona-pennsylvania-georgia\/",
+        "spread_winner":"Harris",
+        "spread_value":1.0,
+        "trump_value":"47",
+        "harris_value":"48",
+        "name":"2024 Georgia: Trump vs. Harris",
+        "slug":"georgia",
+        "polling_start_date":"2024-07-29",
+        "polling_end_date":"2024-07-30"
+    },
+    {
         "id":"146411",
         "type":"poll_rcp_avg",
         "pollster":"Trafalgar\/InsiderAdvantage",
@@ -86,7 +103,7 @@
     },
     {
         "id":"146106",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Atlanta Journal-Constitution",
         "date":"7\/9 - 7\/18",
         "sampleSize":"1000 LV",
