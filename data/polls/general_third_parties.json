@@ -1,5 +1,25 @@
 [
     {
+        "id":"146422",
+        "type":"poll_rcp_avg",
+        "pollster":"I&amp;I\/TIPP",
+        "date":"7\/31 - 8\/2",
+        "sampleSize":"1326 RV",
+        "marginError":2.9,
+        "link":"https:\/\/issuesinsights.com\/2024\/08\/05\/trump-harris-neck-and-neck-but-her-post-biden-honeymoon-with-voters-might-not-last-ii-tipp-poll\/",
+        "spread_winner":"Harris",
+        "spread_value":2.0,
+        "harris_value":"44",
+        "trump_value":"42",
+        "kennedy_value":"7",
+        "stein_value":"1",
+        "west_value":"1",
+        "name":"General Election: Trump vs. Harris vs. Kennedy vs. West vs. Stein",
+        "slug":"general_third_parties",
+        "polling_start_date":"2024-07-31",
+        "polling_end_date":"2024-08-02"
+    },
+    {
         "id":"146416",
         "type":"poll_rcp_avg",
         "pollster":"CBS News",
