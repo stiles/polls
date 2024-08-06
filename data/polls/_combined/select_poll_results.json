@@ -4427,6 +4427,23 @@
             "polling_end_date": "2024-08-04"
         },
         {
+            "id": "146435",
+            "type": "poll_rcp_avg",
+            "pollster": "NPR/PBS/Marist",
+            "date": "8/1 - 8/4",
+            "sampleSize": "1513 RV",
+            "marginError": 0.0,
+            "link": "https://maristpoll.marist.edu/wp-content/uploads/2024/08/NPR_PBS-News_Marist-Poll_USA-NOS-and-Tables_Candidate-Favorability_202408050954.pdf",
+            "spread_winner": "Unfavorable",
+            "spread_value": 1.0,
+            "favorable_value": "47",
+            "unfavorable_value": "48",
+            "name": "Kamala Harris Favorability",
+            "slug": "harris_favorability",
+            "polling_start_date": "2024-08-01",
+            "polling_end_date": "2024-08-04"
+        },
+        {
             "id": "146391",
             "type": "poll_rcp_avg",
             "pollster": "Daily Kos/Civiqs",
@@ -4615,7 +4632,7 @@
         },
         {
             "id": "146164",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "NPR/PBS/Marist",
             "date": "7/22 - 7/22",
             "sampleSize": "1117 RV",
@@ -4751,7 +4768,7 @@
         },
         {
             "id": "145937",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "FOX News",
             "date": "7/7 - 7/10",
             "sampleSize": "1210 RV",
@@ -4768,7 +4785,7 @@
         },
         {
             "id": "145945",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "NBC News",
             "date": "7/7 - 7/9",
             "sampleSize": "800 RV",
