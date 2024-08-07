@@ -1,4 +1,5 @@
 id,type,pollster,date,sampleSize,marginError,link,spread_winner,spread_value,harris_value,trump_value,name,slug,polling_start_date,polling_end_date
+146440,poll_rcp_avg,NPR/PBS/Marist,8/1 - 8/4,1513 RV,3.4,https://maristpoll.marist.edu/wp-content/uploads/2024/08/NPR_PBS-News_Marist-Poll_USA-NOS-and-Tables_486202408050954.pdf,Harris,3.0,51,48,2024 General Election: Trump vs Harris,general,2024-08-01,2024-08-04
 146427,poll_rcp_avg,SurveyUSA,8/2 - 8/4,1510 LV,2.4,https://www.surveyusa.com/client/PollReport.aspx?g=9c0934f2-406d-4e2c-9a29-762891f12cda,Harris,3.0,48,45,2024 General Election: Trump vs Harris,general,2024-08-02,2024-08-04
 146424,poll_rcp_avg,Morning Consult,8/2 - 8/4,11265 RV,1.0,https://pro.morningconsult.com/trackers/2024-presidential-election-polling,Harris,4.0,48,44,2024 General Election: Trump vs Harris,general,2024-08-02,2024-08-04
 146415,poll_rcp_avg,CBS News,7/30 - 8/2,3102 RV,2.1,https://www.cbsnews.com/news/poll-harris-trump-cbs-news/,Harris,1.0,50,49,2024 General Election: Trump vs Harris,general,2024-07-30,2024-08-02

@@ -1,5 +1,22 @@
 [
     {
+        "id":"146440",
+        "type":"poll_rcp_avg",
+        "pollster":"NPR\/PBS\/Marist",
+        "date":"8\/1 - 8\/4",
+        "sampleSize":"1513 RV",
+        "marginError":3.4,
+        "link":"https:\/\/maristpoll.marist.edu\/wp-content\/uploads\/2024\/08\/NPR_PBS-News_Marist-Poll_USA-NOS-and-Tables_486202408050954.pdf",
+        "spread_winner":"Harris",
+        "spread_value":3.0,
+        "harris_value":"51",
+        "trump_value":"48",
+        "name":"2024 General Election: Trump vs Harris",
+        "slug":"general",
+        "polling_start_date":"2024-08-01",
+        "polling_end_date":"2024-08-04"
+    },
+    {
         "id":"146427",
         "type":"poll_rcp_avg",
         "pollster":"SurveyUSA",

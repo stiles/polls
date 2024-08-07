@@ -1,6 +1,23 @@
 {
     "general": [
         {
+            "id": "146440",
+            "type": "poll_rcp_avg",
+            "pollster": "NPR/PBS/Marist",
+            "date": "8/1 - 8/4",
+            "sampleSize": "1513 RV",
+            "marginError": 3.4,
+            "link": "https://maristpoll.marist.edu/wp-content/uploads/2024/08/NPR_PBS-News_Marist-Poll_USA-NOS-and-Tables_486202408050954.pdf",
+            "spread_winner": "Harris",
+            "spread_value": 3.0,
+            "harris_value": "51",
+            "trump_value": "48",
+            "name": "2024 General Election: Trump vs Harris",
+            "slug": "general",
+            "polling_start_date": "2024-08-01",
+            "polling_end_date": "2024-08-04"
+        },
+        {
             "id": "146427",
             "type": "poll_rcp_avg",
             "pollster": "SurveyUSA",
@@ -1125,6 +1142,26 @@
     ],
     "general_third_parties": [
         {
+            "id": "146441",
+            "type": "poll_rcp_avg",
+            "pollster": "NPR/PBS/Marist",
+            "date": "8/1 - 8/4",
+            "sampleSize": "1513 RV",
+            "marginError": 3.4,
+            "link": "https://maristpoll.marist.edu/wp-content/uploads/2024/08/NPR_PBS-News_Marist-Poll_USA-NOS-and-Tables_486202408050954.pdf",
+            "spread_winner": "Harris",
+            "spread_value": 3.0,
+            "harris_value": "48",
+            "trump_value": "45",
+            "kennedy_value": "5",
+            "stein_value": "1",
+            "west_value": "0",
+            "name": "General Election: Trump vs. Harris vs. Kennedy vs. West vs. Stein",
+            "slug": "general_third_parties",
+            "polling_start_date": "2024-08-01",
+            "polling_end_date": "2024-08-04"
+        },
+        {
             "id": "146422",
             "type": "poll_rcp_avg",
             "pollster": "I&amp;I/TIPP",
@@ -1245,6 +1282,26 @@
             "polling_end_date": "2024-07-25"
         },
         {
+            "id": "146251",
+            "type": "poll_rcp_avg",
+            "pollster": "Forbes/HarrisX",
+            "date": "7/22 - 7/25",
+            "sampleSize": "3013 RV",
+            "marginError": 1.8,
+            "link": "https://www.realclearpolitics.com/docs/2024/HarrisX_July_26_2024.pdf",
+            "spread_winner": "Tie",
+            "spread_value": 0.0,
+            "harris_value": "44",
+            "trump_value": "44",
+            "kennedy_value": "10",
+            "stein_value": "1",
+            "west_value": "1",
+            "name": "General Election: Trump vs. Harris vs. Kennedy vs. West vs. Stein",
+            "slug": "general_third_parties",
+            "polling_start_date": "2024-07-22",
+            "polling_end_date": "2024-07-25"
+        },
+        {
             "id": "146231",
             "type": "poll_rcp_avg",
             "pollster": "NY Times/Siena",
@@ -1285,28 +1342,8 @@
             "polling_end_date": "2024-07-24"
         },
         {
-            "id": "146251",
-            "type": "poll_rcp_avg",
-            "pollster": "Forbes/HarrisX",
-            "date": "7/22 - 7/25",
-            "sampleSize": "3013 RV",
-            "marginError": 1.8,
-            "link": "https://www.realclearpolitics.com/docs/2024/HarrisX_July_26_2024.pdf",
-            "spread_winner": "Tie",
-            "spread_value": 0.0,
-            "harris_value": "44",
-            "trump_value": "44",
-            "kennedy_value": "10",
-            "stein_value": "1",
-            "west_value": "1",
-            "name": "General Election: Trump vs. Harris vs. Kennedy vs. West vs. Stein",
-            "slug": "general_third_parties",
-            "polling_start_date": "2024-07-22",
-            "polling_end_date": "2024-07-25"
-        },
-        {
             "id": "146162",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "NPR/PBS/Marist",
             "date": "7/22 - 7/22",
             "sampleSize": "1117 RV",
@@ -2283,6 +2320,23 @@
     ],
     "congress_generic": [
         {
+            "id": "146444",
+            "type": "poll_rcp_avg",
+            "pollster": "NPR/PBS/Marist",
+            "date": "8/1 - 8/4",
+            "sampleSize": "1513 RV",
+            "marginError": 3.4,
+            "link": "https://maristpoll.marist.edu/wp-content/uploads/2024/08/NPR_PBS-News_Marist-Poll_USA-NOS-and-Tables_486202408050954.pdf",
+            "spread_winner": "Democrats",
+            "spread_value": 2.0,
+            "republicans_value": "45",
+            "democrats_value": "47",
+            "name": "2024 Generic Congressional Vote",
+            "slug": "congress_generic",
+            "polling_start_date": "2024-08-01",
+            "polling_end_date": "2024-08-04"
+        },
+        {
             "id": "146356",
             "type": "poll_rcp_avg",
             "pollster": "Economist/YouGov",
@@ -2454,7 +2508,7 @@
         },
         {
             "id": "145914",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "NPR/PBS/Marist",
             "date": "7/9 - 7/10",
             "sampleSize": "1174 RV",
