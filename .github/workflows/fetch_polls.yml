@@ -27,8 +27,8 @@ jobs:
       - name: execute py script
         run: |
           set -e
-          python process_trend.py
           python fetch_polls.py
+          python process_trend.py
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}

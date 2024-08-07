@@ -189,6 +189,6 @@ print(f"Polls data written to {output_file}")
 # Output Harris-Trump average
 trend_cols = ['id', 'type', 'spread_winner', 'spread_value', 'trump_value', 'harris_value']
 trend_archive = pd.read_json('data/polls_avg/general.json')[trend_cols]
-trend_archive['fetched_date'] = today
-trend_archive.to_json(f'data/polls_avg/_trend/daily/harris_trump_avg_{today}.csv', orient='records', indent=4)
+trend_archive['fetch_date'] = today
+trend_archive.to_json(f'data/polls_avg/_trend/daily/harris_trump_avg_{today}.json', orient='records', indent=4)
 trend_archive.to_csv(f'data/polls_avg/_trend/daily/harris_trump_avg_{today}.csv', index=False)

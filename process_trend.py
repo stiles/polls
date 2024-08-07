@@ -14,6 +14,7 @@ def read_and_concatenate_json_from_local(directory):
 
     for file_path in directory.glob("*.json"):  # Read all JSON files in the directory
         try:
+            print(file_path)
             df = pd.read_json(file_path)
             data_frames.append(df)
             print(f"Read data from {file_path}")
