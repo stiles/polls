@@ -1,5 +1,5 @@
 id,type,pollster,date,sampleSize,marginError,link,spread_winner,spread_value,trump_value,harris_value,name,slug,polling_start_date,polling_end_date
-146412,poll_rcp_avg,PPP (D),7/29 - 7/30,662 LV,3.8,https://thehill.com/homenews/campaign/4801296-trump-harris-polls-arizona-pennsylvania-georgia/,Harris,1.0,47,48,2024 Georgia: Trump vs. Harris,georgia,2024-07-29,2024-07-30
+146412,poll_rcp_avg,PPP (D),7/29 - 7/30,662 LV,3.8,https://www.realclearpolling.com/stories/analysis/ppp-georgia-pennsylvania-and-arizona-now-toss-ups-in-trump-harris-race,Harris,1.0,47,48,2024 Georgia: Trump vs. Harris,georgia,2024-07-29,2024-07-30
 146411,poll_rcp_avg,Trafalgar/InsiderAdvantage,7/29 - 7/30, LV,3.5,https://pollingplus.com/news/trump-leads-in-georgia-by-two-points,Trump,2.0,49,47,2024 Georgia: Trump vs. Harris,georgia,2024-07-29,2024-07-30
 146335,poll_rcp_avg,Bloomberg/MrnConsult,7/24 - 7/28,799 RV,3.0,https://pro-assets.morningconsult.com/wp-uploads/2024/07/Bloomberg-Swing-State-Wave-10.pdf,Tie,0.0,47,47,2024 Georgia: Trump vs. Harris,georgia,2024-07-24,2024-07-28
 146204,poll_rcp_avg,The Hill/Emerson,7/22 - 7/23,800 RV,3.4,https://emersoncollegepolling.com/july-2024-swing-state-polls-harris-trails-trump-in-arizona-georgia-michigan-pennsylvania-tied-in-wisconsin/,Trump,2.0,48,46,2024 Georgia: Trump vs. Harris,georgia,2024-07-22,2024-07-23
