@@ -136,9 +136,28 @@ source_links = {
     "Economist": "https://www.economist.com/interactive/us-2024-election/trump-harris-polls"
 }
 
-# Generate Markdown Content
+# Generate Markdown Content with inline CSS for better mobile responsiveness
 markdown_content = f"""
 # A poll of poll averages
+
+<style>
+table {{
+    width: 100%;
+    border-collapse: collapse;
+}}
+table, th, td {{
+    border: 1px solid black;
+}}
+th, td {{
+    padding: 8px;
+    text-align: left;
+}}
+@media (max-width: 600px) {{
+    th, td {{
+        font-size: 14px;  /* Smaller font size on small screens */
+    }}
+}}
+</style>
 
 ## The latest
 {msg}
@@ -153,10 +172,11 @@ markdown_content = f"""
 for index, row in df.iterrows():
     source_name = row['source']
     source_link = source_links.get(source_name, "#")
-    markdown_content += f"| {row['date']} | [{source_name}]({source_link}) | {row['harris']} | {row['trump']} | {row['margin']} |\n"
+    margin_style = f"<span style='color: {'#5194C3' if 'Harris' in row['margin'] else '#c52622'}; font-weight: bold;'>{row['margin']}</span>"
+    markdown_content += f"| {row['date']} | [{source_name}]({source_link}) | {row['harris']} | {row['trump']} | {margin_style} |\n"
 
 # Write markdown to file
-with open("polling_summary.md", "w") as f:
+with open("index.md", "w") as f:
     f.write(markdown_content)
 
-print("Markdown file 'polling_summary.md' has been created.")
+print("Markdown file 'index.md' has been created.")
