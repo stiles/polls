@@ -1,5 +1,22 @@
 [
     {
+        "id":"146457",
+        "type":"poll",
+        "pollster":"Economist\/YouGov",
+        "date":"8\/4 - 8\/6",
+        "sampleSize":"1413 RV",
+        "marginError":3.0,
+        "link":"https:\/\/d3nkl3psvxxpe9.cloudfront.net\/documents\/econTabReport_qdE4wzP.pdf",
+        "spread_winner":"Unfavorable",
+        "spread_value":4.0,
+        "favorable_value":"47",
+        "unfavorable_value":"51",
+        "name":"Kamala Harris Favorability",
+        "slug":"harris_favorability",
+        "polling_start_date":"2024-08-04",
+        "polling_end_date":"2024-08-06"
+    },
+    {
         "id":"146425",
         "type":"poll_rcp_avg",
         "pollster":"Morning Consult",
@@ -32,6 +49,23 @@
         "slug":"harris_favorability",
         "polling_start_date":"2024-08-01",
         "polling_end_date":"2024-08-04"
+    },
+    {
+        "id":"146447",
+        "type":"poll",
+        "pollster":"TIPP",
+        "date":"7\/31 - 8\/2",
+        "sampleSize":"1488 A",
+        "marginError":0.0,
+        "link":"https:\/\/tippinsights.com\/biden-and-harris-tweedle-dum-and-tweedle-dee-in-the-ratings\/#google_vignette",
+        "spread_winner":"Unfavorable",
+        "spread_value":4.0,
+        "favorable_value":"42",
+        "unfavorable_value":"46",
+        "name":"Kamala Harris Favorability",
+        "slug":"harris_favorability",
+        "polling_start_date":"2024-07-31",
+        "polling_end_date":"2024-08-02"
     },
     {
         "id":"146391",

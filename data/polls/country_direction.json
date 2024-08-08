@@ -1,7 +1,24 @@
 [
     {
-        "id":"146355",
+        "id":"146453",
         "type":"poll_rcp_avg",
+        "pollster":"Economist\/YouGov",
+        "date":"8\/4 - 8\/6",
+        "sampleSize":"1413 RV",
+        "marginError":3.0,
+        "link":"https:\/\/d3nkl3psvxxpe9.cloudfront.net\/documents\/econTabReport_qdE4wzP.pdf",
+        "spread_winner":"Wrong Track",
+        "spread_value":-39.0,
+        "right_direction_value":"26",
+        "wrong_track_value":"65",
+        "name":"Direction of Country",
+        "slug":"country_direction",
+        "polling_start_date":"2024-08-04",
+        "polling_end_date":"2024-08-06"
+    },
+    {
+        "id":"146355",
+        "type":"poll",
         "pollster":"Economist\/YouGov",
         "date":"7\/27 - 7\/30",
         "sampleSize":"1434 RV",

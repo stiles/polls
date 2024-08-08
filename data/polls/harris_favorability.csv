@@ -1,6 +1,8 @@
 id,type,pollster,date,sampleSize,marginError,link,spread_winner,spread_value,favorable_value,unfavorable_value,name,slug,polling_start_date,polling_end_date
+146457,poll,Economist/YouGov,8/4 - 8/6,1413 RV,3.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_qdE4wzP.pdf,Unfavorable,4.0,47,51,Kamala Harris Favorability,harris_favorability,2024-08-04,2024-08-06
 146425,poll_rcp_avg,Morning Consult,8/2 - 8/4,2200 RV,0.0,https://pro.morningconsult.com/trackers/2024-presidential-election-polling,Favorable,1.0,48,47,Kamala Harris Favorability,harris_favorability,2024-08-02,2024-08-04
 146435,poll_rcp_avg,NPR/PBS/Marist,8/1 - 8/4,1513 RV,0.0,https://maristpoll.marist.edu/wp-content/uploads/2024/08/NPR_PBS-News_Marist-Poll_USA-NOS-and-Tables_Candidate-Favorability_202408050954.pdf,Unfavorable,1.0,47,48,Kamala Harris Favorability,harris_favorability,2024-08-01,2024-08-04
+146447,poll,TIPP,7/31 - 8/2,1488 A,0.0,https://tippinsights.com/biden-and-harris-tweedle-dum-and-tweedle-dee-in-the-ratings/#google_vignette,Unfavorable,4.0,42,46,Kamala Harris Favorability,harris_favorability,2024-07-31,2024-08-02
 146391,poll_rcp_avg,Daily Kos/Civiqs,7/27 - 7/30,1123 RV,3.0,https://civiqs.com/documents/Civiqs_DailyKos_banner_book_2024_07_7knl31.pdf,Unfavorable,8.0,43,51,Kamala Harris Favorability,harris_favorability,2024-07-27,2024-07-30
 146361,poll_rcp_avg,Economist/YouGov,7/27 - 7/30,1434 RV,3.1,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_5LIBPv8.pdf,Unfavorable,4.0,47,51,Kamala Harris Favorability,harris_favorability,2024-07-27,2024-07-30
 146315,poll_rcp_avg,Harvard-Harris,7/26 - 7/28,2196 RV,2.1,https://harvardharrispoll.com/,Tie,0.0,47,47,Kamala Harris Favorability,harris_favorability,2024-07-26,2024-07-28

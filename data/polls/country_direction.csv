@@ -1,5 +1,6 @@
 id,type,pollster,date,sampleSize,marginError,link,spread_winner,spread_value,right_direction_value,wrong_track_value,name,slug,polling_start_date,polling_end_date
-146355,poll_rcp_avg,Economist/YouGov,7/27 - 7/30,1434 RV,3.1,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_5LIBPv8.pdf,Wrong Track,-42.0,24,66,Direction of Country,country_direction,2024-07-27,2024-07-30
+146453,poll_rcp_avg,Economist/YouGov,8/4 - 8/6,1413 RV,3.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_qdE4wzP.pdf,Wrong Track,-39.0,26,65,Direction of Country,country_direction,2024-08-04,2024-08-06
+146355,poll,Economist/YouGov,7/27 - 7/30,1434 RV,3.1,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_5LIBPv8.pdf,Wrong Track,-42.0,24,66,Direction of Country,country_direction,2024-07-27,2024-07-30
 146304,poll_rcp_avg,Harvard-Harris,7/26 - 7/28,2196 RV,2.1,https://harvardharrispoll.com/crosstabs-july-3/,Wrong Track,-31.0,30,61,Direction of Country,country_direction,2024-07-26,2024-07-28
 146405,poll_rcp_avg,Reuters/Ipsos,7/26 - 7/28,1025 A,3.2,https://www.ipsos.com/sites/default/files/Reuters%20Ipsos%20Core%20Political%2007%2031%202024.pdf,Wrong Track,-56.0,14,70,Direction of Country,country_direction,2024-07-26,2024-07-28
 146299,poll_rcp_avg,Rasmussen Reports,7/22 - 7/28,1500 LV,2.5,https://www.rasmussenreports.com/public_content/politics/mood_of_america/right_direction_wrong_track_july29,Wrong Track,-25.0,35,60,Direction of Country,country_direction,2024-07-22,2024-07-28

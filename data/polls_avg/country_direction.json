@@ -3,17 +3,17 @@
         "id":"902",
         "type":"rcp_average",
         "pollster":"rcp_average",
-        "date":"7\/19 - 7\/30",
+        "date":"7\/19 - 8\/6",
         "sampleSize":"",
         "marginError":0.0,
         "link":null,
         "spread_winner":"Wrong Track",
-        "spread_value":-40.0,
-        "right_direction_value":"25.0",
-        "wrong_track_value":"65.0",
+        "spread_value":-39.6,
+        "right_direction_value":"25.3",
+        "wrong_track_value":"64.9",
         "name":"Direction of Country",
         "slug":"country_direction",
         "polling_start_date":"2024-07-19",
-        "polling_end_date":"2024-07-30"
+        "polling_end_date":"2024-08-06"
     }
 ]
