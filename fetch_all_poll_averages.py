@@ -124,7 +124,9 @@ sources = list(df['source'].unique())
 # Format the sources list
 formatted_sources = format_sources(sources)
 
-msg = f'**{avg_winning}** is leading in the national polls to {avg_losing} by a margin of **{avg_margin}** percentage points, as of **{today}**, according to an average of six prominent polling averages. The organizations include: {formatted_sources}.'
+fetched = pd.Timestamp.today().strftime("%B %-d, %Y at %-I %p PT").replace("AM", "a.m.").replace("PM", "p.m.")
+
+msg = f'**{avg_winning}** is leading in the national polls to {avg_losing} by a margin of **{avg_margin}** percentage points, according to six prominent polling averages. **Updates hourly. Last updated: {fetched}**.'
 
 # Links for each polling source
 source_links = {
@@ -138,7 +140,7 @@ source_links = {
 
 # Generate Markdown Content with inline CSS for better mobile responsiveness
 markdown_content = f"""
-# A poll of poll averages
+# All the poll averages
 
 <style>
 table {{
@@ -162,7 +164,7 @@ th, td {{
 ## The latest
 {msg}
 
-## Polling average sources
+## Sources
 
 | Date       | Source               | Harris (%) | Trump (%) | Margin      |
 |------------|----------------------|------------|-----------|-------------|

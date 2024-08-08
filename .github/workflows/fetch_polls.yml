@@ -3,8 +3,8 @@ name: fetch_polls
 on:
   workflow_dispatch:
   schedule:
-    - cron: '00 1,7,13 * * *' 
-    # Daily at 6 am, noon and 6 pm Pacific
+    - cron: '08 * * * *' 
+    # On the hour at minute 8
 
 jobs:
   build:
