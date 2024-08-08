@@ -9,12 +9,12 @@ from datetime import datetime
 # Define today's date
 today = pd.Timestamp.today().strftime('%B %-d')
 
-eastern = pytz.timezone("America/New_York")
+eastern = pytz.timezone("US/Pacific")
 now = datetime.now(eastern)
 
 last_updated = now.isoformat()
 last_updated_str = (
-    now.strftime("%B %-d, %Y at %-I %p ET").replace("AM", "a.m.").replace("PM", "p.m.")
+    now.strftime("%B %-d at %-I %p PT").replace("AM", "a.m.").replace("PM", "p.m.")
 )
 
 # Headers for requests
@@ -197,17 +197,16 @@ th, td {{
 
 ## Sources
 
-| Date       | Source               | Harris (%) | Trump (%) | Margin      |
-|------------|----------------------|------------|-----------|-------------|
+| Source               | Harris (%) | Trump (%) | Margin      |
+|----------------------|------------|-----------|-------------|
 """
 
 # Append each row of the DataFrame to the markdown table with links
 for index, row in df.iterrows():
-    print(row)
     source_name = row['source']
     source_link = source_links.get(source_name, "#")
     margin_style = f"<span style='color: {'#5194C3' if 'Harris' in row['margin'] else '#c52622'}; font-weight: bold;'>{row['margin']}</span>"
-    markdown_content += f"| {row['date']} | [{source_name}]({source_link}) | {row['harris']} | {row['trump']} | {margin_style} |\n"
+    markdown_content += f"| [{source_name}]({source_link}) | {row['harris']} | {row['trump']} | {margin_style} |\n"
 
 # Write markdown to file
 with open("index.md", "w") as f:
