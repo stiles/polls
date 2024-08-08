@@ -5,6 +5,7 @@ __pycache__/
 
 notebooks/fetch_selected_polls.ipynb
 notebooks/rcp_polls.ipynb
+index.md
 
 
 # C extensions
