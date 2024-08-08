@@ -34,6 +34,23 @@
         "polling_end_date":"2024-08-04"
     },
     {
+        "id":"146484",
+        "type":"poll_rcp_avg",
+        "pollster":"CNBC",
+        "date":"7\/31 - 8\/4",
+        "sampleSize":"1001 RV",
+        "marginError":3.1,
+        "link":"https:\/\/www.cnbc.com\/2024\/08\/08\/trump-holds-2-point-lead-over-harris-with-a-big-advantage-on-economy-cnbc-survey-shows.html",
+        "spread_winner":"Republicans",
+        "spread_value":3.0,
+        "democrats_value":"44",
+        "republicans_value":"47",
+        "name":"2024 Generic Congressional Vote",
+        "slug":"congress_generic",
+        "polling_start_date":"2024-07-31",
+        "polling_end_date":"2024-08-04"
+    },
+    {
         "id":"146356",
         "type":"poll",
         "pollster":"Economist\/YouGov",

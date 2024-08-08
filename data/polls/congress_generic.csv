@@ -1,6 +1,7 @@
 id,type,pollster,date,sampleSize,marginError,link,spread_winner,spread_value,democrats_value,republicans_value,name,slug,polling_start_date,polling_end_date
 146452,poll_rcp_avg,Economist/YouGov,8/4 - 8/6,1413 RV,3.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_qdE4wzP.pdf,Democrats,1.0,45,44,2024 Generic Congressional Vote,congress_generic,2024-08-04,2024-08-06
 146444,poll_rcp_avg,NPR/PBS/Marist,8/1 - 8/4,1513 RV,3.4,https://maristpoll.marist.edu/wp-content/uploads/2024/08/NPR_PBS-News_Marist-Poll_USA-NOS-and-Tables_486202408050954.pdf,Democrats,2.0,47,45,2024 Generic Congressional Vote,congress_generic,2024-08-01,2024-08-04
+146484,poll_rcp_avg,CNBC,7/31 - 8/4,1001 RV,3.1,https://www.cnbc.com/2024/08/08/trump-holds-2-point-lead-over-harris-with-a-big-advantage-on-economy-cnbc-survey-shows.html,Republicans,3.0,44,47,2024 Generic Congressional Vote,congress_generic,2024-07-31,2024-08-04
 146356,poll,Economist/YouGov,7/27 - 7/30,1434 RV,3.1,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_5LIBPv8.pdf,Democrats,2.0,46,44,2024 Generic Congressional Vote,congress_generic,2024-07-27,2024-07-30
 146473,poll_rcp_avg,Marquette,7/24 - 8/1,879 RV,4.1,https://law.marquette.edu/poll/wp-content/uploads/2024/08/MLSPSC21ToplinesRV_NationalIssues.html,Democrats,4.0,52,48,2024 Generic Congressional Vote,congress_generic,2024-07-24,2024-08-01
 146323,poll_rcp_avg,Harvard-Harris,7/26 - 7/28,2196 RV,2.1,https://harvardharrispoll.com/crosstabs-july-3/,Republicans,4.0,48,52,2024 Generic Congressional Vote,congress_generic,2024-07-26,2024-07-28

@@ -1,5 +1,39 @@
 [
     {
+        "id":"146482",
+        "type":"poll_rcp_avg",
+        "pollster":"CNBC",
+        "date":"7\/31 - 8\/4",
+        "sampleSize":"1001 RV",
+        "marginError":3.1,
+        "link":"https:\/\/www.cnbc.com\/2024\/08\/08\/trump-holds-2-point-lead-over-harris-with-a-big-advantage-on-economy-cnbc-survey-shows.html",
+        "spread_winner":"Trump",
+        "spread_value":2.0,
+        "harris_value":"46",
+        "trump_value":"48",
+        "name":"2024 General Election: Trump vs Harris",
+        "slug":"general",
+        "polling_start_date":"2024-07-31",
+        "polling_end_date":"2024-08-04"
+    },
+    {
+        "id":"146492",
+        "type":"poll_rcp_avg",
+        "pollster":"Rasmussen Reports",
+        "date":"8\/1 - 8\/7",
+        "sampleSize":"1794 LV",
+        "marginError":2.0,
+        "link":"https:\/\/www.rasmussenreports.com\/public_content\/politics\/biden_administration\/election_2024_trump_49_harris_44_rfk_jr_3",
+        "spread_winner":"Trump",
+        "spread_value":5.0,
+        "harris_value":"44",
+        "trump_value":"49",
+        "name":"2024 General Election: Trump vs Harris",
+        "slug":"general",
+        "polling_start_date":"2024-08-01",
+        "polling_end_date":"2024-08-07"
+    },
+    {
         "id":"146440",
         "type":"poll_rcp_avg",
         "pollster":"NPR\/PBS\/Marist",
@@ -103,7 +137,7 @@
     },
     {
         "id":"146395",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Rasmussen Reports",
         "date":"7\/24 - 7\/31",
         "sampleSize":"2163 LV",

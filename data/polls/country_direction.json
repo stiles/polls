@@ -17,6 +17,23 @@
         "polling_end_date":"2024-08-06"
     },
     {
+        "id":"146485",
+        "type":"poll_rcp_avg",
+        "pollster":"CNBC",
+        "date":"7\/31 - 8\/4",
+        "sampleSize":"1001 RV",
+        "marginError":3.1,
+        "link":"https:\/\/www.cnbc.com\/2024\/08\/08\/trump-holds-2-point-lead-over-harris-with-a-big-advantage-on-economy-cnbc-survey-shows.html",
+        "spread_winner":"Wrong Track",
+        "spread_value":-44.0,
+        "right_direction_value":"22",
+        "wrong_track_value":"66",
+        "name":"Direction of Country",
+        "slug":"country_direction",
+        "polling_start_date":"2024-07-31",
+        "polling_end_date":"2024-08-04"
+    },
+    {
         "id":"146355",
         "type":"poll",
         "pollster":"Economist\/YouGov",

@@ -1,6 +1,40 @@
 {
     "general": [
         {
+            "id": "146482",
+            "type": "poll_rcp_avg",
+            "pollster": "CNBC",
+            "date": "7/31 - 8/4",
+            "sampleSize": "1001 RV",
+            "marginError": 3.1,
+            "link": "https://www.cnbc.com/2024/08/08/trump-holds-2-point-lead-over-harris-with-a-big-advantage-on-economy-cnbc-survey-shows.html",
+            "spread_winner": "Trump",
+            "spread_value": 2.0,
+            "harris_value": "46",
+            "trump_value": "48",
+            "name": "2024 General Election: Trump vs Harris",
+            "slug": "general",
+            "polling_start_date": "2024-07-31",
+            "polling_end_date": "2024-08-04"
+        },
+        {
+            "id": "146492",
+            "type": "poll_rcp_avg",
+            "pollster": "Rasmussen Reports",
+            "date": "8/1 - 8/7",
+            "sampleSize": "1794 LV",
+            "marginError": 2.0,
+            "link": "https://www.rasmussenreports.com/public_content/politics/biden_administration/election_2024_trump_49_harris_44_rfk_jr_3",
+            "spread_winner": "Trump",
+            "spread_value": 5.0,
+            "harris_value": "44",
+            "trump_value": "49",
+            "name": "2024 General Election: Trump vs Harris",
+            "slug": "general",
+            "polling_start_date": "2024-08-01",
+            "polling_end_date": "2024-08-07"
+        },
+        {
             "id": "146440",
             "type": "poll_rcp_avg",
             "pollster": "NPR/PBS/Marist",
@@ -104,7 +138,7 @@
         },
         {
             "id": "146395",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Rasmussen Reports",
             "date": "7/24 - 7/31",
             "sampleSize": "2163 LV",
@@ -1159,6 +1193,26 @@
     ],
     "general_third_parties": [
         {
+            "id": "146493",
+            "type": "poll_rcp_avg",
+            "pollster": "Rasmussen Reports",
+            "date": "8/1 - 8/7",
+            "sampleSize": "1794 LV",
+            "marginError": 2.0,
+            "link": "https://www.rasmussenreports.com/public_content/politics/biden_administration/election_2024_trump_49_harris_44_rfk_jr_3",
+            "spread_winner": "Trump",
+            "spread_value": 5.0,
+            "harris_value": "44",
+            "trump_value": "49",
+            "kennedy_value": "3",
+            "stein_value": "0",
+            "west_value": "1",
+            "name": "General Election: Trump vs. Harris vs. Kennedy vs. West vs. Stein",
+            "slug": "general_third_parties",
+            "polling_start_date": "2024-08-01",
+            "polling_end_date": "2024-08-07"
+        },
+        {
             "id": "146451",
             "type": "poll_rcp_avg",
             "pollster": "Economist/YouGov",
@@ -1260,7 +1314,7 @@
         },
         {
             "id": "146396",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Rasmussen Reports",
             "date": "7/24 - 7/31",
             "sampleSize": "2163 LV",
@@ -1615,6 +1669,23 @@
             "polling_end_date": "2024-07-30"
         },
         {
+            "id": "146496",
+            "type": "poll_rcp_avg",
+            "pollster": "Fabrizio/Anzalone",
+            "date": "7/24 - 7/31",
+            "sampleSize": "600 LV",
+            "marginError": 4.0,
+            "link": "https://www.aarp.org/content/dam/aarp/research/topics/voter-opinion-research/politics/georgia-older-voter-survey-2024.doi.10.26419-2fres.00813.025.pdf",
+            "spread_winner": "Tie",
+            "spread_value": 0.0,
+            "trump_value": "48",
+            "harris_value": "48",
+            "name": "2024 Georgia: Trump vs. Harris",
+            "slug": "georgia",
+            "polling_start_date": "2024-07-24",
+            "polling_end_date": "2024-07-31"
+        },
+        {
             "id": "146335",
             "type": "poll_rcp_avg",
             "pollster": "Bloomberg/MrnConsult",
@@ -1742,7 +1813,7 @@
             "date": "7/29 - 7/30",
             "sampleSize": "627 LV",
             "marginError": 3.9,
-            "link": "https://thehill.com/homenews/campaign/4801296-trump-harris-polls-arizona-pennsylvania-georgia/",
+            "link": "https://www.realclearpolling.com/stories/analysis/ppp-georgia-pennsylvania-and-arizona-now-toss-ups-in-trump-harris-race",
             "spread_winner": "Trump",
             "spread_value": 1.0,
             "trump_value": "48",
@@ -2425,6 +2496,23 @@
             "name": "2024 Generic Congressional Vote",
             "slug": "congress_generic",
             "polling_start_date": "2024-08-01",
+            "polling_end_date": "2024-08-04"
+        },
+        {
+            "id": "146484",
+            "type": "poll_rcp_avg",
+            "pollster": "CNBC",
+            "date": "7/31 - 8/4",
+            "sampleSize": "1001 RV",
+            "marginError": 3.1,
+            "link": "https://www.cnbc.com/2024/08/08/trump-holds-2-point-lead-over-harris-with-a-big-advantage-on-economy-cnbc-survey-shows.html",
+            "spread_winner": "Republicans",
+            "spread_value": 3.0,
+            "democrats_value": "44",
+            "republicans_value": "47",
+            "name": "2024 Generic Congressional Vote",
+            "slug": "congress_generic",
+            "polling_start_date": "2024-07-31",
             "polling_end_date": "2024-08-04"
         },
         {
@@ -4620,6 +4708,23 @@
             "name": "Kamala Harris Favorability",
             "slug": "harris_favorability",
             "polling_start_date": "2024-08-01",
+            "polling_end_date": "2024-08-04"
+        },
+        {
+            "id": "146489",
+            "type": "poll_rcp_avg",
+            "pollster": "CNBC",
+            "date": "7/31 - 8/4",
+            "sampleSize": "1001 RV",
+            "marginError": 3.1,
+            "link": "https://www.cnbc.com/2024/08/08/trump-holds-2-point-lead-over-harris-with-a-big-advantage-on-economy-cnbc-survey-shows.html",
+            "spread_winner": "Unfavorable",
+            "spread_value": 8.0,
+            "favorable_value": "38",
+            "unfavorable_value": "46",
+            "name": "Kamala Harris Favorability",
+            "slug": "harris_favorability",
+            "polling_start_date": "2024-07-31",
             "polling_end_date": "2024-08-04"
         },
         {
@@ -13701,6 +13806,23 @@
             "slug": "country_direction",
             "polling_start_date": "2024-08-04",
             "polling_end_date": "2024-08-06"
+        },
+        {
+            "id": "146485",
+            "type": "poll_rcp_avg",
+            "pollster": "CNBC",
+            "date": "7/31 - 8/4",
+            "sampleSize": "1001 RV",
+            "marginError": 3.1,
+            "link": "https://www.cnbc.com/2024/08/08/trump-holds-2-point-lead-over-harris-with-a-big-advantage-on-economy-cnbc-survey-shows.html",
+            "spread_winner": "Wrong Track",
+            "spread_value": -44.0,
+            "right_direction_value": "22",
+            "wrong_track_value": "66",
+            "name": "Direction of Country",
+            "slug": "country_direction",
+            "polling_start_date": "2024-07-31",
+            "polling_end_date": "2024-08-04"
         },
         {
             "id": "146355",

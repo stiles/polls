@@ -34,6 +34,23 @@
         "polling_end_date":"2024-07-30"
     },
     {
+        "id":"146496",
+        "type":"poll_rcp_avg",
+        "pollster":"Fabrizio\/Anzalone",
+        "date":"7\/24 - 7\/31",
+        "sampleSize":"600 LV",
+        "marginError":4.0,
+        "link":"https:\/\/www.aarp.org\/content\/dam\/aarp\/research\/topics\/voter-opinion-research\/politics\/georgia-older-voter-survey-2024.doi.10.26419-2fres.00813.025.pdf",
+        "spread_winner":"Tie",
+        "spread_value":0.0,
+        "trump_value":"48",
+        "harris_value":"48",
+        "name":"2024 Georgia: Trump vs. Harris",
+        "slug":"georgia",
+        "polling_start_date":"2024-07-24",
+        "polling_end_date":"2024-07-31"
+    },
+    {
         "id":"146335",
         "type":"poll_rcp_avg",
         "pollster":"Bloomberg\/MrnConsult",
