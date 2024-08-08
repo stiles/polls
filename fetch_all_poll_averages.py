@@ -3,9 +3,19 @@
 
 import requests
 import pandas as pd
+import pytz
+from datetime import datetime
 
 # Define today's date
 today = pd.Timestamp.today().strftime('%B %-d')
+
+eastern = pytz.timezone("America/New_York")
+now = datetime.now(eastern)
+
+last_updated = now.isoformat()
+last_updated_str = (
+    now.strftime("%B %-d, %Y at %-I %p ET").replace("AM", "a.m.").replace("PM", "p.m.")
+)
 
 # Headers for requests
 headers = {
@@ -36,13 +46,17 @@ def format_sources(sources):
 # Fetch and prepare the data
 
 # Cook
-cook_src = pd.read_csv('https://static.dwcdn.net/data/KTtuN.csv', storage_options=headers, parse_dates=['Date/Time'])[['Date/Time', 'Harris Trend', 'Trump2 Trend']].dropna().rename(columns={'Date/Time': 'date', 'Harris Trend': 'harris', 'Trump2 Trend': 'trump'}).reset_index(drop=True).round(1)
-
+# Load Cook data
+cook_src = pd.read_csv('https://static.dwcdn.net/data/KTtuN.csv', storage_options=headers, parse_dates=['Date/Time'])
+cook_src = cook_src[['Date/Time', 'Harris Trend', 'Trump2 Trend']].dropna().rename(columns={'Date/Time': 'date', 'Harris Trend': 'harris', 'Trump2 Trend': 'trump'}).reset_index(drop=True).round(1)
 cook_src['date'] = pd.to_datetime(cook_src['date']).dt.strftime('%Y-%m-%d')
 cook_src['source'] = 'Cook Political Report'
 cook_src['notes'] = ''
+cook_latest = cook_src.query('date == date.max()').head(1)
 
-cook_latest = cook_src.query('date == date.max()')
+# Print full data for the latest date in Cook
+print("Full Cook data for the latest date:")
+print(cook_latest)
 
 # RCP
 rcp_src = pd.read_csv('https://stilesdata.com/polling/harris_trump/polls_avg/_trend/harris_trump_trend.csv')[['fetch_date', 'harris_value', 'trump_value']].rename(columns={'trump_value': 'trump', 'harris_value': 'harris', 'fetch_date': 'date'})
@@ -61,6 +75,10 @@ fte_src['notes'] = 'w/Kennedy'
 
 fte_latest = fte_src.query('date == date.max()').drop('kennedy', axis=1)
 
+# Print full data for the latest date in FiveThirtyEight
+print("Full FiveThirtyEight data for the latest date:")
+print(fte_latest)
+
 # Nate Silver
 nate_cols = ['modeldate','state', 'trump','harris', 'rfk']
 
@@ -70,6 +88,10 @@ nate_src['source'] = 'Silver Bulletin'
 nate_src['date'] = pd.to_datetime(nate_src['date'], format='mixed').dt.strftime('%Y-%m-%d')
 
 nate_latest = nate_src.query('date == date.max()').drop('kennedy', axis=1)
+
+# Print full data for the latest date in Silver Bullet
+print("Full Silver Bulletin data for the latest date:")
+print(nate_latest)
 
 # 270toWin
 data_dict = requests.get('https://www.270towin.com/polls/php/get-polls-by-state.php?election_year=2024&candidate_name_dem=Harris&candidate_name_rep=Trump&sort_by=date').json()['results']
@@ -88,16 +110,25 @@ src_270df = src_270.query('index=="0"').drop('index', axis=1).copy()
 
 latest_270 = src_270df.query('date == date.max()').round(1)
 
+# Print full data for the latest date in 270toWin
+print("Full 270toWin data for the latest date:")
+print(latest_270)
+
 # Economist
 econ_src = pd.read_csv('https://cdn.economistdatateam.com/2024-us-tracker/harris/data/polls/polltracker-latest-trend.csv', storage_options=headers).pivot(columns='candidate_name', index='date', values='pct').reset_index().rename(columns={'Donald Trump': 'trump', 'Kamala Harris': 'harris'}).round(1)
 
 econ_src['source'] = "Economist"
 econ_src['notes'] = ""
 
+# Print full data for the latest date in Economist
+print("Full Economist data for the latest date:")
+print(econ_src)
+
 # All sources
 cols = ['date', 'source', 'harris', 'trump']
 
-df = pd.concat([cook_latest, rcp_latest, fte_latest, nate_latest, latest_270, econ_src]).reset_index(drop=True)[cols]
+df = pd.concat([cook_latest, rcp_latest, fte_latest, nate_latest, latest_270, econ_src]).reset_index(drop=True)
+
 
 # Apply the function to create the 'winning' column
 df['margin'] = df.apply(determine_winner, axis=1)
@@ -126,7 +157,7 @@ formatted_sources = format_sources(sources)
 
 fetched = pd.Timestamp.today().strftime("%B %-d, %Y at %-I %p PT").replace("AM", "a.m.").replace("PM", "p.m.")
 
-msg = f'**{avg_winning}** is leading in the national polls to {avg_losing} by a margin of **{avg_margin}** percentage points, according to six prominent polling averages. **Updates hourly. Last updated: {fetched}**.'
+msg = f'**{avg_winning}** is leading in the national polls to {avg_losing} by a margin of **{avg_margin}** percentage points, according to six prominent polling averages. **Updates hourly. Last updated: {last_updated_str}**.'
 
 # Links for each polling source
 source_links = {
@@ -156,7 +187,7 @@ th, td {{
 }}
 @media (max-width: 600px) {{
     th, td {{
-        font-size: 14px;  /* Smaller font size on small screens */
+        font-size: 12px;  /* Smaller font size on small screens */
     }}
 }}
 </style>
@@ -172,6 +203,7 @@ th, td {{
 
 # Append each row of the DataFrame to the markdown table with links
 for index, row in df.iterrows():
+    print(row)
     source_name = row['source']
     source_link = source_links.get(source_name, "#")
     margin_style = f"<span style='color: {'#5194C3' if 'Harris' in row['margin'] else '#c52622'}; font-weight: bold;'>{row['margin']}</span>"
@@ -180,9 +212,3 @@ for index, row in df.iterrows():
 # Write markdown to file
 with open("index.md", "w") as f:
     f.write(markdown_content)
-
-print("Markdown file 'index.md' has been created.")
-
-print(cook_src[cook_src['date'] == cook_src['date'].max()])
-
-print(df)
