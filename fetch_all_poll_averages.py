@@ -146,7 +146,7 @@ table {{
     border-collapse: collapse;
 }}
 table, th, td {{
-    border: 1px solid black;
+    border: 0px solid black;
 }}
 th, td {{
     padding: 8px;
@@ -180,3 +180,7 @@ with open("index.md", "w") as f:
     f.write(markdown_content)
 
 print("Markdown file 'index.md' has been created.")
+
+print(cook_src[cook_src['date'] == cook_src['date'].max()])
+
+print(df)
