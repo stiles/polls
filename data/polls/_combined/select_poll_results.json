@@ -86,6 +86,23 @@
             "polling_end_date": "2024-08-02"
         },
         {
+            "id": "146470",
+            "type": "poll_rcp_avg",
+            "pollster": "Marquette",
+            "date": "7/24 - 8/1",
+            "sampleSize": "879 RV",
+            "marginError": 4.1,
+            "link": "https://law.marquette.edu/poll/wp-content/uploads/2024/08/MLSPSC21ToplinesRV_NationalIssues.html",
+            "spread_winner": "Harris",
+            "spread_value": 4.0,
+            "harris_value": "52",
+            "trump_value": "48",
+            "name": "2024 General Election: Trump vs Harris",
+            "slug": "general",
+            "polling_start_date": "2024-07-24",
+            "polling_end_date": "2024-08-01"
+        },
+        {
             "id": "146395",
             "type": "poll_rcp_avg",
             "pollster": "Rasmussen Reports",
@@ -1220,6 +1237,26 @@
             "slug": "general_third_parties",
             "polling_start_date": "2024-07-30",
             "polling_end_date": "2024-08-02"
+        },
+        {
+            "id": "146471",
+            "type": "poll_rcp_avg",
+            "pollster": "Marquette",
+            "date": "7/24 - 8/1",
+            "sampleSize": "879 RV",
+            "marginError": 4.1,
+            "link": "https://law.marquette.edu/poll/wp-content/uploads/2024/08/MLSPSC21ToplinesRV_NationalIssues.html",
+            "spread_winner": "Harris",
+            "spread_value": 6.0,
+            "harris_value": "47",
+            "trump_value": "41",
+            "kennedy_value": "9",
+            "stein_value": "2",
+            "west_value": "1",
+            "name": "General Election: Trump vs. Harris vs. Kennedy vs. West vs. Stein",
+            "slug": "general_third_parties",
+            "polling_start_date": "2024-07-24",
+            "polling_end_date": "2024-08-01"
         },
         {
             "id": "146396",
@@ -2406,6 +2443,23 @@
             "slug": "congress_generic",
             "polling_start_date": "2024-07-27",
             "polling_end_date": "2024-07-30"
+        },
+        {
+            "id": "146473",
+            "type": "poll_rcp_avg",
+            "pollster": "Marquette",
+            "date": "7/24 - 8/1",
+            "sampleSize": "879 RV",
+            "marginError": 4.1,
+            "link": "https://law.marquette.edu/poll/wp-content/uploads/2024/08/MLSPSC21ToplinesRV_NationalIssues.html",
+            "spread_winner": "Democrats",
+            "spread_value": 4.0,
+            "democrats_value": "52",
+            "republicans_value": "48",
+            "name": "2024 Generic Congressional Vote",
+            "slug": "congress_generic",
+            "polling_start_date": "2024-07-24",
+            "polling_end_date": "2024-08-01"
         },
         {
             "id": "146323",
@@ -4519,7 +4573,7 @@
     "harris_favorability": [
         {
             "id": "146457",
-            "type": "poll",
+            "type": "poll_rcp_avg",
             "pollster": "Economist/YouGov",
             "date": "8/4 - 8/6",
             "sampleSize": "1413 RV",
@@ -4570,7 +4624,7 @@
         },
         {
             "id": "146447",
-            "type": "poll",
+            "type": "poll_rcp_avg",
             "pollster": "TIPP",
             "date": "7/31 - 8/2",
             "sampleSize": "1488 A",
@@ -4604,7 +4658,7 @@
         },
         {
             "id": "146361",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Economist/YouGov",
             "date": "7/27 - 7/30",
             "sampleSize": "1434 RV",
@@ -4618,6 +4672,23 @@
             "slug": "harris_favorability",
             "polling_start_date": "2024-07-27",
             "polling_end_date": "2024-07-30"
+        },
+        {
+            "id": "146476",
+            "type": "poll_rcp_avg",
+            "pollster": "Marquette",
+            "date": "7/24 - 8/1",
+            "sampleSize": "879 RV",
+            "marginError": 4.1,
+            "link": "https://law.marquette.edu/poll/wp-content/uploads/2024/08/MLSPSC21ToplinesRV_NationalIssues.html",
+            "spread_winner": "Unfavorable",
+            "spread_value": 2.0,
+            "favorable_value": "47",
+            "unfavorable_value": "49",
+            "name": "Kamala Harris Favorability",
+            "slug": "harris_favorability",
+            "polling_start_date": "2024-07-24",
+            "polling_end_date": "2024-08-01"
         },
         {
             "id": "146315",

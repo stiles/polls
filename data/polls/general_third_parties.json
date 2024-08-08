@@ -80,6 +80,26 @@
         "polling_end_date":"2024-08-02"
     },
     {
+        "id":"146471",
+        "type":"poll_rcp_avg",
+        "pollster":"Marquette",
+        "date":"7\/24 - 8\/1",
+        "sampleSize":"879 RV",
+        "marginError":4.1,
+        "link":"https:\/\/law.marquette.edu\/poll\/wp-content\/uploads\/2024\/08\/MLSPSC21ToplinesRV_NationalIssues.html",
+        "spread_winner":"Harris",
+        "spread_value":6.0,
+        "harris_value":"47",
+        "trump_value":"41",
+        "kennedy_value":"9",
+        "stein_value":"2",
+        "west_value":"1",
+        "name":"General Election: Trump vs. Harris vs. Kennedy vs. West vs. Stein",
+        "slug":"general_third_parties",
+        "polling_start_date":"2024-07-24",
+        "polling_end_date":"2024-08-01"
+    },
+    {
         "id":"146396",
         "type":"poll_rcp_avg",
         "pollster":"Rasmussen Reports",
