@@ -249,7 +249,7 @@ with open("index.md", "w") as f:
     f.write(markdown_content)
 
 # Clean up averages dataframe
-df['winning'] = df['margin'].str.split('>', expand=True)[1].str.split('<', expand=True)[0]
+df['winning'] = df['margin'].str.split(': +', expand=True)[0]
 df['winning_margin'] = df['margin'].str.split('+', expand=True)[1].astype(float)
 df['date'] = pd.to_datetime(df['date']).dt.strftime('%Y-%m-%d')
 
