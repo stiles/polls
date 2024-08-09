@@ -120,7 +120,7 @@ trump_avg = df['trump'].mean().round(2).astype(float)
 if harris_avg > trump_avg:
     avg_winning = "Vice President Kamala Harris"
     avg_losing = "former President Donald Trump"
-    avg_margin = round(harris_avg - trump_avg, 2)
+    avg_margin = round(harris_avg - trump_avg, 1)
     avg_winning_value = harris_avg
     avg_losing_value = trump_avg
 else:
