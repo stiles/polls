@@ -227,6 +227,8 @@ for index, row in df.iterrows():
     margin_style = f"<span style='color: {'#5194C3' if 'Harris' in row['margin'] else '#c52622'}; font-weight: bold;'>{row['margin']}</span>"
     markdown_content += f"| [{source_name}]({source_link}) | {row['harris']} | {row['trump']} | {margin_style} |\n"
 
+markdown_content += f'<br><br>#### [Download the latest](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/averages_trend.json)'
+
 # Write markdown to file
 with open("index.md", "w") as f:
     f.write(markdown_content)
