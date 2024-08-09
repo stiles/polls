@@ -7,7 +7,7 @@ table {
     border-collapse: collapse;
 }
 table, th, td {
-    border: 1px solid black;
+    border: 0px solid black;
 }
 a {
     color: #5194c3;
@@ -30,7 +30,7 @@ th, td {
 </style>
 
 ## The Latest
-**Vice President Kamala Harris** is leading in the national polls to former President Donald Trump by a margin of **1.5** percentage points, according an average of seven prominent polling averages. [More about this data](https://github.com/stiles/polls). *Last updated: August 9 at 12 a.m. ET*.
+**Vice President Kamala Harris** is leading in the national polls to former President Donald Trump by a margin of **1.5** percentage points, according an average of seven prominent polling averages. *Last updated: August 9 at 12 a.m. ET*.
 
 ## Sources
 
@@ -45,4 +45,4 @@ th, td {
 | [The New York Times](https://www.nytimes.com/interactive/2024/us/elections/polls-president.html) | 48.0 | 47.0 | <span style='color: #5194C3; font-weight: bold;'><b style='color:#5194C3; font-weight: bold;'>Harris</b> by 1.0</span> |
 
 
-#### [Download the latest](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/averages_trend.json)
+#### Read more [about this data](https://github.com/stiles/polls). Download [the latest averages](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/averages_trend.json)
