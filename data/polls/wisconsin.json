@@ -1,5 +1,22 @@
 [
     {
+        "id":"146511",
+        "type":"poll_rcp_avg",
+        "pollster":"InsiderAdvantage",
+        "date":"8\/6 - 8\/8",
+        "sampleSize":"800 LV",
+        "marginError":3.4,
+        "link":"https:\/\/pollingplus.com\/news\/pollingplus-exclusive-top-two-presidential-cycle-pollsters-towery-and-cahaly-release-battleground-polls\/",
+        "spread_winner":"Trump",
+        "spread_value":1.0,
+        "harris_value":"48",
+        "trump_value":"49",
+        "name":"2024 Wisconsin: Trump vs. Harris",
+        "slug":"wisconsin",
+        "polling_start_date":"2024-08-06",
+        "polling_end_date":"2024-08-08"
+    },
+    {
         "id":"146463",
         "type":"poll_rcp_avg",
         "pollster":"Marquette",

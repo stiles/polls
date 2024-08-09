@@ -1,12 +1,12 @@
 [
     {
         "id":"146506",
-        "type":"poll",
+        "type":"poll_rcp_avg",
         "pollster":"Trafalgar Group (R)",
         "date":"8\/6 - 8\/8",
         "sampleSize":"1000 LV",
         "marginError":2.9,
-        "link":"https:\/\/pollingplus.com\/",
+        "link":"https:\/\/pollingplus.com\/news\/pollingplus-exclusive-top-two-presidential-cycle-pollsters-towery-and-cahaly-release-battleground-polls\/",
         "spread_winner":"Trump",
         "spread_value":1.0,
         "trump_value":"48",
@@ -69,7 +69,7 @@
     },
     {
         "id":"146077",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"InsiderAdvantage",
         "date":"7\/15 - 7\/16",
         "sampleSize":"800 LV",
