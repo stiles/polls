@@ -20,6 +20,9 @@ today = (
     now.strftime('%Y-%m-%d')
 )
 
+# Convert current time to epoch seconds
+epoch_seconds = int(now.timestamp() * 1000)  # Convert to milliseconds
+
 # Headers for requests
 headers = {
     'accept': '*/*',
@@ -48,9 +51,11 @@ def format_sources(sources):
 
 # Fetch and prepare the data
 
-# Cook
-# Load Cook data
-cook_src = pd.read_csv('https://static.dwcdn.net/data/KTtuN.csv', storage_options=headers, parse_dates=['Date/Time'])
+# Cook Political Report
+# Cook url w/ epoch
+cook_url = f'https://static.dwcdn.net/data/KTtuN.csv?v={epoch_seconds}'
+
+cook_src = pd.read_csv(cook_url, storage_options=headers, parse_dates=['Date/Time'])
 cook_src = cook_src[['Date/Time', 'Harris Trend', 'Trump2 Trend']].dropna().rename(columns={'Date/Time': 'date', 'Harris Trend': 'harris', 'Trump2 Trend': 'trump'}).reset_index(drop=True).round(1)
 cook_src['date'] = pd.to_datetime(cook_src['date']).dt.strftime('%Y-%m-%d')
 cook_src['source'] = 'Cook Political Report'
@@ -76,9 +81,6 @@ fte_latest = fte_src.query('date == date.max()').drop('kennedy', axis=1)
 
 # Nate Silver
 nate_cols = ['modeldate','state', 'trump','harris', 'rfk']
-
-# Convert current time to epoch seconds
-epoch_seconds = int(now.timestamp() * 1000)  # Convert to milliseconds
 
 # Format the Silver Bulletin URL with the epoch seconds
 nate_url = f'https://static.dwcdn.net/data/wB0Zh.csv?v={epoch_seconds}'
