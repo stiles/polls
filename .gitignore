@@ -5,6 +5,7 @@ __pycache__/
 
 notebooks/fetch_selected_polls.ipynb
 notebooks/rcp_polls.ipynb
+notebooks/fetch_all_poll_averages.ipynb
 
 # C extensions
 *.so
