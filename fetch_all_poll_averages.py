@@ -137,7 +137,7 @@ nyt_df['notes'] = ''
 # All sources
 cols = ['date', 'source', 'harris', 'trump']
 
-df = pd.concat([cook_latest, rcp_latest, fte_latest, nate_latest, latest_270, econ_src]).reset_index(drop=True)
+df = pd.concat([cook_latest, rcp_latest, fte_latest, nate_latest, latest_270, econ_src, nyt_df]).reset_index(drop=True)
 
 # Apply the function to create the 'winning' column
 df['margin'] = df.apply(determine_winner, axis=1)
