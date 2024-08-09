@@ -14,7 +14,7 @@ now = datetime.now(eastern)
 
 last_updated = now.isoformat()
 last_updated_str = (
-    now.strftime("%B %-d at %-I %p ET").replace("AM", "a.m.").replace("PM", "p.m.")
+    now.strftime("%-I %p ET, %B %-d").replace("AM", "a.m.").replace("PM", "p.m.")
 )
 today = (
     now.strftime('%Y-%m-%d')
@@ -35,7 +35,7 @@ def determine_winner(row):
     else:
         winner = "<b style='color:#c52622; font-weight: bold;'>Trump</b>"
         margin = row['trump'] - row['harris']
-    return f"{winner} by {margin:.1f}"
+    return f"{winner}: +{margin:.1f}"
 
 def format_sources(sources):
     """Format the list of sources for the summary message."""
@@ -166,7 +166,7 @@ formatted_sources = format_sources(sources)
 
 fetched = pd.Timestamp.today().strftime("%B %-d, %Y at %-I %p PT").replace("AM", "a.m.").replace("PM", "p.m.")
 
-msg = f'**{avg_winning}** is leading in the national polls to {avg_losing} by a margin of **{avg_margin}** percentage points, according an average of seven prominent polling averages. *Last updated: {last_updated_str}*.'
+msg = f'**{avg_winning}** is leading in the national polls to {avg_losing} by a margin of **{avg_margin}** percentage points, according an average of seven prominent polling averages.'
 
 # Links for each polling source
 source_links = {
@@ -228,7 +228,7 @@ for index, row in df.iterrows():
     markdown_content += f"| [{source_name}]({source_link}) | {row['harris']} | {row['trump']} | {margin_style} |\n"
 
 # Add additional content after the table
-markdown_content += f'\n\n#### Read more [about this data](https://github.com/stiles/polls). Download [the latest averages](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/averages_trend.json).'
+markdown_content += f'\n\n#### Read more [about this data](https://github.com/stiles/polls). Download [the latest averages](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/averages_trend.json). \n\n *Last hourly update: {last_updated_str}*'
 
 # Write markdown to file
 with open("index.md", "w") as f:
