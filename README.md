@@ -57,7 +57,7 @@ That trend collection began with the birth of the repo on August 1, 2024. An ext
 
 - **Harris-Trump RCP average trend:** [JSON](https://stilesdata.com/polling/harris_trump/polls_avg/_trend/harris_trump_trend.json) | [CSV](https://stilesdata.com/polling/harris_trump/polls_avg/_trend/harris_trump_trend.csv)
 
-- **Average of averages:** [Latest (JSON)](https://s3.us-west-1.amazonaws.com/stilesdata.com/polling/harris_trump/polls_avg/avgs/averages_latest.json), [Trend (JSON)](https://s3.us-west-1.amazonaws.com/stilesdata.com/polling/harris_trump/polls_avg/avgs/averages_trend.json)
+- **Average of averages:** [Latest (JSON)](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/averages_latest.json), [Trend (JSON)](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/averages_trend.json)
 
 ### Data structure
 
