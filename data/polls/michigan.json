@@ -1,20 +1,20 @@
 [
     {
         "id":"146507",
-        "type":"poll",
+        "type":"poll_rcp_avg",
         "pollster":"InsiderAdvantage",
-        "date":"8\/3 - 8\/4",
+        "date":"8\/6 - 8\/8",
         "sampleSize":"800 LV",
         "marginError":3.4,
-        "link":"https:\/\/pollingplus.com\/",
+        "link":"https:\/\/pollingplus.com\/news\/pollingplus-exclusive-top-two-presidential-cycle-pollsters-towery-and-cahaly-release-battleground-polls\/",
         "spread_winner":"Harris",
         "spread_value":2.0,
         "harris_value":"49",
         "trump_value":"47",
         "name":"2024 Michigan: Trump vs. Harris",
         "slug":"michigan",
-        "polling_start_date":"2024-08-03",
-        "polling_end_date":"2024-08-04"
+        "polling_start_date":"2024-08-06",
+        "polling_end_date":"2024-08-08"
     },
     {
         "id":"146337",
