@@ -45,7 +45,7 @@ th, td {
 
 | Source               | Harris (%) | Trump (%) | Margin      |
 |----------------------|------------|-----------|-------------|
-| [Cook Political Report](https://www.cookpolitical.com/survey-research/cpr-national-polling-average/2024/harris-trump-overall) | <span style='color: #5194C3; font-weight: bold;'>47.2</span> | <span style='color: #c52622; font-weight: bold;'>47.0</span> | <span style='color: #5194C3; font-weight: bold;'>Harris: +0.2</span> |
+| [Cook Political Report](https://www.cookpolitical.com/survey-research/cpr-national-polling-average/2024/harris-trump-overall) | <span style='color: #5194C3; font-weight: bold;'>47.3</span> | <span style='color: #c52622; font-weight: bold;'>46.7</span> | <span style='color: #5194C3; font-weight: bold;'>Harris: +0.6</span> |
 | [Real Clear Politics](https://www.realclearpolling.com/polls/president/general/2024/trump-vs-harris) | <span style='color: #5194C3; font-weight: bold;'>47.6</span> | <span style='color: #c52622; font-weight: bold;'>47.1</span> | <span style='color: #5194C3; font-weight: bold;'>Harris: +0.5</span> |
 | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/national/) | <span style='color: #5194C3; font-weight: bold;'>45.5</span> | <span style='color: #c52622; font-weight: bold;'>43.4</span> | <span style='color: #5194C3; font-weight: bold;'>Harris: +2.1</span> |
 | [Silver Bulletin](https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model) | <span style='color: #5194C3; font-weight: bold;'>46.3</span> | <span style='color: #c52622; font-weight: bold;'>43.9</span> | <span style='color: #5194C3; font-weight: bold;'>Harris: +2.4</span> |
