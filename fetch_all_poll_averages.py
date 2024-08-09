@@ -211,3 +211,5 @@ for index, row in df.iterrows():
 # Write markdown to file
 with open("index.md", "w") as f:
     f.write(markdown_content)
+
+df.to_json('data/polls_avg/avgs/averages_latest.json', indent=4, orient='records')
