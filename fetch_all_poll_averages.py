@@ -243,7 +243,7 @@ df_slim['fetched_date'] = today
 df_slim.to_json('data/polls_avg/avgs/averages_latest.json', indent=4, orient='records')
 
 # Create/export JSON avg archive
-archive = pd.read_json('data/polls_avg/avgs/averages_trend.json')
+archive = pd.read_json('https://stilesdata.com/polling/harris_trump/polls_avg/avgs/averages_trend.json')
 archive['date'] = pd.to_datetime(archive['date']).dt.strftime('%Y-%m-%d')
 combined = pd.concat([df_slim, archive]).drop_duplicates(keep='first').reset_index(drop=True)
 combined.to_json('data/polls_avg/avgs/averages_trend.json', indent=4, orient='records')
