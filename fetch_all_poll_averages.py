@@ -166,7 +166,7 @@ formatted_sources = format_sources(sources)
 
 fetched = pd.Timestamp.today().strftime("%B %-d, %Y at %-I %p PT").replace("AM", "a.m.").replace("PM", "p.m.")
 
-msg = f'**{avg_winning}** is leading in the national polls to {avg_losing} by a margin of **{avg_margin}** percentage points, according an average of seven prominent polling averages. [More about this data](https://github.com/stiles/polls). *Last updated: {last_updated_str}*.'
+msg = f'**{avg_winning}** is leading in the national polls to {avg_losing} by a margin of **{avg_margin}** percentage points, according an average of seven prominent polling averages. *Last updated: {last_updated_str}*.'
 
 # Links for each polling source
 source_links = {
@@ -189,7 +189,7 @@ table {{
     border-collapse: collapse;
 }}
 table, th, td {{
-    border: 1px solid black;
+    border: 0px solid black;
 }}
 a {{
     color: #5194c3;
@@ -228,7 +228,7 @@ for index, row in df.iterrows():
     markdown_content += f"| [{source_name}]({source_link}) | {row['harris']} | {row['trump']} | {margin_style} |\n"
 
 # Add additional content after the table
-markdown_content += f'\n\n#### [Download the latest](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/averages_trend.json)'
+markdown_content += f'\n\n#### Read more [about this data](https://github.com/stiles/polls). Download [the latest averages](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/averages_trend.json)'
 
 # Write markdown to file
 with open("index.md", "w") as f:
