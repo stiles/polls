@@ -160,9 +160,15 @@ table {{
 table, th, td {{
     border: 0px solid black;
 }}
+a {{
+    color: #b194c3;
+}}
 th, td {{
     padding: 8px;
     text-align: left;
+}}
+.markdown-body>*:last-child {{
+    display: none;
 }}
 @media (max-width: 600px) {{
     th, td {{
