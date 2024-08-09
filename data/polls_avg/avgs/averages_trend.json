@@ -27,12 +27,12 @@
         "fetched_date":"2024-08-09"
     },
     {
-        "date":"2024-08-08",
-        "harris":46.4,
-        "trump":44.3,
+        "date":"2024-08-09",
+        "harris":46.3,
+        "trump":43.9,
         "source":"Silver Bulletin",
         "winning":"Harris",
-        "winning_margin":2.1,
+        "winning_margin":2.4,
         "fetched_date":"2024-08-09"
     },
     {
@@ -60,6 +60,15 @@
         "source":"The New York Times",
         "winning":"Harris",
         "winning_margin":1.0,
+        "fetched_date":"2024-08-09"
+    },
+    {
+        "date":"2024-08-08",
+        "harris":46.4,
+        "trump":44.3,
+        "source":"Silver Bulletin",
+        "winning":"Harris",
+        "winning_margin":2.1,
         "fetched_date":"2024-08-09"
     },
     {

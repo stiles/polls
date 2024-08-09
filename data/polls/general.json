@@ -1,5 +1,22 @@
 [
     {
+        "id":"146500",
+        "type":"poll",
+        "pollster":"Ipsos",
+        "date":"8\/2 - 8\/7",
+        "sampleSize":"1342 RV",
+        "marginError":3.0,
+        "link":"https:\/\/www.ipsos.com\/en-us\/ipsos-2024-us-national-election-survey-august-2024",
+        "spread_winner":"Harris",
+        "spread_value":2.0,
+        "harris_value":"49",
+        "trump_value":"47",
+        "name":"2024 General Election: Trump vs Harris",
+        "slug":"general",
+        "polling_start_date":"2024-08-02",
+        "polling_end_date":"2024-08-07"
+    },
+    {
         "id":"146482",
         "type":"poll_rcp_avg",
         "pollster":"CNBC",

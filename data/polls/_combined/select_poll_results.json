@@ -1,6 +1,23 @@
 {
     "general": [
         {
+            "id": "146500",
+            "type": "poll",
+            "pollster": "Ipsos",
+            "date": "8/2 - 8/7",
+            "sampleSize": "1342 RV",
+            "marginError": 3.0,
+            "link": "https://www.ipsos.com/en-us/ipsos-2024-us-national-election-survey-august-2024",
+            "spread_winner": "Harris",
+            "spread_value": 2.0,
+            "harris_value": "49",
+            "trump_value": "47",
+            "name": "2024 General Election: Trump vs Harris",
+            "slug": "general",
+            "polling_start_date": "2024-08-02",
+            "polling_end_date": "2024-08-07"
+        },
+        {
             "id": "146482",
             "type": "poll_rcp_avg",
             "pollster": "CNBC",
@@ -1193,26 +1210,6 @@
     ],
     "general_third_parties": [
         {
-            "id": "146493",
-            "type": "poll_rcp_avg",
-            "pollster": "Rasmussen Reports",
-            "date": "8/1 - 8/7",
-            "sampleSize": "1794 LV",
-            "marginError": 2.0,
-            "link": "https://www.rasmussenreports.com/public_content/politics/biden_administration/election_2024_trump_49_harris_44_rfk_jr_3",
-            "spread_winner": "Trump",
-            "spread_value": 5.0,
-            "harris_value": "44",
-            "trump_value": "49",
-            "kennedy_value": "3",
-            "stein_value": "0",
-            "west_value": "1",
-            "name": "General Election: Trump vs. Harris vs. Kennedy vs. West vs. Stein",
-            "slug": "general_third_parties",
-            "polling_start_date": "2024-08-01",
-            "polling_end_date": "2024-08-07"
-        },
-        {
             "id": "146451",
             "type": "poll_rcp_avg",
             "pollster": "Economist/YouGov",
@@ -1231,6 +1228,26 @@
             "slug": "general_third_parties",
             "polling_start_date": "2024-08-04",
             "polling_end_date": "2024-08-06"
+        },
+        {
+            "id": "146493",
+            "type": "poll_rcp_avg",
+            "pollster": "Rasmussen Reports",
+            "date": "8/1 - 8/7",
+            "sampleSize": "1794 LV",
+            "marginError": 2.0,
+            "link": "https://www.rasmussenreports.com/public_content/politics/biden_administration/election_2024_trump_49_harris_44_rfk_jr_3",
+            "spread_winner": "Trump",
+            "spread_value": 5.0,
+            "harris_value": "44",
+            "trump_value": "49",
+            "kennedy_value": "3",
+            "stein_value": "0",
+            "west_value": "1",
+            "name": "General Election: Trump vs. Harris vs. Kennedy vs. West vs. Stein",
+            "slug": "general_third_parties",
+            "polling_start_date": "2024-08-01",
+            "polling_end_date": "2024-08-07"
         },
         {
             "id": "146441",
@@ -1807,6 +1824,23 @@
     ],
     "pennsylvania": [
         {
+            "id": "146510",
+            "type": "poll",
+            "pollster": "Trafalgar Group (R)",
+            "date": "8/6 - 8/8",
+            "sampleSize": "1000 LV",
+            "marginError": 2.9,
+            "link": "https://pollingplus.com/",
+            "spread_winner": "Trump",
+            "spread_value": 2.0,
+            "trump_value": "46",
+            "harris_value": "44",
+            "name": "2024 Pennsylvania: Trump vs. Harris",
+            "slug": "pennsylvania",
+            "polling_start_date": "2024-08-06",
+            "polling_end_date": "2024-08-08"
+        },
+        {
             "id": "146413",
             "type": "poll_rcp_avg",
             "pollster": "PPP (D)",
@@ -1978,6 +2012,23 @@
         }
     ],
     "michigan": [
+        {
+            "id": "146507",
+            "type": "poll",
+            "pollster": "InsiderAdvantage",
+            "date": "8/3 - 8/4",
+            "sampleSize": "800 LV",
+            "marginError": 3.4,
+            "link": "https://pollingplus.com/",
+            "spread_winner": "Harris",
+            "spread_value": 2.0,
+            "harris_value": "49",
+            "trump_value": "47",
+            "name": "2024 Michigan: Trump vs. Harris",
+            "slug": "michigan",
+            "polling_start_date": "2024-08-03",
+            "polling_end_date": "2024-08-04"
+        },
         {
             "id": "146337",
             "type": "poll_rcp_avg",
@@ -2256,6 +2307,23 @@
         }
     ],
     "arizona": [
+        {
+            "id": "146506",
+            "type": "poll",
+            "pollster": "Trafalgar Group (R)",
+            "date": "8/6 - 8/8",
+            "sampleSize": "1000 LV",
+            "marginError": 2.9,
+            "link": "https://pollingplus.com/",
+            "spread_winner": "Trump",
+            "spread_value": 1.0,
+            "trump_value": "48",
+            "harris_value": "47",
+            "name": "2024 Arizona: Trump vs. Harris",
+            "slug": "arizona",
+            "polling_start_date": "2024-08-06",
+            "polling_end_date": "2024-08-08"
+        },
         {
             "id": "146414",
             "type": "poll_rcp_avg",

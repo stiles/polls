@@ -1,5 +1,22 @@
 [
     {
+        "id":"146510",
+        "type":"poll",
+        "pollster":"Trafalgar Group (R)",
+        "date":"8\/6 - 8\/8",
+        "sampleSize":"1000 LV",
+        "marginError":2.9,
+        "link":"https:\/\/pollingplus.com\/",
+        "spread_winner":"Trump",
+        "spread_value":2.0,
+        "trump_value":"46",
+        "harris_value":"44",
+        "name":"2024 Pennsylvania: Trump vs. Harris",
+        "slug":"pennsylvania",
+        "polling_start_date":"2024-08-06",
+        "polling_end_date":"2024-08-08"
+    },
+    {
         "id":"146413",
         "type":"poll_rcp_avg",
         "pollster":"PPP (D)",
