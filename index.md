@@ -30,19 +30,21 @@ th, td {
 </style>
 
 ## The Latest
-**Vice President Kamala Harris** is leading in the national polls to former President Donald Trump by a margin of **1.5** percentage points, according an average of seven prominent polling averages. *Last updated: August 9 at 9 a.m. ET*.
+**Vice President Kamala Harris** is leading in the national polls to former President Donald Trump by a margin of **1.5** percentage points, according an average of seven prominent polling averages.
 
 ## Sources
 
 | Source               | Harris (%) | Trump (%) | Margin      |
 |----------------------|------------|-----------|-------------|
-| [Cook Political Report](#) | 47.2 | 47.0 | <span style='color: #5194C3; font-weight: bold;'><b style='color:#5194C3; font-weight: bold;'>Harris</b> by 0.2</span> |
-| [Real Clear Politics](https://www.realclearpolling.com/polls/president/general/2024/trump-vs-harris) | 47.6 | 47.1 | <span style='color: #5194C3; font-weight: bold;'><b style='color:#5194C3; font-weight: bold;'>Harris</b> by 0.5</span> |
-| [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/national/) | 45.4 | 43.4 | <span style='color: #5194C3; font-weight: bold;'><b style='color:#5194C3; font-weight: bold;'>Harris</b> by 2.0</span> |
-| [Silver Bulletin](#) | 46.4 | 44.3 | <span style='color: #5194C3; font-weight: bold;'><b style='color:#5194C3; font-weight: bold;'>Harris</b> by 2.1</span> |
-| [270toWin](https://www.270towin.com/2024-presidential-election-polls/) | 48.1 | 45.4 | <span style='color: #5194C3; font-weight: bold;'><b style='color:#5194C3; font-weight: bold;'>Harris</b> by 2.7</span> |
-| [Economist](https://www.economist.com/interactive/us-2024-election/trump-harris-polls) | 47.5 | 45.5 | <span style='color: #5194C3; font-weight: bold;'><b style='color:#5194C3; font-weight: bold;'>Harris</b> by 2.0</span> |
-| [The New York Times](https://www.nytimes.com/interactive/2024/us/elections/polls-president.html) | 48.0 | 47.0 | <span style='color: #5194C3; font-weight: bold;'><b style='color:#5194C3; font-weight: bold;'>Harris</b> by 1.0</span> |
+| [Cook Political Report](#) | 47.2 | 47.0 | <span style='color: #5194C3; font-weight: bold;'><b style='color:#5194C3; font-weight: bold;'>Harris</b>: +0.2</span> |
+| [Real Clear Politics](https://www.realclearpolling.com/polls/president/general/2024/trump-vs-harris) | 47.6 | 47.1 | <span style='color: #5194C3; font-weight: bold;'><b style='color:#5194C3; font-weight: bold;'>Harris</b>: +0.5</span> |
+| [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/national/) | 45.4 | 43.4 | <span style='color: #5194C3; font-weight: bold;'><b style='color:#5194C3; font-weight: bold;'>Harris</b>: +2.0</span> |
+| [Silver Bulletin](#) | 46.4 | 44.3 | <span style='color: #5194C3; font-weight: bold;'><b style='color:#5194C3; font-weight: bold;'>Harris</b>: +2.1</span> |
+| [270toWin](https://www.270towin.com/2024-presidential-election-polls/) | 48.1 | 45.4 | <span style='color: #5194C3; font-weight: bold;'><b style='color:#5194C3; font-weight: bold;'>Harris</b>: +2.7</span> |
+| [Economist](https://www.economist.com/interactive/us-2024-election/trump-harris-polls) | 47.5 | 45.5 | <span style='color: #5194C3; font-weight: bold;'><b style='color:#5194C3; font-weight: bold;'>Harris</b>: +2.0</span> |
+| [The New York Times](https://www.nytimes.com/interactive/2024/us/elections/polls-president.html) | 48.0 | 47.0 | <span style='color: #5194C3; font-weight: bold;'><b style='color:#5194C3; font-weight: bold;'>Harris</b>: +1.0</span> |
 
 
-#### Read more [about this data](https://github.com/stiles/polls). Download [the latest averages](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/averages_trend.json).
+#### Read more [about this data](https://github.com/stiles/polls). Download [the latest averages](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/averages_trend.json). 
+
+ *Last hourly update: 10 a.m. ET, August 9*
