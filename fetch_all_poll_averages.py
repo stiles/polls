@@ -172,11 +172,11 @@ msg = f'**{avg_winning}** is leading in the national polls to {avg_losing} by a 
 source_links = {
     "Cook Report": "https://www.cookpolitical.com/survey-research/cpr-national-polling-average/2024/harris-trump-overall",
     "FiveThirtyEight": "https://projects.fivethirtyeight.com/polls/president-general/2024/national/",
-    "RealClearPolitics": "https://www.realclearpolling.com/polls/president/general/2024/trump-vs-harris",
+    "Real Clear Politics": "https://www.realclearpolling.com/polls/president/general/2024/trump-vs-harris",
     "Nate Silver": "https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model",
     "270toWin": "https://www.270towin.com/2024-presidential-election-polls/",
     "Economist": "https://www.economist.com/interactive/us-2024-election/trump-harris-polls",
-    "New York Times": "https://www.nytimes.com/interactive/2024/us/elections/polls-president.html"
+    "The New York Times": "https://www.nytimes.com/interactive/2024/us/elections/polls-president.html"
 }
 
 # Generate Markdown Content with inline CSS for better mobile responsiveness
