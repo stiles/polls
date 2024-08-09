@@ -181,7 +181,7 @@ source_links = {
 
 # Generate Markdown Content with inline CSS for better mobile responsiveness
 markdown_content = f"""
-# All the poll averages
+# All the Poll Averages
 
 <style>
 table {{
@@ -189,7 +189,7 @@ table {{
     border-collapse: collapse;
 }}
 table, th, td {{
-    border: 0px solid black;
+    border: 1px solid black;
 }}
 a {{
     color: #5194c3;
@@ -211,7 +211,7 @@ th, td {{
 }}
 </style>
 
-## The latest
+## The Latest
 {msg}
 
 ## Sources
@@ -227,7 +227,8 @@ for index, row in df.iterrows():
     margin_style = f"<span style='color: {'#5194C3' if 'Harris' in row['margin'] else '#c52622'}; font-weight: bold;'>{row['margin']}</span>"
     markdown_content += f"| [{source_name}]({source_link}) | {row['harris']} | {row['trump']} | {margin_style} |\n"
 
-markdown_content += f'<br><br>#### [Download the latest](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/averages_trend.json)'
+# Add additional content after the table
+markdown_content += f'\n\n#### [Download the latest](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/averages_trend.json)'
 
 # Write markdown to file
 with open("index.md", "w") as f:
