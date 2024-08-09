@@ -163,7 +163,10 @@ table, th, td {{
     border: 0px solid black;
 }}
 a {{
-    color: #b194c3;
+    color: #5194c3;
+}}
+a:visited {{
+    color: #5194c3;
 }}
 th, td {{
     padding: 8px;
