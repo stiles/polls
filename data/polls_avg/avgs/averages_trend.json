@@ -18,18 +18,18 @@
         "fetched_date":"2024-08-09"
     },
     {
-        "date":"2024-08-08",
+        "date":"2024-08-09",
         "harris":45.4,
-        "trump":43.3,
+        "trump":43.4,
         "source":"FiveThirtyEight",
         "winning":"Harris",
-        "winning_margin":2.1,
+        "winning_margin":2.0,
         "fetched_date":"2024-08-09"
     },
     {
-        "date":"2024-08-07",
-        "harris":45.8,
-        "trump":43.7,
+        "date":"2024-08-08",
+        "harris":46.4,
+        "trump":44.3,
         "source":"Silver Bulletin",
         "winning":"Harris",
         "winning_margin":2.1,
@@ -64,8 +64,17 @@
     },
     {
         "date":"2024-08-08",
-        "harris":46.4,
-        "trump":44.3,
+        "harris":45.4,
+        "trump":43.3,
+        "source":"FiveThirtyEight",
+        "winning":"Harris",
+        "winning_margin":2.1,
+        "fetched_date":"2024-08-09"
+    },
+    {
+        "date":"2024-08-07",
+        "harris":45.8,
+        "trump":43.7,
         "source":"Silver Bulletin",
         "winning":"Harris",
         "winning_margin":2.1,
