@@ -7,7 +7,7 @@ import pytz
 from datetime import datetime
 
 # Define today's date
-today = pd.Timestamp.today().strftime('%B %-d')
+today = pd.Timestamp.today().strftime('%Y-%m-%d')
 
 eastern = pytz.timezone("US/Pacific")
 now = datetime.now(eastern)
@@ -54,10 +54,6 @@ cook_src['source'] = 'Cook Political Report'
 cook_src['notes'] = ''
 cook_latest = cook_src.query('date == date.max()').head(1)
 
-# Print full data for the latest date in Cook
-print("Full Cook data for the latest date:")
-print(cook_latest)
-
 # RCP
 rcp_src = pd.read_csv('https://stilesdata.com/polling/harris_trump/polls_avg/_trend/harris_trump_trend.csv')[['fetch_date', 'harris_value', 'trump_value']].rename(columns={'trump_value': 'trump', 'harris_value': 'harris', 'fetch_date': 'date'})
 
@@ -75,10 +71,6 @@ fte_src['notes'] = 'w/Kennedy'
 
 fte_latest = fte_src.query('date == date.max()').drop('kennedy', axis=1)
 
-# Print full data for the latest date in FiveThirtyEight
-print("Full FiveThirtyEight data for the latest date:")
-print(fte_latest)
-
 # Nate Silver
 nate_cols = ['modeldate','state', 'trump','harris', 'rfk']
 
@@ -88,10 +80,6 @@ nate_src['source'] = 'Silver Bulletin'
 nate_src['date'] = pd.to_datetime(nate_src['date'], format='mixed').dt.strftime('%Y-%m-%d')
 
 nate_latest = nate_src.query('date == date.max()').drop('kennedy', axis=1)
-
-# Print full data for the latest date in Silver Bullet
-print("Full Silver Bulletin data for the latest date:")
-print(nate_latest)
 
 # 270toWin
 data_dict = requests.get('https://www.270towin.com/polls/php/get-polls-by-state.php?election_year=2024&candidate_name_dem=Harris&candidate_name_rep=Trump&sort_by=date').json()['results']
@@ -110,25 +98,16 @@ src_270df = src_270.query('index=="0"').drop('index', axis=1).copy()
 
 latest_270 = src_270df.query('date == date.max()').round(1)
 
-# Print full data for the latest date in 270toWin
-print("Full 270toWin data for the latest date:")
-print(latest_270)
-
 # Economist
 econ_src = pd.read_csv('https://cdn.economistdatateam.com/2024-us-tracker/harris/data/polls/polltracker-latest-trend.csv', storage_options=headers).pivot(columns='candidate_name', index='date', values='pct').reset_index().rename(columns={'Donald Trump': 'trump', 'Kamala Harris': 'harris'}).round(1)
 
 econ_src['source'] = "Economist"
 econ_src['notes'] = ""
 
-# Print full data for the latest date in Economist
-print("Full Economist data for the latest date:")
-print(econ_src)
-
 # All sources
 cols = ['date', 'source', 'harris', 'trump']
 
 df = pd.concat([cook_latest, rcp_latest, fte_latest, nate_latest, latest_270, econ_src]).reset_index(drop=True)
-
 
 # Apply the function to create the 'winning' column
 df['margin'] = df.apply(determine_winner, axis=1)
@@ -212,4 +191,18 @@ for index, row in df.iterrows():
 with open("index.md", "w") as f:
     f.write(markdown_content)
 
-df.to_json('data/polls_avg/avgs/averages_latest.json', indent=4, orient='records')
+# Clean up averages dataframe
+df['winning'] = df['margin'].str.split('>', expand=True)[1].str.split('<', expand=True)[0]
+df['winning_margin'] = df['margin'].str.split('by ', expand=True)[1].astype(float)
+df['date'] = pd.to_datetime(df['date']).dt.strftime('%Y-%m-%d')
+
+# Prepare for JSON export
+df_slim = df.drop(['state', 'notes', 'margin'], axis=1)
+df_slim['fetched_date'] = today
+df_slim.to_json('data/polls_avg/avgs/averages_latest.json', indent=4, orient='records')
+
+# Create/export JSON avg archive
+archive = pd.read_json('data/polls_avg/avgs/averages_trend.json')
+archive['date'] = pd.to_datetime(archive['date']).dt.strftime('%Y-%m-%d')
+combined = pd.concat([df_slim, archive]).drop_duplicates(keep='first').reset_index(drop=True)
+combined.to_json('data/polls_avg/avgs/averages_trend.json', indent=4, orient='records')
