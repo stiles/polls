@@ -166,7 +166,7 @@ formatted_sources = format_sources(sources)
 
 fetched = pd.Timestamp.today().strftime("%B %-d, %Y at %-I %p PT").replace("AM", "a.m.").replace("PM", "p.m.")
 
-msg = f'**{avg_winning}** is leading in the national polls to {avg_losing} by a margin of **{avg_margin}** percentage points, according to seven prominent polling averages. **Last updated: {last_updated_str}**.'
+msg = f'**{avg_winning}** is leading in the national polls to {avg_losing} by a margin of **{avg_margin}** percentage points, according an average of seven prominent polling averages. [More about this data](https://github.com/stiles/polls). *Last updated: {last_updated_str}*.'
 
 # Links for each polling source
 source_links = {

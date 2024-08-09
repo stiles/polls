@@ -1,9 +1,14 @@
 
 # US election polls
 
-This project is a non-commercial exercise in the automated collection of political polls. It fetches, processes and stores political polling data, focusing on key state and national matchups in the upcoming presidential election. It uses Python scripts to retrieve data and stores the outputs in CSV and JSON formats in the `data` directory and on AWS S3. The process runs three times per day — at 6 am, noon and 6 pm Pacific Time — using a Github Actions workflow, which finishes by copying all data to S3. 
+This project is a non-commercial exercise in the automated collection of political polls. It fetches, processes and stores political polling data, focusing on key state and national matchups in the upcoming presidential election. It uses Python scripts to retrieve data and stores the outputs in CSV and JSON formats in the `data` directory and on AWS S3. The process runs three times per day — at 6 am, noon and 6 pm Eastern Time — using a Github Actions workflow, which finishes by copying all data to S3. 
 
 ## Sources
+
+### Various [poll averages](https://mattstiles.me/polls)
+- **Data:** Latest averages pulled from seven prominent news sites that aggregate national polling results.
+- **Sources:** [Cook Report](https://www.cookpolitical.com/survey-research/cpr-national-polling-average/2024/harris-trump-overall), [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/national/), [RealClearPolitics](https://www.realclearpolling.com/polls/president/general/2024/trump-vs-harris), [Nate Silver](https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model), [270toWin](https://www.270towin.com/2024-presidential-election-polls/), [Economist](https://www.economist.com/interactive/us-2024-election/trump-harris-polls), [New York Times](https://www.nytimes.com/interactive/2024/us/elections/polls-president.html)
+
 
 ### [RealClearPolitics](https://www.realclearpolitics.com/)
 
@@ -12,7 +17,7 @@ This project is a non-commercial exercise in the automated collection of politic
 
 ## Process
 
-1. **Data fetching**: A python script — `fetch_polls.py` — retrieves poll data and RealClearPolitics averages from json endpoints (outlined in `data/polls_config.json`) for each poll group (general election, state, topic, etc.). 
+1. **Data fetching**: A python script — `fetch_polls.py` — retrieves poll data and RealClearPolitics averages from json endpoints (outlined in `data/polls_config.json`) for each poll group (general election, state, topic, etc.). Another script — `fetch_all_poll_averages.py` — separately fetches the polling averages, averages them, and outputs a simple JSON file with the results. 
 
 2. **Data processing**: 
     - Extract relevant fields, including poll dates, candidates, topics and spread values.
@@ -52,7 +57,79 @@ That trend collection began with the birth of the repo on August 1, 2024. An ext
 
 - **Harris-Trump RCP average trend:** [JSON](https://stilesdata.com/polling/harris_trump/polls_avg/_trend/harris_trump_trend.json) | [CSV](https://stilesdata.com/polling/harris_trump/polls_avg/_trend/harris_trump_trend.csv)
 
+- **Average of averages:** [Latest (JSON)](https://s3.us-west-1.amazonaws.com/stilesdata.com/polling/harris_trump/polls_avg/avgs/averages_latest.json), [Trend (JSON)](https://s3.us-west-1.amazonaws.com/stilesdata.com/polling/harris_trump/polls_avg/avgs/averages_trend.json)
+
 ### Data structure
+
+#### Example: Average of averages (JSON)
+
+```json
+[
+    {
+        "date":"2024-08-08",
+        "harris":47.2,
+        "trump":47.0,
+        "source":"Cook Political Report",
+        "winning":"Harris",
+        "winning_margin":0.2,
+        "fetched_date":"2024-08-08"
+    },
+    {
+        "date":"2024-08-08",
+        "harris":47.6,
+        "trump":47.1,
+        "source":"Real Clear Politics",
+        "winning":"Harris",
+        "winning_margin":0.5,
+        "fetched_date":"2024-08-08"
+    },
+    {
+        "date":"2024-08-08",
+        "harris":45.4,
+        "trump":43.3,
+        "source":"FiveThirtyEight",
+        "winning":"Harris",
+        "winning_margin":2.1,
+        "fetched_date":"2024-08-08"
+    },
+    {
+        "date":"2024-08-07",
+        "harris":45.8,
+        "trump":43.7,
+        "source":"Silver Bulletin",
+        "winning":"Harris",
+        "winning_margin":2.1,
+        "fetched_date":"2024-08-08"
+    },
+    {
+        "date":"2024-08-07",
+        "harris":48.1,
+        "trump":45.4,
+        "source":"270toWin",
+        "winning":"Harris",
+        "winning_margin":2.7,
+        "fetched_date":"2024-08-08"
+    },
+    {
+        "date":"2024-08-06",
+        "harris":47.4,
+        "trump":45.2,
+        "source":"Economist",
+        "winning":"Harris",
+        "winning_margin":2.2,
+        "fetched_date":"2024-08-08"
+    },
+    {
+        "date":"2024-08-08",
+        "harris":48.0,
+        "trump":47.0,
+        "source":"The New York Times",
+        "winning":"Harris",
+        "winning_margin":1.0,
+        "fetched_date":"2024-08-08"
+    }
+]
+```
 
 #### Example: Harris-Trump general election polls (CSV)
 ```csv
