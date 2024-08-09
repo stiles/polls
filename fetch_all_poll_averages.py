@@ -7,14 +7,16 @@ import pytz
 from datetime import datetime
 
 # Define today's date
-today = pd.Timestamp.today().strftime('%Y-%m-%d')
 
-eastern = pytz.timezone("US/Pacific")
+eastern = pytz.timezone("US/Eastern")
 now = datetime.now(eastern)
 
 last_updated = now.isoformat()
 last_updated_str = (
-    now.strftime("%B %-d at %-I %p PT").replace("AM", "a.m.").replace("PM", "p.m.")
+    now.strftime("%B %-d at %-I %p ET").replace("AM", "a.m.").replace("PM", "p.m.")
+)
+today = (
+    now.strftime('%Y-%m-%d')
 )
 
 # Headers for requests
