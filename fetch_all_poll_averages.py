@@ -181,8 +181,6 @@ source_links = {
 
 # Generate Markdown Content with inline CSS for better mobile responsiveness
 markdown_content = f"""
-# All the Poll Averages
-
 <style>
 table {{
     width: 100%;
@@ -211,10 +209,10 @@ th, td {{
 }}
 </style>
 
-## The Latest
+## Harris v. Trump: The latest
 {msg}
 
-## Sources
+## Sources: All the poll averages
 
 | Source               | Harris (%) | Trump (%) | Margin      |
 |----------------------|------------|-----------|-------------|
@@ -228,7 +226,7 @@ for index, row in df.iterrows():
     markdown_content += f"| [{source_name}]({source_link}) | {row['harris']} | {row['trump']} | {margin_style} |\n"
 
 # Add additional content after the table
-markdown_content += f'\n\n#### Read more [about this data](https://github.com/stiles/polls). Download [the latest averages](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/averages_trend.json). \n\n *Last hourly update: {last_updated_str}*'
+markdown_content += f'\n\n**More:** Read [about this data](https://github.com/stiles/polls). Download [the latest averages](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/averages_trend.json). \n\n *Last hourly update: {last_updated_str}*'
 
 # Write markdown to file
 with open("index.md", "w") as f:
