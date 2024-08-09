@@ -228,7 +228,7 @@ for index, row in df.iterrows():
     markdown_content += f"| [{source_name}]({source_link}) | {row['harris']} | {row['trump']} | {margin_style} |\n"
 
 # Add additional content after the table
-markdown_content += f'\n\n#### Read more [about this data](https://github.com/stiles/polls). Download [the latest averages](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/averages_trend.json)'
+markdown_content += f'\n\n#### Read more [about this data](https://github.com/stiles/polls). Download [the latest averages](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/averages_trend.json).'
 
 # Write markdown to file
 with open("index.md", "w") as f:
