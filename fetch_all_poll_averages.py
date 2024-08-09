@@ -5,6 +5,7 @@ import requests
 import pandas as pd
 import pytz
 from datetime import datetime
+from bs4 import BeautifulSoup
 
 # Define today's date
 
@@ -106,6 +107,33 @@ econ_src = pd.read_csv('https://cdn.economistdatateam.com/2024-us-tracker/harris
 econ_src['source'] = "Economist"
 econ_src['notes'] = ""
 
+
+# NYT
+nyt_page_content = requests.get('https://www.nytimes.com/interactive/2024/us/elections/polls-president.html', headers=headers)
+nyt_soup = BeautifulSoup(nyt_page_content.text, 'html.parser')
+
+# Find the relevant divs
+divs = nyt_soup.find_all('div', class_='g-label-large')[:2]
+
+# Parsing the data
+nyt_data = {}
+for div in divs:
+    label = div.find('span', class_='g-label-fill').text.strip()
+    percentage = div.find('strong').text.strip('%')
+    
+    if 'Trump' in label:
+        nyt_data['trump'] = float(percentage)
+    elif 'Harris' in label:
+        nyt_data['harris'] = float(percentage)
+
+# Adding date to the dictionary
+nyt_data['date'] = today
+
+# Creating a DataFrame
+nyt_df = pd.DataFrame([nyt_data])
+nyt_df['source'] = 'The New York Times'
+nyt_df['notes'] = ''
+
 # All sources
 cols = ['date', 'source', 'harris', 'trump']
 
@@ -142,12 +170,13 @@ msg = f'**{avg_winning}** is leading in the national polls to {avg_losing} by a 
 
 # Links for each polling source
 source_links = {
-    "Cook Political Report": "https://www.cookpolitical.com/survey-research/cpr-national-polling-average/2024/harris-trump-overall",
+    "Cook Report": "https://www.cookpolitical.com/survey-research/cpr-national-polling-average/2024/harris-trump-overall",
     "FiveThirtyEight": "https://projects.fivethirtyeight.com/polls/president-general/2024/national/",
-    "Real Clear Politics": "https://www.realclearpolling.com/polls/president/general/2024/trump-vs-harris",
-    "Silver Bulletin": "https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model",
+    "RealClearPolitics": "https://www.realclearpolling.com/polls/president/general/2024/trump-vs-harris",
+    "Nate Silver": "https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model",
     "270toWin": "https://www.270towin.com/2024-presidential-election-polls/",
-    "Economist": "https://www.economist.com/interactive/us-2024-election/trump-harris-polls"
+    "Economist": "https://www.economist.com/interactive/us-2024-election/trump-harris-polls",
+    "New York Times": "https://www.nytimes.com/interactive/2024/us/elections/polls-president.html"
 }
 
 # Generate Markdown Content with inline CSS for better mobile responsiveness
