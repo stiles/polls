@@ -30,10 +30,10 @@ headers = {
 def determine_winner(row):
     """Determine the winner and margin between Harris and Trump with color."""
     if row['harris'] > row['trump']:
-        winner = "<b style='color:#5194C3; font-weight: bold;'>Harris</b>"
+        winner = "Harris"
         margin = row['harris'] - row['trump']
     else:
-        winner = "<b style='color:#c52622; font-weight: bold;'>Trump</b>"
+        winner = "Trump"
         margin = row['trump'] - row['harris']
     return f"{winner}: +{margin:.1f}"
 
@@ -182,6 +182,7 @@ source_links = {
 # Generate Markdown Content with inline CSS for better mobile responsiveness
 markdown_content = f"""
 <style>
+
 table {{
     width: 100%;
     border-collapse: collapse;
@@ -190,10 +191,20 @@ table, th, td {{
     border: 0px solid black;
 }}
 a {{
-    color: #5194c3;
+    color: inherit;
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: .2em;
+    text-decoration-color: #0003;
+    transition: text-decoration-color .3s ease-out; 
 }}
 a:visited {{
-    color: #5194c3;
+    color: inherit;
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: .2em;
+    text-decoration-color: #0003;
+    transition: text-decoration-color .3s ease-out; 
 }}
 th, td {{
     padding: 8px;
@@ -223,7 +234,12 @@ for index, row in df.iterrows():
     source_name = row['source']
     source_link = source_links.get(source_name, "#")
     margin_style = f"<span style='color: {'#5194C3' if 'Harris' in row['margin'] else '#c52622'}; font-weight: bold;'>{row['margin']}</span>"
-    markdown_content += f"| [{source_name}]({source_link}) | {row['harris']} | {row['trump']} | {margin_style} |\n"
+    
+    # Style the Harris and Trump percentage with respective colors
+    harris_style = f"<span style='color: #5194C3; font-weight: bold;'>{row['harris']}</span>"
+    trump_style = f"<span style='color: #c52622; font-weight: bold;'>{row['trump']}</span>"
+    
+    markdown_content += f"| [{source_name}]({source_link}) | {harris_style} | {trump_style} | {margin_style} |\n"
 
 # Add additional content after the table
 markdown_content += f'\n\n**More:** Read [about this data](https://github.com/stiles/polls). Download [the latest averages](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/averages_trend.json). \n\n *Last hourly update: {last_updated_str}*'
