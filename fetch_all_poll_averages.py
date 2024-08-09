@@ -124,7 +124,7 @@ if harris_avg > trump_avg:
 else:
     avg_winning = "Former President Donald Trump"
     avg_losing = "Vice President Kamala Harris"
-    avg_margin = round(trump_avg - harris_avg, 2)
+    avg_margin = round(trump_avg - harris_avg, 1)
     avg_winning_value = trump_avg
     avg_losing_value = harris_avg
 
