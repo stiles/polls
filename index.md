@@ -21,7 +21,7 @@ th, td {
 </style>
 
 ## The latest
-**Vice President Kamala Harris** is leading in the national polls to former President Donald Trump by a margin of **1.64** percentage points, according to six prominent polling averages. **Last updated: August 8 at 4 p.m. PT**.
+**Vice President Kamala Harris** is leading in the national polls to former President Donald Trump by a margin of **1.64** percentage points, according to six prominent polling averages. **Last updated: August 8 at 6 p.m. PT**.
 
 ## Sources
 
