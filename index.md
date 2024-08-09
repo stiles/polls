@@ -1,5 +1,6 @@
 
 <style>
+
 table {
     width: 100%;
     border-collapse: collapse;
@@ -8,10 +9,20 @@ table, th, td {
     border: 0px solid black;
 }
 a {
-    color: #5194c3;
+    color: inherit;
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: .2em;
+    text-decoration-color: #0003;
+    transition: text-decoration-color .3s ease-out; 
 }
 a:visited {
-    color: #5194c3;
+    color: inherit;
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: .2em;
+    text-decoration-color: #0003;
+    transition: text-decoration-color .3s ease-out; 
 }
 th, td {
     padding: 8px;
@@ -34,13 +45,13 @@ th, td {
 
 | Source               | Harris (%) | Trump (%) | Margin      |
 |----------------------|------------|-----------|-------------|
-| [Cook Political Report](#) | 47.2 | 47.0 | <span style='color: #5194C3; font-weight: bold;'><b style='color:#5194C3; font-weight: bold;'>Harris</b>: +0.2</span> |
-| [Real Clear Politics](https://www.realclearpolling.com/polls/president/general/2024/trump-vs-harris) | 47.6 | 47.1 | <span style='color: #5194C3; font-weight: bold;'><b style='color:#5194C3; font-weight: bold;'>Harris</b>: +0.5</span> |
-| [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/national/) | 45.5 | 43.4 | <span style='color: #5194C3; font-weight: bold;'><b style='color:#5194C3; font-weight: bold;'>Harris</b>: +2.1</span> |
-| [Silver Bulletin](#) | 46.4 | 44.3 | <span style='color: #5194C3; font-weight: bold;'><b style='color:#5194C3; font-weight: bold;'>Harris</b>: +2.1</span> |
-| [270toWin](https://www.270towin.com/2024-presidential-election-polls/) | 47.6 | 45.4 | <span style='color: #5194C3; font-weight: bold;'><b style='color:#5194C3; font-weight: bold;'>Harris</b>: +2.2</span> |
-| [Economist](https://www.economist.com/interactive/us-2024-election/trump-harris-polls) | 47.5 | 45.5 | <span style='color: #5194C3; font-weight: bold;'><b style='color:#5194C3; font-weight: bold;'>Harris</b>: +2.0</span> |
-| [The New York Times](https://www.nytimes.com/interactive/2024/us/elections/polls-president.html) | 48.0 | 47.0 | <span style='color: #5194C3; font-weight: bold;'><b style='color:#5194C3; font-weight: bold;'>Harris</b>: +1.0</span> |
+| [Cook Political Report](#) | <span style='color: #5194C3; font-weight: bold;'>47.2</span> | <span style='color: #c52622; font-weight: bold;'>47.0</span> | <span style='color: #5194C3; font-weight: bold;'>Harris: +0.2</span> |
+| [Real Clear Politics](https://www.realclearpolling.com/polls/president/general/2024/trump-vs-harris) | <span style='color: #5194C3; font-weight: bold;'>47.6</span> | <span style='color: #c52622; font-weight: bold;'>47.1</span> | <span style='color: #5194C3; font-weight: bold;'>Harris: +0.5</span> |
+| [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/national/) | <span style='color: #5194C3; font-weight: bold;'>45.5</span> | <span style='color: #c52622; font-weight: bold;'>43.4</span> | <span style='color: #5194C3; font-weight: bold;'>Harris: +2.1</span> |
+| [Silver Bulletin](#) | <span style='color: #5194C3; font-weight: bold;'>46.4</span> | <span style='color: #c52622; font-weight: bold;'>44.3</span> | <span style='color: #5194C3; font-weight: bold;'>Harris: +2.1</span> |
+| [270toWin](https://www.270towin.com/2024-presidential-election-polls/) | <span style='color: #5194C3; font-weight: bold;'>47.6</span> | <span style='color: #c52622; font-weight: bold;'>45.4</span> | <span style='color: #5194C3; font-weight: bold;'>Harris: +2.2</span> |
+| [Economist](https://www.economist.com/interactive/us-2024-election/trump-harris-polls) | <span style='color: #5194C3; font-weight: bold;'>47.5</span> | <span style='color: #c52622; font-weight: bold;'>45.5</span> | <span style='color: #5194C3; font-weight: bold;'>Harris: +2.0</span> |
+| [The New York Times](https://www.nytimes.com/interactive/2024/us/elections/polls-president.html) | <span style='color: #5194C3; font-weight: bold;'>48.0</span> | <span style='color: #c52622; font-weight: bold;'>47.0</span> | <span style='color: #5194C3; font-weight: bold;'>Harris: +1.0</span> |
 
 
 **More:** Read [about this data](https://github.com/stiles/polls). Download [the latest averages](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/averages_trend.json). 

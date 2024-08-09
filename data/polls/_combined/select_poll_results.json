@@ -2378,6 +2378,23 @@
     ],
     "north_carolina": [
         {
+            "id": "146502",
+            "type": "poll_rcp_avg",
+            "pollster": "Carolina Journal/Cygnal",
+            "date": "8/4 - 8/5",
+            "sampleSize": "600 LV",
+            "marginError": 4.0,
+            "link": "https://www.realclearpolitics.com/docs/2024/Carolina_Journal_NC_August.pdf",
+            "spread_winner": "Trump",
+            "spread_value": 3,
+            "trump_value": "47",
+            "harris_value": "44",
+            "name": "2024 North Carolina: Trump vs. Harris",
+            "slug": "north_carolina",
+            "polling_start_date": "2024-08-04",
+            "polling_end_date": "2024-08-05"
+        },
+        {
             "id": "146341",
             "type": "poll_rcp_avg",
             "pollster": "Bloomberg/MrnConsult",
