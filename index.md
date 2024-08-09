@@ -36,9 +36,9 @@ th, td {
 
 | Source               | Harris (%) | Trump (%) | Margin      |
 |----------------------|------------|-----------|-------------|
-| [Cook Political Report](https://www.cookpolitical.com/survey-research/cpr-national-polling-average/2024/harris-trump-overall) | 47.2 | 47.0 | <span style='color: #5194C3; font-weight: bold;'><b style='color:#5194C3; font-weight: bold;'>Harris</b> by 0.2</span> |
-| [Real Clear Politics](https://www.realclearpolling.com/polls/president/general/2024/trump-vs-harris) | 47.6 | 47.1 | <span style='color: #5194C3; font-weight: bold;'><b style='color:#5194C3; font-weight: bold;'>Harris</b> by 0.5</span> |
+| [Cook Political Report](#) | 47.2 | 47.0 | <span style='color: #5194C3; font-weight: bold;'><b style='color:#5194C3; font-weight: bold;'>Harris</b> by 0.2</span> |
+| [Real Clear Politics](#) | 47.6 | 47.1 | <span style='color: #5194C3; font-weight: bold;'><b style='color:#5194C3; font-weight: bold;'>Harris</b> by 0.5</span> |
 | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/national/) | 45.4 | 43.3 | <span style='color: #5194C3; font-weight: bold;'><b style='color:#5194C3; font-weight: bold;'>Harris</b> by 2.1</span> |
-| [Silver Bulletin](https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model) | 45.8 | 43.7 | <span style='color: #5194C3; font-weight: bold;'><b style='color:#5194C3; font-weight: bold;'>Harris</b> by 2.1</span> |
+| [Silver Bulletin](#) | 45.8 | 43.7 | <span style='color: #5194C3; font-weight: bold;'><b style='color:#5194C3; font-weight: bold;'>Harris</b> by 2.1</span> |
 | [270toWin](https://www.270towin.com/2024-presidential-election-polls/) | 48.1 | 45.4 | <span style='color: #5194C3; font-weight: bold;'><b style='color:#5194C3; font-weight: bold;'>Harris</b> by 2.7</span> |
 | [Economist](https://www.economist.com/interactive/us-2024-election/trump-harris-polls) | 47.4 | 45.2 | <span style='color: #5194C3; font-weight: bold;'><b style='color:#5194C3; font-weight: bold;'>Harris</b> by 2.2</span> |
