@@ -1,5 +1,22 @@
 [
     {
+        "id":"146514",
+        "type":"poll_rcp_avg",
+        "pollster":"NY Times\/Siena",
+        "date":"8\/6 - 8\/9",
+        "sampleSize":"693 LV",
+        "marginError":0.0,
+        "link":"https:\/\/www.nytimes.com\/2024\/08\/10\/us\/politics\/harris-trump-battleground-polls.html",
+        "spread_winner":"Harris",
+        "spread_value":4.0,
+        "trump_value":"46",
+        "harris_value":"50",
+        "name":"2024 Pennsylvania: Trump vs. Harris",
+        "slug":"pennsylvania",
+        "polling_start_date":"2024-08-06",
+        "polling_end_date":"2024-08-09"
+    },
+    {
         "id":"146510",
         "type":"poll_rcp_avg",
         "pollster":"Trafalgar Group (R)",
