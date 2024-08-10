@@ -48,7 +48,7 @@ th, td {
 | [Cook Political Report](https://www.cookpolitical.com/survey-research/cpr-national-polling-average/2024/harris-trump-overall) | <span style='color: #5194C3; font-weight: bold;'>47.3</span> | <span style='color: #c52622; font-weight: bold;'>46.7</span> | <span style='color: #5194C3; font-weight: bold;'>Harris: +0.6</span> |
 | [Real Clear Politics](https://www.realclearpolling.com/polls/president/general/2024/trump-vs-harris) | <span style='color: #5194C3; font-weight: bold;'>47.6</span> | <span style='color: #c52622; font-weight: bold;'>47.1</span> | <span style='color: #5194C3; font-weight: bold;'>Harris: +0.5</span> |
 | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/national/) | <span style='color: #5194C3; font-weight: bold;'>45.6</span> | <span style='color: #c52622; font-weight: bold;'>43.5</span> | <span style='color: #5194C3; font-weight: bold;'>Harris: +2.1</span> |
-| [Silver Bulletin](https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model) | <span style='color: #5194C3; font-weight: bold;'>46.3</span> | <span style='color: #c52622; font-weight: bold;'>43.9</span> | <span style='color: #5194C3; font-weight: bold;'>Harris: +2.4</span> |
+| [Silver Bulletin](https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model) | <span style='color: #5194C3; font-weight: bold;'>46.5</span> | <span style='color: #c52622; font-weight: bold;'>44.0</span> | <span style='color: #5194C3; font-weight: bold;'>Harris: +2.5</span> |
 | [270toWin](https://www.270towin.com/2024-presidential-election-polls/) | <span style='color: #5194C3; font-weight: bold;'>47.6</span> | <span style='color: #c52622; font-weight: bold;'>45.4</span> | <span style='color: #5194C3; font-weight: bold;'>Harris: +2.2</span> |
 | [Economist](https://www.economist.com/interactive/us-2024-election/trump-harris-polls) | <span style='color: #5194C3; font-weight: bold;'>47.5</span> | <span style='color: #c52622; font-weight: bold;'>45.8</span> | <span style='color: #5194C3; font-weight: bold;'>Harris: +1.7</span> |
 | [The New York Times](https://www.nytimes.com/interactive/2024/us/elections/polls-president.html) | <span style='color: #5194C3; font-weight: bold;'>48.0</span> | <span style='color: #c52622; font-weight: bold;'>47.0</span> | <span style='color: #5194C3; font-weight: bold;'>Harris: +1.0</span> |
@@ -56,4 +56,4 @@ th, td {
 
 **More:** Read [about this data](https://github.com/stiles/polls). Download [the latest averages](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/averages_trend.json). 
 
- *Last hourly update: 12 p.m. ET, August 10*
+ *Last hourly update: 1 p.m. ET, August 10*
