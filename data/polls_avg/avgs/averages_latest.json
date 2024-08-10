@@ -18,9 +18,9 @@
         "fetched_date":"2024-08-10"
     },
     {
-        "date":"2024-08-09",
-        "harris":45.5,
-        "trump":43.4,
+        "date":"2024-08-10",
+        "harris":45.6,
+        "trump":43.5,
         "source":"FiveThirtyEight",
         "winning":"Harris",
         "winning_margin":2.1,
