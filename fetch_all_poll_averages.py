@@ -241,15 +241,11 @@ th, td {{
 for index, row in df.iterrows():
     source_name = row['source']
     source_link = source_links.get(source_name, "#")
-    margin_style = f"<span style='color: {'#5194C3' if 'Harris' in row['margin'] else '#c52622'}; font-weight: bold;'>{row['margin']}</span>"
+    margin_style = f"<span style='background: {'#5194C3' if 'D' in row['margin'] else '#c52622'}; padding:1px 4px; color: #ffffff; font-weight: bold;'>{row['margin']}</span>"
     
     # Style the Harris and Trump percentage with respective text colors
-    # harris_style = f"<span style='color: #5194C3; font-weight: bold;'>{row['harris']}</span>"
-    # trump_style = f"<span style='color: #c52622; font-weight: bold;'>{row['trump']}</span>"
-
-    # Style the Harris and Trump percentage with respective background colors
-    harris_style = f"<span style='background:#5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>{row['harris']}</span>"
-    trump_style = f"<span style='background:#5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>{row['trump']}</span>"
+    harris_style = f"<span style='color: #5194C3; font-weight: bold;'>{row['harris']}</span>"
+    trump_style = f"<span style='color: #c52622; font-weight: bold;'>{row['trump']}</span>"
     
     markdown_content += f"| [{source_name}]({source_link}) | {harris_style} | {trump_style} | {margin_style} |\n"
 
