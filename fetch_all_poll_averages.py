@@ -226,7 +226,7 @@ th, td {{
         font-size: .8em;  /* Smaller font size on small screens */
     }}
 }}
-@media (max-width: 330px) {{
+@media (max-width: 320px) {{
     th, td {{
         font-size: .7em;  /* Smaller font size on small screens */
     }}
@@ -255,7 +255,7 @@ for index, row in df.iterrows():
     markdown_content += f"| [{source_name}]({source_link}) | {harris_style} | {trump_style} | {margin_style} |\n"
 
 # Add additional content after the table
-markdown_content += f'\n\n**More:** Read [about this data](https://github.com/stiles/polls). Download [the latest averages](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/averages_trend.json). \n\n *Last hourly update: {last_updated_str}*'
+markdown_content += f'\n\n**Data:** [About](https://github.com/stiles/polls), [download trend](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/averages_trend.json). \n\n *Last hourly update: {last_updated_str}*'
 
 # Write markdown to file
 with open("index.md", "w") as f:
