@@ -33,7 +33,12 @@ th, td {
 }
 @media (max-width: 600px) {
     th, td {
-        font-size: 12px;  /* Smaller font size on small screens */
+        font-size: .8em;  /* Smaller font size on small screens */
+    }
+}
+@media (max-width: 330px) {
+    th, td {
+        font-size: .7em;  /* Smaller font size on small screens */
     }
 }
 </style>
@@ -43,8 +48,8 @@ th, td {
 
 ## All the poll averages
 
-| Source               | Harris % | Trump | Margin      |
-|----------------------|----------|-------|-------------|
+| Source               | Harris % | Trump | Margin       |
+|----------------------|----------|-------|--------------|
 | [Cook Report](https://www.cookpolitical.com/survey-research/cpr-national-polling-average/2024/harris-trump-overall) | <span style='color: #5194C3; font-weight: bold;'>47.3</span> | <span style='color: #c52622; font-weight: bold;'>46.7</span> | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +0.6</span> |
 | [RealClearPolitics](https://www.realclearpolling.com/polls/president/general/2024/trump-vs-harris) | <span style='color: #5194C3; font-weight: bold;'>47.6</span> | <span style='color: #c52622; font-weight: bold;'>47.1</span> | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +0.5</span> |
 | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/national/) | <span style='color: #5194C3; font-weight: bold;'>45.7</span> | <span style='color: #c52622; font-weight: bold;'>43.4</span> | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +2.3</span> |
