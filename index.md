@@ -36,7 +36,7 @@ th, td {
         font-size: .8em;  /* Smaller font size on small screens */
     }
 }
-@media (max-width: 330px) {
+@media (max-width: 320px) {
     th, td {
         font-size: .7em;  /* Smaller font size on small screens */
     }
@@ -59,6 +59,6 @@ th, td {
 | [New York Times](https://www.nytimes.com/interactive/2024/us/elections/polls-president.html) | <span style='color: #5194C3; font-weight: bold;'>48.0</span> | <span style='color: #c52622; font-weight: bold;'>47.0</span> | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +1.0</span> |
 
 
-**More:** Read [about this data](https://github.com/stiles/polls). Download [the latest averages](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/averages_trend.json). 
+**Data:** [About](https://github.com/stiles/polls), [download trend](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/averages_trend.json). 
 
  *Last hourly update: 5 p.m. ET, August 11*
