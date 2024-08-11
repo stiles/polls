@@ -120,15 +120,15 @@ econ_src['notes'] = ""
 nyt_page_content = requests.get('https://www.nytimes.com/interactive/2024/us/elections/polls-president.html', headers=headers)
 nyt_soup = BeautifulSoup(nyt_page_content.text, 'html.parser')
 
-# Find the relevant divs
-divs = nyt_soup.find_all('div', class_='g-label-large')[:2]
+# Assuming 'nyt_soup' is your BeautifulSoup object and 'divs' contains the selected elements
+divs = nyt_soup.find_all('span', class_='g-endlabel-inner')[:2]
 
 # Parsing the data
 nyt_data = {}
 for div in divs:
     label = div.find('span', class_='g-label-fill').text.strip()
-    percentage = div.find('strong').text.strip('%')
-    
+    percentage = div.find('span', class_='g-value').text.strip('%')
+
     if 'Trump' in label:
         nyt_data['trump'] = float(percentage)
     elif 'Harris' in label:
