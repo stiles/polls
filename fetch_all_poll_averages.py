@@ -58,14 +58,14 @@ cook_url = f'https://static.dwcdn.net/data/KTtuN.csv?v={epoch_seconds}'
 cook_src = pd.read_csv(cook_url, storage_options=headers, parse_dates=['Date/Time'])
 cook_src = cook_src[['Date/Time', 'Harris Trend', 'Trump2 Trend']].dropna().rename(columns={'Date/Time': 'date', 'Harris Trend': 'harris', 'Trump2 Trend': 'trump'}).reset_index(drop=True).round(1)
 cook_src['date'] = pd.to_datetime(cook_src['date']).dt.strftime('%Y-%m-%d')
-cook_src['source'] = 'Cook Political Report'
+cook_src['source'] = 'Cook Report'
 cook_src['notes'] = ''
 cook_latest = cook_src.query('date == date.max()').head(1)
 
 # RCP
 rcp_src = pd.read_csv('https://stilesdata.com/polling/harris_trump/polls_avg/_trend/harris_trump_trend.csv')[['fetch_date', 'harris_value', 'trump_value']].rename(columns={'trump_value': 'trump', 'harris_value': 'harris', 'fetch_date': 'date'})
 
-rcp_src['source'] = "Real Clear Politics"
+rcp_src['source'] = "RealClearPolitics"
 rcp_src['notes'] = ''
 
 rcp_latest = rcp_src.query('date == date.max()')
@@ -87,7 +87,7 @@ nate_url = f'https://static.dwcdn.net/data/wB0Zh.csv?v={epoch_seconds}'
 
 nate_src = pd.read_csv(nate_url, storage_options=headers).query('state=="National"').dropna(subset='harris')[nate_cols].rename(columns={'modeldate': 'date', 'rfk': 'kennedy'}).round(1)
 
-nate_src['source'] = 'Silver Bulletin'
+nate_src['source'] = 'Nate Silver'
 nate_src['date'] = pd.to_datetime(nate_src['date'], format='mixed').dt.strftime('%Y-%m-%d')
 
 nate_latest = nate_src.query('date == date.max()').drop('kennedy', axis=1)
@@ -139,7 +139,7 @@ nyt_data['date'] = today
 
 # Creating a DataFrame
 nyt_df = pd.DataFrame([nyt_data])
-nyt_df['source'] = 'The New York Times'
+nyt_df['source'] = 'New York Times'
 nyt_df['notes'] = ''
 
 # All sources
@@ -174,17 +174,17 @@ formatted_sources = format_sources(sources)
 
 fetched = pd.Timestamp.today().strftime("%B %-d, %Y at %-I %p PT").replace("AM", "a.m.").replace("PM", "p.m.")
 
-msg = f'**{avg_winning}** is leading in the national polls to {avg_losing} by a margin of **{avg_margin}** percentage points, according an average of seven prominent polling averages.'
+msg = f'**{avg_winning}** is **leading** in the national polls to {avg_losing} by a margin of **{avg_margin}** percentage points, according an average of seven prominent polling averages.'
 
 # Links for each polling source
 source_links = {
-    "Cook Political Report": "https://www.cookpolitical.com/survey-research/cpr-national-polling-average/2024/harris-trump-overall",
+    "Cook Report": "https://www.cookpolitical.com/survey-research/cpr-national-polling-average/2024/harris-trump-overall",
     "FiveThirtyEight": "https://projects.fivethirtyeight.com/polls/president-general/2024/national/",
-    "Real Clear Politics": "https://www.realclearpolling.com/polls/president/general/2024/trump-vs-harris",
-    "Silver Bulletin": "https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model",
+    "RealClearPolitics": "https://www.realclearpolling.com/polls/president/general/2024/trump-vs-harris",
+    "Nate Silver": "https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model",
     "270toWin": "https://www.270towin.com/2024-presidential-election-polls/",
     "Economist": "https://www.economist.com/interactive/us-2024-election/trump-harris-polls",
-    "The New York Times": "https://www.nytimes.com/interactive/2024/us/elections/polls-president.html"
+    "New York Times": "https://www.nytimes.com/interactive/2024/us/elections/polls-president.html"
 }
 
 # Generate Markdown Content with inline CSS for better mobile responsiveness
@@ -231,10 +231,10 @@ th, td {{
 ## Harris v. Trump: The latest
 {msg}
 
-## Sources: All the poll averages
+## All the poll averages
 
-| Source               | Harris (%) | Trump (%) | Margin      |
-|----------------------|------------|-----------|-------------|
+| Source               | Harris % | Trump | Margin      |
+|----------------------|----------|-------|-------------|
 """
 
 # Append each row of the DataFrame to the markdown table with links
