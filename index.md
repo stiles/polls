@@ -39,7 +39,7 @@ th, td {
 </style>
 
 ## Harris v. Trump: The latest
-**Vice President Kamala Harris** is leading in the national polls to former President Donald Trump by a margin of **1.5** percentage points, according an average of seven prominent polling averages.
+**Vice President Kamala Harris** is leading in the national polls to former President Donald Trump by a margin of **1.6** percentage points, according an average of seven prominent polling averages.
 
 ## Sources: All the poll averages
 
@@ -50,10 +50,10 @@ th, td {
 | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/national/) | <span style='color: #5194C3; font-weight: bold;'>45.7</span> | <span style='color: #c52622; font-weight: bold;'>43.4</span> | <span style='color: #5194C3; font-weight: bold;'>Harris: +2.3</span> |
 | [Silver Bulletin](https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model) | <span style='color: #5194C3; font-weight: bold;'>46.5</span> | <span style='color: #c52622; font-weight: bold;'>44.0</span> | <span style='color: #5194C3; font-weight: bold;'>Harris: +2.5</span> |
 | [270toWin](https://www.270towin.com/2024-presidential-election-polls/) | <span style='color: #5194C3; font-weight: bold;'>47.6</span> | <span style='color: #c52622; font-weight: bold;'>45.4</span> | <span style='color: #5194C3; font-weight: bold;'>Harris: +2.2</span> |
-| [Economist](https://www.economist.com/interactive/us-2024-election/trump-harris-polls) | <span style='color: #5194C3; font-weight: bold;'>47.5</span> | <span style='color: #c52622; font-weight: bold;'>45.8</span> | <span style='color: #5194C3; font-weight: bold;'>Harris: +1.7</span> |
+| [Economist](https://www.economist.com/interactive/us-2024-election/trump-harris-polls) | <span style='color: #5194C3; font-weight: bold;'>47.5</span> | <span style='color: #c52622; font-weight: bold;'>45.7</span> | <span style='color: #5194C3; font-weight: bold;'>Harris: +1.8</span> |
 | [The New York Times](https://www.nytimes.com/interactive/2024/us/elections/polls-president.html) | <span style='color: #5194C3; font-weight: bold;'>48.0</span> | <span style='color: #c52622; font-weight: bold;'>47.0</span> | <span style='color: #5194C3; font-weight: bold;'>Harris: +1.0</span> |
 
 
 **More:** Read [about this data](https://github.com/stiles/polls). Download [the latest averages](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/averages_trend.json). 
 
- *Last hourly update: 6 a.m. ET, August 11*
+ *Last hourly update: 7 a.m. ET, August 11*
