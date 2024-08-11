@@ -223,7 +223,12 @@ th, td {{
 }}
 @media (max-width: 600px) {{
     th, td {{
-        font-size: 12px;  /* Smaller font size on small screens */
+        font-size: .8em;  /* Smaller font size on small screens */
+    }}
+}}
+@media (max-width: 330px) {{
+    th, td {{
+        font-size: .7em;  /* Smaller font size on small screens */
     }}
 }}
 </style>
@@ -233,8 +238,8 @@ th, td {{
 
 ## All the poll averages
 
-| Source               | Harris % | Trump | Margin      |
-|----------------------|----------|-------|-------------|
+| Source               | Harris % | Trump | Margin       |
+|----------------------|----------|-------|--------------|
 """
 
 # Append each row of the DataFrame to the markdown table with links
