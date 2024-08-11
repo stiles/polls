@@ -56,4 +56,4 @@ th, td {
 
 **More:** Read [about this data](https://github.com/stiles/polls). Download [the latest averages](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/averages_trend.json). 
 
- *Last hourly update: 5 a.m. ET, August 11*
+ *Last hourly update: 6 a.m. ET, August 11*
