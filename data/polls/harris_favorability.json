@@ -1,5 +1,22 @@
 [
     {
+        "id":"146528",
+        "type":"poll_rcp_avg",
+        "pollster":"Morning Consult",
+        "date":"8\/9 - 8\/11",
+        "sampleSize":"2261 RV",
+        "marginError":1.0,
+        "link":"https:\/\/pro.morningconsult.com\/trackers\/2024-presidential-election-polling",
+        "spread_winner":"Favorable",
+        "spread_value":2.0,
+        "favorable_value":"49",
+        "unfavorable_value":"47",
+        "name":"Kamala Harris Favorability",
+        "slug":"harris_favorability",
+        "polling_start_date":"2024-08-09",
+        "polling_end_date":"2024-08-11"
+    },
+    {
         "id":"146457",
         "type":"poll_rcp_avg",
         "pollster":"Economist\/YouGov",
@@ -18,7 +35,7 @@
     },
     {
         "id":"146425",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Morning Consult",
         "date":"8\/2 - 8\/4",
         "sampleSize":"2200 RV",

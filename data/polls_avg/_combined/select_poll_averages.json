@@ -3,18 +3,18 @@
         "id": "7386",
         "type": "rcp_average",
         "pollster": "rcp_average",
-        "date": "7/22 - 8/7",
+        "date": "7/22 - 8/11",
         "sampleSize": "",
         "marginError": 0.0,
         "link": null,
         "spread_winner": "Harris",
-        "spread_value": 0.5,
-        "harris_value": "47.6",
+        "spread_value": 0.4,
+        "harris_value": "47.5",
         "trump_value": "47.1",
         "name": "2024 General Election: Trump vs Harris",
         "slug": "general",
         "polling_start_date": "2024-07-22",
-        "polling_end_date": "2024-08-07"
+        "polling_end_date": "2024-08-11"
     },
     {
         "id": "8510",
@@ -176,7 +176,7 @@
         "id": "6690",
         "type": "rcp_average",
         "pollster": "rcp_average",
-        "date": "7/22 - 8/6",
+        "date": "7/22 - 8/11",
         "sampleSize": "",
         "marginError": 0.0,
         "link": null,
@@ -187,7 +187,7 @@
         "name": "Kamala Harris Favorability",
         "slug": "harris_favorability",
         "polling_start_date": "2024-07-22",
-        "polling_end_date": "2024-08-06"
+        "polling_end_date": "2024-08-11"
     },
     {
         "id": "902",
