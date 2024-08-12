@@ -5154,7 +5154,7 @@
         },
         {
             "id": "146146",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Yahoo News",
             "date": "7/19 - 7/22",
             "sampleSize": "1178 RV",
@@ -5171,7 +5171,7 @@
         },
         {
             "id": "146129",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Quinnipiac",
             "date": "7/19 - 7/21",
             "sampleSize": "1257 RV",
