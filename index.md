@@ -51,7 +51,7 @@ th, td {
 | Source               | Harris % | Trump | Margin       |
 |----------------------|----------|-------|--------------|
 | [Cook Report](https://www.cookpolitical.com/survey-research/cpr-national-polling-average/2024/harris-trump-overall) | <span style='color: #5194C3; font-weight: bold;'>47.3</span> | <span style='color: #c52622; font-weight: bold;'>46.7</span> | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +0.6</span> |
-| [RealClearPolitics](https://www.realclearpolling.com/polls/president/general/2024/trump-vs-harris) | <span style='color: #5194C3; font-weight: bold;'>47.6</span> | <span style='color: #c52622; font-weight: bold;'>47.1</span> | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +0.5</span> |
+| [RealClearPolitics](https://www.realclearpolling.com/polls/president/general/2024/trump-vs-harris) | <span style='color: #5194C3; font-weight: bold;'>47.5</span> | <span style='color: #c52622; font-weight: bold;'>47.1</span> | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +0.4</span> |
 | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/national/) | <span style='color: #5194C3; font-weight: bold;'>46.0</span> | <span style='color: #c52622; font-weight: bold;'>43.3</span> | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +2.7</span> |
 | [Nate Silver](https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model) | <span style='color: #5194C3; font-weight: bold;'>46.6</span> | <span style='color: #c52622; font-weight: bold;'>43.8</span> | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +2.8</span> |
 | [270toWin](https://www.270towin.com/2024-presidential-election-polls/) | <span style='color: #5194C3; font-weight: bold;'>47.2</span> | <span style='color: #c52622; font-weight: bold;'>44.8</span> | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +2.4</span> |
@@ -61,4 +61,4 @@ th, td {
 
 **Data:** [About](https://github.com/stiles/polls), [download trend](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/averages_trend.json). 
 
- *Last hourly update: 6 p.m. ET, August 12*
+ *Last hourly update: 7 p.m. ET, August 12*
