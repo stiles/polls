@@ -1428,7 +1428,7 @@
         },
         {
             "id": "146251",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Forbes/HarrisX",
             "date": "7/22 - 7/25",
             "sampleSize": "3013 RV",
