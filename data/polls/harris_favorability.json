@@ -17,6 +17,23 @@
         "polling_end_date":"2024-08-13"
     },
     {
+        "id":"146564",
+        "type":"poll_rcp_avg",
+        "pollster":"Monmouth",
+        "date":"8\/8 - 8\/12",
+        "sampleSize":"801 RV",
+        "marginError":4.0,
+        "link":"https:\/\/www.monmouth.edu\/polling-institute\/reports\/monmouthpoll_US_081424\/",
+        "spread_winner":"Unfavorable",
+        "spread_value":2.0,
+        "favorable_value":"48",
+        "unfavorable_value":"50",
+        "name":"Kamala Harris Favorability",
+        "slug":"harris_favorability",
+        "polling_start_date":"2024-08-08",
+        "polling_end_date":"2024-08-12"
+    },
+    {
         "id":"146528",
         "type":"poll_rcp_avg",
         "pollster":"Morning Consult",

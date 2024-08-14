@@ -1227,8 +1227,28 @@
     ],
     "general_third_parties": [
         {
-            "id": "146451",
+            "id": "146561",
             "type": "poll_rcp_avg",
+            "pollster": "Economist/YouGov",
+            "date": "8/11 - 8/13",
+            "sampleSize": "1407 RV",
+            "marginError": 3.2,
+            "link": "https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_8IEdK8V.pdf",
+            "spread_winner": "Harris",
+            "spread_value": 2.0,
+            "harris_value": "46",
+            "trump_value": "44",
+            "kennedy_value": "3",
+            "stein_value": "1",
+            "west_value": "0",
+            "name": "General Election: Trump vs. Harris vs. Kennedy vs. West vs. Stein",
+            "slug": "general_third_parties",
+            "polling_start_date": "2024-08-11",
+            "polling_end_date": "2024-08-13"
+        },
+        {
+            "id": "146451",
+            "type": "poll",
             "pollster": "Economist/YouGov",
             "date": "8/4 - 8/6",
             "sampleSize": "1413 RV",
@@ -1428,7 +1448,7 @@
         },
         {
             "id": "146251",
-            "type": "poll",
+            "type": "poll_rcp_avg",
             "pollster": "Forbes/HarrisX",
             "date": "7/22 - 7/25",
             "sampleSize": "3013 RV",
@@ -2805,6 +2825,23 @@
             "polling_end_date": "2024-08-13"
         },
         {
+            "id": "146562",
+            "type": "poll_rcp_avg",
+            "pollster": "Monmouth",
+            "date": "8/8 - 8/12",
+            "sampleSize": "801 RV",
+            "marginError": 4.0,
+            "link": "https://www.monmouth.edu/polling-institute/reports/monmouthpoll_US_081424/",
+            "spread_winner": "Democrats",
+            "spread_value": 2.0,
+            "democrats_value": "48",
+            "republicans_value": "46",
+            "name": "2024 Generic Congressional Vote",
+            "slug": "congress_generic",
+            "polling_start_date": "2024-08-08",
+            "polling_end_date": "2024-08-12"
+        },
+        {
             "id": "146452",
             "type": "poll",
             "pollster": "Economist/YouGov",
@@ -3061,7 +3098,7 @@
         },
         {
             "id": "145943",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "NBC News",
             "date": "7/7 - 7/9",
             "sampleSize": "800 RV",
@@ -5015,6 +5052,23 @@
             "slug": "harris_favorability",
             "polling_start_date": "2024-08-11",
             "polling_end_date": "2024-08-13"
+        },
+        {
+            "id": "146564",
+            "type": "poll_rcp_avg",
+            "pollster": "Monmouth",
+            "date": "8/8 - 8/12",
+            "sampleSize": "801 RV",
+            "marginError": 4.0,
+            "link": "https://www.monmouth.edu/polling-institute/reports/monmouthpoll_US_081424/",
+            "spread_winner": "Unfavorable",
+            "spread_value": 2.0,
+            "favorable_value": "48",
+            "unfavorable_value": "50",
+            "name": "Kamala Harris Favorability",
+            "slug": "harris_favorability",
+            "polling_start_date": "2024-08-08",
+            "polling_end_date": "2024-08-12"
         },
         {
             "id": "146528",
@@ -14165,6 +14219,23 @@
     ],
     "country_direction": [
         {
+            "id": "146550",
+            "type": "poll_rcp_avg",
+            "pollster": "Economist/YouGov",
+            "date": "8/11 - 8/13",
+            "sampleSize": "1407 RV",
+            "marginError": 3.2,
+            "link": "https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_8IEdK8V.pdf",
+            "spread_winner": "Wrong Track",
+            "spread_value": -34.0,
+            "right_direction_value": "29",
+            "wrong_track_value": "63",
+            "name": "Direction of Country",
+            "slug": "country_direction",
+            "polling_start_date": "2024-08-11",
+            "polling_end_date": "2024-08-13"
+        },
+        {
             "id": "146523",
             "type": "poll_rcp_avg",
             "pollster": "Rasmussen Reports",
@@ -14183,7 +14254,7 @@
         },
         {
             "id": "146453",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Economist/YouGov",
             "date": "8/4 - 8/6",
             "sampleSize": "1413 RV",
