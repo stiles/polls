@@ -20,16 +20,16 @@
     {
         "date":"2024-08-14",
         "harris":46.3,
-        "trump":43.4,
+        "trump":43.5,
         "source":"FiveThirtyEight",
-        "winning":"D +2.9",
-        "winning_margin":2.9,
+        "winning":"D +2.8",
+        "winning_margin":2.8,
         "fetched_date":"2024-08-14"
     },
     {
-        "date":"2024-08-13",
-        "harris":46.8,
-        "trump":43.7,
+        "date":"2024-08-14",
+        "harris":46.9,
+        "trump":43.8,
         "source":"Nate Silver",
         "winning":"D +3.1",
         "winning_margin":3.1,
