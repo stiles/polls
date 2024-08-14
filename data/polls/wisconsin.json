@@ -34,6 +34,23 @@
         "polling_end_date":"2024-08-08"
     },
     {
+        "id":"146544",
+        "type":"poll_rcp_avg",
+        "pollster":"Cook Political Report",
+        "date":"7\/26 - 8\/2",
+        "sampleSize":"404 LV",
+        "marginError":0.0,
+        "link":"https:\/\/www.cookpolitical.com\/survey-research\/2024-swing-state-project\/14Aug2024-toplines",
+        "spread_winner":"Harris",
+        "spread_value":3.0,
+        "harris_value":"49",
+        "trump_value":"46",
+        "name":"2024 Wisconsin: Trump vs. Harris",
+        "slug":"wisconsin",
+        "polling_start_date":"2024-07-26",
+        "polling_end_date":"2024-08-02"
+    },
+    {
         "id":"146463",
         "type":"poll_rcp_avg",
         "pollster":"Marquette",
