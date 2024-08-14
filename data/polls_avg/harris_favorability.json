@@ -3,17 +3,17 @@
         "id":"6690",
         "type":"rcp_average",
         "pollster":"rcp_average",
-        "date":"7\/22 - 8\/11",
+        "date":"7\/22 - 8\/13",
         "sampleSize":"",
         "marginError":0.0,
         "link":null,
         "spread_winner":"Unfavorable",
-        "spread_value":4.7,
-        "favorable_value":"44.5",
-        "unfavorable_value":"49.2",
+        "spread_value":4.4,
+        "favorable_value":"44.7",
+        "unfavorable_value":"49.1",
         "name":"Kamala Harris Favorability",
         "slug":"harris_favorability",
         "polling_start_date":"2024-07-22",
-        "polling_end_date":"2024-08-11"
+        "polling_end_date":"2024-08-13"
     }
 ]

@@ -34,6 +34,23 @@
         "polling_end_date":"2024-08-05"
     },
     {
+        "id":"146540",
+        "type":"poll_rcp_avg",
+        "pollster":"Cook Political Report",
+        "date":"7\/26 - 8\/2",
+        "sampleSize":"403 LV",
+        "marginError":0.0,
+        "link":"https:\/\/www.cookpolitical.com\/survey-research\/2024-swing-state-project\/14Aug2024-toplines",
+        "spread_winner":"Harris",
+        "spread_value":1.0,
+        "trump_value":"47",
+        "harris_value":"48",
+        "name":"2024 North Carolina: Trump vs. Harris",
+        "slug":"north_carolina",
+        "polling_start_date":"2024-07-26",
+        "polling_end_date":"2024-08-02"
+    },
+    {
         "id":"146341",
         "type":"poll_rcp_avg",
         "pollster":"Bloomberg\/MrnConsult",

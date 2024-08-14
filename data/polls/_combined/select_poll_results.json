@@ -1909,6 +1909,23 @@
             "polling_end_date": "2024-07-30"
         },
         {
+            "id": "146542",
+            "type": "poll_rcp_avg",
+            "pollster": "Cook Political Report",
+            "date": "7/26 - 8/2",
+            "sampleSize": "411 LV",
+            "marginError": 0.0,
+            "link": "https://www.cookpolitical.com/survey-research/2024-swing-state-project/14Aug2024-toplines",
+            "spread_winner": "Harris",
+            "spread_value": 1.0,
+            "trump_value": "48",
+            "harris_value": "49",
+            "name": "2024 Pennsylvania: Trump vs. Harris",
+            "slug": "pennsylvania",
+            "polling_start_date": "2024-07-26",
+            "polling_end_date": "2024-08-02"
+        },
+        {
             "id": "146343",
             "type": "poll_rcp_avg",
             "pollster": "Bloomberg/MrnConsult",
@@ -2064,6 +2081,23 @@
     ],
     "michigan": [
         {
+            "id": "146507",
+            "type": "poll_rcp_avg",
+            "pollster": "InsiderAdvantage",
+            "date": "8/6 - 8/8",
+            "sampleSize": "800 LV",
+            "marginError": 3.4,
+            "link": "https://pollingplus.com/news/pollingplus-exclusive-top-two-presidential-cycle-pollsters-towery-and-cahaly-release-battleground-polls/",
+            "spread_winner": "Harris",
+            "spread_value": 2.0,
+            "harris_value": "49",
+            "trump_value": "47",
+            "name": "2024 Michigan: Trump vs. Harris",
+            "slug": "michigan",
+            "polling_start_date": "2024-08-06",
+            "polling_end_date": "2024-08-08"
+        },
+        {
             "id": "146512",
             "type": "poll_rcp_avg",
             "pollster": "NY Times/Siena",
@@ -2081,21 +2115,21 @@
             "polling_end_date": "2024-08-08"
         },
         {
-            "id": "146507",
+            "id": "146536",
             "type": "poll_rcp_avg",
-            "pollster": "InsiderAdvantage",
-            "date": "8/6 - 8/8",
-            "sampleSize": "800 LV",
-            "marginError": 3.4,
-            "link": "https://pollingplus.com/news/pollingplus-exclusive-top-two-presidential-cycle-pollsters-towery-and-cahaly-release-battleground-polls/",
+            "pollster": "Cook Political Report",
+            "date": "7/26 - 8/2",
+            "sampleSize": "406 LV",
+            "marginError": 0.0,
+            "link": "https://www.cookpolitical.com/survey-research/2024-swing-state-project/14Aug2024-toplines",
             "spread_winner": "Harris",
-            "spread_value": 2.0,
+            "spread_value": 3.0,
             "harris_value": "49",
-            "trump_value": "47",
+            "trump_value": "46",
             "name": "2024 Michigan: Trump vs. Harris",
             "slug": "michigan",
-            "polling_start_date": "2024-08-06",
-            "polling_end_date": "2024-08-08"
+            "polling_start_date": "2024-07-26",
+            "polling_end_date": "2024-08-02"
         },
         {
             "id": "146337",
@@ -2650,6 +2684,23 @@
             "polling_end_date": "2024-08-05"
         },
         {
+            "id": "146540",
+            "type": "poll_rcp_avg",
+            "pollster": "Cook Political Report",
+            "date": "7/26 - 8/2",
+            "sampleSize": "403 LV",
+            "marginError": 0.0,
+            "link": "https://www.cookpolitical.com/survey-research/2024-swing-state-project/14Aug2024-toplines",
+            "spread_winner": "Harris",
+            "spread_value": 1.0,
+            "trump_value": "47",
+            "harris_value": "48",
+            "name": "2024 North Carolina: Trump vs. Harris",
+            "slug": "north_carolina",
+            "polling_start_date": "2024-07-26",
+            "polling_end_date": "2024-08-02"
+        },
+        {
             "id": "146341",
             "type": "poll_rcp_avg",
             "pollster": "Bloomberg/MrnConsult",
@@ -2737,8 +2788,25 @@
     ],
     "congress_generic": [
         {
-            "id": "146452",
+            "id": "146548",
             "type": "poll_rcp_avg",
+            "pollster": "Economist/YouGov",
+            "date": "8/11 - 8/13",
+            "sampleSize": "1407 RV",
+            "marginError": 3.2,
+            "link": "https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_8IEdK8V.pdf",
+            "spread_winner": "Democrats",
+            "spread_value": 1.0,
+            "democrats_value": "45",
+            "republicans_value": "44",
+            "name": "2024 Generic Congressional Vote",
+            "slug": "congress_generic",
+            "polling_start_date": "2024-08-11",
+            "polling_end_date": "2024-08-13"
+        },
+        {
+            "id": "146452",
+            "type": "poll",
             "pollster": "Economist/YouGov",
             "date": "8/4 - 8/6",
             "sampleSize": "1413 RV",
@@ -4932,6 +5000,23 @@
     ],
     "harris_favorability": [
         {
+            "id": "146551",
+            "type": "poll_rcp_avg",
+            "pollster": "Economist/YouGov",
+            "date": "8/11 - 8/13",
+            "sampleSize": "1407 RV",
+            "marginError": 3.2,
+            "link": "https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_8IEdK8V.pdf",
+            "spread_winner": "Unfavorable",
+            "spread_value": 1.0,
+            "favorable_value": "49",
+            "unfavorable_value": "50",
+            "name": "Kamala Harris Favorability",
+            "slug": "harris_favorability",
+            "polling_start_date": "2024-08-11",
+            "polling_end_date": "2024-08-13"
+        },
+        {
             "id": "146528",
             "type": "poll_rcp_avg",
             "pollster": "Morning Consult",
@@ -4950,7 +5035,7 @@
         },
         {
             "id": "146457",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Economist/YouGov",
             "date": "8/4 - 8/6",
             "sampleSize": "1413 RV",

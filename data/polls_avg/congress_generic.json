@@ -3,7 +3,7 @@
         "id":"7969",
         "type":"rcp_average",
         "pollster":"rcp_average",
-        "date":"7\/7 - 8\/6",
+        "date":"7\/7 - 8\/13",
         "sampleSize":"",
         "marginError":0.0,
         "link":null,
@@ -14,6 +14,6 @@
         "name":"2024 Generic Congressional Vote",
         "slug":"congress_generic",
         "polling_start_date":"2024-07-07",
-        "polling_end_date":"2024-08-06"
+        "polling_end_date":"2024-08-13"
     }
 ]
