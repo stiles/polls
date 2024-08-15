@@ -37,8 +37,8 @@
     },
     {
         "date":"2024-08-15",
-        "harris":46.6,
-        "trump":45.6,
+        "harris":46.56,
+        "trump":45.56,
         "source":"270toWin",
         "winning":"D +1.0",
         "winning_margin":1.0,

@@ -7,6 +7,7 @@ notebooks/fetch_selected_polls.ipynb
 notebooks/rcp_polls.ipynb
 notebooks/fetch_all_poll_averages.ipynb
 notebooks/tinkering.ipynb
+notebooks/fetch_538_swing_states.ipynb
 
 # C extensions
 *.so
