@@ -1,5 +1,22 @@
 [
     {
+        "id":"146579",
+        "type":"poll_rcp_avg",
+        "pollster":"FOX News",
+        "date":"8\/9 - 8\/12",
+        "sampleSize":"1105 RV",
+        "marginError":3.0,
+        "link":"https:\/\/www.foxnews.com\/official-polls\/fox-news-poll-new-matchup-same-result-trump-bests-harris-one-point",
+        "spread_winner":"Trump",
+        "spread_value":1.0,
+        "harris_value":"49",
+        "trump_value":"50",
+        "name":"2024 General Election: Trump vs Harris",
+        "slug":"general",
+        "polling_start_date":"2024-08-09",
+        "polling_end_date":"2024-08-12"
+    },
+    {
         "id":"146527",
         "type":"poll_rcp_avg",
         "pollster":"Morning Consult",
