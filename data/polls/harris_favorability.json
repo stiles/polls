@@ -1,5 +1,22 @@
 [
     {
+        "id":"146591",
+        "type":"poll_rcp_avg",
+        "pollster":"Emerson",
+        "date":"8\/12 - 8\/14",
+        "sampleSize":"1000 RV",
+        "marginError":3.0,
+        "link":"https:\/\/emersoncollegepolling.com\/august-2024-national-poll-harris-50-trump-46\/",
+        "spread_winner":"Favorable",
+        "spread_value":2.0,
+        "favorable_value":"51",
+        "unfavorable_value":"49",
+        "name":"Kamala Harris Favorability",
+        "slug":"harris_favorability",
+        "polling_start_date":"2024-08-12",
+        "polling_end_date":"2024-08-14"
+    },
+    {
         "id":"146551",
         "type":"poll_rcp_avg",
         "pollster":"Economist\/YouGov",

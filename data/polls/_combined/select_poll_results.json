@@ -18,6 +18,23 @@
             "polling_end_date": "2024-08-12"
         },
         {
+            "id": "146587",
+            "type": "poll_rcp_avg",
+            "pollster": "Emerson",
+            "date": "8/12 - 8/14",
+            "sampleSize": "1000 RV",
+            "marginError": 3.0,
+            "link": "https://emersoncollegepolling.com/august-2024-national-poll-harris-50-trump-46/",
+            "spread_winner": "Harris",
+            "spread_value": 4.0,
+            "harris_value": "50",
+            "trump_value": "46",
+            "name": "2024 General Election: Trump vs Harris",
+            "slug": "general",
+            "polling_start_date": "2024-08-12",
+            "polling_end_date": "2024-08-14"
+        },
+        {
             "id": "146527",
             "type": "poll_rcp_avg",
             "pollster": "Morning Consult",
@@ -172,7 +189,7 @@
         },
         {
             "id": "146390",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Daily Kos/Civiqs",
             "date": "7/27 - 7/30",
             "sampleSize": "1123 RV",
@@ -1262,6 +1279,26 @@
             "slug": "general_third_parties",
             "polling_start_date": "2024-08-09",
             "polling_end_date": "2024-08-12"
+        },
+        {
+            "id": "146588",
+            "type": "poll_rcp_avg",
+            "pollster": "Emerson",
+            "date": "8/12 - 8/14",
+            "sampleSize": "1000 RV",
+            "marginError": 3.0,
+            "link": "https://emersoncollegepolling.com/august-2024-national-poll-harris-50-trump-46/",
+            "spread_winner": "Harris",
+            "spread_value": 4.0,
+            "harris_value": "48",
+            "trump_value": "44",
+            "kennedy_value": "4",
+            "stein_value": "1",
+            "west_value": "0",
+            "name": "General Election: Trump vs. Harris vs. Kennedy vs. West vs. Stein",
+            "slug": "general_third_parties",
+            "polling_start_date": "2024-08-12",
+            "polling_end_date": "2024-08-14"
         },
         {
             "id": "146561",
@@ -2862,6 +2899,23 @@
     ],
     "congress_generic": [
         {
+            "id": "146590",
+            "type": "poll_rcp_avg",
+            "pollster": "Emerson",
+            "date": "8/12 - 8/14",
+            "sampleSize": "1000 RV",
+            "marginError": 3.0,
+            "link": "https://emersoncollegepolling.com/august-2024-national-poll-harris-50-trump-46/",
+            "spread_winner": "Democrats",
+            "spread_value": 2.0,
+            "democrats_value": "48",
+            "republicans_value": "46",
+            "name": "2024 Generic Congressional Vote",
+            "slug": "congress_generic",
+            "polling_start_date": "2024-08-12",
+            "polling_end_date": "2024-08-14"
+        },
+        {
             "id": "146548",
             "type": "poll_rcp_avg",
             "pollster": "Economist/YouGov",
@@ -3084,7 +3138,7 @@
         },
         {
             "id": "146051",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Emerson",
             "date": "7/15 - 7/16",
             "sampleSize": "2000 RV",
@@ -5090,6 +5144,23 @@
         }
     ],
     "harris_favorability": [
+        {
+            "id": "146591",
+            "type": "poll_rcp_avg",
+            "pollster": "Emerson",
+            "date": "8/12 - 8/14",
+            "sampleSize": "1000 RV",
+            "marginError": 3.0,
+            "link": "https://emersoncollegepolling.com/august-2024-national-poll-harris-50-trump-46/",
+            "spread_winner": "Favorable",
+            "spread_value": 2.0,
+            "favorable_value": "51",
+            "unfavorable_value": "49",
+            "name": "Kamala Harris Favorability",
+            "slug": "harris_favorability",
+            "polling_start_date": "2024-08-12",
+            "polling_end_date": "2024-08-14"
+        },
         {
             "id": "146551",
             "type": "poll_rcp_avg",
