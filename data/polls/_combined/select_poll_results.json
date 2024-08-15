@@ -1,23 +1,6 @@
 {
     "general": [
         {
-            "id": "146579",
-            "type": "poll_rcp_avg",
-            "pollster": "FOX News",
-            "date": "8/9 - 8/12",
-            "sampleSize": "1105 RV",
-            "marginError": 3.0,
-            "link": "https://www.foxnews.com/official-polls/fox-news-poll-new-matchup-same-result-trump-bests-harris-one-point",
-            "spread_winner": "Trump",
-            "spread_value": 1.0,
-            "harris_value": "49",
-            "trump_value": "50",
-            "name": "2024 General Election: Trump vs Harris",
-            "slug": "general",
-            "polling_start_date": "2024-08-09",
-            "polling_end_date": "2024-08-12"
-        },
-        {
             "id": "146587",
             "type": "poll_rcp_avg",
             "pollster": "Emerson",
@@ -50,6 +33,23 @@
             "slug": "general",
             "polling_start_date": "2024-08-08",
             "polling_end_date": "2024-08-14"
+        },
+        {
+            "id": "146579",
+            "type": "poll_rcp_avg",
+            "pollster": "FOX News",
+            "date": "8/9 - 8/12",
+            "sampleSize": "1105 RV",
+            "marginError": 3.0,
+            "link": "https://www.foxnews.com/official-polls/fox-news-poll-new-matchup-same-result-trump-bests-harris-one-point",
+            "spread_winner": "Trump",
+            "spread_value": 1.0,
+            "harris_value": "49",
+            "trump_value": "50",
+            "name": "2024 General Election: Trump vs Harris",
+            "slug": "general",
+            "polling_start_date": "2024-08-09",
+            "polling_end_date": "2024-08-12"
         },
         {
             "id": "146527",
@@ -1278,26 +1278,6 @@
     ],
     "general_third_parties": [
         {
-            "id": "146580",
-            "type": "poll_rcp_avg",
-            "pollster": "FOX News",
-            "date": "8/9 - 8/12",
-            "sampleSize": "1105 RV",
-            "marginError": 3.0,
-            "link": "https://www.foxnews.com/official-polls/fox-news-poll-new-matchup-same-result-trump-bests-harris-one-point",
-            "spread_winner": "Tie",
-            "spread_value": 0.0,
-            "harris_value": "45",
-            "trump_value": "45",
-            "kennedy_value": "6",
-            "stein_value": "1",
-            "west_value": "1",
-            "name": "General Election: Trump vs. Harris vs. Kennedy vs. West vs. Stein",
-            "slug": "general_third_parties",
-            "polling_start_date": "2024-08-09",
-            "polling_end_date": "2024-08-12"
-        },
-        {
             "id": "146588",
             "type": "poll_rcp_avg",
             "pollster": "Emerson",
@@ -1336,6 +1316,26 @@
             "slug": "general_third_parties",
             "polling_start_date": "2024-08-08",
             "polling_end_date": "2024-08-14"
+        },
+        {
+            "id": "146580",
+            "type": "poll_rcp_avg",
+            "pollster": "FOX News",
+            "date": "8/9 - 8/12",
+            "sampleSize": "1105 RV",
+            "marginError": 3.0,
+            "link": "https://www.foxnews.com/official-polls/fox-news-poll-new-matchup-same-result-trump-bests-harris-one-point",
+            "spread_winner": "Tie",
+            "spread_value": 0.0,
+            "harris_value": "45",
+            "trump_value": "45",
+            "kennedy_value": "6",
+            "stein_value": "1",
+            "west_value": "1",
+            "name": "General Election: Trump vs. Harris vs. Kennedy vs. West vs. Stein",
+            "slug": "general_third_parties",
+            "polling_start_date": "2024-08-09",
+            "polling_end_date": "2024-08-12"
         },
         {
             "id": "146561",
