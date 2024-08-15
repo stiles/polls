@@ -50,7 +50,7 @@ th, td {
 
 | Source               | Harris % | Trump | Margin       |
 |----------------------|----------|-------|--------------|
-| [Cook Report](https://www.cookpolitical.com/survey-research/cpr-national-polling-average/2024/harris-trump-overall) | <span style='color: #5194C3; font-weight: bold;'>47.2</span> | <span style='color: #c52622; font-weight: bold;'>46.7</span> | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +0.5</span> |
+| [Cook Report](https://www.cookpolitical.com/survey-research/cpr-national-polling-average/2024/harris-trump-overall) | <span style='color: #5194C3; font-weight: bold;'>47.3</span> | <span style='color: #c52622; font-weight: bold;'>46.9</span> | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +0.4</span> |
 | [RealClearPolitics](https://www.realclearpolling.com/polls/president/general/2024/trump-vs-harris) | <span style='color: #5194C3; font-weight: bold;'>47.9</span> | <span style='color: #c52622; font-weight: bold;'>47.0</span> | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +0.9</span> |
 | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/national/) | <span style='color: #5194C3; font-weight: bold;'>46.2</span> | <span style='color: #c52622; font-weight: bold;'>43.6</span> | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +2.6</span> |
 | [Nate Silver](https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model) | <span style='color: #5194C3; font-weight: bold;'>46.9</span> | <span style='color: #c52622; font-weight: bold;'>43.8</span> | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +3.1</span> |
@@ -61,4 +61,4 @@ th, td {
 
 **Data:** [About](https://github.com/stiles/polls), [download trend](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/averages_trend.json). 
 
- *Last hourly update: 1 a.m. ET, August 15*
+ *Last hourly update: 2 a.m. ET, August 15*
