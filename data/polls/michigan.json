@@ -1,5 +1,22 @@
 [
     {
+        "id":"146607",
+        "type":"poll_rcp_avg",
+        "pollster":"Fabrizio\/Anzalone",
+        "date":"8\/7 - 8\/11",
+        "sampleSize":"600 LV",
+        "marginError":4.0,
+        "link":"https:\/\/www.aarp.org\/content\/dam\/aarp\/research\/topics\/voter-opinion-research\/politics\/michigan-older-voter-survey-2024.doi.10.26419-2fres.00813.028.pdf",
+        "spread_winner":"Tie",
+        "spread_value":0.0,
+        "harris_value":"48",
+        "trump_value":"48",
+        "name":"2024 Michigan: Trump vs. Harris",
+        "slug":"michigan",
+        "polling_start_date":"2024-08-07",
+        "polling_end_date":"2024-08-11"
+    },
+    {
         "id":"146507",
         "type":"poll_rcp_avg",
         "pollster":"InsiderAdvantage",
