@@ -1,6 +1,8 @@
 
 <style>
-
+p {
+font-size: .9em;
+}
 table {
     width: 100%;
     border-collapse: collapse;
@@ -27,6 +29,7 @@ a:visited {
 th, td {
     padding: 8px;
     text-align: left;
+    font-size: .9em;
 }
 .markdown-body>*:last-child {
     display: none;
@@ -44,9 +47,24 @@ th, td {
 </style>
 
 ## Harris v. Trump: The latest
-**Vice President Kamala Harris** is **leading** in the national polls to former President Donald Trump by a margin of **1.8** percentage points, according an average of seven prominent polling averages.
 
-## All the poll averages
+### Swing state polling averages
+<span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>Vice President Kamala Harris</span> is leading in <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>five</span> of the six key swing states over former President Donald Trump, according to FiveThirtyEight's averages.
+
+| State | Margin | Source |
+|-------|--------|--------|
+| AZ | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +1.1</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/arizona/polling-average.json) |
+| GA | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +0.3</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/georgia/polling-average.json) |
+| MI | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +3.0</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/michigan/polling-average.json) |
+| NV | <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>T +0.0</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/nevada/polling-average.json) |
+| PA | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +2.5</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/pennsylvania/polling-average.json) |
+| WI | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +3.7</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/wisconsin/polling-average.json) |
+
+
+**Data:** [Latest](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/state_averages_latest.json), [trend](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/state_averages_trend.json)
+
+### All the national poll averages
+<span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>Vice President Kamala Harris</span> is leading in the national polls to former President Donald Trump by a margin of <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>1.8 percentage points</span>, according an average of seven prominent polling averages.
 
 | Source               | Harris % | Trump | Margin       |
 |----------------------|----------|-------|--------------|
@@ -54,11 +72,11 @@ th, td {
 | [RealClearPolitics](https://www.realclearpolling.com/polls/president/general/2024/trump-vs-harris) | <span style='color: #5194C3; font-weight: bold;'>48.1</span> | <span style='color: #c52622; font-weight: bold;'>47.1</span> | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +1.0</span> |
 | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/national/) | <span style='color: #5194C3; font-weight: bold;'>46.4</span> | <span style='color: #c52622; font-weight: bold;'>43.4</span> | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +3.0</span> |
 | [Nate Silver](https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model) | <span style='color: #5194C3; font-weight: bold;'>46.9</span> | <span style='color: #c52622; font-weight: bold;'>44.1</span> | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +2.8</span> |
-| [270toWin](https://www.270towin.com/2024-presidential-election-polls/) | <span style='color: #5194C3; font-weight: bold;'>46.6</span> | <span style='color: #c52622; font-weight: bold;'>45.6</span> | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +1.0</span> |
+| [270toWin](https://www.270towin.com/2024-presidential-election-polls/) | <span style='color: #5194C3; font-weight: bold;'>46.56</span> | <span style='color: #c52622; font-weight: bold;'>45.56</span> | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +1.0</span> |
 | [Economist](https://www.economist.com/interactive/us-2024-election/trump-harris-polls) | <span style='color: #5194C3; font-weight: bold;'>46.9</span> | <span style='color: #c52622; font-weight: bold;'>44.3</span> | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +2.6</span> |
 | [New York Times](https://www.nytimes.com/interactive/2024/us/elections/polls-president.html) | <span style='color: #5194C3; font-weight: bold;'>49.0</span> | <span style='color: #c52622; font-weight: bold;'>47.0</span> | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +2.0</span> |
 
 
-**Data:** [About](https://github.com/stiles/polls), [download trend](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/averages_trend.json). 
+**Data:** [About](https://github.com/stiles/polls), [download trend](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/averages_trend.json) 
 
  *Last hourly update: 7 p.m. ET, August 15*
