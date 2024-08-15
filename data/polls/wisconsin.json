@@ -1,5 +1,22 @@
 [
     {
+        "id":"146611",
+        "type":"poll_rcp_avg",
+        "pollster":"AmGreatness\/TIPP",
+        "date":"8\/12 - 8\/14",
+        "sampleSize":"1015 RV",
+        "marginError":3.4,
+        "link":"https:\/\/amgreatness.com\/2024\/08\/15\/new-battleground-polling-dead-heat-in-wisconsin-issues-favor-trump\/",
+        "spread_winner":"Tie",
+        "spread_value":0.0,
+        "harris_value":"47",
+        "trump_value":"47",
+        "name":"2024 Wisconsin: Trump vs. Harris",
+        "slug":"wisconsin",
+        "polling_start_date":"2024-08-12",
+        "polling_end_date":"2024-08-14"
+    },
+    {
         "id":"146516",
         "type":"poll_rcp_avg",
         "pollster":"NY Times\/Siena",
