@@ -83,7 +83,7 @@ source_links = {
 markdown_content = f"""
 <style>
 p {{
-font-size: .9em;
+font-size: 1em;
 }}
 table {{
     width: 100%;
@@ -111,14 +111,14 @@ a:visited {{
 th, td {{
     padding: 8px;
     text-align: left;
-    font-size: .9em;
+    font-size: 1em;
 }}
 .markdown-body>*:last-child {{
     display: none;
 }}
 @media (max-width: 600px) {{
     th, td {{
-        font-size: .8em;  /* Smaller font size on small screens */
+        font-size: .9em;  /* Smaller font size on small screens */
     }}
 }}
 @media (max-width: 320px) {{
@@ -150,8 +150,8 @@ markdown_content += f"""
 ### All the national poll averages
 {msg}
 
-| Source               | Harris % | Trump | Margin       |
-|----------------------|----------|-------|--------------|
+| Source               | Harris / Trump % | Margin       |
+|----------------------|------------|--------------|
 """
 
 # Append each row of the DataFrame to the markdown table with links
@@ -160,14 +160,15 @@ for index, row in df.iterrows():
     source_link = source_links.get(source_name, "#")
     margin_style = f"<span style='background: {'#5194C3' if 'D' in row['winning'] else '#c52622'}; padding:1px 4px; color: #ffffff; font-weight: bold;'>{row['winning']}</span>"
     
-    # Style the Harris and Trump percentage with respective text colors
-    harris_style = f"<span style='color: #5194C3; font-weight: bold;'>{row['harris']}</span>"
-    trump_style = f"<span style='color: #c52622; font-weight: bold;'>{row['trump']}</span>"
+    # Style the Harris and Trump percentage with respective text colors, rounded to 1 decimal place
+    harris_style = f"<span style='color: #5194C3; font-weight: bold;'>{row['harris']:.1f}</span>"
+    trump_style = f"<span style='color: #c52622; font-weight: bold;'>{row['trump']:.1f}</span>"
     
-    markdown_content += f"| [{source_name}]({source_link}) | {harris_style} | {trump_style} | {margin_style} |\n"
+    markdown_content += f"| [{source_name}]({source_link}) | {harris_style} / {trump_style} | {margin_style} |\n"
+
 
 # Add additional content after the table
-markdown_content += f'\n\n**Data:** [About](https://github.com/stiles/polls), [download trend](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/averages_trend.json) \n\n *Last hourly update: {last_updated_str}*'
+markdown_content += f'\n\n **Data:** [Latest](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/averages_latest.json), [trend](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/averages_trend.json) \n\n **Last hourly update:** *{last_updated_str}*. **About this page:** [Github repo](https://github.com/stiles/polls)'
 
 # Write markdown to file
 with open("index.md", "w") as f:
