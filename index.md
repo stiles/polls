@@ -26,19 +26,18 @@ a:visited {
 th, td {
     padding: 8px;
     text-align: left;
-    font-size: 1em;
 }
 .markdown-body>*:last-child {
     display: none;
 }
-@media (max-width: 600px) {
+@media (max-width: 400px) {
     th, td {
-        font-size: 1em;  /* Smaller font size on small screens */
+        font-size: .9em;  /* Smaller font size on small screens */
     }
 }
 @media (max-width: 320px) {
     th, td {
-        font-size: .9em;  /* Smaller font size on small screens */
+        font-size: .8em;  /* Smaller font size on small screens */
     }
 }
 </style>
@@ -78,4 +77,4 @@ th, td {
 
  **About this page:** [Github repo](https://github.com/stiles/polls) 
 
- **Data fetched hourly. Last update:** *9 p.m. ET, August 15*.
+ **Last update:** *9 p.m. ET, August 15*.
