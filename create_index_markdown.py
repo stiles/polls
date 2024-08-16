@@ -108,19 +108,18 @@ a:visited {{
 th, td {{
     padding: 8px;
     text-align: left;
-    font-size: 1em;
 }}
 .markdown-body>*:last-child {{
     display: none;
 }}
-@media (max-width: 600px) {{
+@media (max-width: 400px) {{
     th, td {{
-        font-size: 1em;  /* Smaller font size on small screens */
+        font-size: .9em;  /* Smaller font size on small screens */
     }}
 }}
 @media (max-width: 320px) {{
     th, td {{
-        font-size: .9em;  /* Smaller font size on small screens */
+        font-size: .8em;  /* Smaller font size on small screens */
     }}
 }}
 </style>
@@ -168,7 +167,7 @@ for index, row in df.iterrows():
 
 
 # Add additional content after the table
-markdown_content += f'\n\n **Data:** [Latest](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/averages_latest.json), [trend](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/averages_trend.json) \n\n **About this page:** [Github repo](https://github.com/stiles/polls) \n\n **Data fetched hourly. Last update:** *{last_updated_str}*.'
+markdown_content += f'\n\n **Data:** [Latest](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/averages_latest.json), [trend](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/averages_trend.json) \n\n **About this page:** [Github repo](https://github.com/stiles/polls) \n\n **Last update:** *{last_updated_str}*.'
 
 # Write markdown to file
 with open("index.md", "w") as f:
