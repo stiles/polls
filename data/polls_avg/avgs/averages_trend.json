@@ -9,7 +9,7 @@
         "fetched_date":"2024-08-15"
     },
     {
-        "date":"2024-08-15",
+        "date":"2024-08-16",
         "harris":48.1,
         "trump":47.1,
         "source":"RealClearPolitics",
@@ -19,11 +19,11 @@
     },
     {
         "date":"2024-08-15",
-        "harris":46.4,
-        "trump":43.4,
+        "harris":46.3,
+        "trump":43.5,
         "source":"FiveThirtyEight",
-        "winning":"D +3.0",
-        "winning_margin":3.0,
+        "winning":"D +2.8",
+        "winning_margin":2.8,
         "fetched_date":"2024-08-15"
     },
     {
