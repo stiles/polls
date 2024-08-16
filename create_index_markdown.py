@@ -66,7 +66,7 @@ def format_sources(sources):
 sources = list(df['source'].unique())
 formatted_sources = format_sources(sources)
 
-msg = f"<span style='background: {avg_winning_color}; padding:1px 4px; color: #ffffff; font-weight: bold;'>{avg_winning}</span> is leading in the national polls to {avg_losing} by a margin of <span style='background: {avg_winning_color}; padding:1px 4px; color: #ffffff; font-weight: bold;'>{avg_margin} percentage points</span>, according an average of seven prominent polling averages."
+msg = f"<span style='background: {avg_winning_color}; padding:1px 4px; color: #ffffff; font-weight: bold;'>{avg_winning}</span> is leading in the national polls by a <span style='background: {avg_winning_color}; padding:1px 4px; color: #ffffff; font-weight: bold;'>{avg_margin} percentage point</span> margin over {avg_losing}, according an average of prominent polling averages."
 
 # Links for each polling source
 source_links = {
@@ -82,9 +82,6 @@ source_links = {
 # Generate Markdown Content with inline CSS for better mobile responsiveness
 markdown_content = f"""
 <style>
-p {{
-font-size: 1em;
-}}
 table {{
     width: 100%;
     border-collapse: collapse;
@@ -118,12 +115,12 @@ th, td {{
 }}
 @media (max-width: 600px) {{
     th, td {{
-        font-size: .9em;  /* Smaller font size on small screens */
+        font-size: 1em;  /* Smaller font size on small screens */
     }}
 }}
 @media (max-width: 320px) {{
     th, td {{
-        font-size: .7em;  /* Smaller font size on small screens */
+        font-size: .9em;  /* Smaller font size on small screens */
     }}
 }}
 </style>
@@ -133,7 +130,7 @@ th, td {{
 ### Swing state polling averages
 {state_msg}
 
-| State | Margin | Source |
+| Location | Margin | Source |
 |-------|--------|--------|
 """
 
@@ -141,7 +138,7 @@ th, td {{
 for _, row in states_fte.iterrows():
     margin_style = f"<span style='background: {'#5194C3' if 'D' in row['winning'] else '#c52622'}; padding:1px 4px; color: #ffffff; font-weight: bold;'>{row['winning']}</span>"
     source_link = f"[FiveThirtyEight]({row['source_url']})"
-    markdown_content += f"| {row['state_abbr']} | {margin_style} | {source_link} |\n"
+    markdown_content += f"| {row['state']} | {margin_style} | {source_link} |\n"
 
 markdown_content += f"""
 
@@ -150,13 +147,14 @@ markdown_content += f"""
 ### All the national poll averages
 {msg}
 
-| Source               | Harris / Trump % | Margin       |
-|----------------------|------------|--------------|
+| Location             | Margin               | Source       |
+|----------------------|----------------------|--------------|
 """
 
 # Append each row of the DataFrame to the markdown table with links
 for index, row in df.iterrows():
     source_name = row['source']
+    source_location = 'National'
     source_link = source_links.get(source_name, "#")
     margin_style = f"<span style='background: {'#5194C3' if 'D' in row['winning'] else '#c52622'}; padding:1px 4px; color: #ffffff; font-weight: bold;'>{row['winning']}</span>"
     
@@ -164,11 +162,13 @@ for index, row in df.iterrows():
     harris_style = f"<span style='color: #5194C3; font-weight: bold;'>{row['harris']:.1f}</span>"
     trump_style = f"<span style='color: #c52622; font-weight: bold;'>{row['trump']:.1f}</span>"
     
-    markdown_content += f"| [{source_name}]({source_link}) | {harris_style} / {trump_style} | {margin_style} |\n"
+    # markdown_content += f"| [{source_name}]({source_link}) | {harris_style} / {trump_style} | {margin_style} |\n"
+    markdown_content += f"| {source_location} | {margin_style} |[{source_name}]({source_link}) \n"
+
 
 
 # Add additional content after the table
-markdown_content += f'\n\n **Data:** [Latest](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/averages_latest.json), [trend](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/averages_trend.json) \n\n **Last hourly update:** *{last_updated_str}*. **About this page:** [Github repo](https://github.com/stiles/polls)'
+markdown_content += f'\n\n **Data:** [Latest](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/averages_latest.json), [trend](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/averages_trend.json) \n\n **About this page:** [Github repo](https://github.com/stiles/polls) \n\n **Data fetched hourly. Last update:** *{last_updated_str}*.'
 
 # Write markdown to file
 with open("index.md", "w") as f:
