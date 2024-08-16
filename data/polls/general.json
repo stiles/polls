@@ -68,6 +68,23 @@
         "polling_end_date":"2024-08-11"
     },
     {
+        "id":"146618",
+        "type":"poll_rcp_avg",
+        "pollster":"Pew Research",
+        "date":"8\/5 - 8\/11",
+        "sampleSize":"7569 RV",
+        "marginError":1.4,
+        "link":"https:\/\/www.pewresearch.org\/politics\/2024\/08\/14\/harris-trump-methodology\/",
+        "spread_winner":"Harris",
+        "spread_value":1.0,
+        "harris_value":"46",
+        "trump_value":"45",
+        "name":"2024 General Election: Trump vs Harris",
+        "slug":"general",
+        "polling_start_date":"2024-08-05",
+        "polling_end_date":"2024-08-11"
+    },
+    {
         "id":"146500",
         "type":"poll_rcp_avg",
         "pollster":"Ipsos",
