@@ -1,5 +1,22 @@
 [
     {
+        "id":"146623",
+        "type":"poll_rcp_avg",
+        "pollster":"Emerson",
+        "date":"8\/13 - 8\/14",
+        "sampleSize":"1000 LV",
+        "marginError":3.0,
+        "link":"https:\/\/emersoncollegepolling.com\/pennsylvania-2024-poll-trump-49-harris-48\/",
+        "spread_winner":"Trump",
+        "spread_value":1.0,
+        "trump_value":"49",
+        "harris_value":"48",
+        "name":"2024 Pennsylvania: Trump vs. Harris",
+        "slug":"pennsylvania",
+        "polling_start_date":"2024-08-13",
+        "polling_end_date":"2024-08-14"
+    },
+    {
         "id":"146574",
         "type":"poll_rcp_avg",
         "pollster":"Quinnipiac",
@@ -120,7 +137,7 @@
     },
     {
         "id":"146207",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"The Hill\/Emerson",
         "date":"7\/22 - 7\/23",
         "sampleSize":"850 RV",
