@@ -136,9 +136,19 @@ th, td {{
 |-------|--------|--------|
 """
 
-# Add swing state table with styled margins and source URLs
 for _, row in states_fte.iterrows():
-    margin_style = f"<span style='background: {'#5194C3' if 'D' in row['winning'] else '#c52622'}; padding:1px 4px; color: #ffffff; font-weight: bold;'>{row['winning']}</span>"
+    # Determine the background color based on the winner
+    if row['winning'].startswith('D'):
+        background_color = '#5194C3'  # Blue for Democrat
+    elif row['winning'].startswith('R'):
+        background_color = '#c52622'  # Red for Republican
+    elif row['winning'].startswith('T'):
+        background_color = '#7c4ea5'  # Purple for Tie
+    else:
+        background_color = '#c52622'  # Default to Red if no match (shouldn't happen if data is clean)
+    
+    # Apply the determined background color to the margin style
+    margin_style = f"<span style='background: {background_color}; padding:1px 4px; color: #ffffff; font-weight: bold;'>{row['winning']}</span>"
     source_link = f"[FiveThirtyEight]({row['source_url']})"
     markdown_content += f"| {row['state']} | {margin_style} | {source_link} |\n"
 
