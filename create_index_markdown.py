@@ -105,8 +105,11 @@ a:visited {{
     text-decoration-color: #0003;
     transition: text-decoration-color .3s ease-out; 
 }}
+.markdown-body table th, .markdown-body table td {{
+    padding: 5px 10px;
+    border: 1px solid #dfe2e5;
+}}
 th, td {{
-    padding: 8px;
     text-align: left;
 }}
 .markdown-body>*:last-child {{
@@ -129,7 +132,7 @@ th, td {{
 ### Swing state polling averages
 {state_msg}
 
-| Location | Margin | Source |
+| Place | Margin | Source |
 |-------|--------|--------|
 """
 
@@ -143,17 +146,17 @@ markdown_content += f"""
 
 **Data:** [Latest](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/state_averages_latest.json), [trend](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/state_averages_trend.json)
 
-### All the national poll averages
+### All the national polling averages
 {msg}
 
-| Location             | Margin               | Source       |
-|----------------------|----------------------|--------------|
+| Place             | Margin               | Source       |
+|-------------------|----------------------|--------------|
 """
 
 # Append each row of the DataFrame to the markdown table with links
 for index, row in df.iterrows():
     source_name = row['source']
-    source_location = 'National'
+    source_location = 'US'
     source_link = source_links.get(source_name, "#")
     margin_style = f"<span style='background: {'#5194C3' if 'D' in row['winning'] else '#c52622'}; padding:1px 4px; color: #ffffff; font-weight: bold;'>{row['winning']}</span>"
     
