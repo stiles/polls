@@ -1,5 +1,22 @@
 [
     {
+        "id":"146635",
+        "type":"poll_rcp_avg",
+        "pollster":"NY Times\/Siena",
+        "date":"8\/12 - 8\/15",
+        "sampleSize":"677 LV",
+        "marginError":0.0,
+        "link":"https:\/\/www.nytimes.com\/interactive\/2024\/08\/17\/us\/elections\/times-siena-poll-nevada-likely-electorate.html",
+        "spread_winner":"Trump",
+        "spread_value":1.0,
+        "trump_value":"48",
+        "harris_value":"47",
+        "name":"2024 Nevada: Trump vs. Harris",
+        "slug":"nevada",
+        "polling_start_date":"2024-08-12",
+        "polling_end_date":"2024-08-15"
+    },
+    {
         "id":"146508",
         "type":"poll_rcp_avg",
         "pollster":"Trafalgar Group (R)",
@@ -52,7 +69,7 @@
     },
     {
         "id":"146078",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"InsiderAdvantage",
         "date":"7\/15 - 7\/16",
         "sampleSize":"800 LV",

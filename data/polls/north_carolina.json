@@ -1,5 +1,22 @@
 [
     {
+        "id":"146638",
+        "type":"poll_rcp_avg",
+        "pollster":"NY Times\/Siena",
+        "date":"8\/9 - 8\/14",
+        "sampleSize":"655 LV",
+        "marginError":0.0,
+        "link":"https:\/\/www.nytimes.com\/interactive\/2024\/08\/17\/us\/elections\/times-siena-poll-nevada-likely-electorate.html",
+        "spread_winner":"Harris",
+        "spread_value":2.0,
+        "trump_value":"47",
+        "harris_value":"49",
+        "name":"2024 North Carolina: Trump vs. Harris",
+        "slug":"north_carolina",
+        "polling_start_date":"2024-08-09",
+        "polling_end_date":"2024-08-14"
+    },
+    {
         "id":"146509",
         "type":"poll_rcp_avg",
         "pollster":"Trafalgar Group (R)",
@@ -69,7 +86,7 @@
     },
     {
         "id":"146428",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"PPP (D)",
         "date":"7\/19 - 7\/20",
         "sampleSize":"573 RV",
