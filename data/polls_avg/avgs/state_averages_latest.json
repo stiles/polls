@@ -1,18 +1,18 @@
 [
     {
         "state":"Arizona",
-        "date":"2024-08-16",
+        "date":"2024-08-17",
         "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/arizona\/polling-average.json",
         "harris":45.0,
-        "trump":44.4,
-        "winning":"D +0.6",
-        "winning_margin":0.6,
+        "trump":44.3,
+        "winning":"D +0.7",
+        "winning_margin":0.7,
         "state_abbr":"AZ",
         "source":"FiveThirtyEight"
     },
     {
         "state":"Georgia",
-        "date":"2024-08-16",
+        "date":"2024-08-17",
         "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/georgia\/polling-average.json",
         "harris":45.8,
         "trump":46.0,
@@ -23,7 +23,7 @@
     },
     {
         "state":"Michigan",
-        "date":"2024-08-16",
+        "date":"2024-08-17",
         "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/michigan\/polling-average.json",
         "harris":45.9,
         "trump":43.3,
@@ -34,7 +34,7 @@
     },
     {
         "state":"Nevada",
-        "date":"2024-08-16",
+        "date":"2024-08-17",
         "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/nevada\/polling-average.json",
         "harris":44.3,
         "trump":44.6,
@@ -45,7 +45,7 @@
     },
     {
         "state":"Pennsylvania",
-        "date":"2024-08-16",
+        "date":"2024-08-17",
         "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/pennsylvania\/polling-average.json",
         "harris":46.0,
         "trump":44.7,
@@ -56,12 +56,12 @@
     },
     {
         "state":"Wisconsin",
-        "date":"2024-08-16",
+        "date":"2024-08-17",
         "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/wisconsin\/polling-average.json",
         "harris":47.0,
-        "trump":44.2,
-        "winning":"D +2.8",
-        "winning_margin":2.8,
+        "trump":44.1,
+        "winning":"D +2.9",
+        "winning_margin":2.9,
         "state_abbr":"WI",
         "source":"FiveThirtyEight"
     }
