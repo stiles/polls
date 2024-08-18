@@ -1,20 +1,20 @@
 [
     {
-        "id":"146587",
+        "id":"146641",
         "type":"poll_rcp_avg",
-        "pollster":"Emerson",
-        "date":"8\/12 - 8\/14",
-        "sampleSize":"1000 RV",
-        "marginError":3.0,
-        "link":"https:\/\/emersoncollegepolling.com\/august-2024-national-poll-harris-50-trump-46\/",
+        "pollster":"ABC News\/Wash Post",
+        "date":"8\/9 - 8\/13",
+        "sampleSize":"1901 RV",
+        "marginError":2.5,
+        "link":"https:\/\/www.washingtonpost.com\/politics\/2024\/08\/18\/harris-trump-post-abc-ipsos-poll\/",
         "spread_winner":"Harris",
         "spread_value":4.0,
-        "harris_value":"50",
-        "trump_value":"46",
+        "harris_value":"49",
+        "trump_value":"45",
         "name":"2024 General Election: Trump vs Harris",
         "slug":"general",
-        "polling_start_date":"2024-08-12",
-        "polling_end_date":"2024-08-14"
+        "polling_start_date":"2024-08-09",
+        "polling_end_date":"2024-08-13"
     },
     {
         "id":"146603",
@@ -31,6 +31,23 @@
         "name":"2024 General Election: Trump vs Harris",
         "slug":"general",
         "polling_start_date":"2024-08-08",
+        "polling_end_date":"2024-08-14"
+    },
+    {
+        "id":"146587",
+        "type":"poll_rcp_avg",
+        "pollster":"Emerson",
+        "date":"8\/12 - 8\/14",
+        "sampleSize":"1000 RV",
+        "marginError":3.0,
+        "link":"https:\/\/emersoncollegepolling.com\/august-2024-national-poll-harris-50-trump-46\/",
+        "spread_winner":"Harris",
+        "spread_value":4.0,
+        "harris_value":"50",
+        "trump_value":"46",
+        "name":"2024 General Election: Trump vs Harris",
+        "slug":"general",
+        "polling_start_date":"2024-08-12",
         "polling_end_date":"2024-08-14"
     },
     {

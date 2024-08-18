@@ -417,9 +417,9 @@
         "id":7386,
         "type":"rcp_average",
         "spread_winner":"Harris",
-        "spread_value":1.0,
-        "trump_value":46.9,
-        "harris_value":47.9,
+        "spread_value":1.2,
+        "trump_value":46.8,
+        "harris_value":48.0,
         "fetch_date":"2024-08-18"
     }
 ]
