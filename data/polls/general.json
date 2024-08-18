@@ -1,20 +1,20 @@
 [
     {
-        "id":"146641",
+        "id":"146644",
         "type":"poll_rcp_avg",
-        "pollster":"ABC News\/Wash Post",
-        "date":"8\/9 - 8\/13",
-        "sampleSize":"1901 RV",
-        "marginError":2.5,
-        "link":"https:\/\/www.washingtonpost.com\/politics\/2024\/08\/18\/harris-trump-post-abc-ipsos-poll\/",
+        "pollster":"CBS News",
+        "date":"8\/14 - 8\/16",
+        "sampleSize":"3258 LV",
+        "marginError":2.1,
+        "link":"https:\/\/www.cbsnews.com\/news\/new-poll-kamala-harris-policies-trump-democratic-convention-2024\/",
         "spread_winner":"Harris",
-        "spread_value":4.0,
-        "harris_value":"49",
-        "trump_value":"45",
+        "spread_value":3.0,
+        "harris_value":"51",
+        "trump_value":"48",
         "name":"2024 General Election: Trump vs Harris",
         "slug":"general",
-        "polling_start_date":"2024-08-09",
-        "polling_end_date":"2024-08-13"
+        "polling_start_date":"2024-08-14",
+        "polling_end_date":"2024-08-16"
     },
     {
         "id":"146603",
@@ -32,6 +32,23 @@
         "slug":"general",
         "polling_start_date":"2024-08-08",
         "polling_end_date":"2024-08-14"
+    },
+    {
+        "id":"146641",
+        "type":"poll_rcp_avg",
+        "pollster":"ABC News\/Wash Post",
+        "date":"8\/9 - 8\/13",
+        "sampleSize":"1901 RV",
+        "marginError":2.5,
+        "link":"https:\/\/www.washingtonpost.com\/politics\/2024\/08\/18\/harris-trump-post-abc-ipsos-poll\/",
+        "spread_winner":"Harris",
+        "spread_value":4.0,
+        "harris_value":"49",
+        "trump_value":"45",
+        "name":"2024 General Election: Trump vs Harris",
+        "slug":"general",
+        "polling_start_date":"2024-08-09",
+        "polling_end_date":"2024-08-13"
     },
     {
         "id":"146587",
@@ -222,7 +239,7 @@
     },
     {
         "id":"146415",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"CBS News",
         "date":"7\/30 - 8\/2",
         "sampleSize":"3102 RV",
