@@ -1,4 +1,6 @@
 id,type,pollster,date,sampleSize,marginError,link,spread_winner,spread_value,trump_value,harris_value,name,slug,polling_start_date,polling_end_date
+146652,poll_rcp_avg,Rasmussen Reports,8/13 - 8/17,1312 LV,0.0,https://www.realclearpolling.com/stories/analysis/no-frontrunner-in-swing-states-before-democratic-convention,Trump,1.0,47,46,2024 Pennsylvania: Trump vs. Harris,pennsylvania,2024-08-13,2024-08-17
+146627,poll,Cygnal (R),8/14 - 8/15,800 LV,3.4,https://www.cygn.al/wp-content/uploads/2024/08/Cygnal-PA-Statewide-Deck-Public-AUG24.pdf,Harris,1.0,47,48,2024 Pennsylvania: Trump vs. Harris,pennsylvania,2024-08-14,2024-08-15
 146623,poll_rcp_avg,Emerson,8/13 - 8/14,1000 LV,3.0,https://emersoncollegepolling.com/pennsylvania-2024-poll-trump-49-harris-48/,Trump,1.0,49,48,2024 Pennsylvania: Trump vs. Harris,pennsylvania,2024-08-13,2024-08-14
 146574,poll_rcp_avg,Quinnipiac,8/8 - 8/12,1738 LV,2.4,https://poll.qu.edu/poll-release?releaseid=3902,Harris,3.0,47,50,2024 Pennsylvania: Trump vs. Harris,pennsylvania,2024-08-08,2024-08-12
 146514,poll_rcp_avg,NY Times/Siena,8/6 - 8/9,693 LV,0.0,https://www.nytimes.com/2024/08/10/us/politics/harris-trump-battleground-polls.html,Harris,4.0,46,50,2024 Pennsylvania: Trump vs. Harris,pennsylvania,2024-08-06,2024-08-09
