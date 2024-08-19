@@ -1,5 +1,22 @@
 [
     {
+        "id":"146661",
+        "type":"poll_rcp_avg",
+        "pollster":"InsiderAdvantage",
+        "date":"8\/18 - 8\/19",
+        "sampleSize":"800 LV",
+        "marginError":3.5,
+        "link":"https:\/\/pollingplus.com\/news\/pollingplus-exclusive-insideradvantage-survey-of-pennsylvania\/",
+        "spread_winner":"Trump",
+        "spread_value":1.0,
+        "trump_value":"47",
+        "harris_value":"46",
+        "name":"2024 Pennsylvania: Trump vs. Harris",
+        "slug":"pennsylvania",
+        "polling_start_date":"2024-08-18",
+        "polling_end_date":"2024-08-19"
+    },
+    {
         "id":"146652",
         "type":"poll_rcp_avg",
         "pollster":"Rasmussen Reports",
