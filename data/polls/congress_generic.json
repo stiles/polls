@@ -17,6 +17,23 @@
         "polling_end_date":"2024-08-20"
     },
     {
+        "id":"146693",
+        "type":"poll_rcp_avg",
+        "pollster":"Rasmussen Reports",
+        "date":"8\/15 - 8\/19",
+        "sampleSize":"1142 LV",
+        "marginError":3.0,
+        "link":"https:\/\/www.rasmussenreports.com\/public_content\/politics\/mood_of_america\/generic_congressional_ballot_augs21",
+        "spread_winner":"Republicans",
+        "spread_value":5.0,
+        "democrats_value":"43",
+        "republicans_value":"48",
+        "name":"2024 Generic Congressional Vote",
+        "slug":"congress_generic",
+        "polling_start_date":"2024-08-15",
+        "polling_end_date":"2024-08-19"
+    },
+    {
         "id":"146590",
         "type":"poll_rcp_avg",
         "pollster":"Emerson",
