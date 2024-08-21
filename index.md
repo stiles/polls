@@ -80,4 +80,4 @@ th, td {
 
  **About this page:** [Github repo](https://github.com/stiles/polls) 
 
- **Last update:** *8 a.m. ET, August 21*.
+ **Last update:** *9 a.m. ET, August 21*.
