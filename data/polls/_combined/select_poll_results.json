@@ -2614,6 +2614,23 @@
     ],
     "wisconsin": [
         {
+            "id": "146686",
+            "type": "poll_rcp_avg",
+            "pollster": "Rasmussen Reports",
+            "date": "8/13 - 8/19",
+            "sampleSize": "1099 LV",
+            "marginError": 0.0,
+            "link": "https://www.realclearpolling.com/stories/analysis/no-frontrunner-in-swing-states-before-democratic-convention",
+            "spread_winner": "Harris",
+            "spread_value": 1.0,
+            "harris_value": "48",
+            "trump_value": "47",
+            "name": "2024 Wisconsin: Trump vs. Harris",
+            "slug": "wisconsin",
+            "polling_start_date": "2024-08-13",
+            "polling_end_date": "2024-08-19"
+        },
+        {
             "id": "146611",
             "type": "poll_rcp_avg",
             "pollster": "AmGreatness/TIPP",
@@ -2802,6 +2819,23 @@
         }
     ],
     "nevada": [
+        {
+            "id": "146689",
+            "type": "poll_rcp_avg",
+            "pollster": "Rasmussen Reports",
+            "date": "8/13 - 8/19",
+            "sampleSize": "980 LV",
+            "marginError": 0.0,
+            "link": "https://www.realclearpolling.com/stories/analysis/no-frontrunner-in-swing-states-before-democratic-convention",
+            "spread_winner": "Trump",
+            "spread_value": 2.0,
+            "trump_value": "48",
+            "harris_value": "46",
+            "name": "2024 Nevada: Trump vs. Harris",
+            "slug": "nevada",
+            "polling_start_date": "2024-08-13",
+            "polling_end_date": "2024-08-19"
+        },
         {
             "id": "146635",
             "type": "poll_rcp_avg",

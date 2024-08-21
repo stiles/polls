@@ -1,4 +1,5 @@
 id,type,pollster,date,sampleSize,marginError,link,spread_winner,spread_value,harris_value,trump_value,name,slug,polling_start_date,polling_end_date
+146686,poll_rcp_avg,Rasmussen Reports,8/13 - 8/19,1099 LV,0.0,https://www.realclearpolling.com/stories/analysis/no-frontrunner-in-swing-states-before-democratic-convention,Harris,1.0,48,47,2024 Wisconsin: Trump vs. Harris,wisconsin,2024-08-13,2024-08-19
 146611,poll_rcp_avg,AmGreatness/TIPP,8/12 - 8/14,976 LV,3.4,https://amgreatness.com/2024/08/15/new-battleground-polling-dead-heat-in-wisconsin-issues-favor-trump/,Tie,0.0,47,47,2024 Wisconsin: Trump vs. Harris,wisconsin,2024-08-12,2024-08-14
 146516,poll_rcp_avg,NY Times/Siena,8/5 - 8/8,661 LV,0.0,https://www.nytimes.com/2024/08/10/us/politics/harris-trump-battleground-polls.html,Harris,4.0,50,46,2024 Wisconsin: Trump vs. Harris,wisconsin,2024-08-05,2024-08-08
 146511,poll_rcp_avg,InsiderAdvantage,8/6 - 8/8,800 LV,3.4,https://pollingplus.com/news/pollingplus-exclusive-top-two-presidential-cycle-pollsters-towery-and-cahaly-release-battleground-polls/,Trump,1.0,48,49,2024 Wisconsin: Trump vs. Harris,wisconsin,2024-08-06,2024-08-08

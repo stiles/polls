@@ -91,7 +91,7 @@
         "id": "8305",
         "type": "rcp_average",
         "pollster": "rcp_average",
-        "date": "7/22 - 8/14",
+        "date": "7/22 - 8/19",
         "sampleSize": "",
         "marginError": 0.0,
         "link": null,
@@ -102,24 +102,24 @@
         "name": "2024 Wisconsin: Trump vs. Harris",
         "slug": "wisconsin",
         "polling_start_date": "2024-07-22",
-        "polling_end_date": "2024-08-14"
+        "polling_end_date": "2024-08-19"
     },
     {
         "id": "8306",
         "type": "rcp_average",
         "pollster": "rcp_average",
-        "date": "7/24 - 8/15",
+        "date": "7/24 - 8/19",
         "sampleSize": "",
         "marginError": 0.0,
         "link": null,
         "spread_winner": "Trump",
-        "spread_value": 1.3,
-        "trump_value": "47.3",
+        "spread_value": 1.4,
+        "trump_value": "47.4",
         "harris_value": "46.0",
         "name": "2024 Nevada: Trump vs. Harris",
         "slug": "nevada",
         "polling_start_date": "2024-07-24",
-        "polling_end_date": "2024-08-15"
+        "polling_end_date": "2024-08-19"
     },
     {
         "id": "8307",
