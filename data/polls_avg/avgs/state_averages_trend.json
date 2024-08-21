@@ -913,6 +913,116 @@
         "source":"FiveThirtyEight"
     },
     {
+        "state":"North Carolina",
+        "date":"2024-08-12",
+        "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/north-carolina\/polling-average.json",
+        "harris":44.4,
+        "trump":45.4,
+        "winning":"R +1.0",
+        "winning_margin":1.0,
+        "state_abbr":"NC",
+        "source":"FiveThirtyEight"
+    },
+    {
+        "state":"North Carolina",
+        "date":"2024-08-13",
+        "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/north-carolina\/polling-average.json",
+        "harris":44.5,
+        "trump":45.4,
+        "winning":"R +0.9",
+        "winning_margin":0.9,
+        "state_abbr":"NC",
+        "source":"FiveThirtyEight"
+    },
+    {
+        "state":"North Carolina",
+        "date":"2024-08-14",
+        "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/north-carolina\/polling-average.json",
+        "harris":44.8,
+        "trump":45.6,
+        "winning":"R +0.8",
+        "winning_margin":0.8,
+        "state_abbr":"NC",
+        "source":"FiveThirtyEight"
+    },
+    {
+        "state":"North Carolina",
+        "date":"2024-08-15",
+        "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/north-carolina\/polling-average.json",
+        "harris":45.0,
+        "trump":45.5,
+        "winning":"R +0.5",
+        "winning_margin":0.5,
+        "state_abbr":"NC",
+        "source":"FiveThirtyEight"
+    },
+    {
+        "state":"North Carolina",
+        "date":"2024-08-16",
+        "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/north-carolina\/polling-average.json",
+        "harris":44.9,
+        "trump":45.7,
+        "winning":"R +0.8",
+        "winning_margin":0.8,
+        "state_abbr":"NC",
+        "source":"FiveThirtyEight"
+    },
+    {
+        "state":"North Carolina",
+        "date":"2024-08-17",
+        "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/north-carolina\/polling-average.json",
+        "harris":45.1,
+        "trump":45.5,
+        "winning":"R +0.4",
+        "winning_margin":0.4,
+        "state_abbr":"NC",
+        "source":"FiveThirtyEight"
+    },
+    {
+        "state":"North Carolina",
+        "date":"2024-08-18",
+        "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/north-carolina\/polling-average.json",
+        "harris":45.2,
+        "trump":45.5,
+        "winning":"R +0.3",
+        "winning_margin":0.3,
+        "state_abbr":"NC",
+        "source":"FiveThirtyEight"
+    },
+    {
+        "state":"North Carolina",
+        "date":"2024-08-19",
+        "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/north-carolina\/polling-average.json",
+        "harris":45.4,
+        "trump":45.7,
+        "winning":"R +0.3",
+        "winning_margin":0.3,
+        "state_abbr":"NC",
+        "source":"FiveThirtyEight"
+    },
+    {
+        "state":"North Carolina",
+        "date":"2024-08-20",
+        "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/north-carolina\/polling-average.json",
+        "harris":45.5,
+        "trump":45.7,
+        "winning":"R +0.2",
+        "winning_margin":0.2,
+        "state_abbr":"NC",
+        "source":"FiveThirtyEight"
+    },
+    {
+        "state":"North Carolina",
+        "date":"2024-08-21",
+        "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/north-carolina\/polling-average.json",
+        "harris":45.8,
+        "trump":45.5,
+        "winning":"D +0.3",
+        "winning_margin":0.3,
+        "state_abbr":"NC",
+        "source":"FiveThirtyEight"
+    },
+    {
         "state":"Pennsylvania",
         "date":"2024-07-30",
         "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/pennsylvania\/polling-average.json",

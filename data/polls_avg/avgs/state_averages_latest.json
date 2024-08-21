@@ -44,6 +44,17 @@
         "source":"FiveThirtyEight"
     },
     {
+        "state":"North Carolina",
+        "date":"2024-08-21",
+        "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/north-carolina\/polling-average.json",
+        "harris":45.8,
+        "trump":45.5,
+        "winning":"D +0.3",
+        "winning_margin":0.3,
+        "state_abbr":"NC",
+        "source":"FiveThirtyEight"
+    },
+    {
         "state":"Pennsylvania",
         "date":"2024-08-21",
         "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/pennsylvania\/polling-average.json",
