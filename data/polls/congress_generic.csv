@@ -1,6 +1,7 @@
 id,type,pollster,date,sampleSize,marginError,link,spread_winner,spread_value,democrats_value,republicans_value,name,slug,polling_start_date,polling_end_date
+146671,poll_rcp_avg,Economist/YouGov,8/17 - 8/20,1371 RV,3.1,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_Dgf6Oqh.pdf,Democrats,4.0,47,43,2024 Generic Congressional Vote,congress_generic,2024-08-17,2024-08-20
 146590,poll_rcp_avg,Emerson,8/12 - 8/14,1000 RV,3.0,https://emersoncollegepolling.com/august-2024-national-poll-harris-50-trump-46/,Democrats,2.0,48,46,2024 Generic Congressional Vote,congress_generic,2024-08-12,2024-08-14
-146548,poll_rcp_avg,Economist/YouGov,8/11 - 8/13,1407 RV,3.2,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_8IEdK8V.pdf,Democrats,1.0,45,44,2024 Generic Congressional Vote,congress_generic,2024-08-11,2024-08-13
+146548,poll,Economist/YouGov,8/11 - 8/13,1407 RV,3.2,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_8IEdK8V.pdf,Democrats,1.0,45,44,2024 Generic Congressional Vote,congress_generic,2024-08-11,2024-08-13
 146562,poll_rcp_avg,Monmouth,8/8 - 8/12,801 RV,4.0,https://www.monmouth.edu/polling-institute/reports/monmouthpoll_US_081424/,Democrats,2.0,48,46,2024 Generic Congressional Vote,congress_generic,2024-08-08,2024-08-12
 146452,poll,Economist/YouGov,8/4 - 8/6,1413 RV,3.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_qdE4wzP.pdf,Democrats,1.0,45,44,2024 Generic Congressional Vote,congress_generic,2024-08-04,2024-08-06
 146444,poll_rcp_avg,NPR/PBS/Marist,8/1 - 8/4,1513 RV,3.4,https://maristpoll.marist.edu/wp-content/uploads/2024/08/NPR_PBS-News_Marist-Poll_USA-NOS-and-Tables_486202408050954.pdf,Democrats,2.0,47,45,2024 Generic Congressional Vote,congress_generic,2024-08-01,2024-08-04

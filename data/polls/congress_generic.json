@@ -1,5 +1,22 @@
 [
     {
+        "id":"146671",
+        "type":"poll_rcp_avg",
+        "pollster":"Economist\/YouGov",
+        "date":"8\/17 - 8\/20",
+        "sampleSize":"1371 RV",
+        "marginError":3.1,
+        "link":"https:\/\/d3nkl3psvxxpe9.cloudfront.net\/documents\/econTabReport_Dgf6Oqh.pdf",
+        "spread_winner":"Democrats",
+        "spread_value":4.0,
+        "democrats_value":"47",
+        "republicans_value":"43",
+        "name":"2024 Generic Congressional Vote",
+        "slug":"congress_generic",
+        "polling_start_date":"2024-08-17",
+        "polling_end_date":"2024-08-20"
+    },
+    {
         "id":"146590",
         "type":"poll_rcp_avg",
         "pollster":"Emerson",
@@ -18,7 +35,7 @@
     },
     {
         "id":"146548",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Economist\/YouGov",
         "date":"8\/11 - 8\/13",
         "sampleSize":"1407 RV",
