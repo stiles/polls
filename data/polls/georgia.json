@@ -1,5 +1,22 @@
 [
     {
+        "id":"146633",
+        "type":"poll_rcp_avg",
+        "pollster":"NY Times\/Siena",
+        "date":"8\/9 - 8\/14",
+        "sampleSize":"661 LV",
+        "marginError":0.0,
+        "link":"https:\/\/www.nytimes.com\/interactive\/2024\/08\/17\/us\/elections\/times-siena-poll-georgia-likely-electorate.html",
+        "spread_winner":"Trump",
+        "spread_value":4.0,
+        "trump_value":"50",
+        "harris_value":"46",
+        "name":"2024 Georgia: Trump vs. Harris",
+        "slug":"georgia",
+        "polling_start_date":"2024-08-09",
+        "polling_end_date":"2024-08-14"
+    },
+    {
         "id":"146534",
         "type":"poll_rcp_avg",
         "pollster":"Cook Political Report",
