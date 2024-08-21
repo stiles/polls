@@ -48,9 +48,9 @@ trump_leads = states_fte['winning'].str.startswith('R').sum()
 ties = len(states_fte) - (harris_leads + trump_leads)
 
 if harris_leads > trump_leads:
-    state_msg = f"<span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>{avg_winning}</span> is leading in <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>{number_map[harris_leads]}</span> of the six key swing states over {avg_losing}, according to FiveThirtyEight's averages."
+    state_msg = f"<span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>{avg_winning}</span> is leading in <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>{number_map[harris_leads]}</span> of the seven potential swing states over {avg_losing}, according to FiveThirtyEight's averages."
 elif trump_leads > harris_leads:
-    state_msg = f"<span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>{avg_losing}</span> is leading in <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>{number_map[trump_leads]}</span> of the six key swing states over {avg_winning}, according to FiveThirtyEight's averages."
+    state_msg = f"<span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>{avg_losing}</span> is leading in <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>{number_map[trump_leads]}</span> of the seven potential swing states over {avg_winning}, according to FiveThirtyEight's averages."
 else:
     state_msg = f"The state of the race is mixed, with **{avg_winning}** ahead in **{number_map[harris_leads]}** states, **{avg_losing}** ahead in **{number_map[trump_leads]}** states, and the candidates tied in **{ties}** states."
 
