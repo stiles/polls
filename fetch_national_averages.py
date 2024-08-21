@@ -100,8 +100,52 @@ nyt_df = pd.DataFrame([nyt_data])
 nyt_df['source'] = 'New York Times'
 nyt_df['notes'] = ''
 
+# The Hill
+hill_url = "https://elections2024.thehill.com/national/harris-trump-general/"
+
+# Request and parse the HTML
+hill_response = requests.get(hill_url, headers=headers)
+hill_html = BeautifulSoup(hill_response.text, "html.parser")
+
+# Initialize an empty list to hold the results
+hill_list = []
+
+# Find the container with all candidates
+candidates_container = hill_html.find("div", class_="candidates")
+
+# Find all the candidate divs
+candidates = candidates_container.find_all("div", class_="candidate")
+
+# Iterate over each candidate div
+for candidate in candidates:
+    # Extract the candidate's name
+    candidate_name = candidate.find("p", class_="label font-semibold").text.strip()
+
+    # Extract the candidate's percentage
+    candidate_avg = float(
+        candidate.find("h6", class_="headline").text.strip().replace("%", "")
+    )
+
+    # Create a dictionary for the candidate
+    candidates_dict = {
+        "name": candidate_name.lower(),
+        "value": candidate_avg,
+        "source": "The Hill",
+    }
+
+    # Append the dictionary to the list
+    hill_list.append(candidates_dict)
+
+hill_df = (
+    pd.DataFrame(hill_list)
+    .pivot(index="source", columns="name", values="value")
+    .reset_index()
+)
+hill_df['notes'] = ''
+hill_df['date'] = today
+
 # Combine all sources
-df = pd.concat([cook_latest, rcp_latest, fte_latest, nate_latest, latest_270, econ_src, nyt_df]).reset_index(drop=True)
+df = pd.concat([cook_latest, rcp_latest, fte_latest, nate_latest, latest_270, econ_src, nyt_df, hill_df]).reset_index(drop=True)
 
 # Apply the function to create the 'winning' and 'winning_margin' columns
 df['winning'] = df.apply(determine_winner, axis=1)

@@ -76,7 +76,8 @@ source_links = {
     "Nate Silver": "https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model",
     "270toWin": "https://www.270towin.com/2024-presidential-election-polls/",
     "Economist": "https://www.economist.com/interactive/us-2024-election/trump-harris-polls",
-    "New York Times": "https://www.nytimes.com/interactive/2024/us/elections/polls-president.html"
+    "New York Times": "https://www.nytimes.com/interactive/2024/us/elections/polls-president.html",
+    "The Hill": "https://elections2024.thehill.com/national/harris-trump-general/"
 }
 
 # Generate Markdown Content with inline CSS for better mobile responsiveness
