@@ -1,5 +1,25 @@
 [
     {
+        "id":"146715",
+        "type":"poll_rcp_avg",
+        "pollster":"Rasmussen Reports",
+        "date":"8\/15 - 8\/21",
+        "sampleSize":"1893 LV",
+        "marginError":3.0,
+        "link":"https:\/\/www.rasmussenreports.com\/public_content\/politics\/biden_administration\/election_2024_trump_49_harris_46",
+        "spread_winner":"Trump",
+        "spread_value":2.0,
+        "harris_value":"45",
+        "trump_value":"47",
+        "kennedy_value":"4",
+        "stein_value":"1",
+        "west_value":"1",
+        "name":"General Election: Trump vs. Harris vs. Kennedy vs. West vs. Stein",
+        "slug":"general_third_parties",
+        "polling_start_date":"2024-08-15",
+        "polling_end_date":"2024-08-21"
+    },
+    {
         "id":"146669",
         "type":"poll_rcp_avg",
         "pollster":"Economist\/YouGov",
@@ -41,7 +61,7 @@
     },
     {
         "id":"146604",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Rasmussen Reports",
         "date":"8\/8 - 8\/14",
         "sampleSize":"1885 LV",
