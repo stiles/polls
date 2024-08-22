@@ -1,5 +1,22 @@
 [
     {
+        "id":"146722",
+        "type":"poll_rcp_avg",
+        "pollster":"High Point\/SurveyUSA",
+        "date":"8\/19 - 8\/21",
+        "sampleSize":"1053 RV",
+        "marginError":4.0,
+        "link":"https:\/\/www.surveyusa.com\/client\/PollReport.aspx?g=6368b805-bffe-45d6-bfff-c3e2cbd2d222",
+        "spread_winner":"Harris",
+        "spread_value":1.0,
+        "trump_value":"45",
+        "harris_value":"46",
+        "name":"2024 North Carolina: Trump vs. Harris",
+        "slug":"north_carolina",
+        "polling_start_date":"2024-08-19",
+        "polling_end_date":"2024-08-21"
+    },
+    {
         "id":"146638",
         "type":"poll_rcp_avg",
         "pollster":"NY Times\/Siena",
