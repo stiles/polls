@@ -3549,6 +3549,23 @@
             "polling_end_date": "2024-08-06"
         },
         {
+            "id": "146741",
+            "type": "poll_rcp_avg",
+            "pollster": "HarrisX",
+            "date": "8/2 - 8/3",
+            "sampleSize": "1011 RV",
+            "marginError": 3.1,
+            "link": "https://www.deseret.com/politics/2024/08/19/poll-could-pessimism-about-the-economy-sink-kamala-harris/",
+            "spread_winner": "Democrats",
+            "spread_value": 3.0,
+            "democrats_value": "42",
+            "republicans_value": "39",
+            "name": "2024 Generic Congressional Vote",
+            "slug": "congress_generic",
+            "polling_start_date": "2024-08-02",
+            "polling_end_date": "2024-08-03"
+        },
+        {
             "id": "146444",
             "type": "poll_rcp_avg",
             "pollster": "NPR/PBS/Marist",
@@ -3652,7 +3669,7 @@
         },
         {
             "id": "146263",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Forbes/HarrisX",
             "date": "7/22 - 7/25",
             "sampleSize": "3013 RV",
@@ -5829,6 +5846,23 @@
             "polling_end_date": "2024-08-11"
         },
         {
+            "id": "146732",
+            "type": "poll",
+            "pollster": "Pew Research",
+            "date": "8/5 - 8/11",
+            "sampleSize": "9201 A",
+            "marginError": 0.0,
+            "link": "https://www.pewresearch.org/wp-content/uploads/sites/20/2024/08/PP_2024.8.14_harris-trump_TOPLINE.pdf",
+            "spread_winner": "Unfavorable",
+            "spread_value": 8.0,
+            "favorable_value": "44",
+            "unfavorable_value": "52",
+            "name": "Kamala Harris Favorability",
+            "slug": "harris_favorability",
+            "polling_start_date": "2024-08-05",
+            "polling_end_date": "2024-08-11"
+        },
+        {
             "id": "146727",
             "type": "poll_rcp_avg",
             "pollster": "Data for Progress (D)**",
@@ -5878,6 +5912,23 @@
             "slug": "harris_favorability",
             "polling_start_date": "2024-08-02",
             "polling_end_date": "2024-08-04"
+        },
+        {
+            "id": "146743",
+            "type": "poll_rcp_avg",
+            "pollster": "HarrisX",
+            "date": "8/2 - 8/3",
+            "sampleSize": "1011 RV",
+            "marginError": 3.1,
+            "link": "https://www.deseret.com/politics/2024/08/19/poll-could-pessimism-about-the-economy-sink-kamala-harris/",
+            "spread_winner": "Unfavorable",
+            "spread_value": 2.0,
+            "favorable_value": "45",
+            "unfavorable_value": "47",
+            "name": "Kamala Harris Favorability",
+            "slug": "harris_favorability",
+            "polling_start_date": "2024-08-02",
+            "polling_end_date": "2024-08-03"
         },
         {
             "id": "146435",
@@ -6068,7 +6119,7 @@
         },
         {
             "id": "146265",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Forbes/HarrisX",
             "date": "7/22 - 7/25",
             "sampleSize": "3013 RV",
@@ -15062,6 +15113,23 @@
             "polling_end_date": "2024-08-06"
         },
         {
+            "id": "146737",
+            "type": "poll_rcp_avg",
+            "pollster": "HarrisX",
+            "date": "8/2 - 8/3",
+            "sampleSize": "1011 RV",
+            "marginError": 3.1,
+            "link": "https://www.deseret.com/politics/2024/08/19/poll-could-pessimism-about-the-economy-sink-kamala-harris/",
+            "spread_winner": "Wrong Track",
+            "spread_value": -40.0,
+            "right_direction_value": "27",
+            "wrong_track_value": "67",
+            "name": "Direction of Country",
+            "slug": "country_direction",
+            "polling_start_date": "2024-08-02",
+            "polling_end_date": "2024-08-03"
+        },
+        {
             "id": "146485",
             "type": "poll_rcp_avg",
             "pollster": "CNBC",
@@ -15165,7 +15233,7 @@
         },
         {
             "id": "146252",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Forbes/HarrisX",
             "date": "7/22 - 7/25",
             "sampleSize": "3013 RV",
