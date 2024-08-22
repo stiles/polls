@@ -239,6 +239,23 @@
             "polling_end_date": "2024-08-04"
         },
         {
+            "id": "146735",
+            "type": "poll_rcp_avg",
+            "pollster": "HarrisX",
+            "date": "8/2 - 8/3",
+            "sampleSize": "1011 RV",
+            "marginError": 3.1,
+            "link": "https://www.deseret.com/politics/2024/08/19/poll-could-pessimism-about-the-economy-sink-kamala-harris/",
+            "spread_winner": "Trump",
+            "spread_value": 2.0,
+            "harris_value": "49",
+            "trump_value": "51",
+            "name": "2024 General Election: Trump vs Harris",
+            "slug": "general",
+            "polling_start_date": "2024-08-02",
+            "polling_end_date": "2024-08-03"
+        },
+        {
             "id": "146440",
             "type": "poll_rcp_avg",
             "pollster": "NPR/PBS/Marist",
@@ -1540,6 +1557,26 @@
             "polling_end_date": "2024-08-13"
         },
         {
+            "id": "146725",
+            "type": "poll_rcp_avg",
+            "pollster": "Data for Progress (D)**",
+            "date": "8/1 - 8/15",
+            "sampleSize": "6067 LV",
+            "marginError": 1.0,
+            "link": "https://www.dataforprogress.org/insights/2024/8/22/harris-can-win-swing-voters-by-emphasizing-populist-economic-policies-and-protecting-freedoms",
+            "spread_winner": "Harris",
+            "spread_value": 4.0,
+            "harris_value": "47",
+            "trump_value": "43",
+            "kennedy_value": "5",
+            "stein_value": "0",
+            "west_value": "1",
+            "name": "General Election: Trump vs. Harris vs. Kennedy vs. West vs. Stein",
+            "slug": "general_third_parties",
+            "polling_start_date": "2024-08-01",
+            "polling_end_date": "2024-08-15"
+        },
+        {
             "id": "146451",
             "type": "poll",
             "pollster": "Economist/YouGov",
@@ -1578,6 +1615,26 @@
             "slug": "general_third_parties",
             "polling_start_date": "2024-08-01",
             "polling_end_date": "2024-08-07"
+        },
+        {
+            "id": "146736",
+            "type": "poll_rcp_avg",
+            "pollster": "HarrisX",
+            "date": "8/2 - 8/3",
+            "sampleSize": "1011 RV",
+            "marginError": 3.1,
+            "link": "https://www.deseret.com/politics/2024/08/19/poll-could-pessimism-about-the-economy-sink-kamala-harris/",
+            "spread_winner": "Harris",
+            "spread_value": 1.0,
+            "harris_value": "45",
+            "trump_value": "44",
+            "kennedy_value": "9",
+            "stein_value": "1",
+            "west_value": "1",
+            "name": "General Election: Trump vs. Harris vs. Kennedy vs. West vs. Stein",
+            "slug": "general_third_parties",
+            "polling_start_date": "2024-08-02",
+            "polling_end_date": "2024-08-03"
         },
         {
             "id": "146441",
@@ -3456,6 +3513,23 @@
             "slug": "congress_generic",
             "polling_start_date": "2024-08-08",
             "polling_end_date": "2024-08-12"
+        },
+        {
+            "id": "146731",
+            "type": "poll_rcp_avg",
+            "pollster": "Data for Progress (D)**",
+            "date": "8/1 - 8/15",
+            "sampleSize": "6067 LV",
+            "marginError": 1.0,
+            "link": "https://www.dataforprogress.org/insights/2024/8/22/harris-can-win-swing-voters-by-emphasizing-populist-economic-policies-and-protecting-freedoms",
+            "spread_winner": "Democrats",
+            "spread_value": 5.0,
+            "democrats_value": "49",
+            "republicans_value": "44",
+            "name": "2024 Generic Congressional Vote",
+            "slug": "congress_generic",
+            "polling_start_date": "2024-08-01",
+            "polling_end_date": "2024-08-15"
         },
         {
             "id": "146452",
@@ -5753,6 +5827,23 @@
             "slug": "harris_favorability",
             "polling_start_date": "2024-08-09",
             "polling_end_date": "2024-08-11"
+        },
+        {
+            "id": "146727",
+            "type": "poll_rcp_avg",
+            "pollster": "Data for Progress (D)**",
+            "date": "8/1 - 8/15",
+            "sampleSize": "6067 LV",
+            "marginError": 1.0,
+            "link": "https://www.dataforprogress.org/insights/2024/8/22/harris-can-win-swing-voters-by-emphasizing-populist-economic-policies-and-protecting-freedoms",
+            "spread_winner": "Favorable",
+            "spread_value": 2.0,
+            "favorable_value": "50",
+            "unfavorable_value": "48",
+            "name": "Kamala Harris Favorability",
+            "slug": "harris_favorability",
+            "polling_start_date": "2024-08-01",
+            "polling_end_date": "2024-08-15"
         },
         {
             "id": "146457",

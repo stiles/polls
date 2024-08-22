@@ -238,6 +238,23 @@
         "polling_end_date":"2024-08-04"
     },
     {
+        "id":"146735",
+        "type":"poll_rcp_avg",
+        "pollster":"HarrisX",
+        "date":"8\/2 - 8\/3",
+        "sampleSize":"1011 RV",
+        "marginError":3.1,
+        "link":"https:\/\/www.deseret.com\/politics\/2024\/08\/19\/poll-could-pessimism-about-the-economy-sink-kamala-harris\/",
+        "spread_winner":"Trump",
+        "spread_value":2.0,
+        "harris_value":"49",
+        "trump_value":"51",
+        "name":"2024 General Election: Trump vs Harris",
+        "slug":"general",
+        "polling_start_date":"2024-08-02",
+        "polling_end_date":"2024-08-03"
+    },
+    {
         "id":"146440",
         "type":"poll_rcp_avg",
         "pollster":"NPR\/PBS\/Marist",

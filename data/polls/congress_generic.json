@@ -85,6 +85,23 @@
         "polling_end_date":"2024-08-12"
     },
     {
+        "id":"146731",
+        "type":"poll_rcp_avg",
+        "pollster":"Data for Progress (D)**",
+        "date":"8\/1 - 8\/15",
+        "sampleSize":"6067 LV",
+        "marginError":1.0,
+        "link":"https:\/\/www.dataforprogress.org\/insights\/2024\/8\/22\/harris-can-win-swing-voters-by-emphasizing-populist-economic-policies-and-protecting-freedoms",
+        "spread_winner":"Democrats",
+        "spread_value":5.0,
+        "democrats_value":"49",
+        "republicans_value":"44",
+        "name":"2024 Generic Congressional Vote",
+        "slug":"congress_generic",
+        "polling_start_date":"2024-08-01",
+        "polling_end_date":"2024-08-15"
+    },
+    {
         "id":"146452",
         "type":"poll",
         "pollster":"Economist\/YouGov",
