@@ -9,7 +9,7 @@
         "fetched_date":"2024-08-23"
     },
     {
-        "date":"2024-08-23",
+        "date":"2024-08-24",
         "harris":48.4,
         "trump":46.9,
         "source":"RealClearPolitics",
@@ -27,12 +27,12 @@
         "fetched_date":"2024-08-23"
     },
     {
-        "date":"2024-08-22",
-        "harris":46.9,
-        "trump":44.4,
+        "date":"2024-08-23",
+        "harris":48.0,
+        "trump":43.7,
         "source":"Nate Silver",
-        "winning":"D +2.5",
-        "winning_margin":2.5,
+        "winning":"D +4.3",
+        "winning_margin":4.3,
         "fetched_date":"2024-08-23"
     },
     {
