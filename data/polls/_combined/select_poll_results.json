@@ -2553,6 +2553,23 @@
     ],
     "michigan": [
         {
+            "id": "146770",
+            "type": "poll_rcp_avg",
+            "pollster": "AmGreatness/TIPP",
+            "date": "8/20 - 8/22",
+            "sampleSize": "741 LV",
+            "marginError": 3.7,
+            "link": "https://amgreatness.com/2024/08/23/new-polling-a-slight-harris-lead-in-michigan-but-issues-favor-trump/",
+            "spread_winner": "Harris",
+            "spread_value": 2.0,
+            "harris_value": "48",
+            "trump_value": "46",
+            "name": "2024 Michigan: Trump vs. Harris",
+            "slug": "michigan",
+            "polling_start_date": "2024-08-20",
+            "polling_end_date": "2024-08-22"
+        },
+        {
             "id": "146649",
             "type": "poll_rcp_avg",
             "pollster": "Rasmussen Reports",
