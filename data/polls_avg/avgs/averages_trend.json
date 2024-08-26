@@ -36,12 +36,12 @@
         "fetched_date":"2024-08-26"
     },
     {
-        "date":"2024-08-23",
-        "harris":48.33,
-        "trump":45.5,
+        "date":"2024-08-26",
+        "harris":47.6,
+        "trump":45.8,
         "source":"270toWin",
-        "winning":"D +2.8",
-        "winning_margin":2.8,
+        "winning":"D +1.8",
+        "winning_margin":1.8,
         "fetched_date":"2024-08-26"
     },
     {
@@ -64,11 +64,11 @@
     },
     {
         "date":"2024-08-26",
-        "harris":49.3,
+        "harris":49.7,
         "trump":45.6,
         "source":"The Hill",
-        "winning":"D +3.7",
-        "winning_margin":3.7,
+        "winning":"D +4.1",
+        "winning_margin":4.1,
         "fetched_date":"2024-08-26"
     },
     {
