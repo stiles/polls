@@ -1,5 +1,22 @@
 [
     {
+        "id":"146789",
+        "type":"poll_rcp_avg",
+        "pollster":"Rasmussen Reports",
+        "date":"8\/18 - 8\/22",
+        "sampleSize":"1909 LV",
+        "marginError":0.0,
+        "link":"https:\/\/www.rasmussenreports.com\/public_content\/politics\/mood_of_america\/right_direction_wrong_track_aug26",
+        "spread_winner":"Wrong Track",
+        "spread_value":-27.0,
+        "right_direction_value":"34",
+        "wrong_track_value":"61",
+        "name":"Direction of Country",
+        "slug":"country_direction",
+        "polling_start_date":"2024-08-18",
+        "polling_end_date":"2024-08-22"
+    },
+    {
         "id":"146670",
         "type":"poll_rcp_avg",
         "pollster":"Economist\/YouGov",
@@ -18,7 +35,7 @@
     },
     {
         "id":"146659",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Rasmussen Reports",
         "date":"8\/11 - 8\/15",
         "sampleSize":"1881 LV",

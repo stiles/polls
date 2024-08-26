@@ -3,7 +3,7 @@
         "id": "7386",
         "type": "rcp_average",
         "pollster": "rcp_average",
-        "date": "7/31 - 8/21",
+        "date": "7/31 - 8/25",
         "sampleSize": "",
         "marginError": 0.0,
         "link": null,
@@ -14,7 +14,7 @@
         "name": "2024 General Election: Trump vs Harris",
         "slug": "general",
         "polling_start_date": "2024-07-31",
-        "polling_end_date": "2024-08-21"
+        "polling_end_date": "2024-08-25"
     },
     {
         "id": "8510",
@@ -176,34 +176,34 @@
         "id": "6690",
         "type": "rcp_average",
         "pollster": "rcp_average",
-        "date": "7/22 - 8/20",
+        "date": "7/22 - 8/25",
         "sampleSize": "",
         "marginError": 0.0,
         "link": null,
         "spread_winner": "Unfavorable",
-        "spread_value": 3.1,
+        "spread_value": 3.0,
         "favorable_value": "45.9",
-        "unfavorable_value": "49.0",
+        "unfavorable_value": "48.9",
         "name": "Kamala Harris Favorability",
         "slug": "harris_favorability",
         "polling_start_date": "2024-07-22",
-        "polling_end_date": "2024-08-20"
+        "polling_end_date": "2024-08-25"
     },
     {
         "id": "902",
         "type": "rcp_average",
         "pollster": "rcp_average",
-        "date": "7/19 - 8/20",
+        "date": "7/19 - 8/22",
         "sampleSize": "",
         "marginError": 0.0,
         "link": null,
         "spread_winner": "Wrong Track",
-        "spread_value": -38.9,
-        "right_direction_value": "25.9",
-        "wrong_track_value": "64.8",
+        "spread_value": -39.1,
+        "right_direction_value": "25.8",
+        "wrong_track_value": "64.9",
         "name": "Direction of Country",
         "slug": "country_direction",
         "polling_start_date": "2024-07-19",
-        "polling_end_date": "2024-08-20"
+        "polling_end_date": "2024-08-22"
     }
 ]

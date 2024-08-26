@@ -1,6 +1,23 @@
 {
     "general": [
         {
+            "id": "146788",
+            "type": "poll_rcp_avg",
+            "pollster": "Morning Consult",
+            "date": "8/23 - 8/25",
+            "sampleSize": "7818 RV",
+            "marginError": 1.0,
+            "link": "https://pro.morningconsult.com/trackers/2024-presidential-election-polling",
+            "spread_winner": "Harris",
+            "spread_value": 4.0,
+            "harris_value": "48",
+            "trump_value": "44",
+            "name": "2024 General Election: Trump vs Harris",
+            "slug": "general",
+            "polling_start_date": "2024-08-23",
+            "polling_end_date": "2024-08-25"
+        },
+        {
             "id": "146714",
             "type": "poll_rcp_avg",
             "pollster": "Rasmussen Reports",
@@ -19,12 +36,12 @@
         },
         {
             "id": "146660",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Morning Consult",
             "date": "8/16 - 8/18",
             "sampleSize": "11501 RV",
             "marginError": 1.0,
-            "link": "https://pro.morningconsult.com/trackers/2024-presidential-election-polling",
+            "link": "https://www.realclearpolitics.com/docs/2024/Morning_Consult_Aug_16-18_2024_Tracker.pdf",
             "spread_winner": "Harris",
             "spread_value": 4.0,
             "harris_value": "48",
@@ -5761,6 +5778,23 @@
     ],
     "harris_favorability": [
         {
+            "id": "146790",
+            "type": "poll_rcp_avg",
+            "pollster": "Morning Consult",
+            "date": "8/23 - 8/25",
+            "sampleSize": "2202 RV",
+            "marginError": 0.0,
+            "link": "https://pro.morningconsult.com/trackers/2024-presidential-election-polling",
+            "spread_winner": "Favorable",
+            "spread_value": 4.0,
+            "favorable_value": "50",
+            "unfavorable_value": "46",
+            "name": "Kamala Harris Favorability",
+            "slug": "harris_favorability",
+            "polling_start_date": "2024-08-23",
+            "polling_end_date": "2024-08-25"
+        },
+        {
             "id": "146672",
             "type": "poll_rcp_avg",
             "pollster": "Economist/YouGov",
@@ -5864,7 +5898,7 @@
         },
         {
             "id": "146528",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Morning Consult",
             "date": "8/9 - 8/11",
             "sampleSize": "2261 RV",
@@ -15062,6 +15096,23 @@
     ],
     "country_direction": [
         {
+            "id": "146789",
+            "type": "poll_rcp_avg",
+            "pollster": "Rasmussen Reports",
+            "date": "8/18 - 8/22",
+            "sampleSize": "1909 LV",
+            "marginError": 0.0,
+            "link": "https://www.rasmussenreports.com/public_content/politics/mood_of_america/right_direction_wrong_track_aug26",
+            "spread_winner": "Wrong Track",
+            "spread_value": -27.0,
+            "right_direction_value": "34",
+            "wrong_track_value": "61",
+            "name": "Direction of Country",
+            "slug": "country_direction",
+            "polling_start_date": "2024-08-18",
+            "polling_end_date": "2024-08-22"
+        },
+        {
             "id": "146670",
             "type": "poll_rcp_avg",
             "pollster": "Economist/YouGov",
@@ -15080,7 +15131,7 @@
         },
         {
             "id": "146659",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Rasmussen Reports",
             "date": "8/11 - 8/15",
             "sampleSize": "1881 LV",
