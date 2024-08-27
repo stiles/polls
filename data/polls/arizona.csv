@@ -1,4 +1,5 @@
 id,type,pollster,date,sampleSize,marginError,link,spread_winner,spread_value,trump_value,harris_value,name,slug,polling_start_date,polling_end_date
+146794,poll_rcp_avg,Noble Predictive Insights,8/12 - 8/16,1003 RV,3.1,https://www.noblepredictiveinsights.com/post/harris-shakes-up-key-demographics-in-2024-presidential-race,Trump,3.0,47,44,2024 Arizona: Trump vs. Harris,arizona,2024-08-12,2024-08-16
 146646,poll_rcp_avg,Rasmussen Reports,8/13 - 8/17,1187 LV,0.0,https://www.realclearpolling.com/stories/analysis/no-frontrunner-in-swing-states-before-democratic-convention,Trump,2.0,47,45,2024 Arizona: Trump vs. Harris,arizona,2024-08-13,2024-08-17
 146630,poll_rcp_avg,NY Times/Siena,8/8 - 8/15,677 LV,0.0,https://www.nytimes.com/interactive/2024/08/17/us/elections/times-siena-poll-arizona-likely-electorate.html,Harris,5.0,45,50,2024 Arizona: Trump vs. Harris,arizona,2024-08-08,2024-08-15
 146506,poll_rcp_avg,Trafalgar Group (R),8/6 - 8/8,1000 LV,2.9,https://pollingplus.com/news/pollingplus-exclusive-top-two-presidential-cycle-pollsters-towery-and-cahaly-release-battleground-polls/,Trump,1.0,48,47,2024 Arizona: Trump vs. Harris,arizona,2024-08-06,2024-08-08
