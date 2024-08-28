@@ -1,4 +1,5 @@
 id,type,pollster,date,sampleSize,marginError,link,spread_winner,spread_value,favorable_value,unfavorable_value,name,slug,polling_start_date,polling_end_date
+146805,poll_rcp_avg,Yahoo News,8/22 - 8/26,1192 RV,0.0,https://www.yahoo.com/news/new-yahoo-newsyougov-poll-a-huge-surge-in-democratic-optimism--but-no-big-bounce-for-harris--after-the-dnc-194934515.html,Unfavorable,2.0,48,50,Kamala Harris Favorability,harris_favorability,2024-08-22,2024-08-26
 146790,poll_rcp_avg,Morning Consult,8/23 - 8/25,2202 RV,0.0,https://pro.morningconsult.com/trackers/2024-presidential-election-polling,Favorable,4.0,50,46,Kamala Harris Favorability,harris_favorability,2024-08-23,2024-08-25
 146672,poll_rcp_avg,Economist/YouGov,8/17 - 8/20,1371 RV,3.1,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_Dgf6Oqh.pdf,Tie,0.0,49,49,Kamala Harris Favorability,harris_favorability,2024-08-17,2024-08-20
 146591,poll_rcp_avg,Emerson,8/12 - 8/14,1000 RV,3.0,https://emersoncollegepolling.com/august-2024-national-poll-harris-50-trump-46/,Favorable,2.0,51,49,Kamala Harris Favorability,harris_favorability,2024-08-12,2024-08-14

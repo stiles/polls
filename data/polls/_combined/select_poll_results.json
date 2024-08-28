@@ -3481,6 +3481,23 @@
     ],
     "congress_generic": [
         {
+            "id": "146809",
+            "type": "poll_rcp_avg",
+            "pollster": "Yahoo News",
+            "date": "8/22 - 8/26",
+            "sampleSize": "1200 RV",
+            "marginError": 0.0,
+            "link": "https://www.yahoo.com/news/new-yahoo-newsyougov-poll-a-huge-surge-in-democratic-optimism--but-no-big-bounce-for-harris--after-the-dnc-194934515.html",
+            "spread_winner": "Democrats",
+            "spread_value": 3.0,
+            "democrats_value": "45",
+            "republicans_value": "42",
+            "name": "2024 Generic Congressional Vote",
+            "slug": "congress_generic",
+            "polling_start_date": "2024-08-22",
+            "polling_end_date": "2024-08-26"
+        },
+        {
             "id": "146671",
             "type": "poll_rcp_avg",
             "pollster": "Economist/YouGov",
@@ -3754,7 +3771,7 @@
         },
         {
             "id": "146151",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Yahoo News",
             "date": "7/19 - 7/22",
             "sampleSize": "1173 RV",
@@ -5794,6 +5811,23 @@
         }
     ],
     "harris_favorability": [
+        {
+            "id": "146805",
+            "type": "poll_rcp_avg",
+            "pollster": "Yahoo News",
+            "date": "8/22 - 8/26",
+            "sampleSize": "1192 RV",
+            "marginError": 0.0,
+            "link": "https://www.yahoo.com/news/new-yahoo-newsyougov-poll-a-huge-surge-in-democratic-optimism--but-no-big-bounce-for-harris--after-the-dnc-194934515.html",
+            "spread_winner": "Unfavorable",
+            "spread_value": 2.0,
+            "favorable_value": "48",
+            "unfavorable_value": "50",
+            "name": "Kamala Harris Favorability",
+            "slug": "harris_favorability",
+            "polling_start_date": "2024-08-22",
+            "polling_end_date": "2024-08-26"
+        },
         {
             "id": "146790",
             "type": "poll_rcp_avg",

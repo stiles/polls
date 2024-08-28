@@ -159,7 +159,7 @@
         "id": "7969",
         "type": "rcp_average",
         "pollster": "rcp_average",
-        "date": "7/19 - 8/20",
+        "date": "7/23 - 8/26",
         "sampleSize": "",
         "marginError": 0.0,
         "link": null,
@@ -169,25 +169,25 @@
         "republicans_value": "45.7",
         "name": "2024 Generic Congressional Vote",
         "slug": "congress_generic",
-        "polling_start_date": "2024-07-19",
-        "polling_end_date": "2024-08-20"
+        "polling_start_date": "2024-07-23",
+        "polling_end_date": "2024-08-26"
     },
     {
         "id": "6690",
         "type": "rcp_average",
         "pollster": "rcp_average",
-        "date": "7/22 - 8/25",
+        "date": "7/22 - 8/26",
         "sampleSize": "",
         "marginError": 0.0,
         "link": null,
         "spread_winner": "Unfavorable",
-        "spread_value": 3.0,
-        "favorable_value": "45.9",
-        "unfavorable_value": "48.9",
+        "spread_value": 2.9,
+        "favorable_value": "46.1",
+        "unfavorable_value": "49.0",
         "name": "Kamala Harris Favorability",
         "slug": "harris_favorability",
         "polling_start_date": "2024-07-22",
-        "polling_end_date": "2024-08-25"
+        "polling_end_date": "2024-08-26"
     },
     {
         "id": "902",

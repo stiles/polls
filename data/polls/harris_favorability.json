@@ -1,5 +1,22 @@
 [
     {
+        "id":"146805",
+        "type":"poll_rcp_avg",
+        "pollster":"Yahoo News",
+        "date":"8\/22 - 8\/26",
+        "sampleSize":"1192 RV",
+        "marginError":0.0,
+        "link":"https:\/\/www.yahoo.com\/news\/new-yahoo-newsyougov-poll-a-huge-surge-in-democratic-optimism--but-no-big-bounce-for-harris--after-the-dnc-194934515.html",
+        "spread_winner":"Unfavorable",
+        "spread_value":2.0,
+        "favorable_value":"48",
+        "unfavorable_value":"50",
+        "name":"Kamala Harris Favorability",
+        "slug":"harris_favorability",
+        "polling_start_date":"2024-08-22",
+        "polling_end_date":"2024-08-26"
+    },
+    {
         "id":"146790",
         "type":"poll_rcp_avg",
         "pollster":"Morning Consult",
