@@ -1,2 +1,2 @@
 id,type,pollster,date,sampleSize,marginError,link,spread_winner,spread_value,trump_value,harris_value,name,slug,polling_start_date,polling_end_date
-8394,rcp_average,rcp_average,7/24 - 8/21,,0.0,,Trump,0.9,47.2,46.3,2024 North Carolina: Trump vs. Harris,north_carolina,2024-07-24,2024-08-21
+8394,rcp_average,rcp_average,7/24 - 8/26,,0.0,,Trump,0.9,47.6,46.7,2024 North Carolina: Trump vs. Harris,north_carolina,2024-07-24,2024-08-26

@@ -1,5 +1,22 @@
 [
     {
+        "id":"146840",
+        "type":"poll_rcp_avg",
+        "pollster":"FOX News",
+        "date":"8\/23 - 8\/26",
+        "sampleSize":"1014 RV",
+        "marginError":3.0,
+        "link":"https:\/\/www.foxnews.com\/official-polls\/fox-news-poll-harris-closes-gap-trump-sun-belt-states",
+        "spread_winner":"Harris",
+        "spread_value":2.0,
+        "trump_value":"48",
+        "harris_value":"50",
+        "name":"2024 Georgia: Trump vs. Harris",
+        "slug":"georgia",
+        "polling_start_date":"2024-08-23",
+        "polling_end_date":"2024-08-26"
+    },
+    {
         "id":"146633",
         "type":"poll_rcp_avg",
         "pollster":"NY Times\/Siena",

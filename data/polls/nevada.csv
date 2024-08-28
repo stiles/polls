@@ -1,4 +1,5 @@
 id,type,pollster,date,sampleSize,marginError,link,spread_winner,spread_value,trump_value,harris_value,name,slug,polling_start_date,polling_end_date
+146842,poll_rcp_avg,FOX News,8/23 - 8/26,1026 RV,3.0,https://www.foxnews.com/official-polls/fox-news-poll-harris-closes-gap-trump-sun-belt-states,Harris,2.0,48,50,2024 Nevada: Trump vs. Harris,nevada,2024-08-23,2024-08-26
 146689,poll_rcp_avg,Rasmussen Reports,8/13 - 8/19,980 LV,0.0,https://www.realclearpolling.com/stories/analysis/no-frontrunner-in-swing-states-before-democratic-convention,Trump,2.0,48,46,2024 Nevada: Trump vs. Harris,nevada,2024-08-13,2024-08-19
 146635,poll_rcp_avg,NY Times/Siena,8/12 - 8/15,677 LV,0.0,https://www.nytimes.com/interactive/2024/08/17/us/elections/times-siena-poll-nevada-likely-electorate.html,Trump,1.0,48,47,2024 Nevada: Trump vs. Harris,nevada,2024-08-12,2024-08-15
 146508,poll_rcp_avg,Trafalgar Group (R),8/6 - 8/8,1000 LV,2.9,https://pollingplus.com/news/pollingplus-exclusive-top-two-presidential-cycle-pollsters-towery-and-cahaly-release-battleground-polls/,Trump,3.0,48,45,2024 Nevada: Trump vs. Harris,nevada,2024-08-06,2024-08-08
