@@ -3518,6 +3518,23 @@
     ],
     "congress_generic": [
         {
+            "id": "146820",
+            "type": "poll_rcp_avg",
+            "pollster": "Economist/YouGov",
+            "date": "8/25 - 8/27",
+            "sampleSize": "1368 RV",
+            "marginError": 3.2,
+            "link": "https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_EQQr3lh.pdf",
+            "spread_winner": "Democrats",
+            "spread_value": 2.0,
+            "democrats_value": "46",
+            "republicans_value": "44",
+            "name": "2024 Generic Congressional Vote",
+            "slug": "congress_generic",
+            "polling_start_date": "2024-08-25",
+            "polling_end_date": "2024-08-27"
+        },
+        {
             "id": "146809",
             "type": "poll_rcp_avg",
             "pollster": "Yahoo News",
@@ -3536,7 +3553,7 @@
         },
         {
             "id": "146671",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Economist/YouGov",
             "date": "8/17 - 8/20",
             "sampleSize": "1371 RV",
@@ -5849,6 +5866,23 @@
     ],
     "harris_favorability": [
         {
+            "id": "146822",
+            "type": "poll_rcp_avg",
+            "pollster": "Economist/YouGov",
+            "date": "8/25 - 8/27",
+            "sampleSize": "1368 RV",
+            "marginError": 3.2,
+            "link": "https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_EQQr3lh.pdf",
+            "spread_winner": "Unfavorable",
+            "spread_value": 1.0,
+            "favorable_value": "49",
+            "unfavorable_value": "50",
+            "name": "Kamala Harris Favorability",
+            "slug": "harris_favorability",
+            "polling_start_date": "2024-08-25",
+            "polling_end_date": "2024-08-27"
+        },
+        {
             "id": "146805",
             "type": "poll_rcp_avg",
             "pollster": "Yahoo News",
@@ -5884,7 +5918,7 @@
         },
         {
             "id": "146672",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Economist/YouGov",
             "date": "8/17 - 8/20",
             "sampleSize": "1371 RV",

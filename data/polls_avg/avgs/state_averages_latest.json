@@ -1,7 +1,7 @@
 [
     {
         "state":"Arizona",
-        "date":"2024-08-27",
+        "date":"2024-08-28",
         "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/arizona\/polling-average.json",
         "harris":45.4,
         "trump":44.5,
@@ -12,7 +12,7 @@
     },
     {
         "state":"Georgia",
-        "date":"2024-08-27",
+        "date":"2024-08-28",
         "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/georgia\/polling-average.json",
         "harris":45.9,
         "trump":46.6,
@@ -23,7 +23,7 @@
     },
     {
         "state":"Michigan",
-        "date":"2024-08-27",
+        "date":"2024-08-28",
         "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/michigan\/polling-average.json",
         "harris":46.6,
         "trump":43.7,
@@ -34,7 +34,7 @@
     },
     {
         "state":"Nevada",
-        "date":"2024-08-27",
+        "date":"2024-08-28",
         "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/nevada\/polling-average.json",
         "harris":44.9,
         "trump":44.4,
@@ -45,7 +45,7 @@
     },
     {
         "state":"North Carolina",
-        "date":"2024-08-27",
+        "date":"2024-08-28",
         "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/north-carolina\/polling-average.json",
         "harris":45.5,
         "trump":45.8,
@@ -56,7 +56,7 @@
     },
     {
         "state":"Pennsylvania",
-        "date":"2024-08-27",
+        "date":"2024-08-28",
         "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/pennsylvania\/polling-average.json",
         "harris":46.5,
         "trump":44.9,
@@ -67,7 +67,7 @@
     },
     {
         "state":"Wisconsin",
-        "date":"2024-08-27",
+        "date":"2024-08-28",
         "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/wisconsin\/polling-average.json",
         "harris":47.8,
         "trump":44.2,
