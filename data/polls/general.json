@@ -1,5 +1,22 @@
 [
     {
+        "id":"146799",
+        "type":"poll_rcp_avg",
+        "pollster":"Yahoo News",
+        "date":"8\/22 - 8\/26",
+        "sampleSize":"1194 RV",
+        "marginError":0.0,
+        "link":"https:\/\/www.yahoo.com\/news\/new-yahoo-newsyougov-poll-a-huge-surge-in-democratic-optimism--but-no-big-bounce-for-harris--after-the-dnc-194934515.html",
+        "spread_winner":"Harris",
+        "spread_value":1.0,
+        "harris_value":"47",
+        "trump_value":"46",
+        "name":"2024 General Election: Trump vs Harris",
+        "slug":"general",
+        "polling_start_date":"2024-08-22",
+        "polling_end_date":"2024-08-26"
+    },
+    {
         "id":"146788",
         "type":"poll_rcp_avg",
         "pollster":"Morning Consult",
@@ -85,23 +102,6 @@
         "polling_end_date":"2024-08-14"
     },
     {
-        "id":"146641",
-        "type":"poll_rcp_avg",
-        "pollster":"ABC News\/Wash Post",
-        "date":"8\/9 - 8\/13",
-        "sampleSize":"1901 RV",
-        "marginError":2.5,
-        "link":"https:\/\/www.washingtonpost.com\/politics\/2024\/08\/18\/harris-trump-post-abc-ipsos-poll\/",
-        "spread_winner":"Harris",
-        "spread_value":4.0,
-        "harris_value":"49",
-        "trump_value":"45",
-        "name":"2024 General Election: Trump vs Harris",
-        "slug":"general",
-        "polling_start_date":"2024-08-09",
-        "polling_end_date":"2024-08-13"
-    },
-    {
         "id":"146587",
         "type":"poll_rcp_avg",
         "pollster":"Emerson",
@@ -117,6 +117,23 @@
         "slug":"general",
         "polling_start_date":"2024-08-12",
         "polling_end_date":"2024-08-14"
+    },
+    {
+        "id":"146641",
+        "type":"poll_rcp_avg",
+        "pollster":"ABC News\/Wash Post",
+        "date":"8\/9 - 8\/13",
+        "sampleSize":"1901 RV",
+        "marginError":2.5,
+        "link":"https:\/\/www.washingtonpost.com\/politics\/2024\/08\/18\/harris-trump-post-abc-ipsos-poll\/",
+        "spread_winner":"Harris",
+        "spread_value":4.0,
+        "harris_value":"49",
+        "trump_value":"45",
+        "name":"2024 General Election: Trump vs Harris",
+        "slug":"general",
+        "polling_start_date":"2024-08-09",
+        "polling_end_date":"2024-08-13"
     },
     {
         "id":"146579",
@@ -171,7 +188,7 @@
     },
     {
         "id":"146724",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Data for Progress (D)**",
         "date":"8\/1 - 8\/15",
         "sampleSize":"6067 LV",
@@ -188,7 +205,7 @@
     },
     {
         "id":"146500",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Ipsos",
         "date":"8\/2 - 8\/7",
         "sampleSize":"1342 RV",
@@ -222,7 +239,7 @@
     },
     {
         "id":"146427",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"SurveyUSA",
         "date":"8\/2 - 8\/4",
         "sampleSize":"1510 LV",
@@ -256,7 +273,7 @@
     },
     {
         "id":"146735",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"HarrisX",
         "date":"8\/2 - 8\/3",
         "sampleSize":"1011 RV",
@@ -273,7 +290,7 @@
     },
     {
         "id":"146440",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"NPR\/PBS\/Marist",
         "date":"8\/1 - 8\/4",
         "sampleSize":"1513 RV",
@@ -290,7 +307,7 @@
     },
     {
         "id":"146482",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"CNBC",
         "date":"7\/31 - 8\/4",
         "sampleSize":"1001 RV",
@@ -307,7 +324,7 @@
     },
     {
         "id":"146421",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"I&amp;I\/TIPP",
         "date":"7\/31 - 8\/2",
         "sampleSize":"1326 RV",
