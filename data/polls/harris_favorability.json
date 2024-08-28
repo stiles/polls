@@ -51,6 +51,23 @@
         "polling_end_date":"2024-08-20"
     },
     {
+        "id":"146812",
+        "type":"poll_rcp_avg",
+        "pollster":"Rasmussen Reports",
+        "date":"8\/13 - 8\/20",
+        "sampleSize":"2558 LV",
+        "marginError":0.0,
+        "link":"https:\/\/www.rasmussenreports.com\/public_content\/most_voters_don_t_trust_polls_a_lotnew_home",
+        "spread_winner":"Favorable",
+        "spread_value":1.0,
+        "favorable_value":"48",
+        "unfavorable_value":"47",
+        "name":"Kamala Harris Favorability",
+        "slug":"harris_favorability",
+        "polling_start_date":"2024-08-13",
+        "polling_end_date":"2024-08-20"
+    },
+    {
         "id":"146591",
         "type":"poll_rcp_avg",
         "pollster":"Emerson",
@@ -154,7 +171,7 @@
     },
     {
         "id":"146732",
-        "type":"poll",
+        "type":"poll_rcp_avg",
         "pollster":"Pew Research",
         "date":"8\/5 - 8\/11",
         "sampleSize":"9201 A",
@@ -273,7 +290,7 @@
     },
     {
         "id":"146447",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"TIPP",
         "date":"7\/31 - 8\/2",
         "sampleSize":"1488 A",
@@ -290,7 +307,7 @@
     },
     {
         "id":"146391",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Daily Kos\/Civiqs",
         "date":"7\/27 - 7\/30",
         "sampleSize":"1123 RV",
@@ -324,7 +341,7 @@
     },
     {
         "id":"146476",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Marquette",
         "date":"7\/24 - 8\/1",
         "sampleSize":"879 RV",
@@ -341,7 +358,7 @@
     },
     {
         "id":"146315",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Harvard-Harris",
         "date":"7\/26 - 7\/28",
         "sampleSize":"2196 RV",
@@ -375,7 +392,7 @@
     },
     {
         "id":"146407",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Reuters\/Ipsos",
         "date":"7\/26 - 7\/28",
         "sampleSize":"1025 A",
@@ -409,7 +426,7 @@
     },
     {
         "id":"146284",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Wall Street Journal",
         "date":"7\/23 - 7\/25",
         "sampleSize":"1000 RV",
@@ -443,7 +460,7 @@
     },
     {
         "id":"146236",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"NY Times\/Siena",
         "date":"7\/22 - 7\/24",
         "sampleSize":"1142 LV",
@@ -460,7 +477,7 @@
     },
     {
         "id":"146198",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"CNN",
         "date":"7\/22 - 7\/23",
         "sampleSize":"1631 RV",
