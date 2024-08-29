@@ -120,7 +120,7 @@
     },
     {
         "id":"146337",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Bloomberg\/MrnConsult",
         "date":"7\/24 - 7\/28",
         "sampleSize":"706 RV",
@@ -137,7 +137,7 @@
     },
     {
         "id":"146273",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"FOX News",
         "date":"7\/22 - 7\/24",
         "sampleSize":"1012 RV",
@@ -171,7 +171,7 @@
     },
     {
         "id":"146157",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"PPP (D)",
         "date":"7\/10 - 7\/11",
         "sampleSize":"568 RV",

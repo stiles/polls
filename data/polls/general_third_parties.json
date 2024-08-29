@@ -1,5 +1,26 @@
 [
     {
+        "id":"146861",
+        "type":"poll_rcp_avg",
+        "pollster":"USA Today\/Suffolk",
+        "date":"8\/25 - 8\/28",
+        "sampleSize":"1000 LV",
+        "marginError":3.1,
+        "link":"https:\/\/www.usatoday.com\/story\/news\/politics\/elections\/2024\/08\/29\/kamala-harris-donald-trump-suffolk-usa-today-poll-results\/74984967007\/",
+        "spread_winner":"Harris",
+        "spread_value":5.0,
+        "harris_value":"48",
+        "trump_value":"43",
+        "kennedy_value":"",
+        "stein_value":"1",
+        "west_value":"2",
+        "oliver_value":"1",
+        "name":"General Election: Trump vs. Harris vs. Kennedy vs. West vs. Stein",
+        "slug":"general_third_parties",
+        "polling_start_date":"2024-08-25",
+        "polling_end_date":"2024-08-28"
+    },
+    {
         "id":"146817",
         "type":"poll_rcp_avg",
         "pollster":"Economist\/YouGov",
