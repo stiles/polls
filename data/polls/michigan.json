@@ -1,5 +1,22 @@
 [
     {
+        "id":"146851",
+        "type":"poll_rcp_avg",
+        "pollster":"The Hill\/Emerson",
+        "date":"8\/25 - 8\/28",
+        "sampleSize":"800 LV",
+        "marginError":3.4,
+        "link":"https:\/\/emersoncollegepolling.com\/august-2024-swing-state-polls-toss-up-presidential-election-in-swing-states\/",
+        "spread_winner":"Harris",
+        "spread_value":3.0,
+        "harris_value":"50",
+        "trump_value":"47",
+        "name":"2024 Michigan: Trump vs. Harris",
+        "slug":"michigan",
+        "polling_start_date":"2024-08-25",
+        "polling_end_date":"2024-08-28"
+    },
+    {
         "id":"146770",
         "type":"poll_rcp_avg",
         "pollster":"AmGreatness\/TIPP",
@@ -137,7 +154,7 @@
     },
     {
         "id":"146206",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"The Hill\/Emerson",
         "date":"7\/22 - 7\/23",
         "sampleSize":"800 RV",

@@ -1,5 +1,22 @@
 [
     {
+        "id":"146853",
+        "type":"poll_rcp_avg",
+        "pollster":"The Hill\/Emerson",
+        "date":"8\/25 - 8\/28",
+        "sampleSize":"1168 LV",
+        "marginError":2.8,
+        "link":"https:\/\/emersoncollegepolling.com\/august-2024-swing-state-polls-toss-up-presidential-election-in-swing-states\/",
+        "spread_winner":"Harris",
+        "spread_value":1.0,
+        "trump_value":"48",
+        "harris_value":"49",
+        "name":"2024 Nevada: Trump vs. Harris",
+        "slug":"nevada",
+        "polling_start_date":"2024-08-25",
+        "polling_end_date":"2024-08-28"
+    },
+    {
         "id":"146842",
         "type":"poll_rcp_avg",
         "pollster":"FOX News",

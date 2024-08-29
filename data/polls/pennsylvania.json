@@ -1,5 +1,22 @@
 [
     {
+        "id":"146856",
+        "type":"poll_rcp_avg",
+        "pollster":"The Hill\/Emerson",
+        "date":"8\/25 - 8\/28",
+        "sampleSize":"950 LV",
+        "marginError":3.1,
+        "link":"https:\/\/emersoncollegepolling.com\/august-2024-swing-state-polls-toss-up-presidential-election-in-swing-states\/",
+        "spread_winner":"Tie",
+        "spread_value":0.0,
+        "trump_value":"48",
+        "harris_value":"48",
+        "name":"2024 Pennsylvania: Trump vs. Harris",
+        "slug":"pennsylvania",
+        "polling_start_date":"2024-08-25",
+        "polling_end_date":"2024-08-28"
+    },
+    {
         "id":"146661",
         "type":"poll_rcp_avg",
         "pollster":"InsiderAdvantage",
@@ -52,7 +69,7 @@
     },
     {
         "id":"146623",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Emerson",
         "date":"8\/13 - 8\/14",
         "sampleSize":"1000 LV",
