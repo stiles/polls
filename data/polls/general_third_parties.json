@@ -1,5 +1,26 @@
 [
     {
+        "id":"146867",
+        "type":"poll_rcp_avg",
+        "pollster":"Quinnipiac",
+        "date":"8\/23 - 8\/27",
+        "sampleSize":"1611 LV",
+        "marginError":2.4,
+        "link":"https:\/\/poll.qu.edu\/images\/polling\/us\/us08292024_unwt24.pdf",
+        "spread_winner":"Harris",
+        "spread_value":2.0,
+        "harris_value":"49",
+        "trump_value":"47",
+        "kennedy_value":"",
+        "stein_value":"1",
+        "west_value":"",
+        "oliver_value":"1",
+        "name":"General Election: Trump vs. Harris vs. Kennedy vs. West vs. Stein",
+        "slug":"general_third_parties",
+        "polling_start_date":"2024-08-23",
+        "polling_end_date":"2024-08-27"
+    },
+    {
         "id":"146861",
         "type":"poll_rcp_avg",
         "pollster":"USA Today\/Suffolk",
