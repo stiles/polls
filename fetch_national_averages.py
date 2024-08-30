@@ -83,20 +83,43 @@ econ_src['source'] = "Economist"
 econ_src['notes'] = ""
 
 # NYT
-nyt_page_content = requests.get('https://www.nytimes.com/interactive/2024/us/elections/polls-president.html', headers=headers)
+nyt_url = 'https://www.nytimes.com/interactive/2024/us/elections/polls-president.html'
+nyt_page_content = requests.get(nyt_url, headers=headers)
 nyt_soup = BeautifulSoup(nyt_page_content.text, 'html.parser')
-divs = nyt_soup.find_all('span', class_='g-endlabel-inner')[:2]
+# Initialize a dictionary to hold the results
 nyt_data = {}
-for div in divs:
-    label = div.find('span', class_='g-label-fill').text.strip()
-    percentage = div.find('span', class_='g-value').text.strip('%')
 
-    if 'Trump' in label:
-        nyt_data['trump'] = float(percentage)
-    elif 'Harris' in label:
-        nyt_data['harris'] = float(percentage)
-nyt_data['date'] = today
+# Find all relevant divs containing the values
+divs = nyt_soup.find_all('div', class_='g-endlabel')
+
+# Iterate over the found divs to extract the values
+for div in divs:
+    # Extract percentage and candidate name
+    percentage_span = div.find('span', class_='g-value')
+    candidate_span = div.find('span', class_='g-answer-wrap')
+
+    if percentage_span and candidate_span:
+        # Extract the raw content from within the HTML_TAG markers
+        percentage = percentage_span.text.strip().replace('<!-- HTML_TAG_START -->', '').replace('<!-- HTML_TAG_END -->', '').strip('%')
+        candidate_name = candidate_span.text.strip().replace('<!-- HTML_TAG_START -->', '').replace('<!-- HTML_TAG_END -->', '').strip()
+
+        # Only add to dictionary if the percentage string is not empty
+        if percentage and candidate_name and candidate_name.lower() in ['trump', 'harris']:
+            # Store the first occurrence only
+            if candidate_name.lower() not in nyt_data:
+                nyt_data[candidate_name.lower()] = float(percentage)
+
+            # Break if both candidates have been captured
+            if 'trump' in nyt_data and 'harris' in nyt_data:
+                break
+
+# Add the date to the data
+nyt_data['date'] = datetime.now().strftime('%Y-%m-%d')
+
+# Convert to DataFrame
 nyt_df = pd.DataFrame([nyt_data])
+
+# Add source and notes columns
 nyt_df['source'] = 'New York Times'
 nyt_df['notes'] = ''
 
