@@ -34,6 +34,23 @@
         "polling_end_date":"2024-08-26"
     },
     {
+        "id":"146897",
+        "type":"poll_rcp_avg",
+        "pollster":"Bloomberg\/MrnConsult",
+        "date":"8\/23 - 8\/26",
+        "sampleSize":"700 RV",
+        "marginError":4.0,
+        "link":"https:\/\/www.bloomberg.com\/news\/articles\/2024-08-29\/election-2024-poll-harris-leads-or-ties-with-trump-in-swing-states?leadSource=uverify%20wall",
+        "spread_winner":"Harris",
+        "spread_value":2.0,
+        "trump_value":"47",
+        "harris_value":"49",
+        "name":"2024 North Carolina: Trump vs. Harris",
+        "slug":"north_carolina",
+        "polling_start_date":"2024-08-23",
+        "polling_end_date":"2024-08-26"
+    },
+    {
         "id":"146722",
         "type":"poll_rcp_avg",
         "pollster":"High Point\/SurveyUSA",
@@ -120,7 +137,7 @@
     },
     {
         "id":"146341",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Bloomberg\/MrnConsult",
         "date":"7\/24 - 7\/28",
         "sampleSize":"706 RV",

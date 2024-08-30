@@ -34,6 +34,23 @@
         "polling_end_date":"2024-08-26"
     },
     {
+        "id":"146891",
+        "type":"poll_rcp_avg",
+        "pollster":"Bloomberg\/MrnConsult",
+        "date":"8\/23 - 8\/26",
+        "sampleSize":"801 RV",
+        "marginError":3.0,
+        "link":"https:\/\/www.bloomberg.com\/news\/articles\/2024-08-29\/election-2024-poll-harris-leads-or-ties-with-trump-in-swing-states?leadSource=uverify%20wall",
+        "spread_winner":"Harris",
+        "spread_value":2.0,
+        "trump_value":"47",
+        "harris_value":"49",
+        "name":"2024 Georgia: Trump vs. Harris",
+        "slug":"georgia",
+        "polling_start_date":"2024-08-23",
+        "polling_end_date":"2024-08-26"
+    },
+    {
         "id":"146633",
         "type":"poll_rcp_avg",
         "pollster":"NY Times\/Siena",
@@ -120,7 +137,7 @@
     },
     {
         "id":"146335",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Bloomberg\/MrnConsult",
         "date":"7\/24 - 7\/28",
         "sampleSize":"799 RV",
@@ -154,7 +171,7 @@
     },
     {
         "id":"146167",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Landmark Communications",
         "date":"7\/22 - 7\/22",
         "sampleSize":"400 LV",

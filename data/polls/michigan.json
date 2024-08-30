@@ -17,6 +17,23 @@
         "polling_end_date":"2024-08-28"
     },
     {
+        "id":"146893",
+        "type":"poll_rcp_avg",
+        "pollster":"Bloomberg\/MrnConsult",
+        "date":"8\/23 - 8\/26",
+        "sampleSize":"702 RV",
+        "marginError":4.0,
+        "link":"https:\/\/www.bloomberg.com\/news\/articles\/2024-08-29\/election-2024-poll-harris-leads-or-ties-with-trump-in-swing-states?leadSource=uverify%20wall",
+        "spread_winner":"Harris",
+        "spread_value":3.0,
+        "harris_value":"49",
+        "trump_value":"46",
+        "name":"2024 Michigan: Trump vs. Harris",
+        "slug":"michigan",
+        "polling_start_date":"2024-08-23",
+        "polling_end_date":"2024-08-26"
+    },
+    {
         "id":"146770",
         "type":"poll_rcp_avg",
         "pollster":"AmGreatness\/TIPP",

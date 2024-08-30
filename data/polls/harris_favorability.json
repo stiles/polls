@@ -51,6 +51,23 @@
         "polling_end_date":"2024-08-26"
     },
     {
+        "id":"146884",
+        "type":"poll_rcp_avg",
+        "pollster":"Reuters\/Ipsos",
+        "date":"8\/23 - 8\/25",
+        "sampleSize":"1028 A",
+        "marginError":0.0,
+        "link":"https:\/\/www.ipsos.com\/sites\/default\/files\/Reuters%20Ipsos%20Core%20Political%2008%2028%202024%20PDF.pdf",
+        "spread_winner":"Unfavorable",
+        "spread_value":7.0,
+        "favorable_value":"44",
+        "unfavorable_value":"51",
+        "name":"Kamala Harris Favorability",
+        "slug":"harris_favorability",
+        "polling_start_date":"2024-08-23",
+        "polling_end_date":"2024-08-25"
+    },
+    {
         "id":"146790",
         "type":"poll_rcp_avg",
         "pollster":"Morning Consult",

@@ -17,6 +17,23 @@
         "polling_end_date":"2024-08-28"
     },
     {
+        "id":"146901",
+        "type":"poll_rcp_avg",
+        "pollster":"Bloomberg\/MrnConsult",
+        "date":"8\/23 - 8\/26",
+        "sampleSize":"701 RV",
+        "marginError":4.0,
+        "link":"https:\/\/www.bloomberg.com\/news\/articles\/2024-08-29\/election-2024-poll-harris-leads-or-ties-with-trump-in-swing-states?leadSource=uverify%20wall",
+        "spread_winner":"Harris",
+        "spread_value":8.0,
+        "harris_value":"52",
+        "trump_value":"44",
+        "name":"2024 Wisconsin: Trump vs. Harris",
+        "slug":"wisconsin",
+        "polling_start_date":"2024-08-23",
+        "polling_end_date":"2024-08-26"
+    },
+    {
         "id":"146686",
         "type":"poll_rcp_avg",
         "pollster":"Rasmussen Reports",

@@ -34,6 +34,23 @@
         "polling_end_date":"2024-08-26"
     },
     {
+        "id":"146895",
+        "type":"poll_rcp_avg",
+        "pollster":"Bloomberg\/MrnConsult",
+        "date":"8\/23 - 8\/26",
+        "sampleSize":"450 RV",
+        "marginError":5.0,
+        "link":"https:\/\/www.bloomberg.com\/news\/articles\/2024-08-29\/election-2024-poll-harris-leads-or-ties-with-trump-in-swing-states?leadSource=uverify%20wall",
+        "spread_winner":"Harris",
+        "spread_value":4.0,
+        "trump_value":"45",
+        "harris_value":"49",
+        "name":"2024 Nevada: Trump vs. Harris",
+        "slug":"nevada",
+        "polling_start_date":"2024-08-23",
+        "polling_end_date":"2024-08-26"
+    },
+    {
         "id":"146689",
         "type":"poll_rcp_avg",
         "pollster":"Rasmussen Reports",
@@ -103,7 +120,7 @@
     },
     {
         "id":"146339",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Bloomberg\/MrnConsult",
         "date":"7\/24 - 7\/28",
         "sampleSize":"454 RV",

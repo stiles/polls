@@ -6,7 +6,7 @@
         "source":"Cook Report",
         "winning":"D +1.2",
         "winning_margin":1.2,
-        "fetched_date":"2024-08-29"
+        "fetched_date":"2024-08-30"
     },
     {
         "date":"2024-08-29",
@@ -15,16 +15,16 @@
         "source":"RealClearPolitics",
         "winning":"D +1.6",
         "winning_margin":1.6,
-        "fetched_date":"2024-08-29"
+        "fetched_date":"2024-08-30"
     },
     {
         "date":"2024-08-29",
-        "harris":47.1,
+        "harris":47.2,
         "trump":43.7,
         "source":"FiveThirtyEight",
-        "winning":"D +3.4",
-        "winning_margin":3.4,
-        "fetched_date":"2024-08-29"
+        "winning":"D +3.5",
+        "winning_margin":3.5,
+        "fetched_date":"2024-08-30"
     },
     {
         "date":"2024-08-29",
@@ -33,16 +33,16 @@
         "source":"Nate Silver",
         "winning":"D +3.8",
         "winning_margin":3.8,
-        "fetched_date":"2024-08-29"
+        "fetched_date":"2024-08-30"
     },
     {
         "date":"2024-08-29",
         "harris":48.0,
-        "trump":45.89,
+        "trump":46.0,
         "source":"270toWin",
-        "winning":"D +2.1",
-        "winning_margin":2.1,
-        "fetched_date":"2024-08-29"
+        "winning":"D +2.0",
+        "winning_margin":2.0,
+        "fetched_date":"2024-08-30"
     },
     {
         "date":"2024-08-28",
@@ -51,24 +51,24 @@
         "source":"Economist",
         "winning":"D +3.3",
         "winning_margin":3.3,
-        "fetched_date":"2024-08-29"
+        "fetched_date":"2024-08-30"
     },
     {
-        "date":"2024-08-29",
+        "date":"2024-08-30",
         "harris":49.0,
-        "trump":45.0,
+        "trump":46.0,
         "source":"New York Times",
-        "winning":"D +4.0",
-        "winning_margin":4.0,
-        "fetched_date":"2024-08-29"
+        "winning":"D +3.0",
+        "winning_margin":3.0,
+        "fetched_date":"2024-08-30"
     },
     {
-        "date":"2024-08-29",
+        "date":"2024-08-30",
         "harris":49.0,
         "trump":45.1,
         "source":"The Hill",
         "winning":"D +3.9",
         "winning_margin":3.9,
-        "fetched_date":"2024-08-29"
+        "fetched_date":"2024-08-30"
     }
 ]
