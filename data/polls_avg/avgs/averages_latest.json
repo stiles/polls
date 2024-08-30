@@ -19,8 +19,8 @@
     },
     {
         "date":"2024-08-30",
-        "harris":47.2,
-        "trump":43.8,
+        "harris":47.1,
+        "trump":43.7,
         "source":"FiveThirtyEight",
         "winning":"D +3.4",
         "winning_margin":3.4,
@@ -64,8 +64,8 @@
     },
     {
         "date":"2024-08-30",
-        "harris":49.3,
-        "trump":45.5,
+        "harris":49.4,
+        "trump":45.6,
         "source":"The Hill",
         "winning":"D +3.8",
         "winning_margin":3.8,
