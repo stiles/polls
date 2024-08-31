@@ -1,7 +1,7 @@
 
 # US election polls
 
-This project is a non-commercial exercise in the automated collection of political polls. It fetches, processes and stores political polling data, focusing on key state and national matchups in the upcoming presidential election. It uses Python scripts to retrieve data and stores the outputs in CSV and JSON formats in the `data` directory and on AWS S3. The process runs three times per day — at 6 am, noon and 6 pm Eastern Time — using a Github Actions workflow, which finishes by copying all data to S3. 
+This project is a non-commercial exercise in the automated collection of political polls. It fetches, processes and stores political polling data, focusing on key state and national matchups in the upcoming presidential election. It uses Python scripts to retrieve data and stores the outputs in CSV and JSON formats in the `data` directory and on AWS S3. The process runs every four hours using a Github Actions workflow, which finishes by copying all data to S3. 
 
 ## Sources
 
