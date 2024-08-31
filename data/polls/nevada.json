@@ -1,5 +1,22 @@
 [
     {
+        "id":"146919",
+        "type":"poll_rcp_avg",
+        "pollster":"InsiderAdvantage",
+        "date":"8\/29 - 8\/31",
+        "sampleSize":"800 LV",
+        "marginError":3.5,
+        "link":"https:\/\/insideradvantage.com\/nevada-trump-leads-by-one-point-rosen-holds-substantial-lead-in-senate-contest\/",
+        "spread_winner":"Trump",
+        "spread_value":1.0,
+        "trump_value":"48",
+        "harris_value":"47",
+        "name":"2024 Nevada: Trump vs. Harris",
+        "slug":"nevada",
+        "polling_start_date":"2024-08-29",
+        "polling_end_date":"2024-08-31"
+    },
+    {
         "id":"146853",
         "type":"poll_rcp_avg",
         "pollster":"The Hill\/Emerson",
@@ -103,7 +120,7 @@
     },
     {
         "id":"146538",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Cook Political Report",
         "date":"7\/26 - 8\/2",
         "sampleSize":"403 LV",

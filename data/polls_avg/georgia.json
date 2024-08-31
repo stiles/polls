@@ -3,17 +3,17 @@
         "id":"8302",
         "type":"rcp_average",
         "pollster":"rcp_average",
-        "date":"7\/24 - 8\/28",
+        "date":"7\/26 - 8\/31",
         "sampleSize":"",
         "marginError":0.0,
         "link":null,
-        "spread_winner":"Tie",
-        "spread_value":0.0,
-        "trump_value":"48.1",
+        "spread_winner":"Trump",
+        "spread_value":0.2,
+        "trump_value":"48.3",
         "harris_value":"48.1",
         "name":"2024 Georgia: Trump vs. Harris",
         "slug":"georgia",
-        "polling_start_date":"2024-07-24",
-        "polling_end_date":"2024-08-28"
+        "polling_start_date":"2024-07-26",
+        "polling_end_date":"2024-08-31"
     }
 ]

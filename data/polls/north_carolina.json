@@ -1,5 +1,22 @@
 [
     {
+        "id":"146921",
+        "type":"poll_rcp_avg",
+        "pollster":"InsiderAdvantage",
+        "date":"8\/29 - 8\/31",
+        "sampleSize":"800 LV",
+        "marginError":3.5,
+        "link":"https:\/\/insideradvantage.com\/north-carolina-trump-leads-harris-by-one-point-rounded-numbers-below-tabs\/",
+        "spread_winner":"Trump",
+        "spread_value":1.0,
+        "trump_value":"49",
+        "harris_value":"48",
+        "name":"2024 North Carolina: Trump vs. Harris",
+        "slug":"north_carolina",
+        "polling_start_date":"2024-08-29",
+        "polling_end_date":"2024-08-31"
+    },
+    {
         "id":"146855",
         "type":"poll_rcp_avg",
         "pollster":"The Hill\/Emerson",
@@ -120,7 +137,7 @@
     },
     {
         "id":"146540",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Cook Political Report",
         "date":"7\/26 - 8\/2",
         "sampleSize":"403 LV",

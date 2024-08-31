@@ -2333,6 +2333,23 @@
     ],
     "georgia": [
         {
+            "id": "146918",
+            "type": "poll_rcp_avg",
+            "pollster": "InsiderAdvantage",
+            "date": "8/29 - 8/31",
+            "sampleSize": "800 LV",
+            "marginError": 3.7,
+            "link": "https://insideradvantage.com/georgia-harris-and-trump-tied-at-48/",
+            "spread_winner": "Tie",
+            "spread_value": 0.0,
+            "trump_value": "48",
+            "harris_value": "48",
+            "name": "2024 Georgia: Trump vs. Harris",
+            "slug": "georgia",
+            "polling_start_date": "2024-08-29",
+            "polling_end_date": "2024-08-31"
+        },
+        {
             "id": "146850",
             "type": "poll_rcp_avg",
             "pollster": "The Hill/Emerson",
@@ -2401,6 +2418,23 @@
             "polling_end_date": "2024-08-14"
         },
         {
+            "id": "146411",
+            "type": "poll_rcp_avg",
+            "pollster": "PollingPlus",
+            "date": "7/29 - 7/30",
+            "sampleSize": " LV",
+            "marginError": 3.5,
+            "link": "https://pollingplus.com/news/trump-leads-in-georgia-by-two-points",
+            "spread_winner": "Trump",
+            "spread_value": 2.0,
+            "trump_value": "49",
+            "harris_value": "47",
+            "name": "2024 Georgia: Trump vs. Harris",
+            "slug": "georgia",
+            "polling_start_date": "2024-07-29",
+            "polling_end_date": "2024-07-30"
+        },
+        {
             "id": "146534",
             "type": "poll_rcp_avg",
             "pollster": "Cook Political Report",
@@ -2418,25 +2452,8 @@
             "polling_end_date": "2024-08-02"
         },
         {
-            "id": "146411",
-            "type": "poll_rcp_avg",
-            "pollster": "Trafalgar Group (R)",
-            "date": "7/29 - 7/30",
-            "sampleSize": " LV",
-            "marginError": 3.5,
-            "link": "https://pollingplus.com/news/trump-leads-in-georgia-by-two-points",
-            "spread_winner": "Trump",
-            "spread_value": 2.0,
-            "trump_value": "49",
-            "harris_value": "47",
-            "name": "2024 Georgia: Trump vs. Harris",
-            "slug": "georgia",
-            "polling_start_date": "2024-07-29",
-            "polling_end_date": "2024-07-30"
-        },
-        {
             "id": "146412",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "PPP (D)",
             "date": "7/29 - 7/30",
             "sampleSize": "662 LV",
@@ -2453,7 +2470,7 @@
         },
         {
             "id": "146496",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Fabrizio/Anzalone",
             "date": "7/24 - 7/31",
             "sampleSize": "600 LV",
@@ -3412,6 +3429,23 @@
     ],
     "nevada": [
         {
+            "id": "146919",
+            "type": "poll_rcp_avg",
+            "pollster": "InsiderAdvantage",
+            "date": "8/29 - 8/31",
+            "sampleSize": "800 LV",
+            "marginError": 3.5,
+            "link": "https://insideradvantage.com/nevada-trump-leads-by-one-point-rosen-holds-substantial-lead-in-senate-contest/",
+            "spread_winner": "Trump",
+            "spread_value": 1.0,
+            "trump_value": "48",
+            "harris_value": "47",
+            "name": "2024 Nevada: Trump vs. Harris",
+            "slug": "nevada",
+            "polling_start_date": "2024-08-29",
+            "polling_end_date": "2024-08-31"
+        },
+        {
             "id": "146853",
             "type": "poll_rcp_avg",
             "pollster": "The Hill/Emerson",
@@ -3515,7 +3549,7 @@
         },
         {
             "id": "146538",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Cook Political Report",
             "date": "7/26 - 8/2",
             "sampleSize": "403 LV",
@@ -3600,6 +3634,23 @@
         }
     ],
     "arizona": [
+        {
+            "id": "146916",
+            "type": "poll_rcp_avg",
+            "pollster": "InsiderAdvantage",
+            "date": "8/29 - 8/30",
+            "sampleSize": "800 LV",
+            "marginError": 3.0,
+            "link": "https://insideradvantage.com/arizona-trump-leads-by-one-point-gallego-up-by-four/",
+            "spread_winner": "Trump",
+            "spread_value": 1.0,
+            "trump_value": "49",
+            "harris_value": "48",
+            "name": "2024 Arizona: Trump vs. Harris",
+            "slug": "arizona",
+            "polling_start_date": "2024-08-29",
+            "polling_end_date": "2024-08-30"
+        },
         {
             "id": "146848",
             "type": "poll_rcp_avg",
@@ -3721,7 +3772,7 @@
         },
         {
             "id": "146414",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "PPP (D)",
             "date": "7/29 - 7/30",
             "sampleSize": "618 LV",
@@ -3738,7 +3789,7 @@
         },
         {
             "id": "146532",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Cook Political Report",
             "date": "7/26 - 8/2",
             "sampleSize": "435 LV",
@@ -3857,6 +3908,23 @@
         }
     ],
     "north_carolina": [
+        {
+            "id": "146921",
+            "type": "poll_rcp_avg",
+            "pollster": "InsiderAdvantage",
+            "date": "8/29 - 8/31",
+            "sampleSize": "800 LV",
+            "marginError": 3.5,
+            "link": "https://insideradvantage.com/north-carolina-trump-leads-harris-by-one-point-rounded-numbers-below-tabs/",
+            "spread_winner": "Trump",
+            "spread_value": 1.0,
+            "trump_value": "49",
+            "harris_value": "48",
+            "name": "2024 North Carolina: Trump vs. Harris",
+            "slug": "north_carolina",
+            "polling_start_date": "2024-08-29",
+            "polling_end_date": "2024-08-31"
+        },
         {
             "id": "146855",
             "type": "poll_rcp_avg",
@@ -3978,7 +4046,7 @@
         },
         {
             "id": "146540",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Cook Political Report",
             "date": "7/26 - 8/2",
             "sampleSize": "403 LV",
