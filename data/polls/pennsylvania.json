@@ -1,5 +1,22 @@
 [
     {
+        "id":"146922",
+        "type":"poll_rcp_avg",
+        "pollster":"Trafalgar Group (R)",
+        "date":"8\/28 - 8\/30",
+        "sampleSize":"1082 LV",
+        "marginError":2.9,
+        "link":"https:\/\/www.thetrafalgargroup.org\/wp-content\/uploads\/2024\/08\/PA-24-General-0830-Poll-Report.pdf",
+        "spread_winner":"Trump",
+        "spread_value":2.0,
+        "harris_value":"45",
+        "trump_value":"47",
+        "name":"2024 Pennsylvania: Trump vs. Harris",
+        "slug":"pennsylvania",
+        "polling_start_date":"2024-08-28",
+        "polling_end_date":"2024-08-30"
+    },
+    {
         "id":"146856",
         "type":"poll_rcp_avg",
         "pollster":"The Hill\/Emerson",
@@ -120,7 +137,7 @@
     },
     {
         "id":"146514",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"NY Times\/Siena",
         "date":"8\/6 - 8\/9",
         "sampleSize":"693 LV",
@@ -137,7 +154,7 @@
     },
     {
         "id":"146510",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Trafalgar Group (R)",
         "date":"8\/6 - 8\/8",
         "sampleSize":"1000 LV",
@@ -154,7 +171,7 @@
     },
     {
         "id":"146413",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"PPP (D)",
         "date":"7\/29 - 7\/30",
         "sampleSize":"627 LV",

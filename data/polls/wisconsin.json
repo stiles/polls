@@ -1,5 +1,22 @@
 [
     {
+        "id":"146924",
+        "type":"poll_rcp_avg",
+        "pollster":"Trafalgar Group (R)",
+        "date":"8\/28 - 8\/30",
+        "sampleSize":"1083 LV",
+        "marginError":2.9,
+        "link":"https:\/\/www.thetrafalgargroup.org\/wp-content\/uploads\/2024\/08\/WI-Gen-Pres-Poll-Report-0831.pdf",
+        "spread_winner":"Trump",
+        "spread_value":1.0,
+        "harris_value":"46",
+        "trump_value":"47",
+        "name":"2024 Wisconsin: Trump vs. Harris",
+        "slug":"wisconsin",
+        "polling_start_date":"2024-08-28",
+        "polling_end_date":"2024-08-30"
+    },
+    {
         "id":"146858",
         "type":"poll_rcp_avg",
         "pollster":"The Hill\/Emerson",
@@ -69,7 +86,7 @@
     },
     {
         "id":"146516",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"NY Times\/Siena",
         "date":"8\/5 - 8\/8",
         "sampleSize":"661 LV",
@@ -86,7 +103,7 @@
     },
     {
         "id":"146511",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"InsiderAdvantage",
         "date":"8\/6 - 8\/8",
         "sampleSize":"800 LV",
@@ -103,7 +120,7 @@
     },
     {
         "id":"146544",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Cook Political Report",
         "date":"7\/26 - 8\/2",
         "sampleSize":"404 LV",
@@ -120,7 +137,7 @@
     },
     {
         "id":"146463",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Marquette",
         "date":"7\/24 - 8\/1",
         "sampleSize":"801 LV",

@@ -2607,6 +2607,23 @@
     ],
     "pennsylvania": [
         {
+            "id": "146922",
+            "type": "poll_rcp_avg",
+            "pollster": "Trafalgar Group (R)",
+            "date": "8/28 - 8/30",
+            "sampleSize": "1082 LV",
+            "marginError": 2.9,
+            "link": "https://www.thetrafalgargroup.org/wp-content/uploads/2024/08/PA-24-General-0830-Poll-Report.pdf",
+            "spread_winner": "Trump",
+            "spread_value": 2.0,
+            "harris_value": "45",
+            "trump_value": "47",
+            "name": "2024 Pennsylvania: Trump vs. Harris",
+            "slug": "pennsylvania",
+            "polling_start_date": "2024-08-28",
+            "polling_end_date": "2024-08-30"
+        },
+        {
             "id": "146856",
             "type": "poll_rcp_avg",
             "pollster": "The Hill/Emerson",
@@ -2727,7 +2744,7 @@
         },
         {
             "id": "146514",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "NY Times/Siena",
             "date": "8/6 - 8/9",
             "sampleSize": "693 LV",
@@ -2744,7 +2761,7 @@
         },
         {
             "id": "146510",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Trafalgar Group (R)",
             "date": "8/6 - 8/8",
             "sampleSize": "1000 LV",
@@ -2761,7 +2778,7 @@
         },
         {
             "id": "146413",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "PPP (D)",
             "date": "7/29 - 7/30",
             "sampleSize": "627 LV",
@@ -2949,6 +2966,23 @@
     ],
     "michigan": [
         {
+            "id": "146923",
+            "type": "poll_rcp_avg",
+            "pollster": "Trafalgar Group (R)",
+            "date": "8/28 - 8/30",
+            "sampleSize": "1089 LV",
+            "marginError": 2.9,
+            "link": "https://www.thetrafalgargroup.org/wp-content/uploads/2024/08/MI-Gen-Pres-Poll-Report-0831.pdf",
+            "spread_winner": "Tie",
+            "spread_value": 0.0,
+            "harris_value": "47",
+            "trump_value": "47",
+            "name": "2024 Michigan: Trump vs. Harris",
+            "slug": "michigan",
+            "polling_start_date": "2024-08-28",
+            "polling_end_date": "2024-08-30"
+        },
+        {
             "id": "146851",
             "type": "poll_rcp_avg",
             "pollster": "The Hill/Emerson",
@@ -3052,7 +3086,7 @@
         },
         {
             "id": "146507",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "InsiderAdvantage",
             "date": "8/6 - 8/8",
             "sampleSize": "800 LV",
@@ -3069,7 +3103,7 @@
         },
         {
             "id": "146512",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "NY Times/Siena",
             "date": "8/5 - 8/8",
             "sampleSize": "619 LV",
@@ -3189,6 +3223,23 @@
     ],
     "wisconsin": [
         {
+            "id": "146924",
+            "type": "poll_rcp_avg",
+            "pollster": "Trafalgar Group (R)",
+            "date": "8/28 - 8/30",
+            "sampleSize": "1083 LV",
+            "marginError": 2.9,
+            "link": "https://www.thetrafalgargroup.org/wp-content/uploads/2024/08/WI-Gen-Pres-Poll-Report-0831.pdf",
+            "spread_winner": "Trump",
+            "spread_value": 1.0,
+            "harris_value": "46",
+            "trump_value": "47",
+            "name": "2024 Wisconsin: Trump vs. Harris",
+            "slug": "wisconsin",
+            "polling_start_date": "2024-08-28",
+            "polling_end_date": "2024-08-30"
+        },
+        {
             "id": "146858",
             "type": "poll_rcp_avg",
             "pollster": "The Hill/Emerson",
@@ -3258,7 +3309,7 @@
         },
         {
             "id": "146516",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "NY Times/Siena",
             "date": "8/5 - 8/8",
             "sampleSize": "661 LV",
@@ -3275,7 +3326,7 @@
         },
         {
             "id": "146511",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "InsiderAdvantage",
             "date": "8/6 - 8/8",
             "sampleSize": "800 LV",
@@ -3292,7 +3343,7 @@
         },
         {
             "id": "146544",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Cook Political Report",
             "date": "7/26 - 8/2",
             "sampleSize": "404 LV",
@@ -3309,7 +3360,7 @@
         },
         {
             "id": "146463",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Marquette",
             "date": "7/24 - 8/1",
             "sampleSize": "801 LV",

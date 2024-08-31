@@ -1,5 +1,22 @@
 [
     {
+        "id":"146923",
+        "type":"poll_rcp_avg",
+        "pollster":"Trafalgar Group (R)",
+        "date":"8\/28 - 8\/30",
+        "sampleSize":"1089 LV",
+        "marginError":2.9,
+        "link":"https:\/\/www.thetrafalgargroup.org\/wp-content\/uploads\/2024\/08\/MI-Gen-Pres-Poll-Report-0831.pdf",
+        "spread_winner":"Tie",
+        "spread_value":0.0,
+        "harris_value":"47",
+        "trump_value":"47",
+        "name":"2024 Michigan: Trump vs. Harris",
+        "slug":"michigan",
+        "polling_start_date":"2024-08-28",
+        "polling_end_date":"2024-08-30"
+    },
+    {
         "id":"146851",
         "type":"poll_rcp_avg",
         "pollster":"The Hill\/Emerson",
@@ -103,7 +120,7 @@
     },
     {
         "id":"146507",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"InsiderAdvantage",
         "date":"8\/6 - 8\/8",
         "sampleSize":"800 LV",
@@ -120,7 +137,7 @@
     },
     {
         "id":"146512",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"NY Times\/Siena",
         "date":"8\/5 - 8\/8",
         "sampleSize":"619 LV",
