@@ -6654,6 +6654,23 @@
             "polling_end_date": "2024-08-27"
         },
         {
+            "id": "146928",
+            "type": "poll_rcp_avg",
+            "pollster": "ABC News/Ipsos",
+            "date": "8/23 - 8/27",
+            "sampleSize": "2496 A",
+            "marginError": 0.0,
+            "link": "https://www.realclearpolitics.com/docs/2024/ABC_News_Ipsos_Aug_23-27_2024.pdf",
+            "spread_winner": "Favorable",
+            "spread_value": 3.0,
+            "favorable_value": "46",
+            "unfavorable_value": "43",
+            "name": "Kamala Harris Favorability",
+            "slug": "harris_favorability",
+            "polling_start_date": "2024-08-23",
+            "polling_end_date": "2024-08-27"
+        },
+        {
             "id": "146805",
             "type": "poll_rcp_avg",
             "pollster": "Yahoo News",
@@ -6672,7 +6689,7 @@
         },
         {
             "id": "146884",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Reuters/Ipsos",
             "date": "8/23 - 8/25",
             "sampleSize": "1028 A",
