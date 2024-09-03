@@ -1,6 +1,23 @@
 {
     "general": [
         {
+            "id": "146933",
+            "type": "poll",
+            "pollster": "I&amp;I/TIPP",
+            "date": "8/28 - 8/30",
+            "sampleSize": "1386 RV",
+            "marginError": 2.8,
+            "link": "https://tippinsights.com/harris-hangs-on-to-overall-lead-but-trump-maintains-his-hold-on-vital-swing-states-i-i-tipp-poll/",
+            "spread_winner": "Harris",
+            "spread_value": 3.0,
+            "harris_value": "48",
+            "trump_value": "45",
+            "name": "2024 General Election: Trump vs Harris",
+            "slug": "general",
+            "polling_start_date": "2024-08-28",
+            "polling_end_date": "2024-08-30"
+        },
+        {
             "id": "146925",
             "type": "poll_rcp_avg",
             "pollster": "ABC News/Ipsos",
@@ -3998,6 +4015,23 @@
     ],
     "north_carolina": [
         {
+            "id": "146948",
+            "type": "poll_rcp_avg",
+            "pollster": "East Carolina U.*",
+            "date": "8/26 - 8/28",
+            "sampleSize": "920 LV",
+            "marginError": 3.0,
+            "link": "https://surveyresearch-ecu.reportablenews.com/pr/north-carolina-election-heats-up-trump-leads-harris-by-1-point-in-north-carolina-stein-widens-advantage-over-robinson-in-race-for-governor",
+            "spread_winner": "Trump",
+            "spread_value": 1.0,
+            "trump_value": "48",
+            "harris_value": "47",
+            "name": "2024 North Carolina: Trump vs. Harris",
+            "slug": "north_carolina",
+            "polling_start_date": "2024-08-26",
+            "polling_end_date": "2024-08-28"
+        },
+        {
             "id": "146921",
             "type": "poll_rcp_avg",
             "pollster": "InsiderAdvantage",
@@ -4237,6 +4271,23 @@
         }
     ],
     "congress_generic": [
+        {
+            "id": "146946",
+            "type": "poll_rcp_avg",
+            "pollster": "USA Today/Suffolk",
+            "date": "8/25 - 8/28",
+            "sampleSize": "1000 LV",
+            "marginError": 0.0,
+            "link": "https://www.suffolk.edu/-/media/suffolk/documents/academics/research-at-suffolk/suprc/polls/national/2024/9_3_2024_corrected_national_marginals_2.pdf?la=en&amp;hash=714D622BA5EF54D1FDB38B8F7D141797031F51E0",
+            "spread_winner": "Democrats",
+            "spread_value": 5.0,
+            "democrats_value": "48",
+            "republicans_value": "43",
+            "name": "2024 Generic Congressional Vote",
+            "slug": "congress_generic",
+            "polling_start_date": "2024-08-25",
+            "polling_end_date": "2024-08-28"
+        },
         {
             "id": "146820",
             "type": "poll_rcp_avg",

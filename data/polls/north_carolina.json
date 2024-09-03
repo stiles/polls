@@ -1,5 +1,22 @@
 [
     {
+        "id":"146948",
+        "type":"poll_rcp_avg",
+        "pollster":"East Carolina U.*",
+        "date":"8\/26 - 8\/28",
+        "sampleSize":"920 LV",
+        "marginError":3.0,
+        "link":"https:\/\/surveyresearch-ecu.reportablenews.com\/pr\/north-carolina-election-heats-up-trump-leads-harris-by-1-point-in-north-carolina-stein-widens-advantage-over-robinson-in-race-for-governor",
+        "spread_winner":"Trump",
+        "spread_value":1.0,
+        "trump_value":"48",
+        "harris_value":"47",
+        "name":"2024 North Carolina: Trump vs. Harris",
+        "slug":"north_carolina",
+        "polling_start_date":"2024-08-26",
+        "polling_end_date":"2024-08-28"
+    },
+    {
         "id":"146921",
         "type":"poll_rcp_avg",
         "pollster":"InsiderAdvantage",

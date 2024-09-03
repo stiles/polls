@@ -1,5 +1,22 @@
 [
     {
+        "id":"146946",
+        "type":"poll_rcp_avg",
+        "pollster":"USA Today\/Suffolk",
+        "date":"8\/25 - 8\/28",
+        "sampleSize":"1000 LV",
+        "marginError":0.0,
+        "link":"https:\/\/www.suffolk.edu\/-\/media\/suffolk\/documents\/academics\/research-at-suffolk\/suprc\/polls\/national\/2024\/9_3_2024_corrected_national_marginals_2.pdf?la=en&amp;hash=714D622BA5EF54D1FDB38B8F7D141797031F51E0",
+        "spread_winner":"Democrats",
+        "spread_value":5.0,
+        "democrats_value":"48",
+        "republicans_value":"43",
+        "name":"2024 Generic Congressional Vote",
+        "slug":"congress_generic",
+        "polling_start_date":"2024-08-25",
+        "polling_end_date":"2024-08-28"
+    },
+    {
         "id":"146820",
         "type":"poll_rcp_avg",
         "pollster":"Economist\/YouGov",
