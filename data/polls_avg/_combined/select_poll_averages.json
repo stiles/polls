@@ -20,7 +20,7 @@
         "id": "8510",
         "type": "rcp_average",
         "pollster": "rcp_average",
-        "date": "8/9 - 8/30",
+        "date": "8/9 - 9/3",
         "sampleSize": "",
         "marginError": 0.0,
         "link": null,
@@ -35,7 +35,7 @@
         "name": "General Election: Trump vs. Harris vs. Kennedy vs. West vs. Stein",
         "slug": "general_third_parties",
         "polling_start_date": "2024-08-09",
-        "polling_end_date": "2024-08-30"
+        "polling_end_date": "2024-09-03"
     },
     {
         "id": "8302",
@@ -160,24 +160,24 @@
         "id": "7969",
         "type": "rcp_average",
         "pollster": "rcp_average",
-        "date": "7/23 - 8/28",
+        "date": "7/23 - 9/3",
         "sampleSize": "",
         "marginError": 0.0,
         "link": null,
         "spread_winner": "Democrats",
-        "spread_value": 1.1,
+        "spread_value": 1.0,
         "democrats_value": "46.3",
-        "republicans_value": "45.2",
+        "republicans_value": "45.3",
         "name": "2024 Generic Congressional Vote",
         "slug": "congress_generic",
         "polling_start_date": "2024-07-23",
-        "polling_end_date": "2024-08-28"
+        "polling_end_date": "2024-09-03"
     },
     {
         "id": "6690",
         "type": "rcp_average",
         "pollster": "rcp_average",
-        "date": "7/31 - 8/28",
+        "date": "7/31 - 9/3",
         "sampleSize": "",
         "marginError": 0.0,
         "link": null,
@@ -188,7 +188,7 @@
         "name": "Kamala Harris Favorability",
         "slug": "harris_favorability",
         "polling_start_date": "2024-07-31",
-        "polling_end_date": "2024-08-28"
+        "polling_end_date": "2024-09-03"
     },
     {
         "id": "902",

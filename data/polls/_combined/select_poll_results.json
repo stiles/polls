@@ -1567,6 +1567,27 @@
     ],
     "general_third_parties": [
         {
+            "id": "146971",
+            "type": "poll_rcp_avg",
+            "pollster": "Economist/YouGov",
+            "date": "9/1 - 9/3",
+            "sampleSize": "1389 RV",
+            "marginError": 3.3,
+            "link": "https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_HIwtch9.pdf",
+            "spread_winner": "Harris",
+            "spread_value": 2.0,
+            "harris_value": "47",
+            "trump_value": "45",
+            "kennedy_value": "",
+            "stein_value": "1",
+            "west_value": "0",
+            "oliver_value": "",
+            "name": "General Election: Trump vs. Harris vs. Kennedy vs. West vs. Stein",
+            "slug": "general_third_parties",
+            "polling_start_date": "2024-09-01",
+            "polling_end_date": "2024-09-03"
+        },
+        {
             "id": "146934",
             "type": "poll_rcp_avg",
             "pollster": "I&amp;I/TIPP",
@@ -1631,7 +1652,7 @@
         },
         {
             "id": "146817",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Economist/YouGov",
             "date": "8/25 - 8/27",
             "sampleSize": "1368 RV",
@@ -4344,6 +4365,23 @@
     ],
     "congress_generic": [
         {
+            "id": "146973",
+            "type": "poll_rcp_avg",
+            "pollster": "Economist/YouGov",
+            "date": "9/1 - 9/3",
+            "sampleSize": "1389 RV",
+            "marginError": 3.3,
+            "link": "https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_HIwtch9.pdf",
+            "spread_winner": "Democrats",
+            "spread_value": 1.0,
+            "democrats_value": "46",
+            "republicans_value": "45",
+            "name": "2024 Generic Congressional Vote",
+            "slug": "congress_generic",
+            "polling_start_date": "2024-09-01",
+            "polling_end_date": "2024-09-03"
+        },
+        {
             "id": "146946",
             "type": "poll_rcp_avg",
             "pollster": "USA Today/Suffolk",
@@ -4362,7 +4400,7 @@
         },
         {
             "id": "146820",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Economist/YouGov",
             "date": "8/25 - 8/27",
             "sampleSize": "1368 RV",
@@ -6726,6 +6764,23 @@
     ],
     "harris_favorability": [
         {
+            "id": "146976",
+            "type": "poll_rcp_avg",
+            "pollster": "Economist/YouGov",
+            "date": "9/1 - 9/3",
+            "sampleSize": "1389 RV",
+            "marginError": 3.3,
+            "link": "https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_HIwtch9.pdf",
+            "spread_winner": "Unfavorable",
+            "spread_value": 1.0,
+            "favorable_value": "49",
+            "unfavorable_value": "50",
+            "name": "Kamala Harris Favorability",
+            "slug": "harris_favorability",
+            "polling_start_date": "2024-09-01",
+            "polling_end_date": "2024-09-03"
+        },
+        {
             "id": "146943",
             "type": "poll_rcp_avg",
             "pollster": "USA Today/Suffolk",
@@ -6761,7 +6816,7 @@
         },
         {
             "id": "146822",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Economist/YouGov",
             "date": "8/25 - 8/27",
             "sampleSize": "1368 RV",
