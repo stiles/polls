@@ -1,2 +1,2 @@
-id,type,pollster,date,sampleSize,marginError,link,spread_winner,spread_value,harris_value,trump_value,name,slug,polling_start_date,polling_end_date
-8303,rcp_average,rcp_average,8/8 - 8/30,,0.0,,Harris,0.5,47.7,47.2,2024 Pennsylvania: Trump vs. Harris,pennsylvania,2024-08-08,2024-08-30
+id,type,pollster,date,sampleSize,marginError,link,spread_winner,spread_value,trump_value,harris_value,name,slug,polling_start_date,polling_end_date
+8303,rcp_average,rcp_average,8/13 - 8/30,,0.0,,Tie,0.0,47.2,47.2,2024 Pennsylvania: Trump vs. Harris,pennsylvania,2024-08-13,2024-08-30
