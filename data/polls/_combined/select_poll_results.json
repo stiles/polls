@@ -35,8 +35,25 @@
             "polling_end_date": "2024-08-28"
         },
         {
-            "id": "146865",
+            "id": "146994",
             "type": "poll_rcp_avg",
+            "pollster": "Rasmussen Reports",
+            "date": "8/22 - 8/28",
+            "sampleSize": "1893 LV",
+            "marginError": 3.0,
+            "link": "https://www.rasmussenreports.com/public_content/politics/biden_administration/election_2024_trump_47_harris_46",
+            "spread_winner": "Trump",
+            "spread_value": 1.0,
+            "harris_value": "46",
+            "trump_value": "47",
+            "name": "2024 General Election: Trump vs Harris",
+            "slug": "general",
+            "polling_start_date": "2024-08-22",
+            "polling_end_date": "2024-08-28"
+        },
+        {
+            "id": "146865",
+            "type": "poll",
             "pollster": "Rasmussen Reports",
             "date": "8/22 - 8/28",
             "sampleSize": "1893 LV",
