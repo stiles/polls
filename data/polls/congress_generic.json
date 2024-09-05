@@ -1,5 +1,22 @@
 [
     {
+        "id":"147000",
+        "type":"poll_rcp_avg",
+        "pollster":"Emerson",
+        "date":"9\/3 - 9\/4",
+        "sampleSize":"1000 LV",
+        "marginError":2.9,
+        "link":"https:\/\/emersoncollegepolling.com\/september-2024-national-poll-harris-49-trump-47\/",
+        "spread_winner":"Democrats",
+        "spread_value":4.0,
+        "democrats_value":"48",
+        "republicans_value":"44",
+        "name":"2024 Generic Congressional Vote",
+        "slug":"congress_generic",
+        "polling_start_date":"2024-09-03",
+        "polling_end_date":"2024-09-04"
+    },
+    {
         "id":"146973",
         "type":"poll_rcp_avg",
         "pollster":"Economist\/YouGov",
@@ -120,7 +137,7 @@
     },
     {
         "id":"146590",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Emerson",
         "date":"8\/12 - 8\/14",
         "sampleSize":"1000 RV",

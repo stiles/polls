@@ -147,27 +147,6 @@
         "polling_end_date":"2024-08-27"
     },
     {
-        "id":"146877",
-        "type":"poll_rcp_avg",
-        "pollster":"Reuters\/Ipsos",
-        "date":"8\/21 - 8\/28",
-        "sampleSize":"3562 RV",
-        "marginError":0.0,
-        "link":"https:\/\/www.ipsos.com\/sites\/default\/files\/ct\/news\/documents\/2024-08\/Reuters%20Ipsos%20Large%20Sample%204%20Topline%20August%2028%202024.pdf",
-        "spread_winner":"Harris",
-        "spread_value":4.0,
-        "harris_value":"44",
-        "trump_value":"40",
-        "kennedy_value":"6",
-        "stein_value":"1",
-        "west_value":"1",
-        "oliver_value":"1",
-        "name":"General Election: Trump vs. Harris vs. Kennedy vs. West vs. Stein",
-        "slug":"general_third_parties",
-        "polling_start_date":"2024-08-21",
-        "polling_end_date":"2024-08-28"
-    },
-    {
         "id":"146800",
         "type":"poll_rcp_avg",
         "pollster":"Yahoo News",
@@ -187,6 +166,27 @@
         "slug":"general_third_parties",
         "polling_start_date":"2024-08-22",
         "polling_end_date":"2024-08-26"
+    },
+    {
+        "id":"146877",
+        "type":"poll_rcp_avg",
+        "pollster":"Reuters\/Ipsos",
+        "date":"8\/21 - 8\/28",
+        "sampleSize":"3562 RV",
+        "marginError":0.0,
+        "link":"https:\/\/www.ipsos.com\/sites\/default\/files\/ct\/news\/documents\/2024-08\/Reuters%20Ipsos%20Large%20Sample%204%20Topline%20August%2028%202024.pdf",
+        "spread_winner":"Harris",
+        "spread_value":4.0,
+        "harris_value":"44",
+        "trump_value":"40",
+        "kennedy_value":"6",
+        "stein_value":"1",
+        "west_value":"1",
+        "oliver_value":"1",
+        "name":"General Election: Trump vs. Harris vs. Kennedy vs. West vs. Stein",
+        "slug":"general_third_parties",
+        "polling_start_date":"2024-08-21",
+        "polling_end_date":"2024-08-28"
     },
     {
         "id":"146669",
@@ -232,7 +232,7 @@
     },
     {
         "id":"146645",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"CBS News",
         "date":"8\/14 - 8\/16",
         "sampleSize":"3258 LV",
@@ -295,7 +295,7 @@
     },
     {
         "id":"146588",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Emerson",
         "date":"8\/12 - 8\/14",
         "sampleSize":"1000 RV",
@@ -316,7 +316,7 @@
     },
     {
         "id":"146580",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"FOX News",
         "date":"8\/9 - 8\/12",
         "sampleSize":"1105 RV",

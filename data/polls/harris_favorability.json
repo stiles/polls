@@ -1,5 +1,22 @@
 [
     {
+        "id":"147002",
+        "type":"poll_rcp_avg",
+        "pollster":"Emerson",
+        "date":"9\/3 - 9\/4",
+        "sampleSize":"1000 LV",
+        "marginError":2.9,
+        "link":"https:\/\/emersoncollegepolling.com\/september-2024-national-poll-harris-49-trump-47\/",
+        "spread_winner":"Favorable",
+        "spread_value":2.0,
+        "favorable_value":"51",
+        "unfavorable_value":"49",
+        "name":"Kamala Harris Favorability",
+        "slug":"harris_favorability",
+        "polling_start_date":"2024-09-03",
+        "polling_end_date":"2024-09-04"
+    },
+    {
         "id":"146976",
         "type":"poll_rcp_avg",
         "pollster":"Economist\/YouGov",
@@ -15,6 +32,23 @@
         "slug":"harris_favorability",
         "polling_start_date":"2024-09-01",
         "polling_end_date":"2024-09-03"
+    },
+    {
+        "id":"147004",
+        "type":"poll_rcp_avg",
+        "pollster":"TIPP",
+        "date":"8\/28 - 8\/30",
+        "sampleSize":"1582 A",
+        "marginError":2.6,
+        "link":"https:\/\/tippinsights.com\/voters-question-harriss-authenticity-and-preparedness\/",
+        "spread_winner":"Favorable",
+        "spread_value":3.0,
+        "favorable_value":"47",
+        "unfavorable_value":"44",
+        "name":"Kamala Harris Favorability",
+        "slug":"harris_favorability",
+        "polling_start_date":"2024-08-28",
+        "polling_end_date":"2024-08-30"
     },
     {
         "id":"146943",
@@ -188,7 +222,7 @@
     },
     {
         "id":"146591",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Emerson",
         "date":"8\/12 - 8\/14",
         "sampleSize":"1000 RV",

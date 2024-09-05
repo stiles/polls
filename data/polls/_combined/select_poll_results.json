@@ -1,6 +1,40 @@
 {
     "general": [
         {
+            "id": "146999",
+            "type": "poll_rcp_avg",
+            "pollster": "Emerson",
+            "date": "9/3 - 9/4",
+            "sampleSize": "1000 LV",
+            "marginError": 2.9,
+            "link": "https://emersoncollegepolling.com/september-2024-national-poll-harris-49-trump-47/",
+            "spread_winner": "Harris",
+            "spread_value": 2.0,
+            "harris_value": "49",
+            "trump_value": "47",
+            "name": "2024 General Election: Trump vs Harris",
+            "slug": "general",
+            "polling_start_date": "2024-09-03",
+            "polling_end_date": "2024-09-04"
+        },
+        {
+            "id": "146994",
+            "type": "poll_rcp_avg",
+            "pollster": "Rasmussen Reports",
+            "date": "8/29 - 9/4",
+            "sampleSize": "1838 LV",
+            "marginError": 3.0,
+            "link": "https://www.rasmussenreports.com/public_content/politics/biden_administration/election_2024_trump_47_harris_46",
+            "spread_winner": "Trump",
+            "spread_value": 1.0,
+            "harris_value": "46",
+            "trump_value": "47",
+            "name": "2024 General Election: Trump vs Harris",
+            "slug": "general",
+            "polling_start_date": "2024-08-29",
+            "polling_end_date": "2024-09-04"
+        },
+        {
             "id": "146933",
             "type": "poll_rcp_avg",
             "pollster": "I&amp;I/TIPP",
@@ -32,23 +66,6 @@
             "name": "2024 General Election: Trump vs Harris",
             "slug": "general",
             "polling_start_date": "2024-08-24",
-            "polling_end_date": "2024-08-28"
-        },
-        {
-            "id": "146994",
-            "type": "poll_rcp_avg",
-            "pollster": "Rasmussen Reports",
-            "date": "8/22 - 8/28",
-            "sampleSize": "1893 LV",
-            "marginError": 3.0,
-            "link": "https://www.rasmussenreports.com/public_content/politics/biden_administration/election_2024_trump_47_harris_46",
-            "spread_winner": "Trump",
-            "spread_value": 1.0,
-            "harris_value": "46",
-            "trump_value": "47",
-            "name": "2024 General Election: Trump vs Harris",
-            "slug": "general",
-            "polling_start_date": "2024-08-22",
             "polling_end_date": "2024-08-28"
         },
         {
@@ -101,23 +118,6 @@
             "slug": "general",
             "polling_start_date": "2024-08-23",
             "polling_end_date": "2024-08-27"
-        },
-        {
-            "id": "146878",
-            "type": "poll_rcp_avg",
-            "pollster": "Reuters/Ipsos",
-            "date": "8/21 - 8/28",
-            "sampleSize": "3562 RV",
-            "marginError": 0.0,
-            "link": "https://www.ipsos.com/sites/default/files/ct/news/documents/2024-08/Reuters%20Ipsos%20Large%20Sample%204%20Topline%20August%2028%202024.pdf",
-            "spread_winner": "Harris",
-            "spread_value": 4.0,
-            "harris_value": "45",
-            "trump_value": "41",
-            "name": "2024 General Election: Trump vs Harris",
-            "slug": "general",
-            "polling_start_date": "2024-08-21",
-            "polling_end_date": "2024-08-28"
         },
         {
             "id": "146862",
@@ -188,6 +188,23 @@
             "polling_end_date": "2024-08-25"
         },
         {
+            "id": "146878",
+            "type": "poll",
+            "pollster": "Reuters/Ipsos",
+            "date": "8/21 - 8/28",
+            "sampleSize": "3562 RV",
+            "marginError": 0.0,
+            "link": "https://www.ipsos.com/sites/default/files/ct/news/documents/2024-08/Reuters%20Ipsos%20Large%20Sample%204%20Topline%20August%2028%202024.pdf",
+            "spread_winner": "Harris",
+            "spread_value": 4.0,
+            "harris_value": "45",
+            "trump_value": "41",
+            "name": "2024 General Election: Trump vs Harris",
+            "slug": "general",
+            "polling_start_date": "2024-08-21",
+            "polling_end_date": "2024-08-28"
+        },
+        {
             "id": "146714",
             "type": "poll",
             "pollster": "Rasmussen Reports",
@@ -223,7 +240,7 @@
         },
         {
             "id": "146644",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "CBS News",
             "date": "8/14 - 8/16",
             "sampleSize": "3258 LV",
@@ -257,7 +274,7 @@
         },
         {
             "id": "146587",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Emerson",
             "date": "8/12 - 8/14",
             "sampleSize": "1000 RV",
@@ -291,7 +308,7 @@
         },
         {
             "id": "146579",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "FOX News",
             "date": "8/9 - 8/12",
             "sampleSize": "1105 RV",
@@ -325,7 +342,7 @@
         },
         {
             "id": "146618",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Pew Research",
             "date": "8/5 - 8/11",
             "sampleSize": "7569 RV",
@@ -1731,27 +1748,6 @@
             "polling_end_date": "2024-08-27"
         },
         {
-            "id": "146877",
-            "type": "poll_rcp_avg",
-            "pollster": "Reuters/Ipsos",
-            "date": "8/21 - 8/28",
-            "sampleSize": "3562 RV",
-            "marginError": 0.0,
-            "link": "https://www.ipsos.com/sites/default/files/ct/news/documents/2024-08/Reuters%20Ipsos%20Large%20Sample%204%20Topline%20August%2028%202024.pdf",
-            "spread_winner": "Harris",
-            "spread_value": 4.0,
-            "harris_value": "44",
-            "trump_value": "40",
-            "kennedy_value": "6",
-            "stein_value": "1",
-            "west_value": "1",
-            "oliver_value": "1",
-            "name": "General Election: Trump vs. Harris vs. Kennedy vs. West vs. Stein",
-            "slug": "general_third_parties",
-            "polling_start_date": "2024-08-21",
-            "polling_end_date": "2024-08-28"
-        },
-        {
             "id": "146800",
             "type": "poll_rcp_avg",
             "pollster": "Yahoo News",
@@ -1771,6 +1767,27 @@
             "slug": "general_third_parties",
             "polling_start_date": "2024-08-22",
             "polling_end_date": "2024-08-26"
+        },
+        {
+            "id": "146877",
+            "type": "poll_rcp_avg",
+            "pollster": "Reuters/Ipsos",
+            "date": "8/21 - 8/28",
+            "sampleSize": "3562 RV",
+            "marginError": 0.0,
+            "link": "https://www.ipsos.com/sites/default/files/ct/news/documents/2024-08/Reuters%20Ipsos%20Large%20Sample%204%20Topline%20August%2028%202024.pdf",
+            "spread_winner": "Harris",
+            "spread_value": 4.0,
+            "harris_value": "44",
+            "trump_value": "40",
+            "kennedy_value": "6",
+            "stein_value": "1",
+            "west_value": "1",
+            "oliver_value": "1",
+            "name": "General Election: Trump vs. Harris vs. Kennedy vs. West vs. Stein",
+            "slug": "general_third_parties",
+            "polling_start_date": "2024-08-21",
+            "polling_end_date": "2024-08-28"
         },
         {
             "id": "146669",
@@ -1816,7 +1833,7 @@
         },
         {
             "id": "146645",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "CBS News",
             "date": "8/14 - 8/16",
             "sampleSize": "3258 LV",
@@ -1879,7 +1896,7 @@
         },
         {
             "id": "146588",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Emerson",
             "date": "8/12 - 8/14",
             "sampleSize": "1000 RV",
@@ -1900,7 +1917,7 @@
         },
         {
             "id": "146580",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "FOX News",
             "date": "8/9 - 8/12",
             "sampleSize": "1105 RV",
@@ -4382,6 +4399,23 @@
     ],
     "congress_generic": [
         {
+            "id": "147000",
+            "type": "poll_rcp_avg",
+            "pollster": "Emerson",
+            "date": "9/3 - 9/4",
+            "sampleSize": "1000 LV",
+            "marginError": 2.9,
+            "link": "https://emersoncollegepolling.com/september-2024-national-poll-harris-49-trump-47/",
+            "spread_winner": "Democrats",
+            "spread_value": 4.0,
+            "democrats_value": "48",
+            "republicans_value": "44",
+            "name": "2024 Generic Congressional Vote",
+            "slug": "congress_generic",
+            "polling_start_date": "2024-09-03",
+            "polling_end_date": "2024-09-04"
+        },
+        {
             "id": "146973",
             "type": "poll_rcp_avg",
             "pollster": "Economist/YouGov",
@@ -4502,7 +4536,7 @@
         },
         {
             "id": "146590",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Emerson",
             "date": "8/12 - 8/14",
             "sampleSize": "1000 RV",
@@ -6781,6 +6815,23 @@
     ],
     "harris_favorability": [
         {
+            "id": "147002",
+            "type": "poll_rcp_avg",
+            "pollster": "Emerson",
+            "date": "9/3 - 9/4",
+            "sampleSize": "1000 LV",
+            "marginError": 2.9,
+            "link": "https://emersoncollegepolling.com/september-2024-national-poll-harris-49-trump-47/",
+            "spread_winner": "Favorable",
+            "spread_value": 2.0,
+            "favorable_value": "51",
+            "unfavorable_value": "49",
+            "name": "Kamala Harris Favorability",
+            "slug": "harris_favorability",
+            "polling_start_date": "2024-09-03",
+            "polling_end_date": "2024-09-04"
+        },
+        {
             "id": "146976",
             "type": "poll_rcp_avg",
             "pollster": "Economist/YouGov",
@@ -6796,6 +6847,23 @@
             "slug": "harris_favorability",
             "polling_start_date": "2024-09-01",
             "polling_end_date": "2024-09-03"
+        },
+        {
+            "id": "147004",
+            "type": "poll_rcp_avg",
+            "pollster": "TIPP",
+            "date": "8/28 - 8/30",
+            "sampleSize": "1582 A",
+            "marginError": 2.6,
+            "link": "https://tippinsights.com/voters-question-harriss-authenticity-and-preparedness/",
+            "spread_winner": "Favorable",
+            "spread_value": 3.0,
+            "favorable_value": "47",
+            "unfavorable_value": "44",
+            "name": "Kamala Harris Favorability",
+            "slug": "harris_favorability",
+            "polling_start_date": "2024-08-28",
+            "polling_end_date": "2024-08-30"
         },
         {
             "id": "146943",
@@ -6969,7 +7037,7 @@
         },
         {
             "id": "146591",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Emerson",
             "date": "8/12 - 8/14",
             "sampleSize": "1000 RV",
