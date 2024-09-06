@@ -35,6 +35,23 @@
             "polling_end_date": "2024-09-04"
         },
         {
+            "id": "147018",
+            "type": "poll_rcp_avg",
+            "pollster": "Morning Consult",
+            "date": "9/2 - 9/4",
+            "sampleSize": "11414 LV",
+            "marginError": 1.0,
+            "link": "https://pro.morningconsult.com/trackers/2024-presidential-election-polling",
+            "spread_winner": "Harris",
+            "spread_value": 3.0,
+            "harris_value": "49",
+            "trump_value": "46",
+            "name": "2024 General Election: Trump vs Harris",
+            "slug": "general",
+            "polling_start_date": "2024-09-02",
+            "polling_end_date": "2024-09-04"
+        },
+        {
             "id": "146933",
             "type": "poll_rcp_avg",
             "pollster": "I&amp;I/TIPP",
@@ -172,7 +189,7 @@
         },
         {
             "id": "146788",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Morning Consult",
             "date": "8/23 - 8/25",
             "sampleSize": "7818 RV",
