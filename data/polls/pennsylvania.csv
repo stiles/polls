@@ -1,4 +1,5 @@
 id,type,pollster,date,sampleSize,marginError,link,spread_winner,spread_value,trump_value,harris_value,name,slug,polling_start_date,polling_end_date
+147015,poll,The Times/SAY,8/23 - 9/3,1000 LV,0.0,https://www.thetimes.com/world/us-world/article/polls-trump-vs-harris-2024-us-election-sx6rjw0p2,Harris,1.0,45,46,2024 Pennsylvania: Trump vs. Harris,pennsylvania,2024-08-23,2024-09-03
 146922,poll_rcp_avg,Trafalgar Group (R),8/28 - 8/30,1082 LV,2.9,https://www.thetrafalgargroup.org/wp-content/uploads/2024/08/PA-24-General-0830-Poll-Report.pdf,Trump,2.0,47,45,2024 Pennsylvania: Trump vs. Harris,pennsylvania,2024-08-28,2024-08-30
 146856,poll_rcp_avg,The Hill/Emerson,8/25 - 8/28,950 LV,3.1,https://emersoncollegepolling.com/august-2024-swing-state-polls-toss-up-presidential-election-in-swing-states/,Tie,0.0,48,48,2024 Pennsylvania: Trump vs. Harris,pennsylvania,2024-08-25,2024-08-28
 146962,poll_rcp_avg,CNN*,8/23 - 8/29,789 LV,4.7,https://s3.documentcloud.org/documents/25088820/cnn-polls-across-six-battlegrounds-find-georgia-and-pennsylvania-are-key-toss-ups.pdf,Tie,0.0,47,47,2024 Pennsylvania: Trump vs. Harris,pennsylvania,2024-08-23,2024-08-29
