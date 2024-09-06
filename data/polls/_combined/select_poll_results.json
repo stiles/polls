@@ -6849,6 +6849,23 @@
             "polling_end_date": "2024-09-04"
         },
         {
+            "id": "147019",
+            "type": "poll_rcp_avg",
+            "pollster": "Morning Consult",
+            "date": "9/2 - 9/4",
+            "sampleSize": "11414 LV",
+            "marginError": 1.0,
+            "link": "https://pro.morningconsult.com/trackers/2024-presidential-election-polling",
+            "spread_winner": "Favorable",
+            "spread_value": 6.0,
+            "favorable_value": "52",
+            "unfavorable_value": "46",
+            "name": "Kamala Harris Favorability",
+            "slug": "harris_favorability",
+            "polling_start_date": "2024-09-02",
+            "polling_end_date": "2024-09-04"
+        },
+        {
             "id": "146976",
             "type": "poll_rcp_avg",
             "pollster": "Economist/YouGov",
@@ -7003,7 +7020,7 @@
         },
         {
             "id": "146790",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Morning Consult",
             "date": "8/23 - 8/25",
             "sampleSize": "2202 RV",
