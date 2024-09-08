@@ -1,2 +1,2 @@
 id,type,pollster,date,sampleSize,marginError,link,spread_winner,spread_value,harris_value,trump_value,name,slug,polling_start_date,polling_end_date
-8305,rcp_average,rcp_average,8/12 - 8/30,,0.0,,Harris,1.4,48.2,46.8,2024 Wisconsin: Trump vs. Harris,wisconsin,2024-08-12,2024-08-30
+8305,rcp_average,rcp_average,8/12 - 9/6,,0.0,,Harris,1.5,48.7,47.2,2024 Wisconsin: Trump vs. Harris,wisconsin,2024-08-12,2024-09-06

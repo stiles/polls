@@ -1,5 +1,22 @@
 [
     {
+        "id":"147068",
+        "type":"poll_rcp_avg",
+        "pollster":"CBS News",
+        "date":"9\/3 - 9\/6",
+        "sampleSize":"958 LV",
+        "marginError":4.0,
+        "link":"https:\/\/www.cbsnews.com\/news\/harris-trump-poll-pennsylvania-michigan-wisconsin-debate\/",
+        "spread_winner":"Harris",
+        "spread_value":2.0,
+        "harris_value":"51",
+        "trump_value":"49",
+        "name":"2024 Wisconsin: Trump vs. Harris",
+        "slug":"wisconsin",
+        "polling_start_date":"2024-09-03",
+        "polling_end_date":"2024-09-06"
+    },
+    {
         "id":"146924",
         "type":"poll_rcp_avg",
         "pollster":"Trafalgar Group (R)",
@@ -253,5 +270,22 @@
         "slug":"wisconsin",
         "polling_start_date":"2023-10-22",
         "polling_end_date":"2023-11-03"
+    },
+    {
+        "id":"147016",
+        "type":"poll",
+        "pollster":"The Times\/SAY",
+        "date":"8\/23 - 9\/3",
+        "sampleSize":"900 LV",
+        "marginError":0.0,
+        "link":"https:\/\/www.thetimes.com\/world\/us-world\/article\/polls-trump-vs-harris-2024-us-election-sx6rjw0p2",
+        "spread_winner":"Harris",
+        "spread_value":3.0,
+        "harris_value":"47",
+        "trump_value":"44",
+        "name":"2024 Wisconsin: Trump vs. Harris",
+        "slug":"wisconsin",
+        "polling_start_date":"2024-08-23",
+        "polling_end_date":"2024-09-03"
     }
 ]

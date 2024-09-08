@@ -1,5 +1,22 @@
 [
     {
+        "id":"147067",
+        "type":"poll_rcp_avg",
+        "pollster":"CBS News",
+        "date":"9\/3 - 9\/6",
+        "sampleSize":"1086 LV",
+        "marginError":3.6,
+        "link":"https:\/\/www.cbsnews.com\/news\/harris-trump-poll-pennsylvania-michigan-wisconsin-debate\/",
+        "spread_winner":"Harris",
+        "spread_value":1.0,
+        "harris_value":"50",
+        "trump_value":"49",
+        "name":"2024 Michigan: Trump vs. Harris",
+        "slug":"michigan",
+        "polling_start_date":"2024-09-03",
+        "polling_end_date":"2024-09-06"
+    },
+    {
         "id":"146923",
         "type":"poll_rcp_avg",
         "pollster":"Trafalgar Group (R)",
@@ -253,5 +270,39 @@
         "slug":"michigan",
         "polling_start_date":"2023-10-22",
         "polling_end_date":"2023-11-03"
+    },
+    {
+        "id":"146955",
+        "type":"poll",
+        "pollster":"Detroit News\/WDIV-TV*",
+        "date":"8\/26 - 8\/29",
+        "sampleSize":"600 LV",
+        "marginError":4.0,
+        "link":"https:\/\/www.clickondetroit.com\/decision-2024\/2024\/09\/03\/new-poll-shows-where-michigan-voters-stand-in-trump-harris-race\/",
+        "spread_winner":"Trump",
+        "spread_value":1.0,
+        "harris_value":"44",
+        "trump_value":"45",
+        "name":"2024 Michigan: Trump vs. Harris",
+        "slug":"michigan",
+        "polling_start_date":"2024-08-26",
+        "polling_end_date":"2024-08-29"
+    },
+    {
+        "id":"147012",
+        "type":"poll",
+        "pollster":"The Times\/SAY",
+        "date":"8\/23 - 9\/3",
+        "sampleSize":"1000 LV",
+        "marginError":0.0,
+        "link":"https:\/\/www.thetimes.com\/world\/us-world\/article\/polls-trump-vs-harris-2024-us-election-sx6rjw0p2",
+        "spread_winner":"Harris",
+        "spread_value":5.0,
+        "harris_value":"48",
+        "trump_value":"43",
+        "name":"2024 Michigan: Trump vs. Harris",
+        "slug":"michigan",
+        "polling_start_date":"2024-08-23",
+        "polling_end_date":"2024-09-03"
     }
 ]

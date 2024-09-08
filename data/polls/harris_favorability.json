@@ -1,5 +1,39 @@
 [
     {
+        "id":"147054",
+        "type":"poll",
+        "pollster":"Harvard-Harris",
+        "date":"9\/4 - 9\/5",
+        "sampleSize":"2358 RV",
+        "marginError":2.1,
+        "link":"https:\/\/harvardharrispoll.com\/",
+        "spread_winner":"Tie",
+        "spread_value":0.0,
+        "favorable_value":"47",
+        "unfavorable_value":"47",
+        "name":"Kamala Harris Favorability",
+        "slug":"harris_favorability",
+        "polling_start_date":"2024-09-04",
+        "polling_end_date":"2024-09-05"
+    },
+    {
+        "id":"147063",
+        "type":"poll_rcp_avg",
+        "pollster":"NY Times\/Siena",
+        "date":"9\/3 - 9\/6",
+        "sampleSize":"1695 LV",
+        "marginError":0.0,
+        "link":"https:\/\/www.nytimes.com\/interactive\/2024\/09\/08\/us\/politics\/times-siena-poll-likely-electorate-crosstabs.html",
+        "spread_winner":"Unfavorable",
+        "spread_value":5.0,
+        "favorable_value":"46",
+        "unfavorable_value":"51",
+        "name":"Kamala Harris Favorability",
+        "slug":"harris_favorability",
+        "polling_start_date":"2024-09-03",
+        "polling_end_date":"2024-09-06"
+    },
+    {
         "id":"147002",
         "type":"poll_rcp_avg",
         "pollster":"Emerson",
@@ -358,7 +392,7 @@
     },
     {
         "id":"146727",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Data for Progress (D)**",
         "date":"8\/1 - 8\/15",
         "sampleSize":"6067 LV",
@@ -409,7 +443,7 @@
     },
     {
         "id":"146743",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"HarrisX",
         "date":"8\/2 - 8\/3",
         "sampleSize":"1011 RV",
@@ -426,7 +460,7 @@
     },
     {
         "id":"146435",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"NPR\/PBS\/Marist",
         "date":"8\/1 - 8\/4",
         "sampleSize":"1513 RV",
@@ -443,7 +477,7 @@
     },
     {
         "id":"146489",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"CNBC",
         "date":"7\/31 - 8\/4",
         "sampleSize":"1001 RV",
