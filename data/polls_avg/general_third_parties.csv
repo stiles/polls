@@ -1,2 +1,2 @@
-id,type,pollster,date,sampleSize,marginError,link,spread_winner,spread_value,harris_value,trump_value,kennedy_value,stein_value,west_value,oliver_value,name,slug,polling_start_date,polling_end_date
-8510,rcp_average,rcp_average,8/15 - 9/3,,0.0,,Harris,2.6,47.0,44.4,4.7,1.0,1.0,0.9,General Election: Trump vs. Harris vs. Kennedy vs. West vs. Stein,general_third_parties,2024-08-15,2024-09-03
+id,type,pollster,date,sampleSize,marginError,link,spread_winner,spread_value,harris_value,trump_value,kennedy_value,oliver_value,stein_value,west_value,name,slug,polling_start_date,polling_end_date
+8510,rcp_average,rcp_average,8/15 - 9/6,,0.0,,Harris,2.1,46.8,44.7,4.7,1.0,1.0,1.0,General Election: Trump vs. Harris vs. Kennedy vs. West vs. Stein,general_third_parties,2024-08-15,2024-09-06
