@@ -5,7 +5,7 @@
         "pollster":"NY Times\/Siena",
         "date":"9\/3 - 9\/6",
         "sampleSize":"1695 LV",
-        "marginError":0.0,
+        "marginError":3.0,
         "link":"https:\/\/www.nytimes.com\/interactive\/2024\/09\/08\/us\/politics\/times-siena-poll-likely-electorate-crosstabs.html",
         "spread_winner":"Trump",
         "spread_value":1.0,
@@ -83,6 +83,23 @@
         "slug":"general",
         "polling_start_date":"2024-09-02",
         "polling_end_date":"2024-09-04"
+    },
+    {
+        "id":"147076",
+        "type":"poll_rcp_avg",
+        "pollster":"Pew Research",
+        "date":"8\/26 - 9\/2",
+        "sampleSize":"8044 RV",
+        "marginError":1.4,
+        "link":"https:\/\/www.pewresearch.org\/wp-content\/uploads\/sites\/20\/2024\/09\/PP_2024.9.9_harris-trump_TOPLINE.pdf",
+        "spread_winner":"Tie",
+        "spread_value":0.0,
+        "harris_value":"49",
+        "trump_value":"49",
+        "name":"2024 General Election: Trump vs Harris",
+        "slug":"general",
+        "polling_start_date":"2024-08-26",
+        "polling_end_date":"2024-09-02"
     },
     {
         "id":"146933",
