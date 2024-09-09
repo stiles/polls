@@ -1,5 +1,22 @@
 [
     {
+        "id":"147013",
+        "type":"poll",
+        "pollster":"The Times\/SAY",
+        "date":"8\/23 - 9\/3",
+        "sampleSize":"800 LV",
+        "marginError":0.0,
+        "link":"https:\/\/www.thetimes.com\/world\/us-world\/article\/polls-trump-vs-harris-2024-us-election-sx6rjw0p2",
+        "spread_winner":"Harris",
+        "spread_value":3.0,
+        "harris_value":"49",
+        "trump_value":"46",
+        "name":"2024 Nevada: Trump vs. Harris",
+        "slug":"nevada",
+        "polling_start_date":"2024-08-23",
+        "polling_end_date":"2024-09-03"
+    },
+    {
         "id":"146919",
         "type":"poll_rcp_avg",
         "pollster":"InsiderAdvantage",

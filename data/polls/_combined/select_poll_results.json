@@ -1,23 +1,6 @@
 {
     "general": [
         {
-            "id": "147041",
-            "type": "poll",
-            "pollster": "Harvard-Harris",
-            "date": "9/4 - 9/5",
-            "sampleSize": "2358 RV",
-            "marginError": 2.1,
-            "link": "https://harvardharrispoll.com/",
-            "spread_winner": "Tie",
-            "spread_value": 0.0,
-            "harris_value": "50",
-            "trump_value": "50",
-            "name": "2024 General Election: Trump vs Harris",
-            "slug": "general",
-            "polling_start_date": "2024-09-04",
-            "polling_end_date": "2024-09-05"
-        },
-        {
             "id": "147059",
             "type": "poll_rcp_avg",
             "pollster": "NY Times/Siena",
@@ -33,6 +16,23 @@
             "slug": "general",
             "polling_start_date": "2024-09-03",
             "polling_end_date": "2024-09-06"
+        },
+        {
+            "id": "147041",
+            "type": "poll_rcp_avg",
+            "pollster": "Harvard-Harris",
+            "date": "9/4 - 9/5",
+            "sampleSize": "2358 RV",
+            "marginError": 2.1,
+            "link": "https://harvardharrispoll.com/topline-september-3/",
+            "spread_winner": "Tie",
+            "spread_value": 0.0,
+            "harris_value": "50",
+            "trump_value": "50",
+            "name": "2024 General Election: Trump vs Harris",
+            "slug": "general",
+            "polling_start_date": "2024-09-04",
+            "polling_end_date": "2024-09-05"
         },
         {
             "id": "146999",
@@ -1652,27 +1652,6 @@
     ],
     "general_third_parties": [
         {
-            "id": "147042",
-            "type": "poll",
-            "pollster": "Harvard-Harris",
-            "date": "9/4 - 9/5",
-            "sampleSize": "2358 RV",
-            "marginError": 2.1,
-            "link": "https://harvardharrispoll.com/",
-            "spread_winner": "Tie",
-            "spread_value": 0.0,
-            "harris_value": "49",
-            "trump_value": "49",
-            "kennedy_value": "",
-            "oliver_value": "",
-            "stein_value": "1",
-            "west_value": "1",
-            "name": "General Election: Trump vs. Harris vs. Kennedy vs. West vs. Stein",
-            "slug": "general_third_parties",
-            "polling_start_date": "2024-09-04",
-            "polling_end_date": "2024-09-05"
-        },
-        {
             "id": "147060",
             "type": "poll_rcp_avg",
             "pollster": "NY Times/Siena",
@@ -1692,6 +1671,27 @@
             "slug": "general_third_parties",
             "polling_start_date": "2024-09-03",
             "polling_end_date": "2024-09-06"
+        },
+        {
+            "id": "147042",
+            "type": "poll_rcp_avg",
+            "pollster": "Harvard-Harris",
+            "date": "9/4 - 9/5",
+            "sampleSize": "2358 RV",
+            "marginError": 2.1,
+            "link": "https://harvardharrispoll.com/topline-september-3/",
+            "spread_winner": "Tie",
+            "spread_value": 0.0,
+            "harris_value": "49",
+            "trump_value": "49",
+            "kennedy_value": "",
+            "oliver_value": "",
+            "stein_value": "1",
+            "west_value": "1",
+            "name": "General Election: Trump vs. Harris vs. Kennedy vs. West vs. Stein",
+            "slug": "general_third_parties",
+            "polling_start_date": "2024-09-04",
+            "polling_end_date": "2024-09-05"
         },
         {
             "id": "146971",
@@ -3840,6 +3840,23 @@
     ],
     "nevada": [
         {
+            "id": "147013",
+            "type": "poll",
+            "pollster": "The Times/SAY",
+            "date": "8/23 - 9/3",
+            "sampleSize": "800 LV",
+            "marginError": 0.0,
+            "link": "https://www.thetimes.com/world/us-world/article/polls-trump-vs-harris-2024-us-election-sx6rjw0p2",
+            "spread_winner": "Harris",
+            "spread_value": 3.0,
+            "harris_value": "49",
+            "trump_value": "46",
+            "name": "2024 Nevada: Trump vs. Harris",
+            "slug": "nevada",
+            "polling_start_date": "2024-08-23",
+            "polling_end_date": "2024-09-03"
+        },
+        {
             "id": "146919",
             "type": "poll_rcp_avg",
             "pollster": "InsiderAdvantage",
@@ -4387,6 +4404,23 @@
         }
     ],
     "north_carolina": [
+        {
+            "id": "147014",
+            "type": "poll",
+            "pollster": "The Times/SAY",
+            "date": "8/23 - 9/3",
+            "sampleSize": "1000 LV",
+            "marginError": 0.0,
+            "link": "https://www.thetimes.com/world/us-world/article/polls-trump-vs-harris-2024-us-election-sx6rjw0p2",
+            "spread_winner": "Trump",
+            "spread_value": 1.0,
+            "trump_value": "47",
+            "harris_value": "46",
+            "name": "2024 North Carolina: Trump vs. Harris",
+            "slug": "north_carolina",
+            "polling_start_date": "2024-08-23",
+            "polling_end_date": "2024-09-03"
+        },
         {
             "id": "146948",
             "type": "poll_rcp_avg",
@@ -7061,23 +7095,6 @@
     ],
     "harris_favorability": [
         {
-            "id": "147054",
-            "type": "poll",
-            "pollster": "Harvard-Harris",
-            "date": "9/4 - 9/5",
-            "sampleSize": "2358 RV",
-            "marginError": 2.1,
-            "link": "https://harvardharrispoll.com/",
-            "spread_winner": "Tie",
-            "spread_value": 0.0,
-            "favorable_value": "47",
-            "unfavorable_value": "47",
-            "name": "Kamala Harris Favorability",
-            "slug": "harris_favorability",
-            "polling_start_date": "2024-09-04",
-            "polling_end_date": "2024-09-05"
-        },
-        {
             "id": "147063",
             "type": "poll_rcp_avg",
             "pollster": "NY Times/Siena",
@@ -7093,6 +7110,23 @@
             "slug": "harris_favorability",
             "polling_start_date": "2024-09-03",
             "polling_end_date": "2024-09-06"
+        },
+        {
+            "id": "147054",
+            "type": "poll_rcp_avg",
+            "pollster": "Harvard-Harris",
+            "date": "9/4 - 9/5",
+            "sampleSize": "2358 RV",
+            "marginError": 2.1,
+            "link": "https://harvardharrispoll.com/topline-september-3/",
+            "spread_winner": "Tie",
+            "spread_value": 0.0,
+            "favorable_value": "47",
+            "unfavorable_value": "47",
+            "name": "Kamala Harris Favorability",
+            "slug": "harris_favorability",
+            "polling_start_date": "2024-09-04",
+            "polling_end_date": "2024-09-05"
         },
         {
             "id": "147002",

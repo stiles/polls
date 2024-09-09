@@ -1,6 +1,6 @@
 id,type,pollster,date,sampleSize,marginError,link,spread_winner,spread_value,favorable_value,unfavorable_value,name,slug,polling_start_date,polling_end_date
-147054,poll,Harvard-Harris,9/4 - 9/5,2358 RV,2.1,https://harvardharrispoll.com/,Tie,0.0,47,47,Kamala Harris Favorability,harris_favorability,2024-09-04,2024-09-05
 147063,poll_rcp_avg,NY Times/Siena,9/3 - 9/6,1695 LV,0.0,https://www.nytimes.com/interactive/2024/09/08/us/politics/times-siena-poll-likely-electorate-crosstabs.html,Unfavorable,5.0,46,51,Kamala Harris Favorability,harris_favorability,2024-09-03,2024-09-06
+147054,poll_rcp_avg,Harvard-Harris,9/4 - 9/5,2358 RV,2.1,https://harvardharrispoll.com/topline-september-3/,Tie,0.0,47,47,Kamala Harris Favorability,harris_favorability,2024-09-04,2024-09-05
 147002,poll_rcp_avg,Emerson,9/3 - 9/4,1000 LV,2.9,https://emersoncollegepolling.com/september-2024-national-poll-harris-49-trump-47/,Favorable,2.0,51,49,Kamala Harris Favorability,harris_favorability,2024-09-03,2024-09-04
 147019,poll_rcp_avg,Morning Consult,9/2 - 9/4,11414 LV,1.0,https://pro.morningconsult.com/trackers/2024-presidential-election-polling,Favorable,6.0,52,46,Kamala Harris Favorability,harris_favorability,2024-09-02,2024-09-04
 146976,poll_rcp_avg,Economist/YouGov,9/1 - 9/3,1389 RV,3.3,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_HIwtch9.pdf,Unfavorable,1.0,49,50,Kamala Harris Favorability,harris_favorability,2024-09-01,2024-09-03
