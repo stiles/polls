@@ -1,5 +1,22 @@
 [
     {
+        "id":"147093",
+        "type":"poll_rcp_avg",
+        "pollster":"NPR\/PBS\/Marist",
+        "date":"9\/3 - 9\/5",
+        "sampleSize":"1413 RV",
+        "marginError":3.3,
+        "link":"https:\/\/maristpoll.marist.edu\/polls\/the-u-s-presidential-contest-september-2024\/",
+        "spread_winner":"Democrats",
+        "spread_value":1.0,
+        "democrats_value":"46",
+        "republicans_value":"45",
+        "name":"2024 Generic Congressional Vote",
+        "slug":"congress_generic",
+        "polling_start_date":"2024-09-03",
+        "polling_end_date":"2024-09-05"
+    },
+    {
         "id":"147000",
         "type":"poll_rcp_avg",
         "pollster":"Emerson",
@@ -239,7 +256,7 @@
     },
     {
         "id":"146444",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"NPR\/PBS\/Marist",
         "date":"8\/1 - 8\/4",
         "sampleSize":"1513 RV",

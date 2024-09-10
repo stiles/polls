@@ -1,5 +1,22 @@
 [
     {
+        "id":"147088",
+        "type":"poll_rcp_avg",
+        "pollster":"Morning Consult",
+        "date":"9\/6 - 9\/8",
+        "sampleSize":"2015 LV",
+        "marginError":1.0,
+        "link":"https:\/\/pro.morningconsult.com\/trackers\/2024-presidential-election-polling",
+        "spread_winner":"Favorable",
+        "spread_value":1.0,
+        "favorable_value":"50",
+        "unfavorable_value":"49",
+        "name":"Kamala Harris Favorability",
+        "slug":"harris_favorability",
+        "polling_start_date":"2024-09-06",
+        "polling_end_date":"2024-09-08"
+    },
+    {
         "id":"147063",
         "type":"poll_rcp_avg",
         "pollster":"NY Times\/Siena",
@@ -34,6 +51,23 @@
         "polling_end_date":"2024-09-05"
     },
     {
+        "id":"147095",
+        "type":"poll_rcp_avg",
+        "pollster":"NPR\/PBS\/Marist",
+        "date":"9\/3 - 9\/5",
+        "sampleSize":"1413 RV",
+        "marginError":3.3,
+        "link":"https:\/\/maristpoll.marist.edu\/polls\/the-u-s-presidential-contest-september-2024\/",
+        "spread_winner":"Favorable",
+        "spread_value":2.0,
+        "favorable_value":"48",
+        "unfavorable_value":"46",
+        "name":"Kamala Harris Favorability",
+        "slug":"harris_favorability",
+        "polling_start_date":"2024-09-03",
+        "polling_end_date":"2024-09-05"
+    },
+    {
         "id":"147002",
         "type":"poll_rcp_avg",
         "pollster":"Emerson",
@@ -52,7 +86,7 @@
     },
     {
         "id":"147019",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Morning Consult",
         "date":"9\/2 - 9\/4",
         "sampleSize":"11414 LV",
