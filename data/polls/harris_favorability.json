@@ -1,7 +1,7 @@
 [
     {
         "id":"147088",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Morning Consult",
         "date":"9\/6 - 9\/8",
         "sampleSize":"2015 LV",
@@ -86,7 +86,7 @@
     },
     {
         "id":"147019",
-        "type":"poll",
+        "type":"poll_rcp_avg",
         "pollster":"Morning Consult",
         "date":"9\/2 - 9\/4",
         "sampleSize":"11414 LV",
@@ -341,7 +341,7 @@
     },
     {
         "id":"146581",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"FOX News",
         "date":"8\/9 - 8\/12",
         "sampleSize":"1105 RV",
@@ -358,7 +358,7 @@
     },
     {
         "id":"146751",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Gallup",
         "date":"8\/1 - 8\/20",
         "sampleSize":"1015 A",
@@ -375,7 +375,7 @@
     },
     {
         "id":"146564",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Monmouth",
         "date":"8\/8 - 8\/12",
         "sampleSize":"801 RV",
@@ -409,7 +409,7 @@
     },
     {
         "id":"146732",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Pew Research",
         "date":"8\/5 - 8\/11",
         "sampleSize":"9201 A",
