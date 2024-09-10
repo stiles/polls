@@ -70,7 +70,7 @@
     {
         "id":"146893",
         "type":"poll_rcp_avg",
-        "pollster":"Bloomberg\/MrnConsult",
+        "pollster":"Bloomberg",
         "date":"8\/23 - 8\/26",
         "sampleSize":"702 RV",
         "marginError":4.0,
@@ -189,7 +189,7 @@
     {
         "id":"146337",
         "type":"poll",
-        "pollster":"Bloomberg\/MrnConsult",
+        "pollster":"Bloomberg",
         "date":"7\/24 - 7\/28",
         "sampleSize":"706 RV",
         "marginError":4.0,

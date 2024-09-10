@@ -2644,7 +2644,7 @@
         {
             "id": "146891",
             "type": "poll_rcp_avg",
-            "pollster": "Bloomberg/MrnConsult",
+            "pollster": "Bloomberg",
             "date": "8/23 - 8/26",
             "sampleSize": "801 RV",
             "marginError": 3.0,
@@ -2746,7 +2746,7 @@
         {
             "id": "146335",
             "type": "poll",
-            "pollster": "Bloomberg/MrnConsult",
+            "pollster": "Bloomberg",
             "date": "7/24 - 7/28",
             "sampleSize": "799 RV",
             "marginError": 3.0,
@@ -2952,7 +2952,7 @@
         {
             "id": "146899",
             "type": "poll_rcp_avg",
-            "pollster": "Bloomberg/MrnConsult",
+            "pollster": "Bloomberg",
             "date": "8/23 - 8/26",
             "sampleSize": "803 RV",
             "marginError": 3.0,
@@ -3105,7 +3105,7 @@
         {
             "id": "146343",
             "type": "poll",
-            "pollster": "Bloomberg/MrnConsult",
+            "pollster": "Bloomberg",
             "date": "7/24 - 7/28",
             "sampleSize": "804 RV",
             "marginError": 3.0,
@@ -3188,40 +3188,6 @@
             "polling_end_date": "2024-07-16"
         },
         {
-            "id": "146627",
-            "type": "poll",
-            "pollster": "Cygnal (R)",
-            "date": "8/14 - 8/15",
-            "sampleSize": "800 LV",
-            "marginError": 3.4,
-            "link": "https://www.cygn.al/wp-content/uploads/2024/08/Cygnal-PA-Statewide-Deck-Public-AUG24.pdf",
-            "spread_winner": "Harris",
-            "spread_value": 1.0,
-            "trump_value": "47",
-            "harris_value": "48",
-            "name": "2024 Pennsylvania: Trump vs. Harris",
-            "slug": "pennsylvania",
-            "polling_start_date": "2024-08-14",
-            "polling_end_date": "2024-08-15"
-        },
-        {
-            "id": "147015",
-            "type": "poll",
-            "pollster": "The Times/SAY",
-            "date": "8/23 - 9/3",
-            "sampleSize": "1000 LV",
-            "marginError": 0.0,
-            "link": "https://www.thetimes.com/world/us-world/article/polls-trump-vs-harris-2024-us-election-sx6rjw0p2",
-            "spread_winner": "Harris",
-            "spread_value": 1.0,
-            "trump_value": "45",
-            "harris_value": "46",
-            "name": "2024 Pennsylvania: Trump vs. Harris",
-            "slug": "pennsylvania",
-            "polling_start_date": "2024-08-23",
-            "polling_end_date": "2024-09-03"
-        },
-        {
             "id": "146085",
             "type": "poll",
             "pollster": "NY Times/Siena",
@@ -3288,6 +3254,40 @@
             "slug": "pennsylvania",
             "polling_start_date": "2023-10-22",
             "polling_end_date": "2023-11-03"
+        },
+        {
+            "id": "147015",
+            "type": "poll",
+            "pollster": "The Times/SAY",
+            "date": "8/23 - 9/3",
+            "sampleSize": "1000 LV",
+            "marginError": 0.0,
+            "link": "https://www.thetimes.com/world/us-world/article/polls-trump-vs-harris-2024-us-election-sx6rjw0p2",
+            "spread_winner": "Harris",
+            "spread_value": 1.0,
+            "trump_value": "45",
+            "harris_value": "46",
+            "name": "2024 Pennsylvania: Trump vs. Harris",
+            "slug": "pennsylvania",
+            "polling_start_date": "2024-08-23",
+            "polling_end_date": "2024-09-03"
+        },
+        {
+            "id": "146627",
+            "type": "poll",
+            "pollster": "Cygnal (R)",
+            "date": "8/14 - 8/15",
+            "sampleSize": "800 LV",
+            "marginError": 3.4,
+            "link": "https://www.cygn.al/wp-content/uploads/2024/08/Cygnal-PA-Statewide-Deck-Public-AUG24.pdf",
+            "spread_winner": "Harris",
+            "spread_value": 1.0,
+            "trump_value": "47",
+            "harris_value": "48",
+            "name": "2024 Pennsylvania: Trump vs. Harris",
+            "slug": "pennsylvania",
+            "polling_start_date": "2024-08-14",
+            "polling_end_date": "2024-08-15"
         }
     ],
     "michigan": [
@@ -3362,7 +3362,7 @@
         {
             "id": "146893",
             "type": "poll_rcp_avg",
-            "pollster": "Bloomberg/MrnConsult",
+            "pollster": "Bloomberg",
             "date": "8/23 - 8/26",
             "sampleSize": "702 RV",
             "marginError": 4.0,
@@ -3481,7 +3481,7 @@
         {
             "id": "146337",
             "type": "poll",
-            "pollster": "Bloomberg/MrnConsult",
+            "pollster": "Bloomberg",
             "date": "7/24 - 7/28",
             "sampleSize": "706 RV",
             "marginError": 4.0,
@@ -3653,7 +3653,7 @@
         {
             "id": "146901",
             "type": "poll_rcp_avg",
-            "pollster": "Bloomberg/MrnConsult",
+            "pollster": "Bloomberg",
             "date": "8/23 - 8/26",
             "sampleSize": "701 RV",
             "marginError": 4.0,
@@ -3772,7 +3772,7 @@
         {
             "id": "146345",
             "type": "poll",
-            "pollster": "Bloomberg/MrnConsult",
+            "pollster": "Bloomberg",
             "date": "7/24 - 7/28",
             "sampleSize": "700 RV",
             "marginError": 4.0,
@@ -3891,23 +3891,6 @@
     ],
     "nevada": [
         {
-            "id": "147013",
-            "type": "poll",
-            "pollster": "The Times/SAY",
-            "date": "8/23 - 9/3",
-            "sampleSize": "800 LV",
-            "marginError": 0.0,
-            "link": "https://www.thetimes.com/world/us-world/article/polls-trump-vs-harris-2024-us-election-sx6rjw0p2",
-            "spread_winner": "Harris",
-            "spread_value": 3.0,
-            "harris_value": "49",
-            "trump_value": "46",
-            "name": "2024 Nevada: Trump vs. Harris",
-            "slug": "nevada",
-            "polling_start_date": "2024-08-23",
-            "polling_end_date": "2024-09-03"
-        },
-        {
             "id": "146919",
             "type": "poll_rcp_avg",
             "pollster": "InsiderAdvantage",
@@ -3978,7 +3961,7 @@
         {
             "id": "146895",
             "type": "poll_rcp_avg",
-            "pollster": "Bloomberg/MrnConsult",
+            "pollster": "Bloomberg",
             "date": "8/23 - 8/26",
             "sampleSize": "450 RV",
             "marginError": 5.0,
@@ -4063,7 +4046,7 @@
         {
             "id": "146339",
             "type": "poll",
-            "pollster": "Bloomberg/MrnConsult",
+            "pollster": "Bloomberg",
             "date": "7/24 - 7/28",
             "sampleSize": "454 RV",
             "marginError": 5.0,
@@ -4127,6 +4110,23 @@
             "slug": "nevada",
             "polling_start_date": "2023-10-22",
             "polling_end_date": "2023-11-03"
+        },
+        {
+            "id": "147013",
+            "type": "poll",
+            "pollster": "The Times/SAY",
+            "date": "8/23 - 9/3",
+            "sampleSize": "800 LV",
+            "marginError": 0.0,
+            "link": "https://www.thetimes.com/world/us-world/article/polls-trump-vs-harris-2024-us-election-sx6rjw0p2",
+            "spread_winner": "Harris",
+            "spread_value": 3.0,
+            "harris_value": "49",
+            "trump_value": "46",
+            "name": "2024 Nevada: Trump vs. Harris",
+            "slug": "nevada",
+            "polling_start_date": "2024-08-23",
+            "polling_end_date": "2024-09-03"
         }
     ],
     "arizona": [
@@ -4218,7 +4218,7 @@
         {
             "id": "146889",
             "type": "poll_rcp_avg",
-            "pollster": "Bloomberg/MrnConsult",
+            "pollster": "Bloomberg",
             "date": "8/23 - 8/27",
             "sampleSize": "805 RV",
             "marginError": 3.0,
@@ -4354,7 +4354,7 @@
         {
             "id": "146333",
             "type": "poll",
-            "pollster": "Bloomberg/MrnConsult",
+            "pollster": "Bloomberg",
             "date": "7/24 - 7/28",
             "sampleSize": "804 RV",
             "marginError": 3.0,
@@ -4560,7 +4560,7 @@
         {
             "id": "146897",
             "type": "poll_rcp_avg",
-            "pollster": "Bloomberg/MrnConsult",
+            "pollster": "Bloomberg",
             "date": "8/23 - 8/26",
             "sampleSize": "700 RV",
             "marginError": 4.0,
@@ -4662,7 +4662,7 @@
         {
             "id": "146341",
             "type": "poll",
-            "pollster": "Bloomberg/MrnConsult",
+            "pollster": "Bloomberg",
             "date": "7/24 - 7/28",
             "sampleSize": "706 RV",
             "marginError": 4.0,
