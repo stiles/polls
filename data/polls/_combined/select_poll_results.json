@@ -4182,23 +4182,6 @@
             "polling_end_date": "2024-09-05"
         },
         {
-            "id": "147010",
-            "type": "poll",
-            "pollster": "The Times/SAY",
-            "date": "8/23 - 9/3",
-            "sampleSize": "900 LV",
-            "marginError": 0.0,
-            "link": "https://www.thetimes.com/world/us-world/article/polls-trump-vs-harris-2024-us-election-sx6rjw0p2",
-            "spread_winner": "Trump",
-            "spread_value": 2.0,
-            "trump_value": "47",
-            "harris_value": "45",
-            "name": "2024 Arizona: Trump vs. Harris",
-            "slug": "arizona",
-            "polling_start_date": "2024-08-23",
-            "polling_end_date": "2024-09-03"
-        },
-        {
             "id": "146916",
             "type": "poll_rcp_avg",
             "pollster": "InsiderAdvantage",
@@ -4486,6 +4469,23 @@
             "slug": "arizona",
             "polling_start_date": "2023-10-22",
             "polling_end_date": "2023-11-03"
+        },
+        {
+            "id": "147010",
+            "type": "poll",
+            "pollster": "The Times/SAY",
+            "date": "8/23 - 9/3",
+            "sampleSize": "900 LV",
+            "marginError": 0.0,
+            "link": "https://www.thetimes.com/world/us-world/article/polls-trump-vs-harris-2024-us-election-sx6rjw0p2",
+            "spread_winner": "Trump",
+            "spread_value": 2.0,
+            "trump_value": "47",
+            "harris_value": "45",
+            "name": "2024 Arizona: Trump vs. Harris",
+            "slug": "arizona",
+            "polling_start_date": "2024-08-23",
+            "polling_end_date": "2024-09-03"
         }
     ],
     "north_carolina": [
