@@ -1,4 +1,5 @@
 id,type,pollster,date,sampleSize,marginError,link,spread_winner,spread_value,harris_value,trump_value,name,slug,polling_start_date,polling_end_date
+147121,poll_rcp_avg,Marquette,8/28 - 9/5,738 LV,4.7,https://law.marquette.edu/poll/wp-content/uploads/2024/09/MLSP81ToplinesLV.html,Harris,4.0,52,48,2024 Wisconsin: Trump vs. Harris,wisconsin,2024-08-28,2024-09-05
 147068,poll_rcp_avg,CBS News,9/3 - 9/6,958 LV,4.0,https://www.cbsnews.com/news/harris-trump-poll-pennsylvania-michigan-wisconsin-debate/,Harris,2.0,51,49,2024 Wisconsin: Trump vs. Harris,wisconsin,2024-09-03,2024-09-06
 146924,poll_rcp_avg,Trafalgar Group (R),8/28 - 8/30,1083 LV,2.9,https://www.thetrafalgargroup.org/wp-content/uploads/2024/09/WI-Gen-Pres-Poll-Report-0831.pdf,Trump,1.0,46,47,2024 Wisconsin: Trump vs. Harris,wisconsin,2024-08-28,2024-08-30
 146858,poll_rcp_avg,The Hill/Emerson,8/25 - 8/28,850 LV,3.3,https://emersoncollegepolling.com/august-2024-swing-state-polls-toss-up-presidential-election-in-swing-states/,Trump,1.0,48,49,2024 Wisconsin: Trump vs. Harris,wisconsin,2024-08-25,2024-08-28

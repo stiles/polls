@@ -1,5 +1,22 @@
 [
     {
+        "id":"147106",
+        "type":"poll_rcp_avg",
+        "pollster":"Economist\/YouGov",
+        "date":"9\/8 - 9\/10",
+        "sampleSize":"1464 RV",
+        "marginError":3.1,
+        "link":"https:\/\/d3nkl3psvxxpe9.cloudfront.net\/documents\/econTabReport_k1paNHZ.pdf",
+        "spread_winner":"Tie",
+        "spread_value":0.0,
+        "democrats_value":"45",
+        "republicans_value":"45",
+        "name":"2024 Generic Congressional Vote",
+        "slug":"congress_generic",
+        "polling_start_date":"2024-09-08",
+        "polling_end_date":"2024-09-10"
+    },
+    {
         "id":"147093",
         "type":"poll_rcp_avg",
         "pollster":"NPR\/PBS\/Marist",
@@ -35,7 +52,7 @@
     },
     {
         "id":"146973",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Economist\/YouGov",
         "date":"9\/1 - 9\/3",
         "sampleSize":"1389 RV",
@@ -205,7 +222,7 @@
     },
     {
         "id":"146731",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Data for Progress (D)**",
         "date":"8\/1 - 8\/15",
         "sampleSize":"6067 LV",
@@ -239,7 +256,7 @@
     },
     {
         "id":"146741",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"HarrisX",
         "date":"8\/2 - 8\/3",
         "sampleSize":"1011 RV",
@@ -273,7 +290,7 @@
     },
     {
         "id":"146484",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"CNBC",
         "date":"7\/31 - 8\/4",
         "sampleSize":"1001 RV",
@@ -307,7 +324,7 @@
     },
     {
         "id":"146473",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Marquette",
         "date":"7\/24 - 8\/1",
         "sampleSize":"879 RV",
@@ -324,7 +341,7 @@
     },
     {
         "id":"146323",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Harvard-Harris",
         "date":"7\/26 - 7\/28",
         "sampleSize":"2196 RV",
@@ -341,7 +358,7 @@
     },
     {
         "id":"146281",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Wall Street Journal",
         "date":"7\/23 - 7\/25",
         "sampleSize":"1000 RV",

@@ -17,6 +17,23 @@
         "polling_end_date":"2024-09-08"
     },
     {
+        "id":"147108",
+        "type":"poll_rcp_avg",
+        "pollster":"Economist\/YouGov",
+        "date":"9\/8 - 9\/10",
+        "sampleSize":"1464 RV",
+        "marginError":3.1,
+        "link":"https:\/\/d3nkl3psvxxpe9.cloudfront.net\/documents\/econTabReport_k1paNHZ.pdf",
+        "spread_winner":"Unfavorable",
+        "spread_value":3.0,
+        "favorable_value":"48",
+        "unfavorable_value":"51",
+        "name":"Kamala Harris Favorability",
+        "slug":"harris_favorability",
+        "polling_start_date":"2024-09-08",
+        "polling_end_date":"2024-09-10"
+    },
+    {
         "id":"147063",
         "type":"poll_rcp_avg",
         "pollster":"NY Times\/Siena",
@@ -103,7 +120,7 @@
     },
     {
         "id":"146976",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Economist\/YouGov",
         "date":"9\/1 - 9\/3",
         "sampleSize":"1389 RV",

@@ -1,5 +1,22 @@
 [
     {
+        "id":"147121",
+        "type":"poll_rcp_avg",
+        "pollster":"Marquette",
+        "date":"8\/28 - 9\/5",
+        "sampleSize":"738 LV",
+        "marginError":4.7,
+        "link":"https:\/\/law.marquette.edu\/poll\/wp-content\/uploads\/2024\/09\/MLSP81ToplinesLV.html",
+        "spread_winner":"Harris",
+        "spread_value":4.0,
+        "harris_value":"52",
+        "trump_value":"48",
+        "name":"2024 Wisconsin: Trump vs. Harris",
+        "slug":"wisconsin",
+        "polling_start_date":"2024-08-28",
+        "polling_end_date":"2024-09-05"
+    },
+    {
         "id":"147068",
         "type":"poll_rcp_avg",
         "pollster":"CBS News",
