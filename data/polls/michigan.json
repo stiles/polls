@@ -1,5 +1,22 @@
 [
     {
+        "id":"147126",
+        "type":"poll_rcp_avg",
+        "pollster":"InsiderAdvantage",
+        "date":"9\/11 - 9\/12",
+        "sampleSize":"800 LV",
+        "marginError":3.7,
+        "link":"https:\/\/insideradvantage.com\/michigan-survey-trump-leads-harris-by-one-point-within-margin-of-error-see-story-below-chart\/",
+        "spread_winner":"Trump",
+        "spread_value":1.0,
+        "harris_value":"48",
+        "trump_value":"49",
+        "name":"2024 Michigan: Trump vs. Harris",
+        "slug":"michigan",
+        "polling_start_date":"2024-09-11",
+        "polling_end_date":"2024-09-12"
+    },
+    {
         "id":"147067",
         "type":"poll_rcp_avg",
         "pollster":"CBS News",

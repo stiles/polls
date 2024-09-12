@@ -1,4 +1,5 @@
 id,type,pollster,date,sampleSize,marginError,link,spread_winner,spread_value,harris_value,trump_value,name,slug,polling_start_date,polling_end_date
+147126,poll_rcp_avg,InsiderAdvantage,9/11 - 9/12,800 LV,3.7,https://insideradvantage.com/michigan-survey-trump-leads-harris-by-one-point-within-margin-of-error-see-story-below-chart/,Trump,1.0,48,49,2024 Michigan: Trump vs. Harris,michigan,2024-09-11,2024-09-12
 147067,poll_rcp_avg,CBS News,9/3 - 9/6,1086 LV,3.6,https://www.cbsnews.com/news/harris-trump-poll-pennsylvania-michigan-wisconsin-debate/,Harris,1.0,50,49,2024 Michigan: Trump vs. Harris,michigan,2024-09-03,2024-09-06
 146923,poll_rcp_avg,Trafalgar Group (R),8/28 - 8/30,1089 LV,2.9,https://www.thetrafalgargroup.org/wp-content/uploads/2024/09/MI-Gen-Pres-Poll-Report-0831.pdf,Tie,0.0,47,47,2024 Michigan: Trump vs. Harris,michigan,2024-08-28,2024-08-30
 146851,poll_rcp_avg,The Hill/Emerson,8/25 - 8/28,800 LV,3.4,https://emersoncollegepolling.com/august-2024-swing-state-polls-toss-up-presidential-election-in-swing-states/,Harris,3.0,50,47,2024 Michigan: Trump vs. Harris,michigan,2024-08-25,2024-08-28

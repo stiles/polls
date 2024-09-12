@@ -1,10 +1,10 @@
 [
     {
         "state":"Arizona",
-        "date":"2024-09-11",
+        "date":"2024-09-12",
         "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/arizona\/polling-average.json",
-        "harris":45.4,
-        "trump":46.2,
+        "harris":45.5,
+        "trump":46.3,
         "winning":"R +0.8",
         "winning_margin":0.8,
         "state_abbr":"AZ",
@@ -12,7 +12,7 @@
     },
     {
         "state":"Georgia",
-        "date":"2024-09-11",
+        "date":"2024-09-12",
         "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/georgia\/polling-average.json",
         "harris":45.9,
         "trump":46.5,
@@ -23,7 +23,7 @@
     },
     {
         "state":"Michigan",
-        "date":"2024-09-11",
+        "date":"2024-09-12",
         "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/michigan\/polling-average.json",
         "harris":46.7,
         "trump":44.8,
@@ -34,7 +34,7 @@
     },
     {
         "state":"Nevada",
-        "date":"2024-09-11",
+        "date":"2024-09-12",
         "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/nevada\/polling-average.json",
         "harris":45.6,
         "trump":45.5,
@@ -45,7 +45,7 @@
     },
     {
         "state":"North Carolina",
-        "date":"2024-09-11",
+        "date":"2024-09-12",
         "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/north-carolina\/polling-average.json",
         "harris":46.2,
         "trump":46.0,
@@ -56,7 +56,7 @@
     },
     {
         "state":"Pennsylvania",
-        "date":"2024-09-11",
+        "date":"2024-09-12",
         "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/pennsylvania\/polling-average.json",
         "harris":46.3,
         "trump":45.7,
@@ -67,12 +67,12 @@
     },
     {
         "state":"Wisconsin",
-        "date":"2024-09-11",
+        "date":"2024-09-12",
         "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/wisconsin\/polling-average.json",
-        "harris":47.5,
+        "harris":47.6,
         "trump":44.8,
-        "winning":"D +2.7",
-        "winning_margin":2.7,
+        "winning":"D +2.8",
+        "winning_margin":2.8,
         "state_abbr":"WI",
         "source":"FiveThirtyEight"
     }
