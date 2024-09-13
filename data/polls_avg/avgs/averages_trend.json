@@ -1,6 +1,6 @@
 [
     {
-        "date":"2024-09-12",
+        "date":"2024-09-13",
         "harris":47.9,
         "trump":46.7,
         "source":"Cook Report",
@@ -45,12 +45,12 @@
         "fetched_date":"2024-09-13"
     },
     {
-        "date":"2024-09-11",
-        "harris":49.2,
-        "trump":46.7,
+        "date":"2024-09-12",
+        "harris":49.4,
+        "trump":46.3,
         "source":"Economist",
-        "winning":"D +2.5",
-        "winning_margin":2.5,
+        "winning":"D +3.1",
+        "winning_margin":3.1,
         "fetched_date":"2024-09-13"
     },
     {
