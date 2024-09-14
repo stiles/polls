@@ -1,5 +1,39 @@
 [
     {
+        "id":"147157",
+        "type":"poll_rcp_avg",
+        "pollster":"AmGreatness\/TIPP",
+        "date":"9\/11 - 9\/13",
+        "sampleSize":"973 LV",
+        "marginError":3.2,
+        "link":"https:\/\/amgreatness.com\/2024\/09\/13\/new-battleground-poll-trump-pulls-ahead-post-debate\/",
+        "spread_winner":"Trump",
+        "spread_value":3.0,
+        "trump_value":"49",
+        "harris_value":"46",
+        "name":"2024 North Carolina: Trump vs. Harris",
+        "slug":"north_carolina",
+        "polling_start_date":"2024-09-11",
+        "polling_end_date":"2024-09-13"
+    },
+    {
+        "id":"147159",
+        "type":"poll_rcp_avg",
+        "pollster":"Trafalgar Group (R)",
+        "date":"9\/11 - 9\/12",
+        "sampleSize":"1094 LV",
+        "marginError":2.9,
+        "link":"https:\/\/www.thetrafalgargroup.org\/wp-content\/uploads\/2024\/09\/NC-24-General-0913_Report.pdf",
+        "spread_winner":"Trump",
+        "spread_value":2.0,
+        "trump_value":"48",
+        "harris_value":"46",
+        "name":"2024 North Carolina: Trump vs. Harris",
+        "slug":"north_carolina",
+        "polling_start_date":"2024-09-11",
+        "polling_end_date":"2024-09-12"
+    },
+    {
         "id":"147081",
         "type":"poll_rcp_avg",
         "pollster":"Quinnipiac",
@@ -154,7 +188,7 @@
     },
     {
         "id":"146509",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Trafalgar Group (R)",
         "date":"8\/6 - 8\/8",
         "sampleSize":"1000 LV",

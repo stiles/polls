@@ -1,4 +1,5 @@
 id,type,pollster,date,sampleSize,marginError,link,spread_winner,spread_value,democrats_value,republicans_value,name,slug,polling_start_date,polling_end_date
+147151,poll_rcp_avg,Data for Progress (D)**,9/12 - 9/13,1283 LV,3.0,https://www.dataforprogress.org/blog/2024/9/13/post-debate-harris-leads-by-4-as-voters-see-her-as-more-honest-composed-and-intelligent-than-trump,Democrats,3.0,48,45,2024 Generic Congressional Vote,congress_generic,2024-09-12,2024-09-13
 147106,poll_rcp_avg,Economist/YouGov,9/8 - 9/10,1464 RV,3.1,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_k1paNHZ.pdf,Tie,0.0,45,45,2024 Generic Congressional Vote,congress_generic,2024-09-08,2024-09-10
 147093,poll_rcp_avg,NPR/PBS/Marist,9/3 - 9/5,1413 RV,3.3,https://maristpoll.marist.edu/polls/the-u-s-presidential-contest-september-2024/,Democrats,1.0,46,45,2024 Generic Congressional Vote,congress_generic,2024-09-03,2024-09-05
 147000,poll_rcp_avg,Emerson,9/3 - 9/4,1000 LV,2.9,https://emersoncollegepolling.com/september-2024-national-poll-harris-49-trump-47/,Democrats,4.0,48,44,2024 Generic Congressional Vote,congress_generic,2024-09-03,2024-09-04

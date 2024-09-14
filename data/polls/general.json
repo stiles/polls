@@ -1,5 +1,22 @@
 [
     {
+        "id":"147150",
+        "type":"poll_rcp_avg",
+        "pollster":"Data for Progress (D)**",
+        "date":"9\/12 - 9\/13",
+        "sampleSize":"1283 LV",
+        "marginError":3.0,
+        "link":"https:\/\/www.dataforprogress.org\/blog\/2024\/9\/13\/post-debate-harris-leads-by-4-as-voters-see-her-as-more-honest-composed-and-intelligent-than-trump",
+        "spread_winner":"Harris",
+        "spread_value":4.0,
+        "harris_value":"50",
+        "trump_value":"46",
+        "name":"2024 General Election: Trump vs Harris",
+        "slug":"general",
+        "polling_start_date":"2024-09-12",
+        "polling_end_date":"2024-09-13"
+    },
+    {
         "id":"147127",
         "type":"poll_rcp_avg",
         "pollster":"Reuters\/Ipsos",

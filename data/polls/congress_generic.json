@@ -1,5 +1,22 @@
 [
     {
+        "id":"147151",
+        "type":"poll_rcp_avg",
+        "pollster":"Data for Progress (D)**",
+        "date":"9\/12 - 9\/13",
+        "sampleSize":"1283 LV",
+        "marginError":3.0,
+        "link":"https:\/\/www.dataforprogress.org\/blog\/2024\/9\/13\/post-debate-harris-leads-by-4-as-voters-see-her-as-more-honest-composed-and-intelligent-than-trump",
+        "spread_winner":"Democrats",
+        "spread_value":3.0,
+        "democrats_value":"48",
+        "republicans_value":"45",
+        "name":"2024 Generic Congressional Vote",
+        "slug":"congress_generic",
+        "polling_start_date":"2024-09-12",
+        "polling_end_date":"2024-09-13"
+    },
+    {
         "id":"147106",
         "type":"poll_rcp_avg",
         "pollster":"Economist\/YouGov",

@@ -1,7 +1,24 @@
 [
     {
+        "id":"147154",
+        "type":"poll_rcp_avg",
+        "pollster":"Data for Progress (D)**",
+        "date":"9\/12 - 9\/13",
+        "sampleSize":"1283 LV",
+        "marginError":3.0,
+        "link":"https:\/\/www.dataforprogress.org\/blog\/2024\/9\/13\/post-debate-harris-leads-by-4-as-voters-see-her-as-more-honest-composed-and-intelligent-than-trump",
+        "spread_winner":"Favorable",
+        "spread_value":4.0,
+        "favorable_value":"51",
+        "unfavorable_value":"47",
+        "name":"Kamala Harris Favorability",
+        "slug":"harris_favorability",
+        "polling_start_date":"2024-09-12",
+        "polling_end_date":"2024-09-13"
+    },
+    {
         "id":"147088",
-        "type":"poll",
+        "type":"poll_rcp_avg",
         "pollster":"Morning Consult",
         "date":"9\/6 - 9\/8",
         "sampleSize":"2015 LV",
@@ -103,7 +120,7 @@
     },
     {
         "id":"147019",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Morning Consult",
         "date":"9\/2 - 9\/4",
         "sampleSize":"11414 LV",
