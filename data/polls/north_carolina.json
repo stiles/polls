@@ -171,7 +171,7 @@
     },
     {
         "id":"146638",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"NY Times\/Siena",
         "date":"8\/9 - 8\/14",
         "sampleSize":"655 LV",
@@ -205,7 +205,7 @@
     },
     {
         "id":"146502",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Carolina Journal\/Cygnal",
         "date":"8\/4 - 8\/5",
         "sampleSize":"600 LV",

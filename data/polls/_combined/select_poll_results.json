@@ -3552,7 +3552,7 @@
         },
         {
             "id": "146770",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "AmGreatness/TIPP",
             "date": "8/20 - 8/22",
             "sampleSize": "741 LV",
@@ -3569,7 +3569,7 @@
         },
         {
             "id": "146649",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Rasmussen Reports",
             "date": "8/13 - 8/17",
             "sampleSize": "1093 LV",
@@ -3586,7 +3586,7 @@
         },
         {
             "id": "146607",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Fabrizio/Anzalone",
             "date": "8/7 - 8/11",
             "sampleSize": "600 LV",
@@ -4818,7 +4818,7 @@
         },
         {
             "id": "146638",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "NY Times/Siena",
             "date": "8/9 - 8/14",
             "sampleSize": "655 LV",
@@ -4852,7 +4852,7 @@
         },
         {
             "id": "146502",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Carolina Journal/Cygnal",
             "date": "8/4 - 8/5",
             "sampleSize": "600 LV",
