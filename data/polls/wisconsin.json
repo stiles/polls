@@ -1,5 +1,22 @@
 [
     {
+        "id":"147164",
+        "type":"poll_rcp_avg",
+        "pollster":"InsiderAdvantage",
+        "date":"9\/11 - 9\/12",
+        "sampleSize":"800 LV",
+        "marginError":3.5,
+        "link":"https:\/\/insideradvantage.com\/wisconsin-survey-harris-leads-by-two-points-senior-voters-are-issue-for-trump-see-story-below-chart\/",
+        "spread_winner":"Harris",
+        "spread_value":2.0,
+        "harris_value":"49",
+        "trump_value":"47",
+        "name":"2024 Wisconsin: Trump vs. Harris",
+        "slug":"wisconsin",
+        "polling_start_date":"2024-09-11",
+        "polling_end_date":"2024-09-12"
+    },
+    {
         "id":"147121",
         "type":"poll_rcp_avg",
         "pollster":"Marquette",
@@ -69,7 +86,7 @@
     },
     {
         "id":"146901",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Bloomberg",
         "date":"8\/23 - 8\/26",
         "sampleSize":"701 RV",
@@ -86,7 +103,7 @@
     },
     {
         "id":"146686",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Rasmussen Reports",
         "date":"8\/13 - 8\/19",
         "sampleSize":"1099 LV",
@@ -103,7 +120,7 @@
     },
     {
         "id":"146611",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"AmGreatness\/TIPP",
         "date":"8\/12 - 8\/14",
         "sampleSize":"976 LV",
