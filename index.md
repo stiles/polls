@@ -69,7 +69,7 @@ The state of the race is mixed, with **Vice President Kamala Harris** ahead in *
 | Place             | Margin               | Source       |
 |-------------------|----------------------|--------------|
 | US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +1.6</span> |[Cook Report](https://www.cookpolitical.com/survey-research/cpr-national-polling-average/2024/harris-trump-overall) 
-| US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +1.7</span> |[RealClearPolitics](https://www.realclearpolling.com/polls/president/general/2024/trump-vs-harris) 
+| US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +1.8</span> |[RealClearPolitics](https://www.realclearpolling.com/polls/president/general/2024/trump-vs-harris) 
 | US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +2.6</span> |[FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/national/) 
 | US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +2.2</span> |[Nate Silver](https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model) 
 | US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +2.1</span> |[270toWin](https://www.270towin.com/2024-presidential-election-polls/) 
@@ -82,4 +82,4 @@ The state of the race is mixed, with **Vice President Kamala Harris** ahead in *
 
  **About this page:** [Github repo](https://github.com/stiles/polls) 
 
- **Last update:** *8 p.m. ET, September 14*.
+ **Last update:** *11 p.m. ET, September 14*.
