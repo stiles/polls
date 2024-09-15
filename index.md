@@ -82,4 +82,4 @@ The state of the race is mixed, with **Vice President Kamala Harris** ahead in *
 
  **About this page:** [Github repo](https://github.com/stiles/polls) 
 
- **Last update:** *11 p.m. ET, September 14*.
+ **Last update:** *12 a.m. ET, September 15*.
