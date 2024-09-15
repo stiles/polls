@@ -17,6 +17,40 @@
         "polling_end_date":"2024-09-13"
     },
     {
+        "id":"147162",
+        "type":"poll_rcp_avg",
+        "pollster":"Yahoo News",
+        "date":"9\/11 - 9\/13",
+        "sampleSize":" LV",
+        "marginError":0.0,
+        "link":"https:\/\/www.yahoo.com\/news\/new-yahoo-newsyougov-poll-after-debate-harris-surges-to-5-point-lead-over-trump-among-registered-voters-in-head-to-head-matchup-122213811.html",
+        "spread_winner":"Harris",
+        "spread_value":4.0,
+        "harris_value":"49",
+        "trump_value":"45",
+        "name":"2024 General Election: Trump vs Harris",
+        "slug":"general",
+        "polling_start_date":"2024-09-11",
+        "polling_end_date":"2024-09-13"
+    },
+    {
+        "id":"147160",
+        "type":"poll",
+        "pollster":"TIPP",
+        "date":"9\/11 - 9\/13",
+        "sampleSize":"1721 RV",
+        "marginError":2.6,
+        "link":"https:\/\/tippinsights.com\/dead-cat-bounce-or-lasting-shift\/",
+        "spread_winner":"Harris",
+        "spread_value":4.0,
+        "harris_value":"47",
+        "trump_value":"43",
+        "name":"2024 General Election: Trump vs Harris",
+        "slug":"general",
+        "polling_start_date":"2024-09-11",
+        "polling_end_date":"2024-09-13"
+    },
+    {
         "id":"147127",
         "type":"poll_rcp_avg",
         "pollster":"Reuters\/Ipsos",
@@ -34,23 +68,6 @@
         "polling_end_date":"2024-09-12"
     },
     {
-        "id":"147129",
-        "type":"poll_rcp_avg",
-        "pollster":"Morning Consult",
-        "date":"9\/11 - 9\/11",
-        "sampleSize":"3317 LV",
-        "marginError":3.0,
-        "link":"https:\/\/pro.morningconsult.com\/instant-intel\/harris-trump-first-debate-poll",
-        "spread_winner":"Harris",
-        "spread_value":5.0,
-        "harris_value":"50",
-        "trump_value":"45",
-        "name":"2024 General Election: Trump vs Harris",
-        "slug":"general",
-        "polling_start_date":"2024-09-11",
-        "polling_end_date":"2024-09-11"
-    },
-    {
         "id":"147124",
         "type":"poll_rcp_avg",
         "pollster":"New York Post",
@@ -65,6 +82,23 @@
         "name":"2024 General Election: Trump vs Harris",
         "slug":"general",
         "polling_start_date":"2024-09-10",
+        "polling_end_date":"2024-09-11"
+    },
+    {
+        "id":"147129",
+        "type":"poll_rcp_avg",
+        "pollster":"Morning Consult",
+        "date":"9\/11 - 9\/11",
+        "sampleSize":"3317 LV",
+        "marginError":3.0,
+        "link":"https:\/\/pro.morningconsult.com\/instant-intel\/harris-trump-first-debate-poll",
+        "spread_winner":"Harris",
+        "spread_value":5.0,
+        "harris_value":"50",
+        "trump_value":"45",
+        "name":"2024 General Election: Trump vs Harris",
+        "slug":"general",
+        "polling_start_date":"2024-09-11",
         "polling_end_date":"2024-09-11"
     },
     {
@@ -341,7 +375,7 @@
     },
     {
         "id":"146799",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Yahoo News",
         "date":"8\/22 - 8\/26",
         "sampleSize":"1194 RV",

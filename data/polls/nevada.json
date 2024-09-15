@@ -103,7 +103,7 @@
     },
     {
         "id":"146635",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"NY Times\/Siena",
         "date":"8\/12 - 8\/15",
         "sampleSize":"677 LV",

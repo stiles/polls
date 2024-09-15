@@ -103,7 +103,7 @@
     },
     {
         "id":"146646",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Rasmussen Reports",
         "date":"8\/13 - 8\/17",
         "sampleSize":"1187 LV",
@@ -120,7 +120,7 @@
     },
     {
         "id":"146794",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Noble Predictive Insights",
         "date":"8\/12 - 8\/16",
         "sampleSize":"1003 RV",
