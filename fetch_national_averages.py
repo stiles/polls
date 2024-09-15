@@ -62,7 +62,7 @@ fte_latest = fte_src.query('date == date.max()').drop('kennedy', axis=1)
 
 # Nate Silver
 nate_cols = ['modeldate','state', 'trump','harris', 'rfk']
-nate_url = f'https://static.dwcdn.net/data/wB0Zh.csv?v={epoch_seconds}'
+nate_url = f'https://static.dwcdn.net/data/kFsH6.csv?v={epoch_seconds}'
 nate_src = pd.read_csv(nate_url, storage_options=headers).query('state=="National"').dropna(subset='harris')[nate_cols].rename(columns={'modeldate': 'date', 'rfk': 'kennedy'}).round(1)
 nate_src['source'] = 'Nate Silver'
 nate_src['date'] = pd.to_datetime(nate_src['date'], format='mixed').dt.strftime('%Y-%m-%d')
