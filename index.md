@@ -54,13 +54,13 @@ The latest forecasts the 2024 presidential election based on models developed by
 | Place | Favored / Chance | Source |
 |-------|---------------------|--------|
 | US | <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>Trump - 60%</span> | [Nate Silver](https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model) |
-| US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>Harris - 58%</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/2024-election-forecast) |
+| US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>Harris - 60%</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/2024-election-forecast) |
 | US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>Harris - 51%</span> | [Economist](https://www.economist.com/interactive/us-2024-election/prediction-model/president/) |
 | US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>Harris - 54%</span> | [The Hill](https://elections2024.thehill.com/forecast/2024/president/) |
 
 
 ### Swing state polling averages
-<span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>Vice President Kamala Harris</span> is leading in <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>five</span> of the seven potential swing states over former President Donald Trump, according to FiveThirtyEight's averages.
+<span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>Vice President Kamala Harris</span> is leading in <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>five</span> of the potential swing states over former President Donald Trump, according to FiveThirtyEight's averages.
 
 | Place | Margin | Source |
 |-------|--------|--------|
@@ -95,4 +95,4 @@ The latest forecasts the 2024 presidential election based on models developed by
 
  **About this page:** [Github repo](https://github.com/stiles/polls) 
 
- **Last update:** *9 p.m. ET, September 15*.
+ **Last update:** *8 a.m. ET, September 16*.
