@@ -24,7 +24,7 @@ headers = {
     'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36',
 }
 
-ARCHIVE_URL = 'https://stilesdata.com/polling/harris_trump/probability/probability_by_outlet_archive.json'
+ARCHIVE_URL = 'data/probability/probability_by_outlet_archive.json'
 ARCHIVE_OUTPUT = 'data/probability/probability_by_outlet_archive.json'
 
 # The Hill

@@ -15,7 +15,7 @@ last_updated_str = (
 # Load JSON data from previous scripts
 states_fte = pd.read_json('data/polls_avg/avgs/state_averages_latest.json')
 df = pd.read_json('data/polls_avg/avgs/averages_latest.json')
-probability_df = pd.read_json('https://stilesdata.com/polling/harris_trump/probability/probability_by_outlet_latest.json')
+probability_df = pd.read_json('data/probability/probability_by_outlet_latest.json')
 
 # Calculate the favored candidate
 def get_favored(row):
