@@ -495,6 +495,17 @@
         "source":"FiveThirtyEight"
     },
     {
+        "state":"Arizona",
+        "date":"2024-09-15",
+        "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/arizona\/polling-average.json",
+        "harris":46.7,
+        "trump":47.5,
+        "winning":"R +0.8",
+        "winning_margin":0.8,
+        "state_abbr":"AZ",
+        "source":"FiveThirtyEight"
+    },
+    {
         "state":"Georgia",
         "date":"2024-07-30",
         "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/georgia\/polling-average.json",
@@ -1003,6 +1014,17 @@
     {
         "state":"Georgia",
         "date":"2024-09-14",
+        "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/georgia\/polling-average.json",
+        "harris":47.1,
+        "trump":47.9,
+        "winning":"R +0.8",
+        "winning_margin":0.8,
+        "state_abbr":"GA",
+        "source":"FiveThirtyEight"
+    },
+    {
+        "state":"Georgia",
+        "date":"2024-09-15",
         "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/georgia\/polling-average.json",
         "harris":47.1,
         "trump":47.9,
@@ -1573,6 +1595,325 @@
         "source":"FiveThirtyEight"
     },
     {
+        "state":"Michigan",
+        "date":"2024-09-15",
+        "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/michigan\/polling-average.json",
+        "harris":47.6,
+        "trump":46.1,
+        "winning":"D +1.5",
+        "winning_margin":1.5,
+        "state_abbr":"MI",
+        "source":"FiveThirtyEight"
+    },
+    {
+        "state":"Minnesota",
+        "date":"2024-08-19",
+        "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/minnesota\/polling-average.json",
+        "harris":48.9,
+        "trump":40.5,
+        "winning":"D +8.4",
+        "winning_margin":8.4,
+        "state_abbr":"MN",
+        "source":"FiveThirtyEight"
+    },
+    {
+        "state":"Minnesota",
+        "date":"2024-08-20",
+        "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/minnesota\/polling-average.json",
+        "harris":49.0,
+        "trump":40.5,
+        "winning":"D +8.5",
+        "winning_margin":8.5,
+        "state_abbr":"MN",
+        "source":"FiveThirtyEight"
+    },
+    {
+        "state":"Minnesota",
+        "date":"2024-08-21",
+        "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/minnesota\/polling-average.json",
+        "harris":49.3,
+        "trump":40.4,
+        "winning":"D +8.9",
+        "winning_margin":8.9,
+        "state_abbr":"MN",
+        "source":"FiveThirtyEight"
+    },
+    {
+        "state":"Minnesota",
+        "date":"2024-08-22",
+        "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/minnesota\/polling-average.json",
+        "harris":49.5,
+        "trump":40.3,
+        "winning":"D +9.2",
+        "winning_margin":9.2,
+        "state_abbr":"MN",
+        "source":"FiveThirtyEight"
+    },
+    {
+        "state":"Minnesota",
+        "date":"2024-08-23",
+        "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/minnesota\/polling-average.json",
+        "harris":49.6,
+        "trump":40.4,
+        "winning":"D +9.2",
+        "winning_margin":9.2,
+        "state_abbr":"MN",
+        "source":"FiveThirtyEight"
+    },
+    {
+        "state":"Minnesota",
+        "date":"2024-08-24",
+        "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/minnesota\/polling-average.json",
+        "harris":49.2,
+        "trump":40.3,
+        "winning":"D +8.9",
+        "winning_margin":8.9,
+        "state_abbr":"MN",
+        "source":"FiveThirtyEight"
+    },
+    {
+        "state":"Minnesota",
+        "date":"2024-08-25",
+        "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/minnesota\/polling-average.json",
+        "harris":49.1,
+        "trump":40.3,
+        "winning":"D +8.8",
+        "winning_margin":8.8,
+        "state_abbr":"MN",
+        "source":"FiveThirtyEight"
+    },
+    {
+        "state":"Minnesota",
+        "date":"2024-08-26",
+        "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/minnesota\/polling-average.json",
+        "harris":49.2,
+        "trump":40.4,
+        "winning":"D +8.8",
+        "winning_margin":8.8,
+        "state_abbr":"MN",
+        "source":"FiveThirtyEight"
+    },
+    {
+        "state":"Minnesota",
+        "date":"2024-08-27",
+        "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/minnesota\/polling-average.json",
+        "harris":49.2,
+        "trump":40.4,
+        "winning":"D +8.8",
+        "winning_margin":8.8,
+        "state_abbr":"MN",
+        "source":"FiveThirtyEight"
+    },
+    {
+        "state":"Minnesota",
+        "date":"2024-08-28",
+        "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/minnesota\/polling-average.json",
+        "harris":49.2,
+        "trump":40.3,
+        "winning":"D +8.9",
+        "winning_margin":8.9,
+        "state_abbr":"MN",
+        "source":"FiveThirtyEight"
+    },
+    {
+        "state":"Minnesota",
+        "date":"2024-08-29",
+        "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/minnesota\/polling-average.json",
+        "harris":49.7,
+        "trump":40.8,
+        "winning":"D +8.9",
+        "winning_margin":8.9,
+        "state_abbr":"MN",
+        "source":"FiveThirtyEight"
+    },
+    {
+        "state":"Minnesota",
+        "date":"2024-08-30",
+        "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/minnesota\/polling-average.json",
+        "harris":49.4,
+        "trump":41.8,
+        "winning":"D +7.6",
+        "winning_margin":7.6,
+        "state_abbr":"MN",
+        "source":"FiveThirtyEight"
+    },
+    {
+        "state":"Minnesota",
+        "date":"2024-08-31",
+        "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/minnesota\/polling-average.json",
+        "harris":49.4,
+        "trump":41.9,
+        "winning":"D +7.5",
+        "winning_margin":7.5,
+        "state_abbr":"MN",
+        "source":"FiveThirtyEight"
+    },
+    {
+        "state":"Minnesota",
+        "date":"2024-09-01",
+        "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/minnesota\/polling-average.json",
+        "harris":49.5,
+        "trump":42.0,
+        "winning":"D +7.5",
+        "winning_margin":7.5,
+        "state_abbr":"MN",
+        "source":"FiveThirtyEight"
+    },
+    {
+        "state":"Minnesota",
+        "date":"2024-09-02",
+        "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/minnesota\/polling-average.json",
+        "harris":49.5,
+        "trump":42.0,
+        "winning":"D +7.5",
+        "winning_margin":7.5,
+        "state_abbr":"MN",
+        "source":"FiveThirtyEight"
+    },
+    {
+        "state":"Minnesota",
+        "date":"2024-09-03",
+        "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/minnesota\/polling-average.json",
+        "harris":49.4,
+        "trump":42.0,
+        "winning":"D +7.4",
+        "winning_margin":7.4,
+        "state_abbr":"MN",
+        "source":"FiveThirtyEight"
+    },
+    {
+        "state":"Minnesota",
+        "date":"2024-09-04",
+        "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/minnesota\/polling-average.json",
+        "harris":49.4,
+        "trump":42.2,
+        "winning":"D +7.2",
+        "winning_margin":7.2,
+        "state_abbr":"MN",
+        "source":"FiveThirtyEight"
+    },
+    {
+        "state":"Minnesota",
+        "date":"2024-09-05",
+        "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/minnesota\/polling-average.json",
+        "harris":49.6,
+        "trump":42.3,
+        "winning":"D +7.3",
+        "winning_margin":7.3,
+        "state_abbr":"MN",
+        "source":"FiveThirtyEight"
+    },
+    {
+        "state":"Minnesota",
+        "date":"2024-09-06",
+        "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/minnesota\/polling-average.json",
+        "harris":49.8,
+        "trump":42.5,
+        "winning":"D +7.3",
+        "winning_margin":7.3,
+        "state_abbr":"MN",
+        "source":"FiveThirtyEight"
+    },
+    {
+        "state":"Minnesota",
+        "date":"2024-09-07",
+        "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/minnesota\/polling-average.json",
+        "harris":49.8,
+        "trump":42.5,
+        "winning":"D +7.3",
+        "winning_margin":7.3,
+        "state_abbr":"MN",
+        "source":"FiveThirtyEight"
+    },
+    {
+        "state":"Minnesota",
+        "date":"2024-09-08",
+        "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/minnesota\/polling-average.json",
+        "harris":49.9,
+        "trump":42.8,
+        "winning":"D +7.1",
+        "winning_margin":7.1,
+        "state_abbr":"MN",
+        "source":"FiveThirtyEight"
+    },
+    {
+        "state":"Minnesota",
+        "date":"2024-09-09",
+        "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/minnesota\/polling-average.json",
+        "harris":49.9,
+        "trump":43.2,
+        "winning":"D +6.7",
+        "winning_margin":6.7,
+        "state_abbr":"MN",
+        "source":"FiveThirtyEight"
+    },
+    {
+        "state":"Minnesota",
+        "date":"2024-09-10",
+        "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/minnesota\/polling-average.json",
+        "harris":50.2,
+        "trump":43.4,
+        "winning":"D +6.8",
+        "winning_margin":6.8,
+        "state_abbr":"MN",
+        "source":"FiveThirtyEight"
+    },
+    {
+        "state":"Minnesota",
+        "date":"2024-09-11",
+        "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/minnesota\/polling-average.json",
+        "harris":50.1,
+        "trump":43.3,
+        "winning":"D +6.8",
+        "winning_margin":6.8,
+        "state_abbr":"MN",
+        "source":"FiveThirtyEight"
+    },
+    {
+        "state":"Minnesota",
+        "date":"2024-09-12",
+        "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/minnesota\/polling-average.json",
+        "harris":50.1,
+        "trump":43.2,
+        "winning":"D +6.9",
+        "winning_margin":6.9,
+        "state_abbr":"MN",
+        "source":"FiveThirtyEight"
+    },
+    {
+        "state":"Minnesota",
+        "date":"2024-09-13",
+        "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/minnesota\/polling-average.json",
+        "harris":49.7,
+        "trump":43.5,
+        "winning":"D +6.2",
+        "winning_margin":6.2,
+        "state_abbr":"MN",
+        "source":"FiveThirtyEight"
+    },
+    {
+        "state":"Minnesota",
+        "date":"2024-09-14",
+        "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/minnesota\/polling-average.json",
+        "harris":49.7,
+        "trump":43.4,
+        "winning":"D +6.3",
+        "winning_margin":6.3,
+        "state_abbr":"MN",
+        "source":"FiveThirtyEight"
+    },
+    {
+        "state":"Minnesota",
+        "date":"2024-09-15",
+        "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/minnesota\/polling-average.json",
+        "harris":49.7,
+        "trump":43.5,
+        "winning":"D +6.2",
+        "winning_margin":6.2,
+        "state_abbr":"MN",
+        "source":"FiveThirtyEight"
+    },
+    {
         "state":"Nevada",
         "date":"2024-08-10",
         "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/nevada\/polling-average.json",
@@ -1969,6 +2310,17 @@
         "source":"FiveThirtyEight"
     },
     {
+        "state":"Nevada",
+        "date":"2024-09-15",
+        "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/nevada\/polling-average.json",
+        "harris":46.9,
+        "trump":46.8,
+        "winning":"D +0.1",
+        "winning_margin":0.1,
+        "state_abbr":"NV",
+        "source":"FiveThirtyEight"
+    },
+    {
         "state":"North Carolina",
         "date":"2024-08-12",
         "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/north-carolina\/polling-average.json",
@@ -2339,6 +2691,17 @@
         "trump":47.5,
         "winning":"R +0.4",
         "winning_margin":0.4,
+        "state_abbr":"NC",
+        "source":"FiveThirtyEight"
+    },
+    {
+        "state":"North Carolina",
+        "date":"2024-09-15",
+        "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/north-carolina\/polling-average.json",
+        "harris":47.1,
+        "trump":47.6,
+        "winning":"R +0.5",
+        "winning_margin":0.5,
         "state_abbr":"NC",
         "source":"FiveThirtyEight"
     },
@@ -2860,6 +3223,17 @@
         "source":"FiveThirtyEight"
     },
     {
+        "state":"Pennsylvania",
+        "date":"2024-09-15",
+        "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/pennsylvania\/polling-average.json",
+        "harris":47.4,
+        "trump":46.9,
+        "winning":"D +0.5",
+        "winning_margin":0.5,
+        "state_abbr":"PA",
+        "source":"FiveThirtyEight"
+    },
+    {
         "state":"Wisconsin",
         "date":"2024-08-01",
         "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/wisconsin\/polling-average.json",
@@ -3346,6 +3720,17 @@
     {
         "state":"Wisconsin",
         "date":"2024-09-14",
+        "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/wisconsin\/polling-average.json",
+        "harris":48.6,
+        "trump":46.0,
+        "winning":"D +2.6",
+        "winning_margin":2.6,
+        "state_abbr":"WI",
+        "source":"FiveThirtyEight"
+    },
+    {
+        "state":"Wisconsin",
+        "date":"2024-09-15",
         "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/wisconsin\/polling-average.json",
         "harris":48.6,
         "trump":46.0,

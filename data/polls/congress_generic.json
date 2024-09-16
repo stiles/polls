@@ -17,6 +17,23 @@
         "polling_end_date":"2024-09-13"
     },
     {
+        "id":"147189",
+        "type":"poll_rcp_avg",
+        "pollster":"Yahoo News",
+        "date":"9\/11 - 9\/13",
+        "sampleSize":"1089 LV",
+        "marginError":0.0,
+        "link":"https:\/\/www.scribd.com\/document\/769207834\/Yahoo-News-YouGov-poll-9-14",
+        "spread_winner":"Democrats",
+        "spread_value":4.0,
+        "democrats_value":"48",
+        "republicans_value":"44",
+        "name":"2024 Generic Congressional Vote",
+        "slug":"congress_generic",
+        "polling_start_date":"2024-09-11",
+        "polling_end_date":"2024-09-13"
+    },
+    {
         "id":"147106",
         "type":"poll_rcp_avg",
         "pollster":"Economist\/YouGov",
@@ -137,7 +154,7 @@
     },
     {
         "id":"146809",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Yahoo News",
         "date":"8\/22 - 8\/26",
         "sampleSize":"1200 RV",
@@ -222,7 +239,7 @@
     },
     {
         "id":"146562",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Monmouth",
         "date":"8\/8 - 8\/12",
         "sampleSize":"801 RV",
