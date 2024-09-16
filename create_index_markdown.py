@@ -8,7 +8,6 @@ from datetime import datetime
 # Define today's date
 eastern = pytz.timezone("US/Eastern")
 now = datetime.now(eastern)
-
 last_updated_str = (
     now.strftime("%-I %p ET, %B %-d").replace("AM", "a.m.").replace("PM", "p.m.")
 )
@@ -16,6 +15,37 @@ last_updated_str = (
 # Load JSON data from previous scripts
 states_fte = pd.read_json('data/polls_avg/avgs/state_averages_latest.json')
 df = pd.read_json('data/polls_avg/avgs/averages_latest.json')
+probability_df = pd.read_json('https://stilesdata.com/polling/harris_trump/probability/probability_by_outlet_latest.json')
+
+# Calculate the favored candidate
+def get_favored(row):
+    if row['harris'] > row['trump']:
+        return "Harris", '#5194C3'  # Blue for Harris
+    else:
+        return "Trump", '#c52622'  # Red for Trump
+
+# Links for each source
+probability_links = {
+    "The Hill": "https://elections2024.thehill.com/forecast/2024/president/",
+    "FiveThirtyEight": "https://projects.fivethirtyeight.com/2024-election-forecast",
+    "Nate Silver": "https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model",
+    "Economist": "https://www.economist.com/interactive/us-2024-election/prediction-model/president/"
+}
+
+# Generate the markdown for the probabilities table
+probability_table = """
+### National probability
+The latest forecasts the 2024 presidential election based on models developed by media outlets:
+
+| Place | Favored / Chance | Source |
+|-------|---------------------|--------|
+"""
+
+for _, row in probability_df.iterrows():
+    favored, color = get_favored(row)
+    favored_style = f"<span style='background: {color}; padding:1px 4px; color: #ffffff; font-weight: bold;'>{favored} - {row[favored.lower()]:.0f}%</span>"
+    source_link = probability_links.get(row['source'], "#")
+    probability_table += f"| US | {favored_style} | [{row['source']}]({source_link}) |\n"
 
 # Calculate averages
 harris_avg = df['harris'].mean().round(2).astype(float)
@@ -60,13 +90,13 @@ def format_sources(sources):
     if not sorted_sources:
         return ""
     elif len(sorted_sources) == 1:
-        return f"`{sorted_sources[0]}`"
-    return ", ".join(f"`{source}`" for source in sorted_sources[:-1]) + " and " + f"`{sorted_sources[-1]}`"
+        return f"`{sources[0]}`"
+    return ", ".join(f"`{source}`" for source in sorted_sources[:-1]) + " and " + f"`{sources[-1]}`"
 
 sources = list(df['source'].unique())
 formatted_sources = format_sources(sources)
 
-msg = f"<span style='background: {avg_winning_color}; padding:1px 4px; color: #ffffff; font-weight: bold;'>{avg_winning}</span> is leading in the national polls by a <span style='background: {avg_winning_color}; padding:1px 4px; color: #ffffff; font-weight: bold;'>{avg_margin} percentage point</span> margin over {avg_losing}, according an average of prominent polling averages."
+msg = f"<span style='background: {avg_winning_color}; padding:1px 4px; color: #ffffff; font-weight: bold;'>{avg_winning}</span> is leading in the national polls by a <span style='background: {avg_winning_color}; padding:1px 4px; color: #ffffff; font-weight: bold;'>{avg_margin} percentage point</span> margin over {avg_losing}, according to an average of prominent polling averages."
 
 # Links for each polling source
 source_links = {
@@ -80,7 +110,7 @@ source_links = {
     "The Hill": "https://elections2024.thehill.com/national/harris-trump-general/"
 }
 
-# Generate Markdown Content with inline CSS for better mobile responsiveness
+# Generate the rest of the markdown content
 markdown_content = f"""
 <style>
 table {{
@@ -130,6 +160,8 @@ th, td {{
 
 ## Harris v. Trump: The latest
 
+{probability_table}
+
 ### Swing state polling averages
 {state_msg}
 
@@ -177,8 +209,6 @@ for index, row in df.iterrows():
     
     # markdown_content += f"| [{source_name}]({source_link}) | {harris_style} / {trump_style} | {margin_style} |\n"
     markdown_content += f"| {source_location} | {margin_style} |[{source_name}]({source_link}) \n"
-
-
 
 # Add additional content after the table
 markdown_content += f'\n\n **Data:** [Latest](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/averages_latest.json), [trend](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/averages_trend.json) \n\n **About this page:** [Github repo](https://github.com/stiles/polls) \n\n **Last update:** *{last_updated_str}*.'
