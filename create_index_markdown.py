@@ -35,7 +35,7 @@ probability_links = {
 # Generate the markdown for the probabilities table
 probability_table = """
 ### National probability
-The latest forecasts the 2024 presidential election based on models developed by media outlets:
+The latest forecasts for the 2024 presidential election based on models developed by media outlets:
 
 | Place | Favored / Chance | Source |
 |-------|---------------------|--------|
