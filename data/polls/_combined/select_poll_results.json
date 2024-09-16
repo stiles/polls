@@ -4987,7 +4987,7 @@
         },
         {
             "id": "146897",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Bloomberg",
             "date": "8/23 - 8/26",
             "sampleSize": "700 RV",
