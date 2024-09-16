@@ -32,6 +32,7 @@ jobs:
           python fetch_state_averages.py
           python fetch_national_averages.py
           python create_index_markdown.py
+          create_national_probabilities.py
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
