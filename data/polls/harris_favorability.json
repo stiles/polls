@@ -34,6 +34,23 @@
         "polling_end_date":"2024-09-13"
     },
     {
+        "id":"147195",
+        "type":"poll_rcp_avg",
+        "pollster":"TIPP",
+        "date":"9\/11 - 9\/13",
+        "sampleSize":"1721 RV",
+        "marginError":0.0,
+        "link":"https:\/\/tippinsights.com\/dead-cat-bounce-or-lasting-shift\/",
+        "spread_winner":"Favorable",
+        "spread_value":5.0,
+        "favorable_value":"48",
+        "unfavorable_value":"43",
+        "name":"Kamala Harris Favorability",
+        "slug":"harris_favorability",
+        "polling_start_date":"2024-09-11",
+        "polling_end_date":"2024-09-13"
+    },
+    {
         "id":"147172",
         "type":"poll_rcp_avg",
         "pollster":"ABC News\/Ipsos",
@@ -205,7 +222,7 @@
     },
     {
         "id":"147004",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"TIPP",
         "date":"8\/28 - 8\/30",
         "sampleSize":"1582 A",
