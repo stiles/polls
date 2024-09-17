@@ -1,5 +1,22 @@
 [
     {
+        "id":"147227",
+        "type":"poll_rcp_avg",
+        "pollster":"Trafalgar Group (R)",
+        "date":"9\/11 - 9\/13",
+        "sampleSize":"1098 LV",
+        "marginError":2.9,
+        "link":"https:\/\/www.thetrafalgargroup.org\/wp-content\/uploads\/2024\/09\/GA-24-General-0916_Report.pdf",
+        "spread_winner":"Trump",
+        "spread_value":1.0,
+        "trump_value":"46",
+        "harris_value":"45",
+        "name":"2024 Georgia: Trump vs. Harris",
+        "slug":"georgia",
+        "polling_start_date":"2024-09-11",
+        "polling_end_date":"2024-09-13"
+    },
+    {
         "id":"147085",
         "type":"poll_rcp_avg",
         "pollster":"Quinnipiac",
@@ -51,23 +68,6 @@
         "polling_end_date":"2024-08-28"
     },
     {
-        "id":"146840",
-        "type":"poll_rcp_avg",
-        "pollster":"FOX News",
-        "date":"8\/23 - 8\/26",
-        "sampleSize":"1014 RV",
-        "marginError":3.0,
-        "link":"https:\/\/www.foxnews.com\/official-polls\/fox-news-poll-harris-closes-gap-trump-sun-belt-states",
-        "spread_winner":"Harris",
-        "spread_value":2.0,
-        "trump_value":"48",
-        "harris_value":"50",
-        "name":"2024 Georgia: Trump vs. Harris",
-        "slug":"georgia",
-        "polling_start_date":"2024-08-23",
-        "polling_end_date":"2024-08-26"
-    },
-    {
         "id":"146891",
         "type":"poll_rcp_avg",
         "pollster":"Bloomberg",
@@ -85,8 +85,25 @@
         "polling_end_date":"2024-08-26"
     },
     {
+        "id":"146840",
+        "type":"poll",
+        "pollster":"FOX News",
+        "date":"8\/23 - 8\/26",
+        "sampleSize":"1014 RV",
+        "marginError":3.0,
+        "link":"https:\/\/www.foxnews.com\/official-polls\/fox-news-poll-harris-closes-gap-trump-sun-belt-states",
+        "spread_winner":"Harris",
+        "spread_value":2.0,
+        "trump_value":"48",
+        "harris_value":"50",
+        "name":"2024 Georgia: Trump vs. Harris",
+        "slug":"georgia",
+        "polling_start_date":"2024-08-23",
+        "polling_end_date":"2024-08-26"
+    },
+    {
         "id":"146633",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"NY Times\/Siena",
         "date":"8\/9 - 8\/14",
         "sampleSize":"661 LV",
