@@ -1,22 +1,5 @@
 [
     {
-        "id":"147225",
-        "type":"poll_rcp_avg",
-        "pollster":"USA Today\/Suffolk*",
-        "date":"9\/11 - 9\/14",
-        "sampleSize":"500 LV",
-        "marginError":4.4,
-        "link":"https:\/\/www.usatoday.com\/story\/news\/politics\/elections\/2024\/09\/16\/harris-trump-pennsylvania-poll\/75236006007\/",
-        "spread_winner":"Harris",
-        "spread_value":3.0,
-        "trump_value":"46",
-        "harris_value":"49",
-        "name":"2024 Pennsylvania: Trump vs. Harris",
-        "slug":"pennsylvania",
-        "polling_start_date":"2024-09-11",
-        "polling_end_date":"2024-09-14"
-    },
-    {
         "id":"147226",
         "type":"poll_rcp_avg",
         "pollster":"InsiderAdvantage",
@@ -32,6 +15,23 @@
         "slug":"pennsylvania",
         "polling_start_date":"2024-09-14",
         "polling_end_date":"2024-09-15"
+    },
+    {
+        "id":"147225",
+        "type":"poll_rcp_avg",
+        "pollster":"USA Today\/Suffolk*",
+        "date":"9\/11 - 9\/14",
+        "sampleSize":"500 LV",
+        "marginError":4.4,
+        "link":"https:\/\/www.usatoday.com\/story\/news\/politics\/elections\/2024\/09\/16\/harris-trump-pennsylvania-poll\/75236006007\/",
+        "spread_winner":"Harris",
+        "spread_value":3.0,
+        "trump_value":"46",
+        "harris_value":"49",
+        "name":"2024 Pennsylvania: Trump vs. Harris",
+        "slug":"pennsylvania",
+        "polling_start_date":"2024-09-11",
+        "polling_end_date":"2024-09-14"
     },
     {
         "id":"147066",
