@@ -1,5 +1,22 @@
 [
     {
+        "id":"147293",
+        "type":"poll_rcp_avg",
+        "pollster":"Quinnipiac",
+        "date":"9\/12 - 9\/16",
+        "sampleSize":"905 LV",
+        "marginError":3.3,
+        "link":"https:\/\/poll.qu.edu\/images\/polling\/mi\/mi09182024_swmf64.pdf",
+        "spread_winner":"Harris",
+        "spread_value":5.0,
+        "harris_value":"51",
+        "trump_value":"46",
+        "name":"2024 Michigan: Trump vs. Harris",
+        "slug":"michigan",
+        "polling_start_date":"2024-09-12",
+        "polling_end_date":"2024-09-16"
+    },
+    {
         "id":"147126",
         "type":"poll_rcp_avg",
         "pollster":"InsiderAdvantage",
@@ -103,7 +120,7 @@
     },
     {
         "id":"146893",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Bloomberg",
         "date":"8\/23 - 8\/26",
         "sampleSize":"702 RV",

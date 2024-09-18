@@ -1,4 +1,6 @@
 id,type,pollster,date,sampleSize,marginError,link,spread_winner,spread_value,harris_value,trump_value,name,slug,polling_start_date,polling_end_date
+147302,poll_rcp_avg,Fabrizio/Anzalone,9/11 - 9/14,600 LV,4.0,https://www.aarp.org/content/dam/aarp/research/topics/voter-opinion-research/politics/wisconsin-older-voter-survey-september-2024.doi.10.26419-2fres.00813.036.pdf,Harris,1.0,49,48,2024 Wisconsin: Trump vs. Harris,wisconsin,2024-09-11,2024-09-14
+147296,poll_rcp_avg,Quinnipiac,9/12 - 9/16,1075 LV,3.0,https://poll.qu.edu/images/polling/mi/mi09182024_swmf64.pdf,Harris,1.0,49,48,2024 Wisconsin: Trump vs. Harris,wisconsin,2024-09-12,2024-09-16
 147164,poll_rcp_avg,InsiderAdvantage,9/11 - 9/12,800 LV,3.5,https://insideradvantage.com/wisconsin-survey-harris-leads-by-two-points-senior-voters-are-issue-for-trump-see-story-below-chart/,Harris,2.0,49,47,2024 Wisconsin: Trump vs. Harris,wisconsin,2024-09-11,2024-09-12
 147121,poll_rcp_avg,Marquette,8/28 - 9/5,738 LV,4.7,https://law.marquette.edu/poll/wp-content/uploads/2024/09/MLSP81ToplinesLV.html,Harris,4.0,52,48,2024 Wisconsin: Trump vs. Harris,wisconsin,2024-08-28,2024-09-05
 147068,poll_rcp_avg,CBS News,9/3 - 9/6,958 LV,4.0,https://www.cbsnews.com/news/harris-trump-poll-pennsylvania-michigan-wisconsin-debate/,Harris,2.0,51,49,2024 Wisconsin: Trump vs. Harris,wisconsin,2024-09-03,2024-09-06
