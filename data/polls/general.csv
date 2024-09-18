@@ -1,4 +1,5 @@
 id,type,pollster,date,sampleSize,marginError,link,spread_winner,spread_value,harris_value,trump_value,name,slug,polling_start_date,polling_end_date
+147327,poll_rcp_avg,FOX News,9/13 - 9/16,1102 RV,3.0,https://www.foxnews.com/official-polls/fox-news-poll-harris-tops-trump-two-points,Harris,2.0,50,48,2024 General Election: Trump vs Harris,general,2024-09-13,2024-09-16
 147170,poll_rcp_avg,ABC News/Ipsos,9/11 - 9/13,2772 RV,2.0,https://abcnews.go.com/Politics/harris-debate-winner-maintaining-slight-lead-trump-poll/story?id=113673862,Harris,4.0,51,47,2024 General Election: Trump vs Harris,general,2024-09-11,2024-09-13
 147167,poll_rcp_avg,Atlas Intel,9/11 - 9/12,1775 LV,2.0,https://www.realclearpolitics.com/docs/2024/atlas_poll_us_elections_september_2024.pdf,Trump,3.0,48,51,2024 General Election: Trump vs Harris,general,2024-09-11,2024-09-12
 147162,poll_rcp_avg,Yahoo News,9/11 - 9/13,1090 LV,0.0,https://www.yahoo.com/news/new-yahoo-newsyougov-poll-after-debate-harris-surges-to-5-point-lead-over-trump-among-registered-voters-in-head-to-head-matchup-122213811.html,Harris,4.0,50,46,2024 General Election: Trump vs Harris,general,2024-09-11,2024-09-13
