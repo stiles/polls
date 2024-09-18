@@ -2921,6 +2921,23 @@
     ],
     "georgia": [
         {
+            "id": "147265",
+            "type": "poll_rcp_avg",
+            "pollster": "Atlanta Journal-Constitution",
+            "date": "9/9 - 9/15",
+            "sampleSize": "1000 LV",
+            "marginError": 3.1,
+            "link": "https://www.ajc.com/politics/ajc-poll-finds-kamala-harris-and-donald-trump-are-locked-in-a-tight-race-in-georgia/C5CQ6742V5AHVIDUVQ77LQ7YMY/",
+            "spread_winner": "Trump",
+            "spread_value": 3.0,
+            "trump_value": "47",
+            "harris_value": "44",
+            "name": "2024 Georgia: Trump vs. Harris",
+            "slug": "georgia",
+            "polling_start_date": "2024-09-09",
+            "polling_end_date": "2024-09-15"
+        },
+        {
             "id": "147227",
             "type": "poll_rcp_avg",
             "pollster": "Trafalgar Group (R)",
@@ -4426,7 +4443,7 @@
         },
         {
             "id": "146895",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Bloomberg",
             "date": "8/23 - 8/26",
             "sampleSize": "450 RV",
