@@ -1,5 +1,22 @@
 [
     {
+        "id":"147268",
+        "type":"poll_rcp_avg",
+        "pollster":"Economist\/YouGov",
+        "date":"9\/15 - 9\/17",
+        "sampleSize":"1445 RV",
+        "marginError":3.2,
+        "link":"https:\/\/d3nkl3psvxxpe9.cloudfront.net\/documents\/econTabReport_dUFR0mV.pdf",
+        "spread_winner":"Democrats",
+        "spread_value":4.0,
+        "democrats_value":"47",
+        "republicans_value":"43",
+        "name":"2024 Generic Congressional Vote",
+        "slug":"congress_generic",
+        "polling_start_date":"2024-09-15",
+        "polling_end_date":"2024-09-17"
+    },
+    {
         "id":"147247",
         "type":"poll_rcp_avg",
         "pollster":"Monmouth",
@@ -69,7 +86,7 @@
     },
     {
         "id":"147106",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Economist\/YouGov",
         "date":"9\/8 - 9\/10",
         "sampleSize":"1464 RV",
