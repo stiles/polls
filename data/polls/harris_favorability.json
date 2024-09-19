@@ -51,6 +51,23 @@
         "polling_end_date":"2024-09-15"
     },
     {
+        "id":"147356",
+        "type":"poll_rcp_avg",
+        "pollster":"NY Times\/Siena",
+        "date":"9\/11 - 9\/16",
+        "sampleSize":"2437 LV",
+        "marginError":0.0,
+        "link":"https:\/\/www.nytimes.com\/interactive\/2024\/09\/19\/us\/elections\/times-siena-poll-likely-electorate-crosstabs.html",
+        "spread_winner":"Unfavorable",
+        "spread_value":1.0,
+        "favorable_value":"48",
+        "unfavorable_value":"49",
+        "name":"Kamala Harris Favorability",
+        "slug":"harris_favorability",
+        "polling_start_date":"2024-09-11",
+        "polling_end_date":"2024-09-16"
+    },
+    {
         "id":"147243",
         "type":"poll_rcp_avg",
         "pollster":"Monmouth",
@@ -222,7 +239,7 @@
     },
     {
         "id":"147063",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"NY Times\/Siena",
         "date":"9\/3 - 9\/6",
         "sampleSize":"1695 LV",

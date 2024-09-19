@@ -3,7 +3,7 @@
         "id":"147319",
         "type":"poll_rcp_avg",
         "pollster":"The Hill\/Emerson",
-        "date":"9\/16 - 9\/17",
+        "date":"9\/15 - 9\/18",
         "sampleSize":"875 LV",
         "marginError":3.2,
         "link":"https:\/\/emersoncollegepolling.com\/september-2024-swing-state-polls-trump-and-harris-locked-in-tight-presidential-race\/",
@@ -13,8 +13,8 @@
         "trump_value":"47",
         "name":"2024 Michigan: Trump vs. Harris",
         "slug":"michigan",
-        "polling_start_date":"2024-09-16",
-        "polling_end_date":"2024-09-17"
+        "polling_start_date":"2024-09-15",
+        "polling_end_date":"2024-09-18"
     },
     {
         "id":"147341",

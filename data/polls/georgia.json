@@ -3,7 +3,7 @@
         "id":"147318",
         "type":"poll_rcp_avg",
         "pollster":"The Hill\/Emerson",
-        "date":"9\/16 - 9\/17",
+        "date":"9\/15 - 9\/18",
         "sampleSize":"975 LV",
         "marginError":3.1,
         "link":"https:\/\/emersoncollegepolling.com\/september-2024-swing-state-polls-trump-and-harris-locked-in-tight-presidential-race\/",
@@ -13,8 +13,8 @@
         "harris_value":"47",
         "name":"2024 Georgia: Trump vs. Harris",
         "slug":"georgia",
-        "polling_start_date":"2024-09-16",
-        "polling_end_date":"2024-09-17"
+        "polling_start_date":"2024-09-15",
+        "polling_end_date":"2024-09-18"
     },
     {
         "id":"147265",

@@ -706,8 +706,8 @@
         "type":"rcp_average",
         "spread_winner":"Harris",
         "spread_value":1.9,
-        "trump_value":47.3,
-        "harris_value":49.2,
+        "trump_value":47.4,
+        "harris_value":49.3,
         "fetch_date":"2024-09-19"
     }
 ]

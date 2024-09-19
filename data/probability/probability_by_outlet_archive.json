@@ -1,11 +1,11 @@
 [
     {
-        "harris":48.0,
-        "trump":52.0,
+        "harris":49.0,
+        "trump":51.0,
         "source":"Nate Silver",
-        "date":"2024-09-18",
+        "date":"2024-09-19",
         "ahead":"Trump",
-        "ahead_value":52.0,
+        "ahead_value":51.0,
         "fetched":"2024-09-19"
     },
     {
@@ -27,12 +27,12 @@
         "fetched":"2024-09-19"
     },
     {
-        "harris":56.0,
-        "trump":44.0,
+        "harris":55.0,
+        "trump":45.0,
         "source":"The Hill",
         "date":"2024-09-18",
         "ahead":"Harris",
-        "ahead_value":56.0,
+        "ahead_value":55.0,
         "fetched":"2024-09-19"
     },
     {

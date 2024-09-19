@@ -1,9 +1,9 @@
 [
     {
         "source":"Nate Silver",
-        "harris":48.0,
-        "trump":52.0,
-        "date":"2024-09-18",
+        "harris":49.0,
+        "trump":51.0,
+        "date":"2024-09-19",
         "fetched":"2024-09-19"
     },
     {
@@ -22,8 +22,8 @@
     },
     {
         "source":"The Hill",
-        "harris":56.0,
-        "trump":44.0,
+        "harris":55.0,
+        "trump":45.0,
         "date":"2024-09-18",
         "fetched":"2024-09-19"
     }

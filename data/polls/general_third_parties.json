@@ -1,5 +1,26 @@
 [
     {
+        "id":"147334",
+        "type":"poll_rcp_avg",
+        "pollster":"NY Times\/Siena",
+        "date":"9\/11 - 9\/16",
+        "sampleSize":"2437 LV",
+        "marginError":0.0,
+        "link":"https:\/\/www.nytimes.com\/interactive\/2024\/09\/19\/us\/elections\/times-siena-poll-likely-electorate-crosstabs.html",
+        "spread_winner":"Tie",
+        "spread_value":0.0,
+        "harris_value":"46",
+        "trump_value":"46",
+        "west_value":"0",
+        "oliver_value":"2",
+        "stein_value":"2",
+        "kennedy_value":"",
+        "name":"General Election: Trump vs. Harris vs. Kennedy vs. West vs. Stein",
+        "slug":"general_third_parties",
+        "polling_start_date":"2024-09-11",
+        "polling_end_date":"2024-09-16"
+    },
+    {
         "id":"147267",
         "type":"poll_rcp_avg",
         "pollster":"Economist\/YouGov",
@@ -19,6 +40,27 @@
         "slug":"general_third_parties",
         "polling_start_date":"2024-09-15",
         "polling_end_date":"2024-09-17"
+    },
+    {
+        "id":"147361",
+        "type":"poll_rcp_avg",
+        "pollster":"GWU\/HarrisX",
+        "date":"9\/14 - 9\/16",
+        "sampleSize":"1505 RV",
+        "marginError":2.5,
+        "link":"https:\/\/elections.harrisx.com\/public\/GW_Society_of_Presidential_Pollsters_2024.html",
+        "spread_winner":"Harris",
+        "spread_value":5.0,
+        "harris_value":"50",
+        "trump_value":"45",
+        "west_value":"3",
+        "oliver_value":"",
+        "stein_value":"2",
+        "kennedy_value":"",
+        "name":"General Election: Trump vs. Harris vs. Kennedy vs. West vs. Stein",
+        "slug":"general_third_parties",
+        "polling_start_date":"2024-09-14",
+        "polling_end_date":"2024-09-16"
     },
     {
         "id":"147171",
@@ -64,7 +106,7 @@
     },
     {
         "id":"147250",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Forbes\/HarrisX",
         "date":"9\/11 - 9\/13",
         "sampleSize":"3018 RV",
@@ -148,7 +190,7 @@
     },
     {
         "id":"147060",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"NY Times\/Siena",
         "date":"9\/3 - 9\/6",
         "sampleSize":"1695 LV",
