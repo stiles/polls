@@ -6,6 +6,42 @@
         "date":"2024-09-18",
         "ahead":"Trump",
         "ahead_value":52.0,
+        "fetched":"2024-09-19"
+    },
+    {
+        "harris":64.0,
+        "trump":36.0,
+        "source":"FiveThirtyEight",
+        "date":"2024-09-19",
+        "ahead":"Harris",
+        "ahead_value":64.0,
+        "fetched":"2024-09-19"
+    },
+    {
+        "harris":56.0,
+        "trump":43.0,
+        "source":"Economist",
+        "date":"2024-09-18",
+        "ahead":"Harris",
+        "ahead_value":56.0,
+        "fetched":"2024-09-19"
+    },
+    {
+        "harris":56.0,
+        "trump":44.0,
+        "source":"The Hill",
+        "date":"2024-09-18",
+        "ahead":"Harris",
+        "ahead_value":56.0,
+        "fetched":"2024-09-19"
+    },
+    {
+        "harris":48.0,
+        "trump":52.0,
+        "source":"Nate Silver",
+        "date":"2024-09-18",
+        "ahead":"Trump",
+        "ahead_value":52.0,
         "fetched":"2024-09-18"
     },
     {

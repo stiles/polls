@@ -1,21 +1,21 @@
 [
     {
-        "date":"2024-09-18",
+        "date":"2024-09-19",
         "harris":48.9,
         "trump":46.5,
         "source":"Cook Report",
         "winning":"D +2.4",
         "winning_margin":2.4,
-        "fetched_date":"2024-09-18"
+        "fetched_date":"2024-09-19"
     },
     {
-        "date":"2024-09-18",
+        "date":"2024-09-19",
         "harris":49.4,
         "trump":47.4,
         "source":"RealClearPolitics",
         "winning":"D +2.0",
         "winning_margin":2.0,
-        "fetched_date":"2024-09-18"
+        "fetched_date":"2024-09-19"
     },
     {
         "date":"2024-09-18",
@@ -24,7 +24,7 @@
         "source":"FiveThirtyEight",
         "winning":"D +3.3",
         "winning_margin":3.3,
-        "fetched_date":"2024-09-18"
+        "fetched_date":"2024-09-19"
     },
     {
         "date":"2024-09-18",
@@ -33,7 +33,7 @@
         "source":"Nate Silver",
         "winning":"D +3.1",
         "winning_margin":3.1,
-        "fetched_date":"2024-09-18"
+        "fetched_date":"2024-09-19"
     },
     {
         "date":"2024-09-18",
@@ -42,7 +42,7 @@
         "source":"270toWin",
         "winning":"D +3.0",
         "winning_margin":3.0,
-        "fetched_date":"2024-09-18"
+        "fetched_date":"2024-09-19"
     },
     {
         "date":"2024-09-16",
@@ -51,24 +51,24 @@
         "source":"Economist",
         "winning":"D +4.5",
         "winning_margin":4.5,
-        "fetched_date":"2024-09-18"
+        "fetched_date":"2024-09-19"
     },
     {
         "date":"2024-09-19",
         "harris":50.0,
-        "trump":46.0,
+        "trump":47.0,
         "source":"New York Times",
-        "winning":"D +4.0",
-        "winning_margin":4.0,
-        "fetched_date":"2024-09-18"
+        "winning":"D +3.0",
+        "winning_margin":3.0,
+        "fetched_date":"2024-09-19"
     },
     {
-        "date":"2024-09-18",
+        "date":"2024-09-19",
         "harris":49.7,
         "trump":46.1,
         "source":"The Hill",
         "winning":"D +3.6",
         "winning_margin":3.6,
-        "fetched_date":"2024-09-18"
+        "fetched_date":"2024-09-19"
     }
 ]
