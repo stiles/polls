@@ -3,17 +3,17 @@
         "id":"8303",
         "type":"rcp_average",
         "pollster":"rcp_average",
-        "date":"8\/23 - 9\/16",
+        "date":"8\/23 - 9\/17",
         "sampleSize":"",
         "marginError":0.0,
         "link":null,
         "spread_winner":"Harris",
-        "spread_value":0.6,
-        "harris_value":"48.3",
+        "spread_value":0.7,
+        "harris_value":"48.4",
         "trump_value":"47.7",
         "name":"2024 Pennsylvania: Trump vs. Harris",
         "slug":"pennsylvania",
         "polling_start_date":"2024-08-23",
-        "polling_end_date":"2024-09-16"
+        "polling_end_date":"2024-09-17"
     }
 ]

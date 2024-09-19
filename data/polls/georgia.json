@@ -1,5 +1,22 @@
 [
     {
+        "id":"147318",
+        "type":"poll_rcp_avg",
+        "pollster":"The Hill\/Emerson",
+        "date":"9\/16 - 9\/17",
+        "sampleSize":"975 LV",
+        "marginError":3.1,
+        "link":"https:\/\/emersoncollegepolling.com\/september-2024-swing-state-polls-trump-and-harris-locked-in-tight-presidential-race\/",
+        "spread_winner":"Trump",
+        "spread_value":3.0,
+        "trump_value":"50",
+        "harris_value":"47",
+        "name":"2024 Georgia: Trump vs. Harris",
+        "slug":"georgia",
+        "polling_start_date":"2024-09-16",
+        "polling_end_date":"2024-09-17"
+    },
+    {
         "id":"147265",
         "type":"poll_rcp_avg",
         "pollster":"Atlanta Journal-Constitution",
@@ -69,7 +86,7 @@
     },
     {
         "id":"146850",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"The Hill\/Emerson",
         "date":"8\/25 - 8\/28",
         "sampleSize":"800 LV",
@@ -86,7 +103,7 @@
     },
     {
         "id":"146891",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Bloomberg",
         "date":"8\/23 - 8\/26",
         "sampleSize":"801 RV",

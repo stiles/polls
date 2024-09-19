@@ -1,5 +1,22 @@
 [
     {
+        "id":"147316",
+        "type":"poll_rcp_avg",
+        "pollster":"The Hill\/Emerson",
+        "date":"9\/16 - 9\/17",
+        "sampleSize":"868 LV",
+        "marginError":3.3,
+        "link":"https:\/\/emersoncollegepolling.com\/september-2024-swing-state-polls-trump-and-harris-locked-in-tight-presidential-race\/",
+        "spread_winner":"Trump",
+        "spread_value":1.0,
+        "trump_value":"49",
+        "harris_value":"48",
+        "name":"2024 Arizona: Trump vs. Harris",
+        "slug":"arizona",
+        "polling_start_date":"2024-09-16",
+        "polling_end_date":"2024-09-17"
+    },
+    {
         "id":"147165",
         "type":"poll_rcp_avg",
         "pollster":"Trafalgar Group (R)",
@@ -52,7 +69,7 @@
     },
     {
         "id":"146848",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"The Hill\/Emerson",
         "date":"8\/25 - 8\/28",
         "sampleSize":"720 LV",
@@ -86,7 +103,7 @@
     },
     {
         "id":"146889",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Bloomberg",
         "date":"8\/23 - 8\/27",
         "sampleSize":"805 RV",
@@ -103,7 +120,7 @@
     },
     {
         "id":"146837",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"FOX News",
         "date":"8\/23 - 8\/26",
         "sampleSize":"1014 RV",

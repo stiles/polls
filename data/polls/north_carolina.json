@@ -1,5 +1,39 @@
 [
     {
+        "id":"147322",
+        "type":"poll_rcp_avg",
+        "pollster":"The Hill\/Emerson",
+        "date":"9\/16 - 9\/17",
+        "sampleSize":"1000 LV",
+        "marginError":3.0,
+        "link":"https:\/\/emersoncollegepolling.com\/september-2024-swing-state-polls-trump-and-harris-locked-in-tight-presidential-race\/",
+        "spread_winner":"Harris",
+        "spread_value":1.0,
+        "trump_value":"48",
+        "harris_value":"49",
+        "name":"2024 North Carolina: Trump vs. Harris",
+        "slug":"north_carolina",
+        "polling_start_date":"2024-09-16",
+        "polling_end_date":"2024-09-17"
+    },
+    {
+        "id":"147342",
+        "type":"poll_rcp_avg",
+        "pollster":"Carolina Journal\/Cygnal*",
+        "date":"9\/15 - 9\/16",
+        "sampleSize":"600 LV",
+        "marginError":4.0,
+        "link":"https:\/\/mcusercontent.com\/259a50ef0a1608ab2bc2cf891\/files\/d0332663-4f51-92dd-27d6-20dc9d457fd4\/22402_CJ_NC_Sept_039_24_Toplines.pdf?utm_source=Press+List&amp;utm_campaign=a6b26c6fc6-September+2024+Carolina+Journal+Poll&amp;utm_medium=email&amp;utm_term=0_b874deb832-a6b26c6fc6-430494196&amp;mc_cid=a6b26c6fc6&amp;mc_eid=c6d0b5d65e",
+        "spread_winner":"Trump",
+        "spread_value":1.0,
+        "trump_value":"46",
+        "harris_value":"45",
+        "name":"2024 North Carolina: Trump vs. Harris",
+        "slug":"north_carolina",
+        "polling_start_date":"2024-09-15",
+        "polling_end_date":"2024-09-16"
+    },
+    {
         "id":"147157",
         "type":"poll_rcp_avg",
         "pollster":"AmGreatness\/TIPP",
@@ -103,7 +137,7 @@
     },
     {
         "id":"146855",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"The Hill\/Emerson",
         "date":"8\/25 - 8\/28",
         "sampleSize":"775 LV",
@@ -120,7 +154,7 @@
     },
     {
         "id":"146845",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"FOX News",
         "date":"8\/23 - 8\/26",
         "sampleSize":"999 RV",

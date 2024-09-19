@@ -1,5 +1,22 @@
 [
     {
+        "id":"147333",
+        "type":"poll_rcp_avg",
+        "pollster":"NY Times\/Siena",
+        "date":"9\/11 - 9\/16",
+        "sampleSize":"2437 LV",
+        "marginError":0.0,
+        "link":"https:\/\/www.nytimes.com\/interactive\/2024\/09\/19\/us\/elections\/times-siena-poll-likely-electorate-crosstabs.html",
+        "spread_winner":"Tie",
+        "spread_value":0.0,
+        "harris_value":"47",
+        "trump_value":"47",
+        "name":"2024 General Election: Trump vs Harris",
+        "slug":"general",
+        "polling_start_date":"2024-09-11",
+        "polling_end_date":"2024-09-16"
+    },
+    {
         "id":"147327",
         "type":"poll_rcp_avg",
         "pollster":"FOX News",

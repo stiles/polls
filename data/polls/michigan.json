@@ -1,5 +1,39 @@
 [
     {
+        "id":"147319",
+        "type":"poll_rcp_avg",
+        "pollster":"The Hill\/Emerson",
+        "date":"9\/16 - 9\/17",
+        "sampleSize":"875 LV",
+        "marginError":3.2,
+        "link":"https:\/\/emersoncollegepolling.com\/september-2024-swing-state-polls-trump-and-harris-locked-in-tight-presidential-race\/",
+        "spread_winner":"Harris",
+        "spread_value":2.0,
+        "harris_value":"49",
+        "trump_value":"47",
+        "name":"2024 Michigan: Trump vs. Harris",
+        "slug":"michigan",
+        "polling_start_date":"2024-09-16",
+        "polling_end_date":"2024-09-17"
+    },
+    {
+        "id":"147341",
+        "type":"poll_rcp_avg",
+        "pollster":"Marist",
+        "date":"9\/12 - 9\/17",
+        "sampleSize":"1138 LV",
+        "marginError":3.4,
+        "link":"https:\/\/maristpoll.marist.edu\/polls\/u-s-presidential-contest-in-michigan-september-2024\/",
+        "spread_winner":"Harris",
+        "spread_value":5.0,
+        "harris_value":"52",
+        "trump_value":"47",
+        "name":"2024 Michigan: Trump vs. Harris",
+        "slug":"michigan",
+        "polling_start_date":"2024-09-12",
+        "polling_end_date":"2024-09-17"
+    },
+    {
         "id":"147293",
         "type":"poll_rcp_avg",
         "pollster":"Quinnipiac",
@@ -86,7 +120,7 @@
     },
     {
         "id":"146851",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"The Hill\/Emerson",
         "date":"8\/25 - 8\/28",
         "sampleSize":"800 LV",
@@ -103,7 +137,7 @@
     },
     {
         "id":"146903",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"EPIC-MRA",
         "date":"8\/23 - 8\/26",
         "sampleSize":"600 LV",
