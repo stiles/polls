@@ -3,8 +3,8 @@ name: fetch_polls
 on:
   workflow_dispatch:
   schedule:
-    - cron: '5 */4 * * *' 
-    # Every four hours minute 5
+    - cron: '5 */2 * * *' 
+    # Every two hours minute 5
 
 jobs:
   build:
