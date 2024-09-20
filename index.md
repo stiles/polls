@@ -54,7 +54,7 @@ The latest forecasts for the 2024 presidential election based on models develope
 | Place | Favored / Chance | Source |
 |-------|---------------------|--------|
 | US | <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>Trump - 51%</span> | [Nate Silver](https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model) |
-| US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>Harris - 64%</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/2024-election-forecast) |
+| US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>Harris - 60%</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/2024-election-forecast) |
 | US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>Harris - 59%</span> | [Economist](https://www.economist.com/interactive/us-2024-election/prediction-model/president/) |
 | US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>Harris - 55%</span> | [The Hill](https://elections2024.thehill.com/forecast/2024/president/) |
 
@@ -65,13 +65,13 @@ The latest forecasts for the 2024 presidential election based on models develope
 | Place | Margin | Source |
 |-------|--------|--------|
 | Arizona | <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>R +0.5</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/arizona/polling-average.json) |
-| Georgia | <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>R +0.9</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/georgia/polling-average.json) |
-| Michigan | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +2.4</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/michigan/polling-average.json) |
-| Minnesota | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +6.3</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/minnesota/polling-average.json) |
-| Nevada | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +0.5</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/nevada/polling-average.json) |
-| North Carolina | <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>R +0.2</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/north-carolina/polling-average.json) |
+| Georgia | <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>R +1.0</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/georgia/polling-average.json) |
+| Michigan | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +2.8</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/michigan/polling-average.json) |
+| Minnesota | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +6.2</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/minnesota/polling-average.json) |
+| Nevada | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +0.8</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/nevada/polling-average.json) |
+| North Carolina | <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>R +0.1</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/north-carolina/polling-average.json) |
 | Pennsylvania | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +1.4</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/pennsylvania/polling-average.json) |
-| Wisconsin | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +1.7</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/wisconsin/polling-average.json) |
+| Wisconsin | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +1.8</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/wisconsin/polling-average.json) |
 
 
 **Data:** [Latest](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/state_averages_latest.json), [trend](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/state_averages_trend.json)
@@ -86,13 +86,13 @@ The latest forecasts for the 2024 presidential election based on models develope
 | US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +2.9</span> |[FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/national/) 
 | US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +2.7</span> |[Nate Silver](https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model) 
 | US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +2.9</span> |[270toWin](https://www.270towin.com/2024-presidential-election-polls/) 
-| US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +4.5</span> |[Economist](https://www.economist.com/interactive/us-2024-election/trump-harris-polls) 
+| US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +4.3</span> |[Economist](https://www.economist.com/interactive/us-2024-election/trump-harris-polls) 
 | US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +2.0</span> |[New York Times](https://www.nytimes.com/interactive/2024/us/elections/polls-president.html) 
-| US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +3.7</span> |[The Hill](https://elections2024.thehill.com/national/harris-trump-general/) 
+| US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +3.6</span> |[The Hill](https://elections2024.thehill.com/national/harris-trump-general/) 
 
 
  **Data:** [Latest](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/averages_latest.json), [trend](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/averages_trend.json) 
 
  **About this page:** [Github repo](https://github.com/stiles/polls) 
 
- **Last update:** *4 p.m. ET, September 19*.
+ **Last update:** *8 p.m. ET, September 19*.

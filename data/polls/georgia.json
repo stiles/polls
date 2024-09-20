@@ -17,6 +17,23 @@
         "polling_end_date":"2024-09-18"
     },
     {
+        "id":"147391",
+        "type":"poll_rcp_avg",
+        "pollster":"AmGreatness\/TIPP",
+        "date":"9\/16 - 9\/18",
+        "sampleSize":"835 LV",
+        "marginError":3.5,
+        "link":"https:\/\/amgreatness.com\/2024\/09\/19\/georgia-presidential-race-a-dead-heat-voters-doubt-authenticity-of-harris-media\/",
+        "spread_winner":"Tie",
+        "spread_value":0.0,
+        "trump_value":"48",
+        "harris_value":"48",
+        "name":"2024 Georgia: Trump vs. Harris",
+        "slug":"georgia",
+        "polling_start_date":"2024-09-16",
+        "polling_end_date":"2024-09-18"
+    },
+    {
         "id":"147265",
         "type":"poll_rcp_avg",
         "pollster":"Atlanta Journal-Constitution",
