@@ -1,10 +1,10 @@
 [
     {
-        "harris":49.0,
-        "trump":51.0,
+        "harris":51.0,
+        "trump":49.0,
         "source":"Nate Silver",
-        "date":"2024-09-19",
-        "ahead":"Trump",
+        "date":"2024-09-20",
+        "ahead":"Harris",
         "ahead_value":51.0,
         "fetched":"2024-09-20"
     },
