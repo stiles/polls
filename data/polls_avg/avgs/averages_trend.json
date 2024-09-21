@@ -6,6 +6,78 @@
         "source":"Cook Report",
         "winning":"D +2.2",
         "winning_margin":2.2,
+        "fetched_date":"2024-09-21"
+    },
+    {
+        "date":"2024-09-21",
+        "harris":49.3,
+        "trump":47.4,
+        "source":"RealClearPolitics",
+        "winning":"D +1.9",
+        "winning_margin":1.9,
+        "fetched_date":"2024-09-21"
+    },
+    {
+        "date":"2024-09-20",
+        "harris":48.4,
+        "trump":45.6,
+        "source":"FiveThirtyEight",
+        "winning":"D +2.8",
+        "winning_margin":2.8,
+        "fetched_date":"2024-09-21"
+    },
+    {
+        "date":"2024-09-20",
+        "harris":48.9,
+        "trump":46.1,
+        "source":"Nate Silver",
+        "winning":"D +2.8",
+        "winning_margin":2.8,
+        "fetched_date":"2024-09-21"
+    },
+    {
+        "date":"2024-09-20",
+        "harris":48.58,
+        "trump":45.83,
+        "source":"270toWin",
+        "winning":"D +2.8",
+        "winning_margin":2.8,
+        "fetched_date":"2024-09-21"
+    },
+    {
+        "date":"2024-09-19",
+        "harris":50.0,
+        "trump":46.0,
+        "source":"Economist",
+        "winning":"D +4.0",
+        "winning_margin":4.0,
+        "fetched_date":"2024-09-21"
+    },
+    {
+        "date":"2024-09-21",
+        "harris":49.0,
+        "trump":47.0,
+        "source":"New York Times",
+        "winning":"D +2.0",
+        "winning_margin":2.0,
+        "fetched_date":"2024-09-21"
+    },
+    {
+        "date":"2024-09-21",
+        "harris":50.1,
+        "trump":46.5,
+        "source":"The Hill",
+        "winning":"D +3.6",
+        "winning_margin":3.6,
+        "fetched_date":"2024-09-21"
+    },
+    {
+        "date":"2024-09-20",
+        "harris":48.9,
+        "trump":46.7,
+        "source":"Cook Report",
+        "winning":"D +2.2",
+        "winning_margin":2.2,
         "fetched_date":"2024-09-20"
     },
     {
