@@ -137,8 +137,8 @@
     },
     {
         "id":"147248",
-        "type":"poll",
-        "pollster":"co\/efficient**",
+        "type":"poll_rcp_avg",
+        "pollster":"co\/efficient",
         "date":"9\/4 - 9\/6",
         "sampleSize":"889 LV",
         "marginError":3.3,

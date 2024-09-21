@@ -85,6 +85,23 @@
         "polling_end_date":"2024-09-12"
     },
     {
+        "id":"147388",
+        "type":"poll_rcp_avg",
+        "pollster":"co\/efficient",
+        "date":"9\/4 - 9\/6",
+        "sampleSize":"917 LV",
+        "marginError":3.1,
+        "link":"https:\/\/www.realclearpolitics.com\/docs\/2024\/Coefficient_WI_2024.pdf",
+        "spread_winner":"Tie",
+        "spread_value":0.0,
+        "harris_value":"47",
+        "trump_value":"47",
+        "name":"2024 Wisconsin: Trump vs. Harris",
+        "slug":"wisconsin",
+        "polling_start_date":"2024-09-04",
+        "polling_end_date":"2024-09-06"
+    },
+    {
         "id":"147068",
         "type":"poll_rcp_avg",
         "pollster":"CBS News",
