@@ -17,6 +17,23 @@
         "polling_end_date":"2024-09-17"
     },
     {
+        "id":"147405",
+        "type":"poll_rcp_avg",
+        "pollster":"NBC News",
+        "date":"9\/13 - 9\/17",
+        "sampleSize":"1000 RV",
+        "marginError":3.1,
+        "link":"https:\/\/www.nbcnews.com\/politics\/2024-election\/poll-newly-popular-harris-challenging-trump-change-rcna171308",
+        "spread_winner":"Democrats",
+        "spread_value":2.0,
+        "democrats_value":"48",
+        "republicans_value":"46",
+        "name":"2024 Generic Congressional Vote",
+        "slug":"congress_generic",
+        "polling_start_date":"2024-09-13",
+        "polling_end_date":"2024-09-17"
+    },
+    {
         "id":"147247",
         "type":"poll_rcp_avg",
         "pollster":"Monmouth",
