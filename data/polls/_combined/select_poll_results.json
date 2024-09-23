@@ -4148,6 +4148,23 @@
             "polling_end_date": "2024-09-11"
         },
         {
+            "id": "147386",
+            "type": "poll",
+            "pollster": "co/efficient**",
+            "date": "9/4 - 9/6",
+            "sampleSize": "931 LV",
+            "marginError": 3.1,
+            "link": "https://www.realclearpolitics.com/docs/2024/Coefficient_MI_2024.pdf",
+            "spread_winner": "Tie",
+            "spread_value": 0.0,
+            "harris_value": "47",
+            "trump_value": "47",
+            "name": "2024 Michigan: Trump vs. Harris",
+            "slug": "michigan",
+            "polling_start_date": "2024-09-04",
+            "polling_end_date": "2024-09-06"
+        },
+        {
             "id": "147067",
             "type": "poll_rcp_avg",
             "pollster": "CBS News",
@@ -4163,6 +4180,23 @@
             "slug": "michigan",
             "polling_start_date": "2024-09-03",
             "polling_end_date": "2024-09-06"
+        },
+        {
+            "id": "147399",
+            "type": "poll",
+            "pollster": "Cygnal (R)",
+            "date": "8/28 - 9/1",
+            "sampleSize": "600 LV",
+            "marginError": 0.0,
+            "link": "https://www.cygn.al/michigan-statewide-poll-rogers-within-striking-distance-of-slotkin-as-republicans-gain-ground-across-the-state/",
+            "spread_winner": "Harris",
+            "spread_value": 1.0,
+            "harris_value": "47",
+            "trump_value": "46",
+            "name": "2024 Michigan: Trump vs. Harris",
+            "slug": "michigan",
+            "polling_start_date": "2024-08-28",
+            "polling_end_date": "2024-09-01"
         },
         {
             "id": "146923",
