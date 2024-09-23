@@ -1,5 +1,22 @@
 [
     {
+        "id":"147413",
+        "type":"poll_rcp_avg",
+        "pollster":"NY Times\/Siena",
+        "date":"9\/17 - 9\/21",
+        "sampleSize":"713 LV",
+        "marginError":0.0,
+        "link":"https:\/\/www.nytimes.com\/interactive\/2024\/09\/23\/us\/elections\/times-siena-arizona-crosstabs.html",
+        "spread_winner":"Trump",
+        "spread_value":5.0,
+        "trump_value":"50",
+        "harris_value":"45",
+        "name":"2024 Arizona: Trump vs. Harris",
+        "slug":"arizona",
+        "polling_start_date":"2024-09-17",
+        "polling_end_date":"2024-09-21"
+    },
+    {
         "id":"147316",
         "type":"poll_rcp_avg",
         "pollster":"The Hill\/Emerson",
