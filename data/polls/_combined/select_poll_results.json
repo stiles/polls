@@ -5225,23 +5225,6 @@
             "polling_end_date": "2024-08-30"
         },
         {
-            "id": "146848",
-            "type": "poll",
-            "pollster": "The Hill/Emerson",
-            "date": "8/25 - 8/28",
-            "sampleSize": "720 LV",
-            "marginError": 3.6,
-            "link": "https://emersoncollegepolling.com/august-2024-swing-state-polls-toss-up-presidential-election-in-swing-states/",
-            "spread_winner": "Trump",
-            "spread_value": 3.0,
-            "trump_value": "50",
-            "harris_value": "47",
-            "name": "2024 Arizona: Trump vs. Harris",
-            "slug": "arizona",
-            "polling_start_date": "2024-08-25",
-            "polling_end_date": "2024-08-28"
-        },
-        {
             "id": "146958",
             "type": "poll_rcp_avg",
             "pollster": "CNN*",
@@ -5257,6 +5240,23 @@
             "slug": "arizona",
             "polling_start_date": "2024-08-23",
             "polling_end_date": "2024-08-29"
+        },
+        {
+            "id": "146848",
+            "type": "poll",
+            "pollster": "The Hill/Emerson",
+            "date": "8/25 - 8/28",
+            "sampleSize": "720 LV",
+            "marginError": 3.6,
+            "link": "https://emersoncollegepolling.com/august-2024-swing-state-polls-toss-up-presidential-election-in-swing-states/",
+            "spread_winner": "Trump",
+            "spread_value": 3.0,
+            "trump_value": "50",
+            "harris_value": "47",
+            "name": "2024 Arizona: Trump vs. Harris",
+            "slug": "arizona",
+            "polling_start_date": "2024-08-25",
+            "polling_end_date": "2024-08-28"
         },
         {
             "id": "146889",
