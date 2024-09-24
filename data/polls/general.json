@@ -34,6 +34,23 @@
         "polling_end_date":"2024-09-20"
     },
     {
+        "id":"147438",
+        "type":"poll_rcp_avg",
+        "pollster":"Morning Consult",
+        "date":"9\/20 - 9\/22",
+        "sampleSize":"11057 LV",
+        "marginError":1.0,
+        "link":"https:\/\/www.realclearpolitics.com\/docs\/2024\/Morning_Consult_Sept_20-22_2024.pdf",
+        "spread_winner":"Harris",
+        "spread_value":5.0,
+        "harris_value":"50",
+        "trump_value":"45",
+        "name":"2024 General Election: Trump vs Harris",
+        "slug":"general",
+        "polling_start_date":"2024-09-20",
+        "polling_end_date":"2024-09-22"
+    },
+    {
         "id":"147362",
         "type":"poll_rcp_avg",
         "pollster":"Rasmussen Reports",
@@ -103,7 +120,7 @@
     },
     {
         "id":"147237",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Morning Consult",
         "date":"9\/13 - 9\/15",
         "sampleSize":"11022 LV",
@@ -324,7 +341,7 @@
     },
     {
         "id":"147041",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Harvard-Harris",
         "date":"9\/4 - 9\/5",
         "sampleSize":"2358 RV",

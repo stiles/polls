@@ -1,5 +1,22 @@
 [
     {
+        "id":"147433",
+        "type":"poll_rcp_avg",
+        "pollster":"Rasmussen Reports",
+        "date":"9\/19 - 9\/22",
+        "sampleSize":"1152 LV",
+        "marginError":3.0,
+        "link":"https:\/\/www.rasmussenreports.com\/public_content\/politics\/partner_surveys\/election_2024_trump_3_in_georgia_tied_with_harris_in_pennsylvania",
+        "spread_winner":"Trump",
+        "spread_value":3.0,
+        "trump_value":"50",
+        "harris_value":"47",
+        "name":"2024 Georgia: Trump vs. Harris",
+        "slug":"georgia",
+        "polling_start_date":"2024-09-19",
+        "polling_end_date":"2024-09-22"
+    },
+    {
         "id":"147416",
         "type":"poll_rcp_avg",
         "pollster":"NY Times\/Siena",

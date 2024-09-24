@@ -35,6 +35,23 @@
             "polling_end_date": "2024-09-20"
         },
         {
+            "id": "147438",
+            "type": "poll_rcp_avg",
+            "pollster": "Morning Consult",
+            "date": "9/20 - 9/22",
+            "sampleSize": "11057 LV",
+            "marginError": 1.0,
+            "link": "https://www.realclearpolitics.com/docs/2024/Morning_Consult_Sept_20-22_2024.pdf",
+            "spread_winner": "Harris",
+            "spread_value": 5.0,
+            "harris_value": "50",
+            "trump_value": "45",
+            "name": "2024 General Election: Trump vs Harris",
+            "slug": "general",
+            "polling_start_date": "2024-09-20",
+            "polling_end_date": "2024-09-22"
+        },
+        {
             "id": "147362",
             "type": "poll_rcp_avg",
             "pollster": "Rasmussen Reports",
@@ -104,7 +121,7 @@
         },
         {
             "id": "147237",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Morning Consult",
             "date": "9/13 - 9/15",
             "sampleSize": "11022 LV",
@@ -325,7 +342,7 @@
         },
         {
             "id": "147041",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Harvard-Harris",
             "date": "9/4 - 9/5",
             "sampleSize": "2358 RV",
@@ -3107,6 +3124,23 @@
     ],
     "georgia": [
         {
+            "id": "147433",
+            "type": "poll_rcp_avg",
+            "pollster": "Rasmussen Reports",
+            "date": "9/19 - 9/22",
+            "sampleSize": "1152 LV",
+            "marginError": 3.0,
+            "link": "https://www.rasmussenreports.com/public_content/politics/partner_surveys/election_2024_trump_3_in_georgia_tied_with_harris_in_pennsylvania",
+            "spread_winner": "Trump",
+            "spread_value": 3.0,
+            "trump_value": "50",
+            "harris_value": "47",
+            "name": "2024 Georgia: Trump vs. Harris",
+            "slug": "georgia",
+            "polling_start_date": "2024-09-19",
+            "polling_end_date": "2024-09-22"
+        },
+        {
             "id": "147416",
             "type": "poll_rcp_avg",
             "pollster": "NY Times/Siena",
@@ -3499,6 +3533,23 @@
         }
     ],
     "pennsylvania": [
+        {
+            "id": "147434",
+            "type": "poll_rcp_avg",
+            "pollster": "Rasmussen Reports",
+            "date": "9/19 - 9/22",
+            "sampleSize": "1202 LV",
+            "marginError": 3.0,
+            "link": "https://www.rasmussenreports.com/public_content/politics/partner_surveys/election_2024_trump_3_in_georgia_tied_with_harris_in_pennsylvania",
+            "spread_winner": "Tie",
+            "spread_value": 0.0,
+            "harris_value": "48",
+            "trump_value": "48",
+            "name": "2024 Pennsylvania: Trump vs. Harris",
+            "slug": "pennsylvania",
+            "polling_start_date": "2024-09-19",
+            "polling_end_date": "2024-09-22"
+        },
         {
             "id": "147323",
             "type": "poll_rcp_avg",
@@ -4062,6 +4113,23 @@
         }
     ],
     "michigan": [
+        {
+            "id": "147428",
+            "type": "poll_rcp_avg",
+            "pollster": "USA Today/Suffolk",
+            "date": "9/16 - 9/19",
+            "sampleSize": "500 LV",
+            "marginError": 4.4,
+            "link": "https://www.usatoday.com/story/news/politics/elections/2024/09/24/harris-trump-poll-michigan/75350001007/",
+            "spread_winner": "Harris",
+            "spread_value": 3.0,
+            "harris_value": "48",
+            "trump_value": "45",
+            "name": "2024 Michigan: Trump vs. Harris",
+            "slug": "michigan",
+            "polling_start_date": "2024-09-16",
+            "polling_end_date": "2024-09-19"
+        },
         {
             "id": "147319",
             "type": "poll_rcp_avg",
@@ -5568,7 +5636,7 @@
         },
         {
             "id": "147397",
-            "type": "poll",
+            "type": "poll_rcp_avg",
             "pollster": "Victory Insights",
             "date": "9/16 - 9/18",
             "sampleSize": "600 LV",
@@ -5652,6 +5720,23 @@
             "polling_end_date": "2024-09-12"
         },
         {
+            "id": "147436",
+            "type": "poll_rcp_avg",
+            "pollster": "Elon University",
+            "date": "9/4 - 9/13",
+            "sampleSize": "800 RV",
+            "marginError": 3.7,
+            "link": "https://eloncdn.blob.core.windows.net/eu3/sites/819/2024/09/Elon-Poll-Report-092424.pdf",
+            "spread_winner": "Harris",
+            "spread_value": 1.0,
+            "trump_value": "45",
+            "harris_value": "46",
+            "name": "2024 North Carolina: Trump vs. Harris",
+            "slug": "north_carolina",
+            "polling_start_date": "2024-09-04",
+            "polling_end_date": "2024-09-13"
+        },
+        {
             "id": "147081",
             "type": "poll_rcp_avg",
             "pollster": "Quinnipiac",
@@ -5704,7 +5789,7 @@
         },
         {
             "id": "146948",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "East Carolina U.*",
             "date": "8/26 - 8/28",
             "sampleSize": "920 LV",

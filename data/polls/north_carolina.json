@@ -18,7 +18,7 @@
     },
     {
         "id":"147397",
-        "type":"poll",
+        "type":"poll_rcp_avg",
         "pollster":"Victory Insights",
         "date":"9\/16 - 9\/18",
         "sampleSize":"600 LV",
@@ -102,6 +102,23 @@
         "polling_end_date":"2024-09-12"
     },
     {
+        "id":"147436",
+        "type":"poll_rcp_avg",
+        "pollster":"Elon University",
+        "date":"9\/4 - 9\/13",
+        "sampleSize":"800 RV",
+        "marginError":3.7,
+        "link":"https:\/\/eloncdn.blob.core.windows.net\/eu3\/sites\/819\/2024\/09\/Elon-Poll-Report-092424.pdf",
+        "spread_winner":"Harris",
+        "spread_value":1.0,
+        "trump_value":"45",
+        "harris_value":"46",
+        "name":"2024 North Carolina: Trump vs. Harris",
+        "slug":"north_carolina",
+        "polling_start_date":"2024-09-04",
+        "polling_end_date":"2024-09-13"
+    },
+    {
         "id":"147081",
         "type":"poll_rcp_avg",
         "pollster":"Quinnipiac",
@@ -154,7 +171,7 @@
     },
     {
         "id":"146948",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"East Carolina U.*",
         "date":"8\/26 - 8\/28",
         "sampleSize":"920 LV",
