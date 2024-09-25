@@ -4,9 +4,9 @@
         "date":"2024-09-25",
         "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/arizona\/polling-average.json",
         "harris":46.8,
-        "trump":47.8,
-        "winning":"R +1.0",
-        "winning_margin":1.0,
+        "trump":47.9,
+        "winning":"R +1.1",
+        "winning_margin":1.1,
         "state_abbr":"AZ",
         "source":"FiveThirtyEight"
     },
@@ -81,9 +81,9 @@
         "date":"2024-09-25",
         "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/wisconsin\/polling-average.json",
         "harris":48.6,
-        "trump":46.7,
-        "winning":"D +1.9",
-        "winning_margin":1.9,
+        "trump":46.6,
+        "winning":"D +2.0",
+        "winning_margin":2.0,
         "state_abbr":"WI",
         "source":"FiveThirtyEight"
     }

@@ -3,17 +3,17 @@
         "id":"8394",
         "type":"rcp_average",
         "pollster":"rcp_average",
-        "date":"8\/29 - 9\/21",
+        "date":"9\/4 - 9\/21",
         "sampleSize":"",
         "marginError":0.0,
         "link":null,
         "spread_winner":"Trump",
-        "spread_value":0.5,
-        "trump_value":"47.6",
-        "harris_value":"47.1",
+        "spread_value":0.7,
+        "trump_value":"47.7",
+        "harris_value":"47.0",
         "name":"2024 North Carolina: Trump vs. Harris",
         "slug":"north_carolina",
-        "polling_start_date":"2024-08-29",
+        "polling_start_date":"2024-09-04",
         "polling_end_date":"2024-09-21"
     }
 ]
