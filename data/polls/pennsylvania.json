@@ -1,5 +1,22 @@
 [
     {
+        "id":"147463",
+        "type":"poll_rcp_avg",
+        "pollster":"Muhlenberg College",
+        "date":"9\/16 - 9\/19",
+        "sampleSize":"450 LV",
+        "marginError":6.0,
+        "link":"https:\/\/www.muhlenberg.edu\/media\/contentassets\/pdf\/about\/polling\/PA_Elec_Sep24_FinalVersion.pdf",
+        "spread_winner":"Tie",
+        "spread_value":0.0,
+        "harris_value":"48",
+        "trump_value":"48",
+        "name":"2024 Pennsylvania: Trump vs. Harris",
+        "slug":"pennsylvania",
+        "polling_start_date":"2024-09-16",
+        "polling_end_date":"2024-09-19"
+    },
+    {
         "id":"147434",
         "type":"poll_rcp_avg",
         "pollster":"Rasmussen Reports",
