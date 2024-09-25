@@ -754,5 +754,14 @@
         "trump_value":47.1,
         "harris_value":49.2,
         "fetch_date":"2024-09-24"
+    },
+    {
+        "id":7386,
+        "type":"rcp_average",
+        "spread_winner":"Harris",
+        "spread_value":2.1,
+        "trump_value":47.1,
+        "harris_value":49.2,
+        "fetch_date":"2024-09-25"
     }
 ]
