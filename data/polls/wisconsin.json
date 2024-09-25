@@ -1,5 +1,22 @@
 [
     {
+        "id":"147488",
+        "type":"poll_rcp_avg",
+        "pollster":"Rasmussen Reports",
+        "date":"9\/19 - 9\/22",
+        "sampleSize":"1071 LV",
+        "marginError":3.0,
+        "link":"https:\/\/www.rasmussenreports.com\/public_content\/politics\/partner_surveys\/election_2024_trump_2_in_arizona_tied_with_harris_in_wisconsin",
+        "spread_winner":"Tie",
+        "spread_value":0.0,
+        "harris_value":"49",
+        "trump_value":"49",
+        "name":"2024 Wisconsin: Trump vs. Harris",
+        "slug":"wisconsin",
+        "polling_start_date":"2024-09-19",
+        "polling_end_date":"2024-09-22"
+    },
+    {
         "id":"147325",
         "type":"poll_rcp_avg",
         "pollster":"The Hill\/Emerson",
@@ -120,7 +137,7 @@
     },
     {
         "id":"147121",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Marquette",
         "date":"8\/28 - 9\/5",
         "sampleSize":"738 LV",
@@ -137,7 +154,7 @@
     },
     {
         "id":"146924",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Trafalgar Group (R)",
         "date":"8\/28 - 8\/30",
         "sampleSize":"1083 LV",
