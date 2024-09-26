@@ -45,9 +45,9 @@
         "fetched_date":"2024-09-26"
     },
     {
-        "date":"2024-09-23",
-        "harris":50.1,
-        "trump":46.6,
+        "date":"2024-09-24",
+        "harris":49.9,
+        "trump":46.4,
         "source":"Economist",
         "winning":"D +3.5",
         "winning_margin":3.5,
