@@ -103,7 +103,7 @@
     },
     {
         "id":"146958",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"CNN*",
         "date":"8\/23 - 8\/29",
         "sampleSize":"682 LV",
