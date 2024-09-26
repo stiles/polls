@@ -103,7 +103,7 @@
     },
     {
         "id":"146916",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"InsiderAdvantage",
         "date":"8\/29 - 8\/30",
         "sampleSize":"800 LV",

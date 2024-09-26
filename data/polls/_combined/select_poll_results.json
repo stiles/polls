@@ -3217,23 +3217,6 @@
     ],
     "georgia": [
         {
-            "id": "147496",
-            "type": "poll_rcp_avg",
-            "pollster": "Marist",
-            "date": "9/19 - 9/24",
-            "sampleSize": "1220 LV",
-            "marginError": 3.9,
-            "link": "https://maristpoll.marist.edu/polls/u-s-presidential-contest-georgia-september-2024/",
-            "spread_winner": "Trump",
-            "spread_value": 1.0,
-            "trump_value": "50",
-            "harris_value": "49",
-            "name": "2024 Georgia: Trump vs. Harris",
-            "slug": "georgia",
-            "polling_start_date": "2024-09-19",
-            "polling_end_date": "2024-09-24"
-        },
-        {
             "id": "147492",
             "type": "poll_rcp_avg",
             "pollster": "CBS News",
@@ -3248,6 +3231,23 @@
             "name": "2024 Georgia: Trump vs. Harris",
             "slug": "georgia",
             "polling_start_date": "2024-09-20",
+            "polling_end_date": "2024-09-24"
+        },
+        {
+            "id": "147496",
+            "type": "poll_rcp_avg",
+            "pollster": "Marist",
+            "date": "9/19 - 9/24",
+            "sampleSize": "1220 LV",
+            "marginError": 3.9,
+            "link": "https://maristpoll.marist.edu/polls/u-s-presidential-contest-georgia-september-2024/",
+            "spread_winner": "Trump",
+            "spread_value": 1.0,
+            "trump_value": "50",
+            "harris_value": "49",
+            "name": "2024 Georgia: Trump vs. Harris",
+            "slug": "georgia",
+            "polling_start_date": "2024-09-19",
             "polling_end_date": "2024-09-24"
         },
         {
@@ -3285,23 +3285,6 @@
             "polling_end_date": "2024-09-21"
         },
         {
-            "id": "147318",
-            "type": "poll_rcp_avg",
-            "pollster": "The Hill/Emerson",
-            "date": "9/15 - 9/18",
-            "sampleSize": "975 LV",
-            "marginError": 3.1,
-            "link": "https://emersoncollegepolling.com/september-2024-swing-state-polls-trump-and-harris-locked-in-tight-presidential-race/",
-            "spread_winner": "Trump",
-            "spread_value": 3.0,
-            "trump_value": "50",
-            "harris_value": "47",
-            "name": "2024 Georgia: Trump vs. Harris",
-            "slug": "georgia",
-            "polling_start_date": "2024-09-15",
-            "polling_end_date": "2024-09-18"
-        },
-        {
             "id": "147391",
             "type": "poll_rcp_avg",
             "pollster": "AmGreatness/TIPP",
@@ -3316,6 +3299,23 @@
             "name": "2024 Georgia: Trump vs. Harris",
             "slug": "georgia",
             "polling_start_date": "2024-09-16",
+            "polling_end_date": "2024-09-18"
+        },
+        {
+            "id": "147318",
+            "type": "poll_rcp_avg",
+            "pollster": "The Hill/Emerson",
+            "date": "9/15 - 9/18",
+            "sampleSize": "975 LV",
+            "marginError": 3.1,
+            "link": "https://emersoncollegepolling.com/september-2024-swing-state-polls-trump-and-harris-locked-in-tight-presidential-race/",
+            "spread_winner": "Trump",
+            "spread_value": 3.0,
+            "trump_value": "50",
+            "harris_value": "47",
+            "name": "2024 Georgia: Trump vs. Harris",
+            "slug": "georgia",
+            "polling_start_date": "2024-09-15",
             "polling_end_date": "2024-09-18"
         },
         {
@@ -5540,7 +5540,7 @@
         },
         {
             "id": "146916",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "InsiderAdvantage",
             "date": "8/29 - 8/30",
             "sampleSize": "800 LV",
@@ -5864,23 +5864,6 @@
             "polling_end_date": "2024-09-24"
         },
         {
-            "id": "147482",
-            "type": "poll_rcp_avg",
-            "pollster": "Fabrizio/Anzalone",
-            "date": "9/11 - 9/17",
-            "sampleSize": "600 LV",
-            "marginError": 4.0,
-            "link": "https://www.aarp.org/content/dam/aarp/research/topics/voter-opinion-research/politics/north-carolina-older-voter-survey-2024.doi.10.26419-2fres.00813.038.pdf",
-            "spread_winner": "Trump",
-            "spread_value": 3.0,
-            "trump_value": "50",
-            "harris_value": "47",
-            "name": "2024 North Carolina: Trump vs. Harris",
-            "slug": "north_carolina",
-            "polling_start_date": "2024-09-11",
-            "polling_end_date": "2024-09-17"
-        },
-        {
             "id": "147418",
             "type": "poll_rcp_avg",
             "pollster": "NY Times/Siena",
@@ -5896,6 +5879,23 @@
             "slug": "north_carolina",
             "polling_start_date": "2024-09-17",
             "polling_end_date": "2024-09-21"
+        },
+        {
+            "id": "147322",
+            "type": "poll_rcp_avg",
+            "pollster": "The Hill/Emerson",
+            "date": "9/15 - 9/18",
+            "sampleSize": "1000 LV",
+            "marginError": 3.0,
+            "link": "https://emersoncollegepolling.com/september-2024-swing-state-polls-trump-and-harris-locked-in-tight-presidential-race/",
+            "spread_winner": "Harris",
+            "spread_value": 1.0,
+            "trump_value": "48",
+            "harris_value": "49",
+            "name": "2024 North Carolina: Trump vs. Harris",
+            "slug": "north_carolina",
+            "polling_start_date": "2024-09-15",
+            "polling_end_date": "2024-09-18"
         },
         {
             "id": "147397",
@@ -5915,21 +5915,21 @@
             "polling_end_date": "2024-09-18"
         },
         {
-            "id": "147322",
+            "id": "147482",
             "type": "poll_rcp_avg",
-            "pollster": "The Hill/Emerson",
-            "date": "9/15 - 9/18",
-            "sampleSize": "1000 LV",
-            "marginError": 3.0,
-            "link": "https://emersoncollegepolling.com/september-2024-swing-state-polls-trump-and-harris-locked-in-tight-presidential-race/",
-            "spread_winner": "Harris",
-            "spread_value": 1.0,
-            "trump_value": "48",
-            "harris_value": "49",
+            "pollster": "Fabrizio/Anzalone",
+            "date": "9/11 - 9/17",
+            "sampleSize": "600 LV",
+            "marginError": 4.0,
+            "link": "https://www.aarp.org/content/dam/aarp/research/topics/voter-opinion-research/politics/north-carolina-older-voter-survey-2024.doi.10.26419-2fres.00813.038.pdf",
+            "spread_winner": "Trump",
+            "spread_value": 3.0,
+            "trump_value": "50",
+            "harris_value": "47",
             "name": "2024 North Carolina: Trump vs. Harris",
             "slug": "north_carolina",
-            "polling_start_date": "2024-09-15",
-            "polling_end_date": "2024-09-18"
+            "polling_start_date": "2024-09-11",
+            "polling_end_date": "2024-09-17"
         },
         {
             "id": "147342",
