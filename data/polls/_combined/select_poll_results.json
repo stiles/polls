@@ -1,6 +1,23 @@
 {
     "general": [
         {
+            "id": "147455",
+            "type": "poll_rcp_avg",
+            "pollster": "Quinnipiac",
+            "date": "9/19 - 9/22",
+            "sampleSize": "1728 LV",
+            "marginError": 2.4,
+            "link": "https://poll.qu.edu/images/polling/us/us09242024_urah86.pdf",
+            "spread_winner": "Tie",
+            "spread_value": 0.0,
+            "harris_value": "48",
+            "trump_value": "48",
+            "name": "2024 General Election: Trump vs Harris",
+            "slug": "general",
+            "polling_start_date": "2024-09-19",
+            "polling_end_date": "2024-09-22"
+        },
+        {
             "id": "147449",
             "type": "poll_rcp_avg",
             "pollster": "CNN*",
@@ -18,21 +35,21 @@
             "polling_end_date": "2024-09-22"
         },
         {
-            "id": "147455",
+            "id": "147507",
             "type": "poll_rcp_avg",
-            "pollster": "Quinnipiac",
-            "date": "9/19 - 9/22",
-            "sampleSize": "1728 LV",
-            "marginError": 2.4,
-            "link": "https://poll.qu.edu/images/polling/us/us09242024_urah86.pdf",
-            "spread_winner": "Tie",
-            "spread_value": 0.0,
-            "harris_value": "48",
+            "pollster": "Rasmussen Reports",
+            "date": "9/19 - 9/25",
+            "sampleSize": "1820 LV",
+            "marginError": 2.0,
+            "link": "https://www.rasmussenreports.com/public_content/politics/elections/election_2024/election2024",
+            "spread_winner": "Trump",
+            "spread_value": 2.0,
+            "harris_value": "46",
             "trump_value": "48",
             "name": "2024 General Election: Trump vs Harris",
             "slug": "general",
             "polling_start_date": "2024-09-19",
-            "polling_end_date": "2024-09-22"
+            "polling_end_date": "2024-09-25"
         },
         {
             "id": "147462",
@@ -52,23 +69,6 @@
             "polling_end_date": "2024-09-23"
         },
         {
-            "id": "147412",
-            "type": "poll_rcp_avg",
-            "pollster": "CBS News",
-            "date": "9/18 - 9/20",
-            "sampleSize": "3121 LV",
-            "marginError": 2.2,
-            "link": "https://www.cbsnews.com/news/trump-harris-poll-debate-economy-09-22-2024/",
-            "spread_winner": "Harris",
-            "spread_value": 4.0,
-            "harris_value": "52",
-            "trump_value": "48",
-            "name": "2024 General Election: Trump vs Harris",
-            "slug": "general",
-            "polling_start_date": "2024-09-18",
-            "polling_end_date": "2024-09-20"
-        },
-        {
             "id": "147438",
             "type": "poll_rcp_avg",
             "pollster": "Morning Consult",
@@ -86,8 +86,25 @@
             "polling_end_date": "2024-09-22"
         },
         {
-            "id": "147362",
+            "id": "147412",
             "type": "poll_rcp_avg",
+            "pollster": "CBS News",
+            "date": "9/18 - 9/20",
+            "sampleSize": "3121 LV",
+            "marginError": 2.2,
+            "link": "https://www.cbsnews.com/news/trump-harris-poll-debate-economy-09-22-2024/",
+            "spread_winner": "Harris",
+            "spread_value": 4.0,
+            "harris_value": "52",
+            "trump_value": "48",
+            "name": "2024 General Election: Trump vs Harris",
+            "slug": "general",
+            "polling_start_date": "2024-09-18",
+            "polling_end_date": "2024-09-20"
+        },
+        {
+            "id": "147362",
+            "type": "poll",
             "pollster": "Rasmussen Reports",
             "date": "9/12 - 9/18",
             "sampleSize": "1855 LV",
