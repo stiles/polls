@@ -5180,6 +5180,23 @@
     ],
     "nevada": [
         {
+            "id": "147514",
+            "type": "poll_rcp_avg",
+            "pollster": "AmGreatness/TIPP",
+            "date": "9/23 - 9/25",
+            "sampleSize": "736 LV",
+            "marginError": 3.7,
+            "link": "https://amgreatness.com/2024/09/26/nevada-nearly-tied-kamala-harris-with-a-slight-lead-but-voters-reject-california-model/",
+            "spread_winner": "Harris",
+            "spread_value": 1.0,
+            "harris_value": "50",
+            "trump_value": "49",
+            "name": "2024 Nevada: Trump vs. Harris",
+            "slug": "nevada",
+            "polling_start_date": "2024-09-23",
+            "polling_end_date": "2024-09-25"
+        },
+        {
             "id": "147431",
             "type": "poll_rcp_avg",
             "pollster": "Noble Predictive Insights",
