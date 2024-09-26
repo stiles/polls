@@ -188,23 +188,6 @@
             "polling_end_date": "2024-09-15"
         },
         {
-            "id": "147150",
-            "type": "poll_rcp_avg",
-            "pollster": "Data for Progress (D)**",
-            "date": "9/12 - 9/13",
-            "sampleSize": "1283 LV",
-            "marginError": 3.0,
-            "link": "https://www.dataforprogress.org/blog/2024/9/13/post-debate-harris-leads-by-4-as-voters-see-her-as-more-honest-composed-and-intelligent-than-trump",
-            "spread_winner": "Harris",
-            "spread_value": 4.0,
-            "harris_value": "50",
-            "trump_value": "46",
-            "name": "2024 General Election: Trump vs Harris",
-            "slug": "general",
-            "polling_start_date": "2024-09-12",
-            "polling_end_date": "2024-09-13"
-        },
-        {
             "id": "147167",
             "type": "poll_rcp_avg",
             "pollster": "Atlas Intel",
@@ -270,6 +253,23 @@
             "name": "2024 General Election: Trump vs Harris",
             "slug": "general",
             "polling_start_date": "2024-09-11",
+            "polling_end_date": "2024-09-13"
+        },
+        {
+            "id": "147150",
+            "type": "poll",
+            "pollster": "Data for Progress (D)**",
+            "date": "9/12 - 9/13",
+            "sampleSize": "1283 LV",
+            "marginError": 3.0,
+            "link": "https://www.dataforprogress.org/blog/2024/9/13/post-debate-harris-leads-by-4-as-voters-see-her-as-more-honest-composed-and-intelligent-than-trump",
+            "spread_winner": "Harris",
+            "spread_value": 4.0,
+            "harris_value": "50",
+            "trump_value": "46",
+            "name": "2024 General Election: Trump vs Harris",
+            "slug": "general",
+            "polling_start_date": "2024-09-12",
             "polling_end_date": "2024-09-13"
         },
         {
@@ -3217,6 +3217,23 @@
     ],
     "georgia": [
         {
+            "id": "147496",
+            "type": "poll_rcp_avg",
+            "pollster": "Marist",
+            "date": "9/19 - 9/24",
+            "sampleSize": "1220 LV",
+            "marginError": 3.9,
+            "link": "https://maristpoll.marist.edu/polls/u-s-presidential-contest-georgia-september-2024/",
+            "spread_winner": "Trump",
+            "spread_value": 1.0,
+            "trump_value": "50",
+            "harris_value": "49",
+            "name": "2024 Georgia: Trump vs. Harris",
+            "slug": "georgia",
+            "polling_start_date": "2024-09-19",
+            "polling_end_date": "2024-09-24"
+        },
+        {
             "id": "147492",
             "type": "poll_rcp_avg",
             "pollster": "CBS News",
@@ -5420,6 +5437,23 @@
     ],
     "arizona": [
         {
+            "id": "147495",
+            "type": "poll_rcp_avg",
+            "pollster": "Marist",
+            "date": "9/19 - 9/24",
+            "sampleSize": "1264 LV",
+            "marginError": 3.8,
+            "link": "https://maristpoll.marist.edu/polls/u-s-presidential-contest-arizona-september-2024/",
+            "spread_winner": "Trump",
+            "spread_value": 1.0,
+            "trump_value": "50",
+            "harris_value": "49",
+            "name": "2024 Arizona: Trump vs. Harris",
+            "slug": "arizona",
+            "polling_start_date": "2024-09-19",
+            "polling_end_date": "2024-09-24"
+        },
+        {
             "id": "147490",
             "type": "poll_rcp_avg",
             "pollster": "Rasmussen Reports",
@@ -5812,6 +5846,23 @@
         }
     ],
     "north_carolina": [
+        {
+            "id": "147497",
+            "type": "poll_rcp_avg",
+            "pollster": "Marist",
+            "date": "9/19 - 9/24",
+            "sampleSize": "1348 LV",
+            "marginError": 3.7,
+            "link": "https://maristpoll.marist.edu/polls/u-s-presidential-contest-north-carolina-september-2024/",
+            "spread_winner": "Tie",
+            "spread_value": 0.0,
+            "trump_value": "49",
+            "harris_value": "49",
+            "name": "2024 North Carolina: Trump vs. Harris",
+            "slug": "north_carolina",
+            "polling_start_date": "2024-09-19",
+            "polling_end_date": "2024-09-24"
+        },
         {
             "id": "147482",
             "type": "poll_rcp_avg",

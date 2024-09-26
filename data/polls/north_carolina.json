@@ -1,5 +1,22 @@
 [
     {
+        "id":"147497",
+        "type":"poll_rcp_avg",
+        "pollster":"Marist",
+        "date":"9\/19 - 9\/24",
+        "sampleSize":"1348 LV",
+        "marginError":3.7,
+        "link":"https:\/\/maristpoll.marist.edu\/polls\/u-s-presidential-contest-north-carolina-september-2024\/",
+        "spread_winner":"Tie",
+        "spread_value":0.0,
+        "trump_value":"49",
+        "harris_value":"49",
+        "name":"2024 North Carolina: Trump vs. Harris",
+        "slug":"north_carolina",
+        "polling_start_date":"2024-09-19",
+        "polling_end_date":"2024-09-24"
+    },
+    {
         "id":"147482",
         "type":"poll_rcp_avg",
         "pollster":"Fabrizio\/Anzalone",

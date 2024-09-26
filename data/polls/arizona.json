@@ -1,5 +1,22 @@
 [
     {
+        "id":"147495",
+        "type":"poll_rcp_avg",
+        "pollster":"Marist",
+        "date":"9\/19 - 9\/24",
+        "sampleSize":"1264 LV",
+        "marginError":3.8,
+        "link":"https:\/\/maristpoll.marist.edu\/polls\/u-s-presidential-contest-arizona-september-2024\/",
+        "spread_winner":"Trump",
+        "spread_value":1.0,
+        "trump_value":"50",
+        "harris_value":"49",
+        "name":"2024 Arizona: Trump vs. Harris",
+        "slug":"arizona",
+        "polling_start_date":"2024-09-19",
+        "polling_end_date":"2024-09-24"
+    },
+    {
         "id":"147490",
         "type":"poll_rcp_avg",
         "pollster":"Rasmussen Reports",

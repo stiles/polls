@@ -3,17 +3,17 @@
         "id":"8307",
         "type":"rcp_average",
         "pollster":"rcp_average",
-        "date":"8\/29 - 9\/22",
+        "date":"8\/29 - 9\/24",
         "sampleSize":"",
         "marginError":0.0,
         "link":null,
         "spread_winner":"Trump",
-        "spread_value":1.7,
-        "trump_value":"48.7",
-        "harris_value":"47.0",
+        "spread_value":1.6,
+        "trump_value":"48.9",
+        "harris_value":"47.3",
         "name":"2024 Arizona: Trump vs. Harris",
         "slug":"arizona",
         "polling_start_date":"2024-08-29",
-        "polling_end_date":"2024-09-22"
+        "polling_end_date":"2024-09-24"
     }
 ]
