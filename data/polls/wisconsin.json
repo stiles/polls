@@ -1,5 +1,22 @@
 [
     {
+        "id":"147532",
+        "type":"poll_rcp_avg",
+        "pollster":"Bloomberg",
+        "date":"9\/19 - 9\/25",
+        "sampleSize":"785 LV",
+        "marginError":3.0,
+        "link":"https:\/\/www.bloomberg.com\/news\/features\/2024-09-26\/harris-holds-thin-lead-over-trump-in-swing-state-poll-election-2024",
+        "spread_winner":"Harris",
+        "spread_value":3.0,
+        "harris_value":"51",
+        "trump_value":"48",
+        "name":"2024 Wisconsin: Trump vs. Harris",
+        "slug":"wisconsin",
+        "polling_start_date":"2024-09-19",
+        "polling_end_date":"2024-09-25"
+    },
+    {
         "id":"147488",
         "type":"poll_rcp_avg",
         "pollster":"Rasmussen Reports",
@@ -120,7 +137,7 @@
     },
     {
         "id":"147068",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"CBS News",
         "date":"9\/3 - 9\/6",
         "sampleSize":"958 LV",

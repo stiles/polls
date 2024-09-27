@@ -34,6 +34,23 @@
         "polling_end_date":"2024-09-24"
     },
     {
+        "id":"147520",
+        "type":"poll_rcp_avg",
+        "pollster":"Bloomberg",
+        "date":"9\/19 - 9\/25",
+        "sampleSize":"926 LV",
+        "marginError":3.0,
+        "link":"https:\/\/pro-assets.morningconsult.com\/wp-uploads\/2024\/09\/Bloomberg_Swing_States_Wave_12-1.pdf",
+        "spread_winner":"Harris",
+        "spread_value":3.0,
+        "trump_value":"47",
+        "harris_value":"50",
+        "name":"2024 Arizona: Trump vs. Harris",
+        "slug":"arizona",
+        "polling_start_date":"2024-09-19",
+        "polling_end_date":"2024-09-25"
+    },
+    {
         "id":"147490",
         "type":"poll_rcp_avg",
         "pollster":"Rasmussen Reports",
@@ -103,7 +120,7 @@
     },
     {
         "id":"147062",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"AmGreatness\/TIPP",
         "date":"9\/3 - 9\/5",
         "sampleSize":"1015 RV",

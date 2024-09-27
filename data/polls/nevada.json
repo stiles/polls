@@ -17,21 +17,21 @@
         "polling_end_date":"2024-09-25"
     },
     {
-        "id":"147431",
+        "id":"147526",
         "type":"poll_rcp_avg",
-        "pollster":"Noble Predictive Insights",
-        "date":"9\/9 - 9\/16",
-        "sampleSize":"692 LV",
-        "marginError":3.7,
-        "link":"https:\/\/www.noblepredictiveinsights.com\/post\/presidential-race-tight-in-nevada",
+        "pollster":"Bloomberg",
+        "date":"9\/19 - 9\/25",
+        "sampleSize":"516 LV",
+        "marginError":4.0,
+        "link":"https:\/\/www.bloomberg.com\/news\/features\/2024-09-26\/harris-holds-thin-lead-over-trump-in-swing-state-poll-election-2024",
         "spread_winner":"Harris",
-        "spread_value":1.0,
-        "harris_value":"48",
-        "trump_value":"47",
+        "spread_value":7.0,
+        "harris_value":"52",
+        "trump_value":"45",
         "name":"2024 Nevada: Trump vs. Harris",
         "slug":"nevada",
-        "polling_start_date":"2024-09-09",
-        "polling_end_date":"2024-09-16"
+        "polling_start_date":"2024-09-19",
+        "polling_end_date":"2024-09-25"
     },
     {
         "id":"147320",
@@ -49,6 +49,23 @@
         "slug":"nevada",
         "polling_start_date":"2024-09-15",
         "polling_end_date":"2024-09-18"
+    },
+    {
+        "id":"147431",
+        "type":"poll_rcp_avg",
+        "pollster":"Noble Predictive Insights",
+        "date":"9\/9 - 9\/16",
+        "sampleSize":"692 LV",
+        "marginError":3.7,
+        "link":"https:\/\/www.noblepredictiveinsights.com\/post\/presidential-race-tight-in-nevada",
+        "spread_winner":"Harris",
+        "spread_value":1.0,
+        "harris_value":"48",
+        "trump_value":"47",
+        "name":"2024 Nevada: Trump vs. Harris",
+        "slug":"nevada",
+        "polling_start_date":"2024-09-09",
+        "polling_end_date":"2024-09-16"
     },
     {
         "id":"147199",

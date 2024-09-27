@@ -1,5 +1,22 @@
 [
     {
+        "id":"147524",
+        "type":"poll_rcp_avg",
+        "pollster":"Bloomberg",
+        "date":"9\/19 - 9\/25",
+        "sampleSize":"800 LV",
+        "marginError":3.0,
+        "link":"https:\/\/www.bloomberg.com\/news\/features\/2024-09-26\/harris-holds-thin-lead-over-trump-in-swing-state-poll-election-2024",
+        "spread_winner":"Harris",
+        "spread_value":3.0,
+        "harris_value":"50",
+        "trump_value":"47",
+        "name":"2024 Michigan: Trump vs. Harris",
+        "slug":"michigan",
+        "polling_start_date":"2024-09-19",
+        "polling_end_date":"2024-09-25"
+    },
+    {
         "id":"147428",
         "type":"poll_rcp_avg",
         "pollster":"USA Today\/Suffolk",
@@ -440,5 +457,22 @@
         "slug":"michigan",
         "polling_start_date":"2024-08-23",
         "polling_end_date":"2024-09-03"
+    },
+    {
+        "id":"147509",
+        "type":"poll",
+        "pollster":"UMass Lowell",
+        "date":"9\/11 - 9\/19",
+        "sampleSize":"800 LV",
+        "marginError":4.0,
+        "link":"https:\/\/www.uml.edu\/docs\/MI-topline-sept-2024_tcm18-389946.pdf",
+        "spread_winner":"Harris",
+        "spread_value":2.0,
+        "harris_value":"48",
+        "trump_value":"46",
+        "name":"2024 Michigan: Trump vs. Harris",
+        "slug":"michigan",
+        "polling_start_date":"2024-09-11",
+        "polling_end_date":"2024-09-19"
     }
 ]
