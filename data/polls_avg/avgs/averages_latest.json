@@ -18,21 +18,21 @@
         "fetched_date":"2024-09-27"
     },
     {
-        "date":"2024-09-26",
-        "harris":48.6,
-        "trump":45.7,
+        "date":"2024-09-27",
+        "harris":48.5,
+        "trump":45.8,
         "source":"FiveThirtyEight",
-        "winning":"D +2.9",
-        "winning_margin":2.9,
+        "winning":"D +2.7",
+        "winning_margin":2.7,
         "fetched_date":"2024-09-27"
     },
     {
-        "date":"2024-09-26",
-        "harris":49.0,
-        "trump":46.2,
+        "date":"2024-09-27",
+        "harris":49.1,
+        "trump":46.1,
         "source":"Nate Silver",
-        "winning":"D +2.8",
-        "winning_margin":2.8,
+        "winning":"D +3.0",
+        "winning_margin":3.0,
         "fetched_date":"2024-09-27"
     },
     {
