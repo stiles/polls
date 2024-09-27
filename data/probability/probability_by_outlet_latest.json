@@ -8,8 +8,8 @@
     },
     {
         "source":"FiveThirtyEight",
-        "harris":56.0,
-        "trump":44.0,
+        "harris":57.0,
+        "trump":43.0,
         "date":"2024-09-26",
         "fetched":"2024-09-26"
     },
@@ -22,8 +22,8 @@
     },
     {
         "source":"The Hill",
-        "harris":55.0,
-        "trump":45.0,
+        "harris":56.0,
+        "trump":44.0,
         "date":"2024-09-26",
         "fetched":"2024-09-26"
     }
