@@ -1,5 +1,22 @@
 [
     {
+        "id":"147534",
+        "type":"poll_rcp_avg",
+        "pollster":"USA Today\/Suffolk",
+        "date":"9\/21 - 9\/24",
+        "sampleSize":"500 LV",
+        "marginError":4.4,
+        "link":"https:\/\/www.usatoday.com\/story\/news\/politics\/elections\/2024\/09\/27\/harris-heads-to-southern-border-in-arizona-where-shes-losing-ground\/75391595007\/",
+        "spread_winner":"Trump",
+        "spread_value":6.0,
+        "trump_value":"48",
+        "harris_value":"42",
+        "name":"2024 Arizona: Trump vs. Harris",
+        "slug":"arizona",
+        "polling_start_date":"2024-09-21",
+        "polling_end_date":"2024-09-24"
+    },
+    {
         "id":"147515",
         "type":"poll_rcp_avg",
         "pollster":"FOX News",
