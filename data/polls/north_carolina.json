@@ -205,7 +205,7 @@
     },
     {
         "id":"147436",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Elon University",
         "date":"9\/4 - 9\/13",
         "sampleSize":"800 RV",

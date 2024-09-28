@@ -1,2 +1,2 @@
 id,type,pollster,date,sampleSize,marginError,link,spread_winner,spread_value,harris_value,trump_value,name,slug,polling_start_date,polling_end_date
-8304,rcp_average,rcp_average,8/28 - 9/25,,0.0,,Harris,1.8,49.1,47.3,2024 Michigan: Trump vs. Harris,michigan,2024-08-28,2024-09-25
+8304,rcp_average,rcp_average,8/28 - 9/26,,0.0,,Harris,1.7,49.0,47.3,2024 Michigan: Trump vs. Harris,michigan,2024-08-28,2024-09-26

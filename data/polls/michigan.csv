@@ -1,4 +1,5 @@
 id,type,pollster,date,sampleSize,marginError,link,spread_winner,spread_value,harris_value,trump_value,name,slug,polling_start_date,polling_end_date
+147568,poll_rcp_avg,NY Times/Siena,9/21 - 9/26,688 LV,0.0,https://www.nytimes.com/2024/09/28/us/politics/harris-trump-poll-michigan-wisconsin.html,Harris,1.0,48,47,2024 Michigan: Trump vs. Harris,michigan,2024-09-21,2024-09-26
 147548,poll_rcp_avg,Rasmussen Reports,9/19 - 9/22,1086 LV,3.0,https://www.rasmussenreports.com/public_content/politics/partner_surveys/election_2024_trump_3_in_n_c_harris_3_in_virginia_tied_in_michigan,Tie,0.0,48,48,2024 Michigan: Trump vs. Harris,michigan,2024-09-19,2024-09-22
 147524,poll_rcp_avg,Bloomberg,9/19 - 9/25,800 LV,3.0,https://www.bloomberg.com/news/features/2024-09-26/harris-holds-thin-lead-over-trump-in-swing-state-poll-election-2024,Harris,3.0,50,47,2024 Michigan: Trump vs. Harris,michigan,2024-09-19,2024-09-25
 147428,poll_rcp_avg,USA Today/Suffolk,9/16 - 9/19,500 LV,4.4,https://www.usatoday.com/story/news/politics/elections/2024/09/24/harris-trump-poll-michigan/75350001007/,Harris,3.0,48,45,2024 Michigan: Trump vs. Harris,michigan,2024-09-16,2024-09-19
