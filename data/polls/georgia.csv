@@ -1,4 +1,5 @@
 id,type,pollster,date,sampleSize,marginError,link,spread_winner,spread_value,trump_value,harris_value,name,slug,polling_start_date,polling_end_date
+147586,poll_rcp_avg,Atlas Intel,9/20 - 9/25,1200 LV,3.0,https://atlasintel.org/poll/usa-swing-states-2024-09-28,Trump,1.0,50,49,2024 Georgia: Trump vs. Harris,georgia,2024-09-20,2024-09-25
 147492,poll_rcp_avg,CBS News,9/20 - 9/24,1441 LV,3.3,https://www.cbsnews.com/news/trump-harris-poll-georgia/,Trump,2.0,51,49,2024 Georgia: Trump vs. Harris,georgia,2024-09-20,2024-09-24
 147517,poll_rcp_avg,FOX News,9/20 - 9/24,707 LV,3.5,https://www.foxnews.com/official-polls/fox-news-poll-voters-choice-flipped-arizona-since-last-month,Harris,3.0,48,51,2024 Georgia: Trump vs. Harris,georgia,2024-09-20,2024-09-24
 147496,poll_rcp_avg,Marist,9/19 - 9/24,1220 LV,3.9,https://maristpoll.marist.edu/polls/u-s-presidential-contest-georgia-september-2024/,Trump,1.0,50,49,2024 Georgia: Trump vs. Harris,georgia,2024-09-19,2024-09-24

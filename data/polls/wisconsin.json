@@ -17,6 +17,23 @@
         "polling_end_date":"2024-09-26"
     },
     {
+        "id":"147599",
+        "type":"poll_rcp_avg",
+        "pollster":"Atlas Intel",
+        "date":"9\/20 - 9\/25",
+        "sampleSize":"1077 LV",
+        "marginError":3.0,
+        "link":"https:\/\/www.realclearpolitics.com\/docs\/2024\/Atlas-Poll-US-Swing-States-Sept-24-Wisconsin.pdf",
+        "spread_winner":"Trump",
+        "spread_value":2.0,
+        "harris_value":"48",
+        "trump_value":"50",
+        "name":"2024 Wisconsin: Trump vs. Harris",
+        "slug":"wisconsin",
+        "polling_start_date":"2024-09-20",
+        "polling_end_date":"2024-09-25"
+    },
+    {
         "id":"147532",
         "type":"poll_rcp_avg",
         "pollster":"Bloomberg",
@@ -137,7 +154,7 @@
     },
     {
         "id":"147388",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"co\/efficient",
         "date":"9\/4 - 9\/6",
         "sampleSize":"917 LV",

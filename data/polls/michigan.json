@@ -17,21 +17,21 @@
         "polling_end_date":"2024-09-26"
     },
     {
-        "id":"147548",
+        "id":"147587",
         "type":"poll_rcp_avg",
-        "pollster":"Rasmussen Reports",
-        "date":"9\/19 - 9\/22",
-        "sampleSize":"1086 LV",
+        "pollster":"Atlas Intel",
+        "date":"9\/20 - 9\/25",
+        "sampleSize":"918 LV",
         "marginError":3.0,
-        "link":"https:\/\/www.rasmussenreports.com\/public_content\/politics\/partner_surveys\/election_2024_trump_3_in_n_c_harris_3_in_virginia_tied_in_michigan",
-        "spread_winner":"Tie",
-        "spread_value":0.0,
-        "harris_value":"48",
-        "trump_value":"48",
+        "link":"https:\/\/atlasintel.org\/poll\/usa-swing-states-2024-09-28",
+        "spread_winner":"Trump",
+        "spread_value":4.0,
+        "harris_value":"47",
+        "trump_value":"51",
         "name":"2024 Michigan: Trump vs. Harris",
         "slug":"michigan",
-        "polling_start_date":"2024-09-19",
-        "polling_end_date":"2024-09-22"
+        "polling_start_date":"2024-09-20",
+        "polling_end_date":"2024-09-25"
     },
     {
         "id":"147524",
@@ -49,6 +49,23 @@
         "slug":"michigan",
         "polling_start_date":"2024-09-19",
         "polling_end_date":"2024-09-25"
+    },
+    {
+        "id":"147548",
+        "type":"poll_rcp_avg",
+        "pollster":"Rasmussen Reports",
+        "date":"9\/19 - 9\/22",
+        "sampleSize":"1086 LV",
+        "marginError":3.0,
+        "link":"https:\/\/www.rasmussenreports.com\/public_content\/politics\/partner_surveys\/election_2024_trump_3_in_n_c_harris_3_in_virginia_tied_in_michigan",
+        "spread_winner":"Tie",
+        "spread_value":0.0,
+        "harris_value":"48",
+        "trump_value":"48",
+        "name":"2024 Michigan: Trump vs. Harris",
+        "slug":"michigan",
+        "polling_start_date":"2024-09-19",
+        "polling_end_date":"2024-09-22"
     },
     {
         "id":"147428",
@@ -171,7 +188,7 @@
     },
     {
         "id":"147067",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"CBS News",
         "date":"9\/3 - 9\/6",
         "sampleSize":"1086 LV",
@@ -205,7 +222,7 @@
     },
     {
         "id":"146923",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Trafalgar Group (R)",
         "date":"8\/28 - 8\/30",
         "sampleSize":"1089 LV",

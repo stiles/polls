@@ -1,4 +1,5 @@
 id,type,pollster,date,sampleSize,marginError,link,spread_winner,spread_value,trump_value,harris_value,name,slug,polling_start_date,polling_end_date
+147584,poll_rcp_avg,Atlas Intel,9/20 - 9/25,946 LV,3.0,https://atlasintel.org/poll/usa-swing-states-2024-09-28,Trump,1.0,50,49,2024 Arizona: Trump vs. Harris,arizona,2024-09-20,2024-09-25
 147534,poll_rcp_avg,USA Today/Suffolk,9/21 - 9/24,500 LV,4.4,https://www.usatoday.com/story/news/politics/elections/2024/09/27/harris-heads-to-southern-border-in-arizona-where-shes-losing-ground/75391595007/,Trump,6.0,48,42,2024 Arizona: Trump vs. Harris,arizona,2024-09-21,2024-09-24
 147515,poll_rcp_avg,FOX News,9/20 - 9/24,764 LV,3.5,https://www.foxnews.com/official-polls/fox-news-poll-voters-choice-flipped-arizona-since-last-month,Trump,3.0,51,48,2024 Arizona: Trump vs. Harris,arizona,2024-09-20,2024-09-24
 147520,poll_rcp_avg,Bloomberg,9/19 - 9/25,926 LV,3.0,https://pro-assets.morningconsult.com/wp-uploads/2024/09/Bloomberg_Swing_States_Wave_12-1.pdf,Harris,3.0,47,50,2024 Arizona: Trump vs. Harris,arizona,2024-09-19,2024-09-25

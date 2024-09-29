@@ -3255,6 +3255,23 @@
     ],
     "georgia": [
         {
+            "id": "147586",
+            "type": "poll_rcp_avg",
+            "pollster": "Atlas Intel",
+            "date": "9/20 - 9/25",
+            "sampleSize": "1200 LV",
+            "marginError": 3.0,
+            "link": "https://atlasintel.org/poll/usa-swing-states-2024-09-28",
+            "spread_winner": "Trump",
+            "spread_value": 1.0,
+            "trump_value": "50",
+            "harris_value": "49",
+            "name": "2024 Georgia: Trump vs. Harris",
+            "slug": "georgia",
+            "polling_start_date": "2024-09-20",
+            "polling_end_date": "2024-09-25"
+        },
+        {
             "id": "147492",
             "type": "poll_rcp_avg",
             "pollster": "CBS News",
@@ -3750,21 +3767,38 @@
             "polling_end_date": "2024-09-24"
         },
         {
-            "id": "147486",
+            "id": "147596",
             "type": "poll_rcp_avg",
-            "pollster": "Susquehanna",
-            "date": "9/16 - 9/22",
-            "sampleSize": "700 LV",
-            "marginError": 3.7,
-            "link": "https://mcusercontent.com/fadb7f1420fadfe09cc9d0f9c/files/a5dbf8d6-8ad8-c97f-7e78-5c75cbd98c8f/Toplines_PAStatewide_Omnibus_SP_amp_R_LaTorre_Sept2024.pdf",
-            "spread_winner": "Tie",
-            "spread_value": 0.0,
-            "harris_value": "46",
+            "pollster": "Atlas Intel",
+            "date": "9/20 - 9/25",
+            "sampleSize": "1775 LV",
+            "marginError": 2.0,
+            "link": "https://atlasintel.org/poll/usa-swing-states-2024-09-28",
+            "spread_winner": "Trump",
+            "spread_value": 3.0,
+            "harris_value": "48",
+            "trump_value": "51",
+            "name": "2024 Pennsylvania: Trump vs. Harris",
+            "slug": "pennsylvania",
+            "polling_start_date": "2024-09-20",
+            "polling_end_date": "2024-09-25"
+        },
+        {
+            "id": "147530",
+            "type": "poll_rcp_avg",
+            "pollster": "Bloomberg",
+            "date": "9/19 - 9/25",
+            "sampleSize": "924 LV",
+            "marginError": 3.0,
+            "link": "https://www.bloomberg.com/news/features/2024-09-26/harris-holds-thin-lead-over-trump-in-swing-state-poll-election-2024",
+            "spread_winner": "Harris",
+            "spread_value": 5.0,
+            "harris_value": "51",
             "trump_value": "46",
             "name": "2024 Pennsylvania: Trump vs. Harris",
             "slug": "pennsylvania",
-            "polling_start_date": "2024-09-16",
-            "polling_end_date": "2024-09-22"
+            "polling_start_date": "2024-09-19",
+            "polling_end_date": "2024-09-25"
         },
         {
             "id": "147434",
@@ -3784,21 +3818,21 @@
             "polling_end_date": "2024-09-22"
         },
         {
-            "id": "147530",
+            "id": "147486",
             "type": "poll_rcp_avg",
-            "pollster": "Bloomberg",
-            "date": "9/19 - 9/25",
-            "sampleSize": "924 LV",
-            "marginError": 3.0,
-            "link": "https://www.bloomberg.com/news/features/2024-09-26/harris-holds-thin-lead-over-trump-in-swing-state-poll-election-2024",
-            "spread_winner": "Harris",
-            "spread_value": 5.0,
-            "harris_value": "51",
+            "pollster": "Susquehanna",
+            "date": "9/16 - 9/22",
+            "sampleSize": "700 LV",
+            "marginError": 3.7,
+            "link": "https://mcusercontent.com/fadb7f1420fadfe09cc9d0f9c/files/a5dbf8d6-8ad8-c97f-7e78-5c75cbd98c8f/Toplines_PAStatewide_Omnibus_SP_amp_R_LaTorre_Sept2024.pdf",
+            "spread_winner": "Tie",
+            "spread_value": 0.0,
+            "harris_value": "46",
             "trump_value": "46",
             "name": "2024 Pennsylvania: Trump vs. Harris",
             "slug": "pennsylvania",
-            "polling_start_date": "2024-09-19",
-            "polling_end_date": "2024-09-25"
+            "polling_start_date": "2024-09-16",
+            "polling_end_date": "2024-09-22"
         },
         {
             "id": "147463",
@@ -4415,21 +4449,21 @@
             "polling_end_date": "2024-09-26"
         },
         {
-            "id": "147548",
+            "id": "147587",
             "type": "poll_rcp_avg",
-            "pollster": "Rasmussen Reports",
-            "date": "9/19 - 9/22",
-            "sampleSize": "1086 LV",
+            "pollster": "Atlas Intel",
+            "date": "9/20 - 9/25",
+            "sampleSize": "918 LV",
             "marginError": 3.0,
-            "link": "https://www.rasmussenreports.com/public_content/politics/partner_surveys/election_2024_trump_3_in_n_c_harris_3_in_virginia_tied_in_michigan",
-            "spread_winner": "Tie",
-            "spread_value": 0.0,
-            "harris_value": "48",
-            "trump_value": "48",
+            "link": "https://atlasintel.org/poll/usa-swing-states-2024-09-28",
+            "spread_winner": "Trump",
+            "spread_value": 4.0,
+            "harris_value": "47",
+            "trump_value": "51",
             "name": "2024 Michigan: Trump vs. Harris",
             "slug": "michigan",
-            "polling_start_date": "2024-09-19",
-            "polling_end_date": "2024-09-22"
+            "polling_start_date": "2024-09-20",
+            "polling_end_date": "2024-09-25"
         },
         {
             "id": "147524",
@@ -4447,6 +4481,23 @@
             "slug": "michigan",
             "polling_start_date": "2024-09-19",
             "polling_end_date": "2024-09-25"
+        },
+        {
+            "id": "147548",
+            "type": "poll_rcp_avg",
+            "pollster": "Rasmussen Reports",
+            "date": "9/19 - 9/22",
+            "sampleSize": "1086 LV",
+            "marginError": 3.0,
+            "link": "https://www.rasmussenreports.com/public_content/politics/partner_surveys/election_2024_trump_3_in_n_c_harris_3_in_virginia_tied_in_michigan",
+            "spread_winner": "Tie",
+            "spread_value": 0.0,
+            "harris_value": "48",
+            "trump_value": "48",
+            "name": "2024 Michigan: Trump vs. Harris",
+            "slug": "michigan",
+            "polling_start_date": "2024-09-19",
+            "polling_end_date": "2024-09-22"
         },
         {
             "id": "147428",
@@ -4569,7 +4620,7 @@
         },
         {
             "id": "147067",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "CBS News",
             "date": "9/3 - 9/6",
             "sampleSize": "1086 LV",
@@ -4603,7 +4654,7 @@
         },
         {
             "id": "146923",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Trafalgar Group (R)",
             "date": "8/28 - 8/30",
             "sampleSize": "1089 LV",
@@ -4927,6 +4978,23 @@
             "polling_end_date": "2024-09-26"
         },
         {
+            "id": "147599",
+            "type": "poll_rcp_avg",
+            "pollster": "Atlas Intel",
+            "date": "9/20 - 9/25",
+            "sampleSize": "1077 LV",
+            "marginError": 3.0,
+            "link": "https://www.realclearpolitics.com/docs/2024/Atlas-Poll-US-Swing-States-Sept-24-Wisconsin.pdf",
+            "spread_winner": "Trump",
+            "spread_value": 2.0,
+            "harris_value": "48",
+            "trump_value": "50",
+            "name": "2024 Wisconsin: Trump vs. Harris",
+            "slug": "wisconsin",
+            "polling_start_date": "2024-09-20",
+            "polling_end_date": "2024-09-25"
+        },
+        {
             "id": "147532",
             "type": "poll_rcp_avg",
             "pollster": "Bloomberg",
@@ -5047,7 +5115,7 @@
         },
         {
             "id": "147388",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "co/efficient",
             "date": "9/4 - 9/6",
             "sampleSize": "917 LV",
@@ -5370,6 +5438,23 @@
         }
     ],
     "nevada": [
+        {
+            "id": "147590",
+            "type": "poll_rcp_avg",
+            "pollster": "Atlas Intel",
+            "date": "9/20 - 9/25",
+            "sampleSize": "858 LV",
+            "marginError": 3.0,
+            "link": "https://atlasintel.org/poll/usa-swing-states-2024-09-28",
+            "spread_winner": "Harris",
+            "spread_value": 3.0,
+            "harris_value": "51",
+            "trump_value": "48",
+            "name": "2024 Nevada: Trump vs. Harris",
+            "slug": "nevada",
+            "polling_start_date": "2024-09-20",
+            "polling_end_date": "2024-09-25"
+        },
         {
             "id": "147558",
             "type": "poll_rcp_avg",
@@ -5712,6 +5797,23 @@
         }
     ],
     "arizona": [
+        {
+            "id": "147584",
+            "type": "poll_rcp_avg",
+            "pollster": "Atlas Intel",
+            "date": "9/20 - 9/25",
+            "sampleSize": "946 LV",
+            "marginError": 3.0,
+            "link": "https://atlasintel.org/poll/usa-swing-states-2024-09-28",
+            "spread_winner": "Trump",
+            "spread_value": 1.0,
+            "trump_value": "50",
+            "harris_value": "49",
+            "name": "2024 Arizona: Trump vs. Harris",
+            "slug": "arizona",
+            "polling_start_date": "2024-09-20",
+            "polling_end_date": "2024-09-25"
+        },
         {
             "id": "147534",
             "type": "poll_rcp_avg",
@@ -6173,6 +6275,23 @@
         }
     ],
     "north_carolina": [
+        {
+            "id": "147593",
+            "type": "poll_rcp_avg",
+            "pollster": "Atlas Intel",
+            "date": "9/20 - 9/25",
+            "sampleSize": "1173 LV",
+            "marginError": 3.0,
+            "link": "https://atlasintel.org/poll/usa-swing-states-2024-09-28",
+            "spread_winner": "Harris",
+            "spread_value": 3.0,
+            "trump_value": "48",
+            "harris_value": "51",
+            "name": "2024 North Carolina: Trump vs. Harris",
+            "slug": "north_carolina",
+            "polling_start_date": "2024-09-20",
+            "polling_end_date": "2024-09-25"
+        },
         {
             "id": "147564",
             "type": "poll_rcp_avg",
