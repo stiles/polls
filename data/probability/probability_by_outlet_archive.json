@@ -9,12 +9,12 @@
         "fetched":"2024-09-30"
     },
     {
-        "harris":59.0,
-        "trump":41.0,
+        "harris":57.0,
+        "trump":42.0,
         "source":"FiveThirtyEight",
         "date":"2024-09-30",
         "ahead":"Harris",
-        "ahead_value":59.0,
+        "ahead_value":57.0,
         "fetched":"2024-09-30"
     },
     {
@@ -30,7 +30,7 @@
         "harris":55.0,
         "trump":45.0,
         "source":"The Hill",
-        "date":"2024-09-29",
+        "date":"2024-09-30",
         "ahead":"Harris",
         "ahead_value":55.0,
         "fetched":"2024-09-30"
