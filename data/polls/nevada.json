@@ -85,6 +85,23 @@
         "polling_end_date":"2024-09-22"
     },
     {
+        "id":"147635",
+        "type":"poll_rcp_avg",
+        "pollster":"Remington Research (R)",
+        "date":"9\/16 - 9\/20",
+        "sampleSize":" LV",
+        "marginError":0.0,
+        "link":"https:\/\/www.realclearpolling.com\/stories\/analysis\/battleground-states-wrap-up-race-remains-effectively-tied",
+        "spread_winner":"Trump",
+        "spread_value":1.0,
+        "harris_value":"48",
+        "trump_value":"49",
+        "name":"2024 Nevada: Trump vs. Harris",
+        "slug":"nevada",
+        "polling_start_date":"2024-09-16",
+        "polling_end_date":"2024-09-20"
+    },
+    {
         "id":"147320",
         "type":"poll_rcp_avg",
         "pollster":"The Hill\/Emerson",

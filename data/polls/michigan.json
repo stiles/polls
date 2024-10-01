@@ -68,6 +68,23 @@
         "polling_end_date":"2024-09-22"
     },
     {
+        "id":"147653",
+        "type":"poll_rcp_avg",
+        "pollster":"Remington Research (R)",
+        "date":"9\/16 - 9\/20",
+        "sampleSize":" LV",
+        "marginError":0.0,
+        "link":"https:\/\/www.realclearpolling.com\/stories\/analysis\/battleground-states-wrap-up-race-remains-effectively-tied",
+        "spread_winner":"Harris",
+        "spread_value":2.0,
+        "harris_value":"49",
+        "trump_value":"47",
+        "name":"2024 Michigan: Trump vs. Harris",
+        "slug":"michigan",
+        "polling_start_date":"2024-09-16",
+        "polling_end_date":"2024-09-20"
+    },
+    {
         "id":"147428",
         "type":"poll_rcp_avg",
         "pollster":"USA Today\/Suffolk",

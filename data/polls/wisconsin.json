@@ -68,6 +68,23 @@
         "polling_end_date":"2024-09-22"
     },
     {
+        "id":"147637",
+        "type":"poll_rcp_avg",
+        "pollster":"Remington Research (R)",
+        "date":"9\/16 - 9\/20",
+        "sampleSize":" LV",
+        "marginError":0.0,
+        "link":"https:\/\/www.realclearpolling.com\/stories\/analysis\/battleground-states-wrap-up-race-remains-effectively-tied",
+        "spread_winner":"Tie",
+        "spread_value":0.0,
+        "harris_value":"48",
+        "trump_value":"48",
+        "name":"2024 Wisconsin: Trump vs. Harris",
+        "slug":"wisconsin",
+        "polling_start_date":"2024-09-16",
+        "polling_end_date":"2024-09-20"
+    },
+    {
         "id":"147325",
         "type":"poll_rcp_avg",
         "pollster":"The Hill\/Emerson",
@@ -137,7 +154,7 @@
     },
     {
         "id":"147164",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"InsiderAdvantage",
         "date":"9\/11 - 9\/12",
         "sampleSize":"800 LV",

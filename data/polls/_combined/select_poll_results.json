@@ -3818,6 +3818,23 @@
     ],
     "pennsylvania": [
         {
+            "id": "147664",
+            "type": "poll_rcp_avg",
+            "pollster": "Emerson",
+            "date": "9/27 - 9/28",
+            "sampleSize": "1000 LV",
+            "marginError": 3.0,
+            "link": "https://emersoncollegepolling.com/september-2024-pennsylvania-poll-trump-48-harris-48/",
+            "spread_winner": "Tie",
+            "spread_value": 0.0,
+            "trump_value": "48",
+            "harris_value": "48",
+            "name": "2024 Pennsylvania: Trump vs. Harris",
+            "slug": "pennsylvania",
+            "polling_start_date": "2024-09-27",
+            "polling_end_date": "2024-09-28"
+        },
+        {
             "id": "147604",
             "type": "poll_rcp_avg",
             "pollster": "Trafalgar Group (R)",
@@ -3937,6 +3954,23 @@
             "polling_end_date": "2024-09-22"
         },
         {
+            "id": "147633",
+            "type": "poll_rcp_avg",
+            "pollster": "Remington Research (R)",
+            "date": "9/16 - 9/20",
+            "sampleSize": " LV",
+            "marginError": 0.0,
+            "link": "https://www.realclearpolling.com/stories/analysis/battleground-states-wrap-up-race-remains-effectively-tied",
+            "spread_winner": "Trump",
+            "spread_value": 1.0,
+            "trump_value": "48",
+            "harris_value": "47",
+            "name": "2024 Pennsylvania: Trump vs. Harris",
+            "slug": "pennsylvania",
+            "polling_start_date": "2024-09-16",
+            "polling_end_date": "2024-09-20"
+        },
+        {
             "id": "147463",
             "type": "poll_rcp_avg",
             "pollster": "Muhlenberg College",
@@ -3955,7 +3989,7 @@
         },
         {
             "id": "147323",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "The Hill/Emerson",
             "date": "9/15 - 9/18",
             "sampleSize": "880 LV",
@@ -4602,6 +4636,23 @@
             "polling_end_date": "2024-09-22"
         },
         {
+            "id": "147653",
+            "type": "poll_rcp_avg",
+            "pollster": "Remington Research (R)",
+            "date": "9/16 - 9/20",
+            "sampleSize": " LV",
+            "marginError": 0.0,
+            "link": "https://www.realclearpolling.com/stories/analysis/battleground-states-wrap-up-race-remains-effectively-tied",
+            "spread_winner": "Harris",
+            "spread_value": 2.0,
+            "harris_value": "49",
+            "trump_value": "47",
+            "name": "2024 Michigan: Trump vs. Harris",
+            "slug": "michigan",
+            "polling_start_date": "2024-09-16",
+            "polling_end_date": "2024-09-20"
+        },
+        {
             "id": "147428",
             "type": "poll_rcp_avg",
             "pollster": "USA Today/Suffolk",
@@ -5131,6 +5182,23 @@
             "polling_end_date": "2024-09-22"
         },
         {
+            "id": "147637",
+            "type": "poll_rcp_avg",
+            "pollster": "Remington Research (R)",
+            "date": "9/16 - 9/20",
+            "sampleSize": " LV",
+            "marginError": 0.0,
+            "link": "https://www.realclearpolling.com/stories/analysis/battleground-states-wrap-up-race-remains-effectively-tied",
+            "spread_winner": "Tie",
+            "spread_value": 0.0,
+            "harris_value": "48",
+            "trump_value": "48",
+            "name": "2024 Wisconsin: Trump vs. Harris",
+            "slug": "wisconsin",
+            "polling_start_date": "2024-09-16",
+            "polling_end_date": "2024-09-20"
+        },
+        {
             "id": "147325",
             "type": "poll_rcp_avg",
             "pollster": "The Hill/Emerson",
@@ -5200,7 +5268,7 @@
         },
         {
             "id": "147164",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "InsiderAdvantage",
             "date": "9/11 - 9/12",
             "sampleSize": "800 LV",
@@ -5626,6 +5694,23 @@
             "polling_end_date": "2024-09-22"
         },
         {
+            "id": "147635",
+            "type": "poll_rcp_avg",
+            "pollster": "Remington Research (R)",
+            "date": "9/16 - 9/20",
+            "sampleSize": " LV",
+            "marginError": 0.0,
+            "link": "https://www.realclearpolling.com/stories/analysis/battleground-states-wrap-up-race-remains-effectively-tied",
+            "spread_winner": "Trump",
+            "spread_value": 1.0,
+            "harris_value": "48",
+            "trump_value": "49",
+            "name": "2024 Nevada: Trump vs. Harris",
+            "slug": "nevada",
+            "polling_start_date": "2024-09-16",
+            "polling_end_date": "2024-09-20"
+        },
+        {
             "id": "147320",
             "type": "poll_rcp_avg",
             "pollster": "The Hill/Emerson",
@@ -5917,6 +6002,23 @@
     ],
     "arizona": [
         {
+            "id": "147660",
+            "type": "poll_rcp_avg",
+            "pollster": "Emerson",
+            "date": "9/27 - 9/28",
+            "sampleSize": "920 LV",
+            "marginError": 3.2,
+            "link": "https://emersoncollegepolling.com/september-2024-arizona-and-north-carolina-polls-harris-and-trump-neck-and-neck-in-key-swing-states/",
+            "spread_winner": "Trump",
+            "spread_value": 3.0,
+            "trump_value": "50",
+            "harris_value": "47",
+            "name": "2024 Arizona: Trump vs. Harris",
+            "slug": "arizona",
+            "polling_start_date": "2024-09-27",
+            "polling_end_date": "2024-09-28"
+        },
+        {
             "id": "147629",
             "type": "poll_rcp_avg",
             "pollster": "InsiderAdvantage",
@@ -6054,7 +6156,7 @@
         },
         {
             "id": "147316",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "The Hill/Emerson",
             "date": "9/15 - 9/18",
             "sampleSize": "868 LV",
@@ -6412,21 +6514,21 @@
     ],
     "north_carolina": [
         {
-            "id": "147655",
+            "id": "147662",
             "type": "poll_rcp_avg",
-            "pollster": "Quinnipiac",
-            "date": "9/25 - 9/29",
-            "sampleSize": "953 LV",
-            "marginError": 3.2,
-            "link": "https://poll.qu.edu/images/polling/ga/ga10012024_sxhq46.pdf",
+            "pollster": "Emerson",
+            "date": "9/27 - 9/28",
+            "sampleSize": "850 LV",
+            "marginError": 3.3,
+            "link": "https://emersoncollegepolling.com/september-2024-arizona-and-north-carolina-polls-harris-and-trump-neck-and-neck-in-key-swing-states/",
             "spread_winner": "Trump",
             "spread_value": 1.0,
             "trump_value": "49",
             "harris_value": "48",
             "name": "2024 North Carolina: Trump vs. Harris",
             "slug": "north_carolina",
-            "polling_start_date": "2024-09-25",
-            "polling_end_date": "2024-09-29"
+            "polling_start_date": "2024-09-27",
+            "polling_end_date": "2024-09-28"
         },
         {
             "id": "147619",
@@ -6439,6 +6541,23 @@
             "spread_winner": "Trump",
             "spread_value": 2.0,
             "trump_value": "50",
+            "harris_value": "48",
+            "name": "2024 North Carolina: Trump vs. Harris",
+            "slug": "north_carolina",
+            "polling_start_date": "2024-09-25",
+            "polling_end_date": "2024-09-29"
+        },
+        {
+            "id": "147655",
+            "type": "poll_rcp_avg",
+            "pollster": "Quinnipiac",
+            "date": "9/25 - 9/29",
+            "sampleSize": "953 LV",
+            "marginError": 3.2,
+            "link": "https://poll.qu.edu/images/polling/ga/ga10012024_sxhq46.pdf",
+            "spread_winner": "Trump",
+            "spread_value": 1.0,
+            "trump_value": "49",
             "harris_value": "48",
             "name": "2024 North Carolina: Trump vs. Harris",
             "slug": "north_carolina",
@@ -6599,25 +6718,8 @@
             "polling_end_date": "2024-09-21"
         },
         {
-            "id": "147397",
-            "type": "poll_rcp_avg",
-            "pollster": "Victory Insights",
-            "date": "9/16 - 9/18",
-            "sampleSize": "600 LV",
-            "marginError": 4.0,
-            "link": "https://drive.google.com/file/d/1Cqm7dyeTxFQGSbW2BH6YQqbv0plTVv7C/view?pli=1",
-            "spread_winner": "Trump",
-            "spread_value": 4.0,
-            "trump_value": "49",
-            "harris_value": "45",
-            "name": "2024 North Carolina: Trump vs. Harris",
-            "slug": "north_carolina",
-            "polling_start_date": "2024-09-16",
-            "polling_end_date": "2024-09-18"
-        },
-        {
             "id": "147322",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "The Hill/Emerson",
             "date": "9/15 - 9/18",
             "sampleSize": "1000 LV",
@@ -6630,6 +6732,23 @@
             "name": "2024 North Carolina: Trump vs. Harris",
             "slug": "north_carolina",
             "polling_start_date": "2024-09-15",
+            "polling_end_date": "2024-09-18"
+        },
+        {
+            "id": "147397",
+            "type": "poll",
+            "pollster": "Victory Insights",
+            "date": "9/16 - 9/18",
+            "sampleSize": "600 LV",
+            "marginError": 4.0,
+            "link": "https://drive.google.com/file/d/1Cqm7dyeTxFQGSbW2BH6YQqbv0plTVv7C/view?pli=1",
+            "spread_winner": "Trump",
+            "spread_value": 4.0,
+            "trump_value": "49",
+            "harris_value": "45",
+            "name": "2024 North Carolina: Trump vs. Harris",
+            "slug": "north_carolina",
+            "polling_start_date": "2024-09-16",
             "polling_end_date": "2024-09-18"
         },
         {

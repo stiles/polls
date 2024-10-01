@@ -1,5 +1,22 @@
 [
     {
+        "id":"147664",
+        "type":"poll_rcp_avg",
+        "pollster":"Emerson",
+        "date":"9\/27 - 9\/28",
+        "sampleSize":"1000 LV",
+        "marginError":3.0,
+        "link":"https:\/\/emersoncollegepolling.com\/september-2024-pennsylvania-poll-trump-48-harris-48\/",
+        "spread_winner":"Tie",
+        "spread_value":0.0,
+        "trump_value":"48",
+        "harris_value":"48",
+        "name":"2024 Pennsylvania: Trump vs. Harris",
+        "slug":"pennsylvania",
+        "polling_start_date":"2024-09-27",
+        "polling_end_date":"2024-09-28"
+    },
+    {
         "id":"147604",
         "type":"poll_rcp_avg",
         "pollster":"Trafalgar Group (R)",
@@ -119,6 +136,23 @@
         "polling_end_date":"2024-09-22"
     },
     {
+        "id":"147633",
+        "type":"poll_rcp_avg",
+        "pollster":"Remington Research (R)",
+        "date":"9\/16 - 9\/20",
+        "sampleSize":" LV",
+        "marginError":0.0,
+        "link":"https:\/\/www.realclearpolling.com\/stories\/analysis\/battleground-states-wrap-up-race-remains-effectively-tied",
+        "spread_winner":"Trump",
+        "spread_value":1.0,
+        "trump_value":"48",
+        "harris_value":"47",
+        "name":"2024 Pennsylvania: Trump vs. Harris",
+        "slug":"pennsylvania",
+        "polling_start_date":"2024-09-16",
+        "polling_end_date":"2024-09-20"
+    },
+    {
         "id":"147463",
         "type":"poll_rcp_avg",
         "pollster":"Muhlenberg College",
@@ -137,7 +171,7 @@
     },
     {
         "id":"147323",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"The Hill\/Emerson",
         "date":"9\/15 - 9\/18",
         "sampleSize":"880 LV",
