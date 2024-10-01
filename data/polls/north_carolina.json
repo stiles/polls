@@ -1,5 +1,22 @@
 [
     {
+        "id":"147619",
+        "type":"poll_rcp_avg",
+        "pollster":"Washington Post",
+        "date":"9\/25 - 10\/29",
+        "sampleSize":"1001 LV",
+        "marginError":3.5,
+        "link":"https:\/\/www.washingtonpost.com\/politics\/2024\/10\/01\/harris-trump-north-carolina-washington-post-poll\/",
+        "spread_winner":"Trump",
+        "spread_value":2.0,
+        "trump_value":"50",
+        "harris_value":"48",
+        "name":"2024 North Carolina: Trump vs. Harris",
+        "slug":"north_carolina",
+        "polling_start_date":"2024-09-25",
+        "polling_end_date":"2024-10-29"
+    },
+    {
         "id":"147606",
         "type":"poll_rcp_avg",
         "pollster":"East Carolina U.",
