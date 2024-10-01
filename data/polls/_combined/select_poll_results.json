@@ -3272,6 +3272,23 @@
     ],
     "georgia": [
         {
+            "id": "147632",
+            "type": "poll_rcp_avg",
+            "pollster": "InsiderAdvantage",
+            "date": "9/29 - 9/30",
+            "sampleSize": "800 LV",
+            "marginError": 3.0,
+            "link": "https://insideradvantage.com/insideradvantage-sunbelt-battleground-surveys-trump-enjoys-slim-lead-in-arizona-nevada-and-north-carolina-georgia-tied/",
+            "spread_winner": "Tie",
+            "spread_value": 0.0,
+            "trump_value": "48",
+            "harris_value": "48",
+            "name": "2024 Georgia: Trump vs. Harris",
+            "slug": "georgia",
+            "polling_start_date": "2024-09-29",
+            "polling_end_date": "2024-09-30"
+        },
+        {
             "id": "147586",
             "type": "poll_rcp_avg",
             "pollster": "Atlas Intel",
@@ -3426,7 +3443,7 @@
         },
         {
             "id": "147265",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Atlanta Journal-Constitution",
             "date": "9/9 - 9/15",
             "sampleSize": "1000 LV",
@@ -6378,6 +6395,23 @@
             "polling_end_date": "2024-10-29"
         },
         {
+            "id": "147631",
+            "type": "poll_rcp_avg",
+            "pollster": "InsiderAdvantage",
+            "date": "9/29 - 9/30",
+            "sampleSize": "800 LV",
+            "marginError": 3.0,
+            "link": "https://insideradvantage.com/insideradvantage-sunbelt-battleground-surveys-trump-enjoys-slim-lead-in-arizona-nevada-and-north-carolina-georgia-tied/",
+            "spread_winner": "Trump",
+            "spread_value": 1.0,
+            "trump_value": "50",
+            "harris_value": "49",
+            "name": "2024 North Carolina: Trump vs. Harris",
+            "slug": "north_carolina",
+            "polling_start_date": "2024-09-29",
+            "polling_end_date": "2024-09-30"
+        },
+        {
             "id": "147606",
             "type": "poll_rcp_avg",
             "pollster": "East Carolina U.",
@@ -6549,7 +6583,7 @@
         },
         {
             "id": "147342",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Carolina Journal/Cygnal*",
             "date": "9/15 - 9/16",
             "sampleSize": "600 LV",
