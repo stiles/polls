@@ -671,6 +671,17 @@
         "source":"FiveThirtyEight"
     },
     {
+        "state":"Arizona",
+        "date":"2024-10-01",
+        "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/arizona\/polling-average.json",
+        "harris":46.8,
+        "trump":47.9,
+        "winning":"R +1.1",
+        "winning_margin":1.1,
+        "state_abbr":"AZ",
+        "source":"FiveThirtyEight"
+    },
+    {
         "state":"Georgia",
         "date":"2024-07-30",
         "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/georgia\/polling-average.json",
@@ -1355,6 +1366,17 @@
     {
         "state":"Georgia",
         "date":"2024-09-30",
+        "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/georgia\/polling-average.json",
+        "harris":47.4,
+        "trump":48.1,
+        "winning":"R +0.7",
+        "winning_margin":0.7,
+        "state_abbr":"GA",
+        "source":"FiveThirtyEight"
+    },
+    {
+        "state":"Georgia",
+        "date":"2024-10-01",
         "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/georgia\/polling-average.json",
         "harris":47.4,
         "trump":48.1,
@@ -2101,6 +2123,17 @@
         "source":"FiveThirtyEight"
     },
     {
+        "state":"Michigan",
+        "date":"2024-10-01",
+        "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/michigan\/polling-average.json",
+        "harris":48.1,
+        "trump":46.3,
+        "winning":"D +1.8",
+        "winning_margin":1.8,
+        "state_abbr":"MI",
+        "source":"FiveThirtyEight"
+    },
+    {
         "state":"Minnesota",
         "date":"2024-08-19",
         "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/minnesota\/polling-average.json",
@@ -2570,6 +2603,17 @@
         "trump":43.9,
         "winning":"D +5.9",
         "winning_margin":5.9,
+        "state_abbr":"MN",
+        "source":"FiveThirtyEight"
+    },
+    {
+        "state":"Minnesota",
+        "date":"2024-10-01",
+        "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/minnesota\/polling-average.json",
+        "harris":49.7,
+        "trump":43.9,
+        "winning":"D +5.8",
+        "winning_margin":5.8,
         "state_abbr":"MN",
         "source":"FiveThirtyEight"
     },
@@ -3146,6 +3190,17 @@
         "source":"FiveThirtyEight"
     },
     {
+        "state":"Nevada",
+        "date":"2024-10-01",
+        "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/nevada\/polling-average.json",
+        "harris":48.0,
+        "trump":46.6,
+        "winning":"D +1.4",
+        "winning_margin":1.4,
+        "state_abbr":"NV",
+        "source":"FiveThirtyEight"
+    },
+    {
         "state":"North Carolina",
         "date":"2024-08-12",
         "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/north-carolina\/polling-average.json",
@@ -3687,6 +3742,17 @@
     {
         "state":"North Carolina",
         "date":"2024-09-30",
+        "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/north-carolina\/polling-average.json",
+        "harris":47.5,
+        "trump":47.7,
+        "winning":"R +0.2",
+        "winning_margin":0.2,
+        "state_abbr":"NC",
+        "source":"FiveThirtyEight"
+    },
+    {
+        "state":"North Carolina",
+        "date":"2024-10-01",
         "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/north-carolina\/polling-average.json",
         "harris":47.5,
         "trump":47.7,
@@ -4389,6 +4455,17 @@
         "source":"FiveThirtyEight"
     },
     {
+        "state":"Pennsylvania",
+        "date":"2024-10-01",
+        "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/pennsylvania\/polling-average.json",
+        "harris":47.9,
+        "trump":47.2,
+        "winning":"D +0.7",
+        "winning_margin":0.7,
+        "state_abbr":"PA",
+        "source":"FiveThirtyEight"
+    },
+    {
         "state":"Wisconsin",
         "date":"2024-08-01",
         "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/wisconsin\/polling-average.json",
@@ -5056,6 +5133,17 @@
         "trump":46.7,
         "winning":"D +1.8",
         "winning_margin":1.8,
+        "state_abbr":"WI",
+        "source":"FiveThirtyEight"
+    },
+    {
+        "state":"Wisconsin",
+        "date":"2024-10-01",
+        "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/wisconsin\/polling-average.json",
+        "harris":48.5,
+        "trump":46.8,
+        "winning":"D +1.7",
+        "winning_margin":1.7,
         "state_abbr":"WI",
         "source":"FiveThirtyEight"
     }

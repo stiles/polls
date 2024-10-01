@@ -1,4 +1,5 @@
 id,type,pollster,date,sampleSize,marginError,link,spread_winner,spread_value,trump_value,harris_value,name,slug,polling_start_date,polling_end_date
+147629,poll_rcp_avg,InsiderAdvantage,9/29 - 9/30,800 LV,3.0,https://insideradvantage.com/insideradvantage-sunbelt-battleground-surveys-trump-enjoys-slim-lead-in-arizona-nevada-and-north-carolina-georgia-tied/,Trump,1.0,49,48,2024 Arizona: Trump vs. Harris,arizona,2024-09-29,2024-09-30
 147534,poll_rcp_avg,USA Today/Suffolk,9/21 - 9/24,500 LV,4.4,https://www.usatoday.com/story/news/politics/elections/2024/09/27/harris-heads-to-southern-border-in-arizona-where-shes-losing-ground/75391595007/,Trump,6.0,48,42,2024 Arizona: Trump vs. Harris,arizona,2024-09-21,2024-09-24
 147584,poll_rcp_avg,Atlas Intel,9/20 - 9/25,946 LV,3.0,https://www.realclearpolitics.com/docs/2024/Atlas-Poll-US-Swing-States-Sept-24-Arizona.pdf,Trump,1.0,50,49,2024 Arizona: Trump vs. Harris,arizona,2024-09-20,2024-09-25
 147515,poll_rcp_avg,FOX News,9/20 - 9/24,764 LV,3.5,https://www.foxnews.com/official-polls/fox-news-poll-voters-choice-flipped-arizona-since-last-month,Trump,3.0,51,48,2024 Arizona: Trump vs. Harris,arizona,2024-09-20,2024-09-24
