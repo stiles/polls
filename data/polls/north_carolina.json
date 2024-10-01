@@ -1,9 +1,26 @@
 [
     {
+        "id":"147655",
+        "type":"poll_rcp_avg",
+        "pollster":"Quinnipiac",
+        "date":"9\/25 - 9\/29",
+        "sampleSize":"953 LV",
+        "marginError":3.2,
+        "link":"https:\/\/poll.qu.edu\/images\/polling\/ga\/ga10012024_sxhq46.pdf",
+        "spread_winner":"Trump",
+        "spread_value":1.0,
+        "trump_value":"49",
+        "harris_value":"48",
+        "name":"2024 North Carolina: Trump vs. Harris",
+        "slug":"north_carolina",
+        "polling_start_date":"2024-09-25",
+        "polling_end_date":"2024-09-29"
+    },
+    {
         "id":"147619",
         "type":"poll_rcp_avg",
         "pollster":"Washington Post",
-        "date":"9\/25 - 10\/29",
+        "date":"9\/25 - 9\/29",
         "sampleSize":"1001 LV",
         "marginError":3.5,
         "link":"https:\/\/www.washingtonpost.com\/politics\/2024\/10\/01\/harris-trump-north-carolina-washington-post-poll\/",
@@ -14,7 +31,7 @@
         "name":"2024 North Carolina: Trump vs. Harris",
         "slug":"north_carolina",
         "polling_start_date":"2024-09-25",
-        "polling_end_date":"2024-10-29"
+        "polling_end_date":"2024-09-29"
     },
     {
         "id":"147631",

@@ -1,4 +1,5 @@
 id,type,pollster,date,sampleSize,marginError,link,spread_winner,spread_value,trump_value,harris_value,name,slug,polling_start_date,polling_end_date
+147657,poll_rcp_avg,Quinnipiac,9/25 - 9/29,942 LV,3.2,https://poll.qu.edu/images/polling/ga/ga10012024_sxhq46.pdf,Trump,5.0,50,45,2024 Georgia: Trump vs. Harris,georgia,2024-09-25,2024-09-29
 147632,poll_rcp_avg,InsiderAdvantage,9/29 - 9/30,800 LV,3.0,https://insideradvantage.com/insideradvantage-sunbelt-battleground-surveys-trump-enjoys-slim-lead-in-arizona-nevada-and-north-carolina-georgia-tied/,Tie,0.0,48,48,2024 Georgia: Trump vs. Harris,georgia,2024-09-29,2024-09-30
 147586,poll_rcp_avg,Atlas Intel,9/20 - 9/25,1200 LV,3.0,https://www.realclearpolitics.com/docs/2024/Atlas-Poll-US-Swing-States-Sept-24-Georgia.pdf,Trump,1.0,50,49,2024 Georgia: Trump vs. Harris,georgia,2024-09-20,2024-09-25
 147492,poll_rcp_avg,CBS News,9/20 - 9/24,1441 LV,3.3,https://www.cbsnews.com/news/trump-harris-poll-georgia/,Trump,2.0,51,49,2024 Georgia: Trump vs. Harris,georgia,2024-09-20,2024-09-24

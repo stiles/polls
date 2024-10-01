@@ -1,4 +1,5 @@
 id,type,pollster,date,sampleSize,marginError,link,spread_winner,spread_value,harris_value,trump_value,name,slug,polling_start_date,polling_end_date
+147642,poll_rcp_avg,New York Post,9/27 - 9/29,851 LV,3.1,https://nypost.com/2024/10/01/us-news/harris-ahead-by-4-points-nationwide-but-majority-of-likely-voters-prefer-trump-to-handle-inflation-immigration-and-jobs-poll/,Harris,4.0,51,47,2024 General Election: Trump vs Harris,general,2024-09-27,2024-09-29
 147623,poll_rcp_avg,Morning Consult,9/27 - 9/29,11381 LV,1.0,https://www.realclearpolitics.com/docs/2024/Morning_Consult_Sept_27-29_2024.pdf,Harris,5.0,51,46,2024 General Election: Trump vs Harris,general,2024-09-27,2024-09-29
 147507,poll_rcp_avg,Rasmussen Reports,9/19 - 9/25,1820 LV,2.0,https://www.rasmussenreports.com/public_content/politics/elections/election_2024/election2024,Trump,2.0,46,48,2024 General Election: Trump vs Harris,general,2024-09-19,2024-09-25
 147455,poll_rcp_avg,Quinnipiac,9/19 - 9/22,1728 LV,2.4,https://poll.qu.edu/images/polling/us/us09242024_urah86.pdf,Tie,0.0,48,48,2024 General Election: Trump vs Harris,general,2024-09-19,2024-09-22

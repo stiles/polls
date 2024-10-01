@@ -1,5 +1,22 @@
 [
     {
+        "id":"147642",
+        "type":"poll_rcp_avg",
+        "pollster":"New York Post",
+        "date":"9\/27 - 9\/29",
+        "sampleSize":"851 LV",
+        "marginError":3.1,
+        "link":"https:\/\/nypost.com\/2024\/10\/01\/us-news\/harris-ahead-by-4-points-nationwide-but-majority-of-likely-voters-prefer-trump-to-handle-inflation-immigration-and-jobs-poll\/",
+        "spread_winner":"Harris",
+        "spread_value":4.0,
+        "harris_value":"51",
+        "trump_value":"47",
+        "name":"2024 General Election: Trump vs Harris",
+        "slug":"general",
+        "polling_start_date":"2024-09-27",
+        "polling_end_date":"2024-09-29"
+    },
+    {
         "id":"147623",
         "type":"poll_rcp_avg",
         "pollster":"Morning Consult",
