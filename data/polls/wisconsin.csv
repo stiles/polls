@@ -1,4 +1,5 @@
 id,type,pollster,date,sampleSize,marginError,link,spread_winner,spread_value,harris_value,trump_value,name,slug,polling_start_date,polling_end_date
+147666,poll_rcp_avg,Trafalgar Group (R),9/28 - 9/30,1079 LV,2.9,https://www.thetrafalgargroup.org/wp-content/uploads/2024/10/WI-Gen-Pres-Report-1001.pdf,Trump,1.0,46,47,2024 Wisconsin: Trump vs. Harris,wisconsin,2024-09-28,2024-09-30
 147571,poll_rcp_avg,NY Times/Siena,9/21 - 9/26,680 LV,0.0,https://www.nytimes.com/2024/09/28/us/politics/harris-trump-poll-michigan-wisconsin.html,Harris,2.0,49,47,2024 Wisconsin: Trump vs. Harris,wisconsin,2024-09-21,2024-09-26
 147599,poll_rcp_avg,Atlas Intel,9/20 - 9/25,1077 LV,3.0,https://www.realclearpolitics.com/docs/2024/Atlas-Poll-US-Swing-States-Sept-24-Wisconsin.pdf,Trump,2.0,48,50,2024 Wisconsin: Trump vs. Harris,wisconsin,2024-09-20,2024-09-25
 147532,poll_rcp_avg,Bloomberg,9/19 - 9/25,785 LV,3.0,https://www.bloomberg.com/news/features/2024-09-26/harris-holds-thin-lead-over-trump-in-swing-state-poll-election-2024,Harris,3.0,51,48,2024 Wisconsin: Trump vs. Harris,wisconsin,2024-09-19,2024-09-25

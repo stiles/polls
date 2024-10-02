@@ -92,18 +92,18 @@
         "id": "8305",
         "type": "rcp_average",
         "pollster": "rcp_average",
-        "date": "9/11 - 9/26",
+        "date": "9/11 - 9/30",
         "sampleSize": "",
         "marginError": 0.0,
         "link": null,
         "spread_winner": "Harris",
-        "spread_value": 0.6,
-        "harris_value": "49.0",
-        "trump_value": "48.4",
+        "spread_value": 0.4,
+        "harris_value": "48.7",
+        "trump_value": "48.3",
         "name": "2024 Wisconsin: Trump vs. Harris",
         "slug": "wisconsin",
         "polling_start_date": "2024-09-11",
-        "polling_end_date": "2024-09-26"
+        "polling_end_date": "2024-09-30"
     },
     {
         "id": "8306",
