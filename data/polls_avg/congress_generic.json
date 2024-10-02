@@ -3,17 +3,17 @@
         "id":"7969",
         "type":"rcp_average",
         "pollster":"rcp_average",
-        "date":"8\/15 - 9\/24",
+        "date":"8\/15 - 10\/1",
         "sampleSize":"",
         "marginError":0.0,
         "link":null,
         "spread_winner":"Democrats",
-        "spread_value":1.8,
-        "democrats_value":"46.3",
+        "spread_value":1.9,
+        "democrats_value":"46.4",
         "republicans_value":"44.5",
         "name":"2024 Generic Congressional Vote",
         "slug":"congress_generic",
         "polling_start_date":"2024-08-15",
-        "polling_end_date":"2024-09-24"
+        "polling_end_date":"2024-10-01"
     }
 ]
