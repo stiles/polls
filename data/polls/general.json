@@ -34,6 +34,23 @@
         "polling_end_date":"2024-09-29"
     },
     {
+        "id":"147703",
+        "type":"poll",
+        "pollster":"Ipsos",
+        "date":"9\/25 - 9\/30",
+        "sampleSize":"1313 LV",
+        "marginError":2.9,
+        "link":"https:\/\/www.ipsos.com\/sites\/default\/files\/ct\/news\/documents\/2024-10\/Ipsos%20National%20Poll%20Topline%20Oct%202024.pdf",
+        "spread_winner":"Harris",
+        "spread_value":4.0,
+        "harris_value":"48",
+        "trump_value":"44",
+        "name":"2024 General Election: Trump vs Harris",
+        "slug":"general",
+        "polling_start_date":"2024-09-25",
+        "polling_end_date":"2024-09-30"
+    },
+    {
         "id":"147507",
         "type":"poll_rcp_avg",
         "pollster":"Rasmussen Reports",
@@ -49,6 +66,23 @@
         "slug":"general",
         "polling_start_date":"2024-09-19",
         "polling_end_date":"2024-09-25"
+    },
+    {
+        "id":"147704",
+        "type":"poll_rcp_avg",
+        "pollster":"Susquehanna",
+        "date":"9\/23 - 10\/1",
+        "sampleSize":"1001 LV",
+        "marginError":3.2,
+        "link":"https:\/\/www.realclearpolitics.com\/docs\/2024\/Toplines-USA-Public-Oct2024.pdf",
+        "spread_winner":"Harris",
+        "spread_value":5.0,
+        "harris_value":"49",
+        "trump_value":"44",
+        "name":"2024 General Election: Trump vs Harris",
+        "slug":"general",
+        "polling_start_date":"2024-09-23",
+        "polling_end_date":"2024-10-01"
     },
     {
         "id":"147455",
