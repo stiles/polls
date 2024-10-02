@@ -51,6 +51,23 @@
         "polling_end_date":"2024-09-25"
     },
     {
+        "id":"147668",
+        "type":"poll_rcp_avg",
+        "pollster":"Cook Political Report",
+        "date":"9\/19 - 9\/25",
+        "sampleSize":"411 LV",
+        "marginError":0.0,
+        "link":"https:\/\/www.cookpolitical.com\/analysis\/survey-research\/2024-swing-state-project\/swing-state-polling-finds-deadlocked-presidential",
+        "spread_winner":"Harris",
+        "spread_value":2.0,
+        "harris_value":"49",
+        "trump_value":"47",
+        "name":"2024 Wisconsin: Trump vs. Harris",
+        "slug":"wisconsin",
+        "polling_start_date":"2024-09-19",
+        "polling_end_date":"2024-09-25"
+    },
+    {
         "id":"147532",
         "type":"poll_rcp_avg",
         "pollster":"Bloomberg",
@@ -137,7 +154,7 @@
     },
     {
         "id":"147296",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Quinnipiac",
         "date":"9\/12 - 9\/16",
         "sampleSize":"1075 LV",
@@ -154,7 +171,7 @@
     },
     {
         "id":"147302",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Fabrizio\/Anzalone",
         "date":"9\/11 - 9\/14",
         "sampleSize":"600 LV",

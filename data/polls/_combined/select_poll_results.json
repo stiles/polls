@@ -3374,21 +3374,21 @@
             "polling_end_date": "2024-09-24"
         },
         {
-            "id": "147496",
+            "id": "147675",
             "type": "poll_rcp_avg",
-            "pollster": "Marist",
-            "date": "9/19 - 9/24",
-            "sampleSize": "1220 LV",
-            "marginError": 3.9,
-            "link": "https://maristpoll.marist.edu/polls/u-s-presidential-contest-georgia-september-2024/",
+            "pollster": "Cook Political Report",
+            "date": "9/19 - 9/25",
+            "sampleSize": "411 LV",
+            "marginError": 0.0,
+            "link": "https://www.cookpolitical.com/analysis/survey-research/2024-swing-state-project/swing-state-polling-finds-deadlocked-presidential",
             "spread_winner": "Trump",
-            "spread_value": 1.0,
-            "trump_value": "50",
-            "harris_value": "49",
+            "spread_value": 2.0,
+            "trump_value": "49",
+            "harris_value": "47",
             "name": "2024 Georgia: Trump vs. Harris",
             "slug": "georgia",
             "polling_start_date": "2024-09-19",
-            "polling_end_date": "2024-09-24"
+            "polling_end_date": "2024-09-25"
         },
         {
             "id": "147522",
@@ -3406,6 +3406,23 @@
             "slug": "georgia",
             "polling_start_date": "2024-09-19",
             "polling_end_date": "2024-09-25"
+        },
+        {
+            "id": "147496",
+            "type": "poll_rcp_avg",
+            "pollster": "Marist",
+            "date": "9/19 - 9/24",
+            "sampleSize": "1220 LV",
+            "marginError": 3.9,
+            "link": "https://maristpoll.marist.edu/polls/u-s-presidential-contest-georgia-september-2024/",
+            "spread_winner": "Trump",
+            "spread_value": 1.0,
+            "trump_value": "50",
+            "harris_value": "49",
+            "name": "2024 Georgia: Trump vs. Harris",
+            "slug": "georgia",
+            "polling_start_date": "2024-09-19",
+            "polling_end_date": "2024-09-24"
         },
         {
             "id": "147433",
@@ -3883,6 +3900,23 @@
             "name": "2024 Pennsylvania: Trump vs. Harris",
             "slug": "pennsylvania",
             "polling_start_date": "2024-09-20",
+            "polling_end_date": "2024-09-25"
+        },
+        {
+            "id": "147670",
+            "type": "poll_rcp_avg",
+            "pollster": "Cook Political Report",
+            "date": "9/19 - 9/25",
+            "sampleSize": "474 LV",
+            "marginError": 0.0,
+            "link": "https://www.cookpolitical.com/analysis/survey-research/2024-swing-state-project/swing-state-polling-finds-deadlocked-presidential",
+            "spread_winner": "Harris",
+            "spread_value": 1.0,
+            "trump_value": "49",
+            "harris_value": "50",
+            "name": "2024 Pennsylvania: Trump vs. Harris",
+            "slug": "pennsylvania",
+            "polling_start_date": "2024-09-19",
             "polling_end_date": "2024-09-25"
         },
         {
@@ -4602,6 +4636,23 @@
             "polling_end_date": "2024-09-25"
         },
         {
+            "id": "147672",
+            "type": "poll_rcp_avg",
+            "pollster": "Cook Political Report",
+            "date": "9/19 - 9/25",
+            "sampleSize": "416 LV",
+            "marginError": 0.0,
+            "link": "https://www.cookpolitical.com/analysis/survey-research/2024-swing-state-project/swing-state-polling-finds-deadlocked-presidential",
+            "spread_winner": "Harris",
+            "spread_value": 3.0,
+            "harris_value": "51",
+            "trump_value": "48",
+            "name": "2024 Michigan: Trump vs. Harris",
+            "slug": "michigan",
+            "polling_start_date": "2024-09-19",
+            "polling_end_date": "2024-09-25"
+        },
+        {
             "id": "147524",
             "type": "poll_rcp_avg",
             "pollster": "Bloomberg",
@@ -4705,7 +4756,7 @@
         },
         {
             "id": "147293",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Quinnipiac",
             "date": "9/12 - 9/16",
             "sampleSize": "905 LV",
@@ -4722,7 +4773,7 @@
         },
         {
             "id": "147126",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "InsiderAdvantage",
             "date": "9/11 - 9/12",
             "sampleSize": "800 LV",
@@ -4739,7 +4790,7 @@
         },
         {
             "id": "147140",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "MIRS/MI News Source",
             "date": "9/11 - 9/11",
             "sampleSize": "580 LV",
@@ -5165,6 +5216,23 @@
             "polling_end_date": "2024-09-25"
         },
         {
+            "id": "147668",
+            "type": "poll_rcp_avg",
+            "pollster": "Cook Political Report",
+            "date": "9/19 - 9/25",
+            "sampleSize": "411 LV",
+            "marginError": 0.0,
+            "link": "https://www.cookpolitical.com/analysis/survey-research/2024-swing-state-project/swing-state-polling-finds-deadlocked-presidential",
+            "spread_winner": "Harris",
+            "spread_value": 2.0,
+            "harris_value": "49",
+            "trump_value": "47",
+            "name": "2024 Wisconsin: Trump vs. Harris",
+            "slug": "wisconsin",
+            "polling_start_date": "2024-09-19",
+            "polling_end_date": "2024-09-25"
+        },
+        {
             "id": "147532",
             "type": "poll_rcp_avg",
             "pollster": "Bloomberg",
@@ -5251,7 +5319,7 @@
         },
         {
             "id": "147296",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Quinnipiac",
             "date": "9/12 - 9/16",
             "sampleSize": "1075 LV",
@@ -5268,7 +5336,7 @@
         },
         {
             "id": "147302",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Fabrizio/Anzalone",
             "date": "9/11 - 9/14",
             "sampleSize": "600 LV",
@@ -5674,6 +5742,23 @@
             "name": "2024 Nevada: Trump vs. Harris",
             "slug": "nevada",
             "polling_start_date": "2024-09-20",
+            "polling_end_date": "2024-09-25"
+        },
+        {
+            "id": "147676",
+            "type": "poll_rcp_avg",
+            "pollster": "Cook Political Report",
+            "date": "9/19 - 9/25",
+            "sampleSize": "409 LV",
+            "marginError": 0.0,
+            "link": "https://www.cookpolitical.com/analysis/survey-research/2024-swing-state-project/swing-state-polling-finds-deadlocked-presidential",
+            "spread_winner": "Harris",
+            "spread_value": 1.0,
+            "harris_value": "48",
+            "trump_value": "47",
+            "name": "2024 Nevada: Trump vs. Harris",
+            "slug": "nevada",
+            "polling_start_date": "2024-09-19",
             "polling_end_date": "2024-09-25"
         },
         {
@@ -6087,21 +6172,21 @@
             "polling_end_date": "2024-09-25"
         },
         {
-            "id": "147515",
+            "id": "147678",
             "type": "poll_rcp_avg",
-            "pollster": "FOX News",
-            "date": "9/20 - 9/24",
-            "sampleSize": "764 LV",
-            "marginError": 3.5,
-            "link": "https://www.foxnews.com/official-polls/fox-news-poll-voters-choice-flipped-arizona-since-last-month",
-            "spread_winner": "Trump",
-            "spread_value": 3.0,
-            "trump_value": "51",
-            "harris_value": "48",
+            "pollster": "Cook Political Report",
+            "date": "9/19 - 9/25",
+            "sampleSize": "409 LV",
+            "marginError": 0.0,
+            "link": "https://www.cookpolitical.com/analysis/survey-research/2024-swing-state-project/swing-state-polling-finds-deadlocked-presidential",
+            "spread_winner": "Harris",
+            "spread_value": 2.0,
+            "trump_value": "48",
+            "harris_value": "50",
             "name": "2024 Arizona: Trump vs. Harris",
             "slug": "arizona",
-            "polling_start_date": "2024-09-20",
-            "polling_end_date": "2024-09-24"
+            "polling_start_date": "2024-09-19",
+            "polling_end_date": "2024-09-25"
         },
         {
             "id": "147520",
@@ -6119,6 +6204,23 @@
             "slug": "arizona",
             "polling_start_date": "2024-09-19",
             "polling_end_date": "2024-09-25"
+        },
+        {
+            "id": "147515",
+            "type": "poll_rcp_avg",
+            "pollster": "FOX News",
+            "date": "9/20 - 9/24",
+            "sampleSize": "764 LV",
+            "marginError": 3.5,
+            "link": "https://www.foxnews.com/official-polls/fox-news-poll-voters-choice-flipped-arizona-since-last-month",
+            "spread_winner": "Trump",
+            "spread_value": 3.0,
+            "trump_value": "51",
+            "harris_value": "48",
+            "name": "2024 Arizona: Trump vs. Harris",
+            "slug": "arizona",
+            "polling_start_date": "2024-09-20",
+            "polling_end_date": "2024-09-24"
         },
         {
             "id": "147495",
@@ -6665,6 +6767,23 @@
             "slug": "north_carolina",
             "polling_start_date": "2024-09-20",
             "polling_end_date": "2024-09-24"
+        },
+        {
+            "id": "147674",
+            "type": "poll_rcp_avg",
+            "pollster": "Cook Political Report",
+            "date": "9/19 - 9/25",
+            "sampleSize": "411 LV",
+            "marginError": 0.0,
+            "link": "https://www.cookpolitical.com/analysis/survey-research/2024-swing-state-project/swing-state-polling-finds-deadlocked-presidential",
+            "spread_winner": "Tie",
+            "spread_value": 0.0,
+            "trump_value": "49",
+            "harris_value": "49",
+            "name": "2024 North Carolina: Trump vs. Harris",
+            "slug": "north_carolina",
+            "polling_start_date": "2024-09-19",
+            "polling_end_date": "2024-09-25"
         },
         {
             "id": "147528",

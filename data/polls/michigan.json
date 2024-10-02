@@ -34,6 +34,23 @@
         "polling_end_date":"2024-09-25"
     },
     {
+        "id":"147672",
+        "type":"poll_rcp_avg",
+        "pollster":"Cook Political Report",
+        "date":"9\/19 - 9\/25",
+        "sampleSize":"416 LV",
+        "marginError":0.0,
+        "link":"https:\/\/www.cookpolitical.com\/analysis\/survey-research\/2024-swing-state-project\/swing-state-polling-finds-deadlocked-presidential",
+        "spread_winner":"Harris",
+        "spread_value":3.0,
+        "harris_value":"51",
+        "trump_value":"48",
+        "name":"2024 Michigan: Trump vs. Harris",
+        "slug":"michigan",
+        "polling_start_date":"2024-09-19",
+        "polling_end_date":"2024-09-25"
+    },
+    {
         "id":"147524",
         "type":"poll_rcp_avg",
         "pollster":"Bloomberg",
@@ -137,7 +154,7 @@
     },
     {
         "id":"147293",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Quinnipiac",
         "date":"9\/12 - 9\/16",
         "sampleSize":"905 LV",
@@ -154,7 +171,7 @@
     },
     {
         "id":"147126",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"InsiderAdvantage",
         "date":"9\/11 - 9\/12",
         "sampleSize":"800 LV",
@@ -171,7 +188,7 @@
     },
     {
         "id":"147140",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"MIRS\/MI News Source",
         "date":"9\/11 - 9\/11",
         "sampleSize":"580 LV",

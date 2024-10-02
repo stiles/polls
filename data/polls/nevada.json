@@ -51,6 +51,23 @@
         "polling_end_date":"2024-09-25"
     },
     {
+        "id":"147676",
+        "type":"poll_rcp_avg",
+        "pollster":"Cook Political Report",
+        "date":"9\/19 - 9\/25",
+        "sampleSize":"409 LV",
+        "marginError":0.0,
+        "link":"https:\/\/www.cookpolitical.com\/analysis\/survey-research\/2024-swing-state-project\/swing-state-polling-finds-deadlocked-presidential",
+        "spread_winner":"Harris",
+        "spread_value":1.0,
+        "harris_value":"48",
+        "trump_value":"47",
+        "name":"2024 Nevada: Trump vs. Harris",
+        "slug":"nevada",
+        "polling_start_date":"2024-09-19",
+        "polling_end_date":"2024-09-25"
+    },
+    {
         "id":"147526",
         "type":"poll_rcp_avg",
         "pollster":"Bloomberg",

@@ -68,21 +68,21 @@
         "polling_end_date":"2024-09-25"
     },
     {
-        "id":"147515",
+        "id":"147678",
         "type":"poll_rcp_avg",
-        "pollster":"FOX News",
-        "date":"9\/20 - 9\/24",
-        "sampleSize":"764 LV",
-        "marginError":3.5,
-        "link":"https:\/\/www.foxnews.com\/official-polls\/fox-news-poll-voters-choice-flipped-arizona-since-last-month",
-        "spread_winner":"Trump",
-        "spread_value":3.0,
-        "trump_value":"51",
-        "harris_value":"48",
+        "pollster":"Cook Political Report",
+        "date":"9\/19 - 9\/25",
+        "sampleSize":"409 LV",
+        "marginError":0.0,
+        "link":"https:\/\/www.cookpolitical.com\/analysis\/survey-research\/2024-swing-state-project\/swing-state-polling-finds-deadlocked-presidential",
+        "spread_winner":"Harris",
+        "spread_value":2.0,
+        "trump_value":"48",
+        "harris_value":"50",
         "name":"2024 Arizona: Trump vs. Harris",
         "slug":"arizona",
-        "polling_start_date":"2024-09-20",
-        "polling_end_date":"2024-09-24"
+        "polling_start_date":"2024-09-19",
+        "polling_end_date":"2024-09-25"
     },
     {
         "id":"147520",
@@ -100,6 +100,23 @@
         "slug":"arizona",
         "polling_start_date":"2024-09-19",
         "polling_end_date":"2024-09-25"
+    },
+    {
+        "id":"147515",
+        "type":"poll_rcp_avg",
+        "pollster":"FOX News",
+        "date":"9\/20 - 9\/24",
+        "sampleSize":"764 LV",
+        "marginError":3.5,
+        "link":"https:\/\/www.foxnews.com\/official-polls\/fox-news-poll-voters-choice-flipped-arizona-since-last-month",
+        "spread_winner":"Trump",
+        "spread_value":3.0,
+        "trump_value":"51",
+        "harris_value":"48",
+        "name":"2024 Arizona: Trump vs. Harris",
+        "slug":"arizona",
+        "polling_start_date":"2024-09-20",
+        "polling_end_date":"2024-09-24"
     },
     {
         "id":"147495",
