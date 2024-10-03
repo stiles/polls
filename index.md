@@ -66,18 +66,18 @@ The latest forecasts for the 2024 presidential election based on models develope
 |-------|--------|--------|
 | Arizona | <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>R +1.2</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/arizona/polling-average.json) |
 | Georgia | <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>R +1.1</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/georgia/polling-average.json) |
-| Michigan | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +1.9</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/michigan/polling-average.json) |
+| Michigan | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +1.8</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/michigan/polling-average.json) |
 | Minnesota | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +6.0</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/minnesota/polling-average.json) |
 | Nevada | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +1.0</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/nevada/polling-average.json) |
 | North Carolina | <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>R +0.5</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/north-carolina/polling-average.json) |
 | Pennsylvania | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +0.8</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/pennsylvania/polling-average.json) |
-| Wisconsin | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +1.7</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/wisconsin/polling-average.json) |
+| Wisconsin | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +1.8</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/wisconsin/polling-average.json) |
 
 
 **Data:** [Latest](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/state_averages_latest.json), [trend](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/state_averages_trend.json)
 
 ### All the national polling averages
-<span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>Vice President Kamala Harris</span> is leading in the national polls by a <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>3.4 percentage point</span> margin over former President Donald Trump, according to an average of prominent polling averages.
+<span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>Vice President Kamala Harris</span> is leading in the national polls by a <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>3.3 percentage point</span> margin over former President Donald Trump, according to an average of prominent polling averages.
 
 | Place             | Margin               | Source       |
 |-------------------|----------------------|--------------|
@@ -88,11 +88,11 @@ The latest forecasts for the 2024 presidential election based on models develope
 | US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +4.2</span> |[270toWin](https://www.270towin.com/2024-presidential-election-polls/) 
 | US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +4.1</span> |[Economist](https://www.economist.com/interactive/us-2024-election/trump-harris-polls) 
 | US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +3.0</span> |[New York Times](https://www.nytimes.com/interactive/2024/us/elections/polls-president.html) 
-| US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +4.6</span> |[The Hill](https://elections2024.thehill.com/national/harris-trump-general/) 
+| US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +4.4</span> |[The Hill](https://elections2024.thehill.com/national/harris-trump-general/) 
 
 
  **Data:** [Latest](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/averages_latest.json), [trend](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/averages_trend.json) 
 
  **About this page:** [Github repo](https://github.com/stiles/polls) 
 
- **Last update:** *8 a.m. ET, October 3*.
+ **Last update:** *10 a.m. ET, October 3*.
