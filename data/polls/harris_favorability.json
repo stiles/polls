@@ -34,6 +34,23 @@
         "polling_end_date":"2024-10-01"
     },
     {
+        "id":"147728",
+        "type":"poll_rcp_avg",
+        "pollster":"NPR\/PBS\/Marist",
+        "date":"9\/27 - 10\/1",
+        "sampleSize":"1294 LV",
+        "marginError":3.7,
+        "link":"https:\/\/maristpoll.marist.edu\/wp-content\/uploads\/2024\/10\/NPR_PBS-News_Marist-Poll_USA-NOS-and-Tables_202410021120-1.pdf",
+        "spread_winner":"Favorable",
+        "spread_value":2.0,
+        "favorable_value":"50",
+        "unfavorable_value":"48",
+        "name":"Kamala Harris Favorability",
+        "slug":"harris_favorability",
+        "polling_start_date":"2024-09-27",
+        "polling_end_date":"2024-10-01"
+    },
+    {
         "id":"147643",
         "type":"poll_rcp_avg",
         "pollster":"New York Post",

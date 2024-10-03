@@ -3,17 +3,17 @@
         "id":"7386",
         "type":"rcp_average",
         "pollster":"rcp_average",
-        "date":"9\/11 - 10\/2",
+        "date":"9\/19 - 10\/2",
         "sampleSize":"",
         "marginError":0.0,
         "link":null,
         "spread_winner":"Harris",
         "spread_value":2.2,
-        "harris_value":"49.4",
-        "trump_value":"47.2",
+        "harris_value":"49.1",
+        "trump_value":"46.9",
         "name":"2024 General Election: Trump vs Harris",
         "slug":"general",
-        "polling_start_date":"2024-09-11",
+        "polling_start_date":"2024-09-19",
         "polling_end_date":"2024-10-02"
     }
 ]
