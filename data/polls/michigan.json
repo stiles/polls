@@ -1,5 +1,22 @@
 [
     {
+        "id":"147720",
+        "type":"poll_rcp_avg",
+        "pollster":"MIRS\/MI News Source",
+        "date":"9\/30 - 9\/30",
+        "sampleSize":"709 LV",
+        "marginError":3.7,
+        "link":"https:\/\/www.realclearpolitics.com\/docs\/2024\/MIRS-MI_News_Source_Poll.pdf",
+        "spread_winner":"Trump",
+        "spread_value":1.0,
+        "harris_value":"48",
+        "trump_value":"49",
+        "name":"2024 Michigan: Trump vs. Harris",
+        "slug":"michigan",
+        "polling_start_date":"2024-09-30",
+        "polling_end_date":"2024-09-30"
+    },
+    {
         "id":"147701",
         "type":"poll_rcp_avg",
         "pollster":"Trafalgar Group (R)",
@@ -154,7 +171,7 @@
     },
     {
         "id":"147341",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Marist",
         "date":"9\/12 - 9\/17",
         "sampleSize":"1138 LV",
