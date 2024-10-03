@@ -1,5 +1,22 @@
 [
     {
+        "id":"147712",
+        "type":"poll_rcp_avg",
+        "pollster":"Emerson",
+        "date":"9\/29 - 10\/1",
+        "sampleSize":"1000 LV",
+        "marginError":3.0,
+        "link":"https:\/\/emersoncollegepolling.com\/october-2024-national-poll-harris-50-trump-48\/",
+        "spread_winner":"Harris",
+        "spread_value":1.0,
+        "harris_value":"50",
+        "trump_value":"49",
+        "name":"2024 General Election: Trump vs Harris",
+        "slug":"general",
+        "polling_start_date":"2024-09-29",
+        "polling_end_date":"2024-10-01"
+    },
+    {
         "id":"147642",
         "type":"poll_rcp_avg",
         "pollster":"New York Post",
