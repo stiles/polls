@@ -85,6 +85,23 @@
         "polling_end_date":"2024-09-26"
     },
     {
+        "id":"147724",
+        "type":"poll_rcp_avg",
+        "pollster":"High Point University",
+        "date":"9\/20 - 9\/29",
+        "sampleSize":"589 LV",
+        "marginError":4.9,
+        "link":"https:\/\/www.highpoint.edu\/src\/files\/2023\/08\/106memoPOLS.pdf",
+        "spread_winner":"Tie",
+        "spread_value":0.0,
+        "trump_value":"48",
+        "harris_value":"48",
+        "name":"2024 North Carolina: Trump vs. Harris",
+        "slug":"north_carolina",
+        "polling_start_date":"2024-09-20",
+        "polling_end_date":"2024-09-29"
+    },
+    {
         "id":"147553",
         "type":"poll_rcp_avg",
         "pollster":"CNN",

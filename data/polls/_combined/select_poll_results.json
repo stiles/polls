@@ -18,6 +18,23 @@
             "polling_end_date": "2024-10-01"
         },
         {
+            "id": "147723",
+            "type": "poll_rcp_avg",
+            "pollster": "Rasmussen Reports",
+            "date": "9/26 - 10/2",
+            "sampleSize": "1762 LV",
+            "marginError": 2.0,
+            "link": "https://www.rasmussenreports.com/public_content/politics/elections/election_2024/election2024",
+            "spread_winner": "Trump",
+            "spread_value": 2.0,
+            "harris_value": "47",
+            "trump_value": "49",
+            "name": "2024 General Election: Trump vs Harris",
+            "slug": "general",
+            "polling_start_date": "2024-09-26",
+            "polling_end_date": "2024-10-02"
+        },
+        {
             "id": "147642",
             "type": "poll_rcp_avg",
             "pollster": "New York Post",
@@ -70,7 +87,7 @@
         },
         {
             "id": "147507",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Rasmussen Reports",
             "date": "9/19 - 9/25",
             "sampleSize": "1820 LV",
@@ -6839,6 +6856,23 @@
             "slug": "north_carolina",
             "polling_start_date": "2024-09-23",
             "polling_end_date": "2024-09-26"
+        },
+        {
+            "id": "147724",
+            "type": "poll_rcp_avg",
+            "pollster": "High Point University",
+            "date": "9/20 - 9/29",
+            "sampleSize": "589 LV",
+            "marginError": 4.9,
+            "link": "https://www.highpoint.edu/src/files/2023/08/106memoPOLS.pdf",
+            "spread_winner": "Tie",
+            "spread_value": 0.0,
+            "trump_value": "48",
+            "harris_value": "48",
+            "name": "2024 North Carolina: Trump vs. Harris",
+            "slug": "north_carolina",
+            "polling_start_date": "2024-09-20",
+            "polling_end_date": "2024-09-29"
         },
         {
             "id": "147553",
