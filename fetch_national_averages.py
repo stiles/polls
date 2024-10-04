@@ -139,10 +139,12 @@ candidates_container = hill_html.find("div", class_="candidates")
 # Find all the candidate divs
 candidates = candidates_container.find_all("div", class_="candidate")
 
+# print(candidates)
+
 # Iterate over each candidate div
 for candidate in candidates:
     # Extract the candidate's name
-    candidate_name = candidate.find("p", class_="label font-semibold").text.strip()
+    candidate_name = candidate.find("p", class_="label").text.strip()
 
     # Extract the candidate's percentage
     candidate_avg = float(
