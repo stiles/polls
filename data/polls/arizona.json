@@ -1,5 +1,22 @@
 [
     {
+        "id":"147629",
+        "type":"poll_rcp_avg",
+        "pollster":"InsiderAdvantage",
+        "date":"9\/29 - 9\/30",
+        "sampleSize":"800 LV",
+        "marginError":3.0,
+        "link":"https:\/\/insideradvantage.com\/insideradvantage-sunbelt-battleground-surveys-trump-enjoys-slim-lead-in-arizona-nevada-and-north-carolina-georgia-tied\/",
+        "spread_winner":"Trump",
+        "spread_value":1.0,
+        "trump_value":"49",
+        "harris_value":"48",
+        "name":"2024 Arizona: Trump vs. Harris",
+        "slug":"arizona",
+        "polling_start_date":"2024-09-29",
+        "polling_end_date":"2024-09-30"
+    },
+    {
         "id":"147660",
         "type":"poll_rcp_avg",
         "pollster":"Emerson",
@@ -17,21 +34,21 @@
         "polling_end_date":"2024-09-28"
     },
     {
-        "id":"147629",
+        "id":"147741",
         "type":"poll_rcp_avg",
-        "pollster":"InsiderAdvantage",
-        "date":"9\/29 - 9\/30",
-        "sampleSize":"800 LV",
-        "marginError":3.0,
-        "link":"https:\/\/insideradvantage.com\/insideradvantage-sunbelt-battleground-surveys-trump-enjoys-slim-lead-in-arizona-nevada-and-north-carolina-georgia-tied\/",
-        "spread_winner":"Trump",
-        "spread_value":1.0,
-        "trump_value":"49",
+        "pollster":"KPHO-TV\/HighGround",
+        "date":"9\/26 - 9\/29",
+        "sampleSize":"500 LV",
+        "marginError":4.4,
+        "link":"https:\/\/www.azfamily.com\/2024\/10\/02\/poll-trump-harris-still-dead-heat-arizona-gop-winning-independents\/",
+        "spread_winner":"Harris",
+        "spread_value":2.0,
+        "trump_value":"46",
         "harris_value":"48",
         "name":"2024 Arizona: Trump vs. Harris",
         "slug":"arizona",
-        "polling_start_date":"2024-09-29",
-        "polling_end_date":"2024-09-30"
+        "polling_start_date":"2024-09-26",
+        "polling_end_date":"2024-09-29"
     },
     {
         "id":"147534",
