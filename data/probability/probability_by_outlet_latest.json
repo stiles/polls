@@ -4,27 +4,27 @@
         "harris":56.0,
         "trump":44.0,
         "date":"2024-10-04",
-        "fetched":"2024-10-04"
+        "fetched":"2024-10-05"
     },
     {
         "source":"FiveThirtyEight",
         "harris":54.0,
         "trump":45.0,
-        "date":"2024-10-04",
-        "fetched":"2024-10-04"
+        "date":"2024-10-05",
+        "fetched":"2024-10-05"
     },
     {
         "source":"Economist",
         "harris":54.0,
         "trump":45.0,
         "date":"2024-10-04",
-        "fetched":"2024-10-04"
+        "fetched":"2024-10-05"
     },
     {
         "source":"The Hill",
         "harris":54.0,
         "trump":46.0,
         "date":"2024-10-04",
-        "fetched":"2024-10-04"
+        "fetched":"2024-10-05"
     }
 ]
