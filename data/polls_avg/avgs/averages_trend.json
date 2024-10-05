@@ -27,7 +27,7 @@
         "fetched_date":"2024-10-05"
     },
     {
-        "date":"2024-10-04",
+        "date":"2024-10-05",
         "harris":49.3,
         "trump":46.2,
         "source":"Nate Silver",
@@ -37,11 +37,11 @@
     },
     {
         "date":"2024-10-04",
-        "harris":49.5,
-        "trump":46.2,
+        "harris":49.6,
+        "trump":46.4,
         "source":"270toWin",
-        "winning":"D +3.3",
-        "winning_margin":3.3,
+        "winning":"D +3.2",
+        "winning_margin":3.2,
         "fetched_date":"2024-10-05"
     },
     {
