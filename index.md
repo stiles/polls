@@ -64,13 +64,13 @@ The latest forecasts for the 2024 presidential election based on models develope
 
 | Place | Margin | Source |
 |-------|--------|--------|
-| Arizona | <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>R +1.5</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/arizona/polling-average.json) |
-| Georgia | <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>R +1.3</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/georgia/polling-average.json) |
-| Michigan | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +1.5</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/michigan/polling-average.json) |
+| Arizona | <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>R +1.3</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/arizona/polling-average.json) |
+| Georgia | <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>R +1.2</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/georgia/polling-average.json) |
+| Michigan | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +1.6</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/michigan/polling-average.json) |
 | Minnesota | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +5.7</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/minnesota/polling-average.json) |
-| Nevada | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +0.9</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/nevada/polling-average.json) |
+| Nevada | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +1.0</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/nevada/polling-average.json) |
 | North Carolina | <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>R +0.8</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/north-carolina/polling-average.json) |
-| Pennsylvania | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +0.6</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/pennsylvania/polling-average.json) |
+| Pennsylvania | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +0.5</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/pennsylvania/polling-average.json) |
 | Wisconsin | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +1.6</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/wisconsin/polling-average.json) |
 
 
@@ -95,4 +95,4 @@ The latest forecasts for the 2024 presidential election based on models develope
 
  **About this page:** [Github repo](https://github.com/stiles/polls) 
 
- **Last update:** *8 a.m. ET, October 6*.
+ **Last update:** *10 a.m. ET, October 6*.
