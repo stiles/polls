@@ -1,4 +1,5 @@
 id,type,pollster,date,sampleSize,marginError,link,spread_winner,spread_value,harris_value,trump_value,name,slug,polling_start_date,polling_end_date
+147759,poll,Data for Progress (D)**,10/2 - 10/3,1211 LV,3.0,https://www.filesforprogress.org/datasets/2024/9/dfp_post_vp_debate_tabs.pdf,Harris,3.0,49,46,2024 General Election: Trump vs Harris,general,2024-10-02,2024-10-03
 147712,poll_rcp_avg,Emerson,9/29 - 10/1,1000 LV,3.0,https://emersoncollegepolling.com/october-2024-national-poll-harris-50-trump-48/,Harris,1.0,50,49,2024 General Election: Trump vs Harris,general,2024-09-29,2024-10-01
 147726,poll_rcp_avg,NPR/PBS/Marist,9/27 - 10/1,1294 LV,3.7,https://maristpoll.marist.edu/wp-content/uploads/2024/10/NPR_PBS-News_Marist-Poll_USA-NOS-and-Tables_202410021120-1.pdf,Harris,2.0,50,48,2024 General Election: Trump vs Harris,general,2024-09-27,2024-10-01
 147723,poll_rcp_avg,Rasmussen Reports,9/26 - 10/2,1762 LV,2.0,https://www.rasmussenreports.com/public_content/politics/elections/election_2024/election2024,Trump,2.0,47,49,2024 General Election: Trump vs Harris,general,2024-09-26,2024-10-02
