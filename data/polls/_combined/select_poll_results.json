@@ -1,6 +1,23 @@
 {
     "general": [
         {
+            "id": "147777",
+            "type": "poll_rcp_avg",
+            "pollster": "I&amp;I/TIPP",
+            "date": "10/2 - 10/4",
+            "sampleSize": "997 LV",
+            "marginError": 3.2,
+            "link": "https://issuesinsights.com/2024/10/07/trump-vs-harris-still-knotted-up-but-voters-prefer-trump-policies-on-key-election-issues-ii-tipp-poll/",
+            "spread_winner": "Harris",
+            "spread_value": 3.0,
+            "harris_value": "49",
+            "trump_value": "46",
+            "name": "2024 General Election: Trump vs Harris",
+            "slug": "general",
+            "polling_start_date": "2024-10-02",
+            "polling_end_date": "2024-10-04"
+        },
+        {
             "id": "147759",
             "type": "poll",
             "pollster": "Data for Progress (D)**",
