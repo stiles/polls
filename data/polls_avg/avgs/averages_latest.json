@@ -19,11 +19,11 @@
     },
     {
         "date":"2024-10-07",
-        "harris":48.4,
+        "harris":48.5,
         "trump":45.9,
         "source":"FiveThirtyEight",
-        "winning":"D +2.5",
-        "winning_margin":2.5,
+        "winning":"D +2.6",
+        "winning_margin":2.6,
         "fetched_date":"2024-10-07"
     },
     {
@@ -64,11 +64,11 @@
     },
     {
         "date":"2024-10-07",
-        "harris":50.1,
-        "trump":46.5,
+        "harris":50.0,
+        "trump":46.6,
         "source":"The Hill",
-        "winning":"D +3.6",
-        "winning_margin":3.6,
+        "winning":"D +3.4",
+        "winning_margin":3.4,
         "fetched_date":"2024-10-07"
     }
 ]
