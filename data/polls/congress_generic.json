@@ -1,5 +1,22 @@
 [
     {
+        "id":"147780",
+        "type":"poll_rcp_avg",
+        "pollster":"Rasmussen Reports",
+        "date":"10\/1 - 10\/3",
+        "sampleSize":"1050 LV",
+        "marginError":0.0,
+        "link":"https:\/\/www.rasmussenreports.com\/public_content\/politics\/mood_of_america\/generic_congressional_ballot_oct07",
+        "spread_winner":"Republicans",
+        "spread_value":2.0,
+        "democrats_value":"45",
+        "republicans_value":"47",
+        "name":"2024 Generic Congressional Vote",
+        "slug":"congress_generic",
+        "polling_start_date":"2024-10-01",
+        "polling_end_date":"2024-10-03"
+    },
+    {
         "id":"147714",
         "type":"poll_rcp_avg",
         "pollster":"Emerson",
