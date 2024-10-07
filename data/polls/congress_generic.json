@@ -1,5 +1,22 @@
 [
     {
+        "id":"147789",
+        "type":"poll_rcp_avg",
+        "pollster":"Yahoo News",
+        "date":"10\/2 - 10\/4",
+        "sampleSize":"1032 LV",
+        "marginError":0.0,
+        "link":"https:\/\/www.scribd.com\/document\/777272307\/20241004-politics",
+        "spread_winner":"Democrats",
+        "spread_value":3.0,
+        "democrats_value":"47",
+        "republicans_value":"44",
+        "name":"2024 Generic Congressional Vote",
+        "slug":"congress_generic",
+        "polling_start_date":"2024-10-02",
+        "polling_end_date":"2024-10-04"
+    },
+    {
         "id":"147780",
         "type":"poll_rcp_avg",
         "pollster":"Rasmussen Reports",
@@ -171,7 +188,7 @@
     },
     {
         "id":"147189",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Yahoo News",
         "date":"9\/11 - 9\/13",
         "sampleSize":"1089 LV",
