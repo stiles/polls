@@ -55,11 +55,11 @@
     },
     {
         "date":"2024-10-08",
-        "harris":null,
-        "trump":null,
+        "harris":49.0,
+        "trump":46.0,
         "source":"New York Times",
-        "winning":"T +0.0",
-        "winning_margin":0.0,
+        "winning":"D +3.0",
+        "winning_margin":3.0,
         "fetched_date":"2024-10-08"
     },
     {

@@ -86,6 +86,7 @@ econ_src['notes'] = ""
 nyt_url = 'https://www.nytimes.com/interactive/2024/us/elections/polls-president.html'
 nyt_page_content = requests.get(nyt_url, headers=headers)
 nyt_soup = BeautifulSoup(nyt_page_content.text, 'html.parser')
+
 # Initialize a dictionary to hold the results
 nyt_data = {}
 
@@ -96,22 +97,20 @@ divs = nyt_soup.find_all('div', class_='g-endlabel')
 for div in divs:
     # Extract percentage and candidate name
     percentage_span = div.find('span', class_='g-value')
-    candidate_span = div.find('span', class_='g-answer-wrap')
+    candidate_span = div.find('span', class_='g-answer-fill')  # Use g-answer-fill to get the correct name
 
     if percentage_span and candidate_span:
-        # Extract the raw content from within the HTML_TAG markers
-        percentage = percentage_span.text.strip().replace('<!-- HTML_TAG_START -->', '').replace('<!-- HTML_TAG_END -->', '').strip('%')
-        candidate_name = candidate_span.text.strip().replace('<!-- HTML_TAG_START -->', '').replace('<!-- HTML_TAG_END -->', '').strip()
+        # Extract the percentage and candidate name
+        percentage = percentage_span.text.strip().replace('%', '')
+        candidate_name = candidate_span.text.strip()
 
-        # Only add to dictionary if the percentage string is not empty
-        if percentage and candidate_name and candidate_name.lower() in ['trump', 'harris']:
-            # Store the first occurrence only
-            if candidate_name.lower() not in nyt_data:
-                nyt_data[candidate_name.lower()] = float(percentage)
+        # Only add to dictionary if the percentage and candidate name are valid
+        if percentage and candidate_name.lower() in ['trump', 'harris']:
+            nyt_data[candidate_name.lower()] = float(percentage)
 
-            # Break if both candidates have been captured
-            if 'trump' in nyt_data and 'harris' in nyt_data:
-                break
+        # Break if both candidates have been captured
+        if 'trump' in nyt_data and 'harris' in nyt_data:
+            break
 
 # Add the date to the data
 nyt_data['date'] = datetime.now().strftime('%Y-%m-%d')
@@ -122,6 +121,8 @@ nyt_df = pd.DataFrame([nyt_data])
 # Add source and notes columns
 nyt_df['source'] = 'New York Times'
 nyt_df['notes'] = ''
+
+print(nyt_df)
 
 # The Hill
 hill_url = "https://elections2024.thehill.com/national/harris-trump-general/"
