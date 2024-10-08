@@ -6426,6 +6426,23 @@
     ],
     "arizona": [
         {
+            "id": "147812",
+            "type": "poll_rcp_avg",
+            "pollster": "Fabrizio/Anzalone",
+            "date": "9/24 - 10/1",
+            "sampleSize": "600 LV",
+            "marginError": 4.0,
+            "link": "https://www.aarp.org/content/dam/aarp/research/topics/voter-opinion-research/politics/arizona-older-voter-survey-report-october-2024.doi.10.26419-2fres.00813.044.pdf",
+            "spread_winner": "Trump",
+            "spread_value": 2.0,
+            "trump_value": "50",
+            "harris_value": "48",
+            "name": "2024 Arizona: Trump vs. Harris",
+            "slug": "arizona",
+            "polling_start_date": "2024-09-24",
+            "polling_end_date": "2024-10-01"
+        },
+        {
             "id": "147629",
             "type": "poll_rcp_avg",
             "pollster": "InsiderAdvantage",
