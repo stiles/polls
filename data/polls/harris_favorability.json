@@ -1,5 +1,22 @@
 [
     {
+        "id":"147804",
+        "type":"poll",
+        "pollster":"Morning Consult",
+        "date":"10\/4 - 10\/6",
+        "sampleSize":"2122 LV",
+        "marginError":1.0,
+        "link":"https:\/\/pro.morningconsult.com\/trackers\/2024-presidential-election-polling",
+        "spread_winner":"Favorable",
+        "spread_value":5.0,
+        "favorable_value":"52",
+        "unfavorable_value":"47",
+        "name":"Kamala Harris Favorability",
+        "slug":"harris_favorability",
+        "polling_start_date":"2024-10-04",
+        "polling_end_date":"2024-10-06"
+    },
+    {
         "id":"147792",
         "type":"poll_rcp_avg",
         "pollster":"Yahoo News",
@@ -15,6 +32,23 @@
         "slug":"harris_favorability",
         "polling_start_date":"2024-10-02",
         "polling_end_date":"2024-10-04"
+    },
+    {
+        "id":"147810",
+        "type":"poll_rcp_avg",
+        "pollster":"NY Times\/Siena",
+        "date":"9\/29 - 10\/6",
+        "sampleSize":"3385 LV",
+        "marginError":0.0,
+        "link":"https:\/\/www.nytimes.com\/interactive\/2024\/10\/08\/us\/elections\/times-siena-poll-likely-electorate-crosstabs.html",
+        "spread_winner":"Favorable",
+        "spread_value":1.0,
+        "favorable_value":"49",
+        "unfavorable_value":"48",
+        "name":"Kamala Harris Favorability",
+        "slug":"harris_favorability",
+        "polling_start_date":"2024-09-29",
+        "polling_end_date":"2024-10-06"
     },
     {
         "id":"147762",
@@ -273,7 +307,7 @@
     },
     {
         "id":"147356",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"NY Times\/Siena",
         "date":"9\/11 - 9\/16",
         "sampleSize":"2437 LV",
