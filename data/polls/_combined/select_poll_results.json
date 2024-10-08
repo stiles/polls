@@ -4106,6 +4106,23 @@
     ],
     "pennsylvania": [
         {
+            "id": "147815",
+            "type": "poll_rcp_avg",
+            "pollster": "InsiderAdvantage",
+            "date": "10/7 - 10/8",
+            "sampleSize": "800 LV",
+            "marginError": 3.5,
+            "link": "https://insideradvantage.com/insideradvantage-pennsylvania-survey-trump-leads-by-two-points/",
+            "spread_winner": "Trump",
+            "spread_value": 2.0,
+            "trump_value": "49",
+            "harris_value": "47",
+            "name": "2024 Pennsylvania: Trump vs. Harris",
+            "slug": "pennsylvania",
+            "polling_start_date": "2024-10-07",
+            "polling_end_date": "2024-10-08"
+        },
+        {
             "id": "147664",
             "type": "poll_rcp_avg",
             "pollster": "Emerson",
@@ -4140,23 +4157,6 @@
             "polling_end_date": "2024-09-29"
         },
         {
-            "id": "147562",
-            "type": "poll_rcp_avg",
-            "pollster": "FOX News",
-            "date": "9/20 - 9/24",
-            "sampleSize": "775 LV",
-            "marginError": 3.5,
-            "link": "https://www.foxnews.com/official-polls/fox-news-poll-harris-trump-locked-tight-race-battleground-pennsylvania",
-            "spread_winner": "Tie",
-            "spread_value": 0.0,
-            "trump_value": "49",
-            "harris_value": "49",
-            "name": "2024 Pennsylvania: Trump vs. Harris",
-            "slug": "pennsylvania",
-            "polling_start_date": "2024-09-20",
-            "polling_end_date": "2024-09-24"
-        },
-        {
             "id": "147596",
             "type": "poll_rcp_avg",
             "pollster": "Atlas Intel",
@@ -4172,6 +4172,23 @@
             "slug": "pennsylvania",
             "polling_start_date": "2024-09-20",
             "polling_end_date": "2024-09-25"
+        },
+        {
+            "id": "147562",
+            "type": "poll_rcp_avg",
+            "pollster": "FOX News",
+            "date": "9/20 - 9/24",
+            "sampleSize": "775 LV",
+            "marginError": 3.5,
+            "link": "https://www.foxnews.com/official-polls/fox-news-poll-harris-trump-locked-tight-race-battleground-pennsylvania",
+            "spread_winner": "Tie",
+            "spread_value": 0.0,
+            "trump_value": "49",
+            "harris_value": "49",
+            "name": "2024 Pennsylvania: Trump vs. Harris",
+            "slug": "pennsylvania",
+            "polling_start_date": "2024-09-20",
+            "polling_end_date": "2024-09-24"
         },
         {
             "id": "147670",
@@ -4226,7 +4243,7 @@
         },
         {
             "id": "147621",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Fabrizio/Anzalone",
             "date": "9/17 - 9/24",
             "sampleSize": "600 LV",
@@ -4243,7 +4260,7 @@
         },
         {
             "id": "147486",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Susquehanna",
             "date": "9/16 - 9/22",
             "sampleSize": "700 LV",
@@ -4260,7 +4277,7 @@
         },
         {
             "id": "147633",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Remington Research (R)",
             "date": "9/16 - 9/20",
             "sampleSize": " LV",
@@ -4277,7 +4294,7 @@
         },
         {
             "id": "147463",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Muhlenberg College",
             "date": "9/16 - 9/19",
             "sampleSize": "450 LV",
@@ -4311,7 +4328,7 @@
         },
         {
             "id": "147226",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "InsiderAdvantage",
             "date": "9/14 - 9/15",
             "sampleSize": "800 LV",
@@ -4328,7 +4345,7 @@
         },
         {
             "id": "147339",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Marist",
             "date": "9/12 - 9/17",
             "sampleSize": "1476 LV",
