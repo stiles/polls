@@ -5044,7 +5044,7 @@
         },
         {
             "id": "147319",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "The Hill/Emerson",
             "date": "9/15 - 9/18",
             "sampleSize": "875 LV",
