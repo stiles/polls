@@ -74,10 +74,10 @@ nate_latest = nate_src.query('date == date.max()').drop(['modeldate'], axis=1).r
 fte_page_response = requests.get('https://projects.fivethirtyeight.com/2024-election-forecast', headers=headers)
 fte_html = BeautifulSoup(fte_page_response.text, 'html.parser')
 
-harris = fte_html.find('div', class_="dem text-primary")
+harris = fte_html.find('div', class_="dem")
 harris_value = harris.find('span', class_='odds').text
 
-trump = fte_html.find('div', class_="rep text-primary")
+trump = fte_html.find('div', class_="rep")
 trump_value = trump.find('span', class_='odds').text
 
 fte_latest = pd.DataFrame(
