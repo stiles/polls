@@ -17,6 +17,23 @@
         "polling_end_date":"2024-10-08"
     },
     {
+        "id":"147838",
+        "type":"poll_rcp_avg",
+        "pollster":"Quinnipiac",
+        "date":"10\/3 - 10\/7",
+        "sampleSize":"1412 LV",
+        "marginError":3.1,
+        "link":"https:\/\/poll.qu.edu\/poll-release?releaseid=3913",
+        "spread_winner":"Harris",
+        "spread_value":2.0,
+        "trump_value":"47",
+        "harris_value":"49",
+        "name":"2024 Pennsylvania: Trump vs. Harris",
+        "slug":"pennsylvania",
+        "polling_start_date":"2024-10-03",
+        "polling_end_date":"2024-10-07"
+    },
+    {
         "id":"147664",
         "type":"poll_rcp_avg",
         "pollster":"Emerson",
@@ -85,23 +102,6 @@
         "polling_end_date":"2024-09-24"
     },
     {
-        "id":"147670",
-        "type":"poll_rcp_avg",
-        "pollster":"Cook Political Report",
-        "date":"9\/19 - 9\/25",
-        "sampleSize":"474 LV",
-        "marginError":0.0,
-        "link":"https:\/\/www.cookpolitical.com\/analysis\/survey-research\/2024-swing-state-project\/swing-state-polling-finds-deadlocked-presidential",
-        "spread_winner":"Harris",
-        "spread_value":1.0,
-        "trump_value":"49",
-        "harris_value":"50",
-        "name":"2024 Pennsylvania: Trump vs. Harris",
-        "slug":"pennsylvania",
-        "polling_start_date":"2024-09-19",
-        "polling_end_date":"2024-09-25"
-    },
-    {
         "id":"147530",
         "type":"poll_rcp_avg",
         "pollster":"Bloomberg",
@@ -119,8 +119,25 @@
         "polling_end_date":"2024-09-25"
     },
     {
+        "id":"147670",
+        "type":"poll",
+        "pollster":"Cook Political Report",
+        "date":"9\/19 - 9\/25",
+        "sampleSize":"474 LV",
+        "marginError":0.0,
+        "link":"https:\/\/www.cookpolitical.com\/analysis\/survey-research\/2024-swing-state-project\/swing-state-polling-finds-deadlocked-presidential",
+        "spread_winner":"Harris",
+        "spread_value":1.0,
+        "trump_value":"49",
+        "harris_value":"50",
+        "name":"2024 Pennsylvania: Trump vs. Harris",
+        "slug":"pennsylvania",
+        "polling_start_date":"2024-09-19",
+        "polling_end_date":"2024-09-25"
+    },
+    {
         "id":"147434",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Rasmussen Reports",
         "date":"9\/19 - 9\/22",
         "sampleSize":"1202 LV",

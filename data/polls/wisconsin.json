@@ -1,5 +1,22 @@
 [
     {
+        "id":"147832",
+        "type":"poll_rcp_avg",
+        "pollster":"Quinnipiac",
+        "date":"10\/3 - 10\/7",
+        "sampleSize":"1073 LV",
+        "marginError":3.0,
+        "link":"https:\/\/poll.qu.edu\/poll-release?releaseid=3913",
+        "spread_winner":"Trump",
+        "spread_value":2.0,
+        "harris_value":"47",
+        "trump_value":"49",
+        "name":"2024 Wisconsin: Trump vs. Harris",
+        "slug":"wisconsin",
+        "polling_start_date":"2024-10-03",
+        "polling_end_date":"2024-10-07"
+    },
+    {
         "id":"147666",
         "type":"poll_rcp_avg",
         "pollster":"Trafalgar Group (R)",
@@ -154,7 +171,7 @@
     },
     {
         "id":"147340",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Marist",
         "date":"9\/12 - 9\/17",
         "sampleSize":"1194 LV",
