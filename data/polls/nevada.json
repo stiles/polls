@@ -35,7 +35,7 @@
     },
     {
         "id":"147851",
-        "type":"poll",
+        "type":"poll_rcp_avg",
         "pollster":"GSG\/NSOR",
         "date":"9\/23 - 9\/29",
         "sampleSize":"407 LV",
@@ -103,7 +103,7 @@
     },
     {
         "id":"147526",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Bloomberg",
         "date":"9\/19 - 9\/25",
         "sampleSize":"516 LV",
@@ -120,7 +120,7 @@
     },
     {
         "id":"147558",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Rasmussen Reports",
         "date":"9\/19 - 9\/22",
         "sampleSize":"738 LV",
@@ -137,7 +137,7 @@
     },
     {
         "id":"147635",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Remington Research (R)",
         "date":"9\/16 - 9\/20",
         "sampleSize":" LV",
@@ -188,7 +188,7 @@
     },
     {
         "id":"147199",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Trafalgar Group (R)",
         "date":"9\/11 - 9\/13",
         "sampleSize":"1079 LV",
@@ -205,7 +205,7 @@
     },
     {
         "id":"147431",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Noble Predictive Insights",
         "date":"9\/9 - 9\/16",
         "sampleSize":"692 LV",

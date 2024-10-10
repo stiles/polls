@@ -86,7 +86,7 @@
     },
     {
         "id":"147853",
-        "type":"poll",
+        "type":"poll_rcp_avg",
         "pollster":"GSG\/NSOR",
         "date":"9\/23 - 9\/29",
         "sampleSize":"401 LV",
@@ -171,7 +171,7 @@
     },
     {
         "id":"147564",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"FOX News",
         "date":"9\/20 - 9\/24",
         "sampleSize":"787 LV",

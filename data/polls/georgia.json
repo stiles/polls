@@ -69,7 +69,7 @@
     },
     {
         "id":"147849",
-        "type":"poll",
+        "type":"poll_rcp_avg",
         "pollster":"GSG\/NSOR",
         "date":"9\/23 - 9\/29",
         "sampleSize":"400 LV",
@@ -136,23 +136,6 @@
         "polling_end_date":"2024-09-24"
     },
     {
-        "id":"147675",
-        "type":"poll_rcp_avg",
-        "pollster":"Cook Political Report",
-        "date":"9\/19 - 9\/25",
-        "sampleSize":"411 LV",
-        "marginError":0.0,
-        "link":"https:\/\/www.cookpolitical.com\/analysis\/survey-research\/2024-swing-state-project\/swing-state-polling-finds-deadlocked-presidential",
-        "spread_winner":"Trump",
-        "spread_value":2.0,
-        "trump_value":"49",
-        "harris_value":"47",
-        "name":"2024 Georgia: Trump vs. Harris",
-        "slug":"georgia",
-        "polling_start_date":"2024-09-19",
-        "polling_end_date":"2024-09-25"
-    },
-    {
         "id":"147522",
         "type":"poll_rcp_avg",
         "pollster":"Bloomberg",
@@ -170,8 +153,25 @@
         "polling_end_date":"2024-09-25"
     },
     {
+        "id":"147675",
+        "type":"poll",
+        "pollster":"Cook Political Report",
+        "date":"9\/19 - 9\/25",
+        "sampleSize":"411 LV",
+        "marginError":0.0,
+        "link":"https:\/\/www.cookpolitical.com\/analysis\/survey-research\/2024-swing-state-project\/swing-state-polling-finds-deadlocked-presidential",
+        "spread_winner":"Trump",
+        "spread_value":2.0,
+        "trump_value":"49",
+        "harris_value":"47",
+        "name":"2024 Georgia: Trump vs. Harris",
+        "slug":"georgia",
+        "polling_start_date":"2024-09-19",
+        "polling_end_date":"2024-09-25"
+    },
+    {
         "id":"147496",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Marist",
         "date":"9\/19 - 9\/24",
         "sampleSize":"1220 LV",

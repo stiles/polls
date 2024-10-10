@@ -3629,7 +3629,7 @@
         },
         {
             "id": "147849",
-            "type": "poll",
+            "type": "poll_rcp_avg",
             "pollster": "GSG/NSOR",
             "date": "9/23 - 9/29",
             "sampleSize": "400 LV",
@@ -3696,23 +3696,6 @@
             "polling_end_date": "2024-09-24"
         },
         {
-            "id": "147675",
-            "type": "poll_rcp_avg",
-            "pollster": "Cook Political Report",
-            "date": "9/19 - 9/25",
-            "sampleSize": "411 LV",
-            "marginError": 0.0,
-            "link": "https://www.cookpolitical.com/analysis/survey-research/2024-swing-state-project/swing-state-polling-finds-deadlocked-presidential",
-            "spread_winner": "Trump",
-            "spread_value": 2.0,
-            "trump_value": "49",
-            "harris_value": "47",
-            "name": "2024 Georgia: Trump vs. Harris",
-            "slug": "georgia",
-            "polling_start_date": "2024-09-19",
-            "polling_end_date": "2024-09-25"
-        },
-        {
             "id": "147522",
             "type": "poll_rcp_avg",
             "pollster": "Bloomberg",
@@ -3730,8 +3713,25 @@
             "polling_end_date": "2024-09-25"
         },
         {
+            "id": "147675",
+            "type": "poll",
+            "pollster": "Cook Political Report",
+            "date": "9/19 - 9/25",
+            "sampleSize": "411 LV",
+            "marginError": 0.0,
+            "link": "https://www.cookpolitical.com/analysis/survey-research/2024-swing-state-project/swing-state-polling-finds-deadlocked-presidential",
+            "spread_winner": "Trump",
+            "spread_value": 2.0,
+            "trump_value": "49",
+            "harris_value": "47",
+            "name": "2024 Georgia: Trump vs. Harris",
+            "slug": "georgia",
+            "polling_start_date": "2024-09-19",
+            "polling_end_date": "2024-09-25"
+        },
+        {
             "id": "147496",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Marist",
             "date": "9/19 - 9/24",
             "sampleSize": "1220 LV",
@@ -4243,7 +4243,7 @@
         },
         {
             "id": "147845",
-            "type": "poll",
+            "type": "poll_rcp_avg",
             "pollster": "GSG/NSOR",
             "date": "9/23 - 9/29",
             "sampleSize": "408 LV",
@@ -6272,7 +6272,7 @@
         },
         {
             "id": "147851",
-            "type": "poll",
+            "type": "poll_rcp_avg",
             "pollster": "GSG/NSOR",
             "date": "9/23 - 9/29",
             "sampleSize": "407 LV",
@@ -6340,7 +6340,7 @@
         },
         {
             "id": "147526",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Bloomberg",
             "date": "9/19 - 9/25",
             "sampleSize": "516 LV",
@@ -6357,7 +6357,7 @@
         },
         {
             "id": "147558",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Rasmussen Reports",
             "date": "9/19 - 9/22",
             "sampleSize": "738 LV",
@@ -6374,7 +6374,7 @@
         },
         {
             "id": "147635",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Remington Research (R)",
             "date": "9/16 - 9/20",
             "sampleSize": " LV",
@@ -6425,7 +6425,7 @@
         },
         {
             "id": "147199",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Trafalgar Group (R)",
             "date": "9/11 - 9/13",
             "sampleSize": "1079 LV",
@@ -6442,7 +6442,7 @@
         },
         {
             "id": "147431",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Noble Predictive Insights",
             "date": "9/9 - 9/16",
             "sampleSize": "692 LV",
@@ -6784,7 +6784,7 @@
         },
         {
             "id": "147847",
-            "type": "poll",
+            "type": "poll_rcp_avg",
             "pollster": "GSG/NSOR",
             "date": "9/23 - 9/29",
             "sampleSize": "400 LV",
@@ -6834,40 +6834,6 @@
             "polling_end_date": "2024-09-25"
         },
         {
-            "id": "147515",
-            "type": "poll_rcp_avg",
-            "pollster": "FOX News",
-            "date": "9/20 - 9/24",
-            "sampleSize": "764 LV",
-            "marginError": 3.5,
-            "link": "https://www.foxnews.com/official-polls/fox-news-poll-voters-choice-flipped-arizona-since-last-month",
-            "spread_winner": "Trump",
-            "spread_value": 3.0,
-            "trump_value": "51",
-            "harris_value": "48",
-            "name": "2024 Arizona: Trump vs. Harris",
-            "slug": "arizona",
-            "polling_start_date": "2024-09-20",
-            "polling_end_date": "2024-09-24"
-        },
-        {
-            "id": "147520",
-            "type": "poll_rcp_avg",
-            "pollster": "Bloomberg",
-            "date": "9/19 - 9/25",
-            "sampleSize": "926 LV",
-            "marginError": 3.0,
-            "link": "https://pro-assets.morningconsult.com/wp-uploads/2024/09/Bloomberg_Swing_States_Wave_12-1.pdf",
-            "spread_winner": "Harris",
-            "spread_value": 3.0,
-            "trump_value": "47",
-            "harris_value": "50",
-            "name": "2024 Arizona: Trump vs. Harris",
-            "slug": "arizona",
-            "polling_start_date": "2024-09-19",
-            "polling_end_date": "2024-09-25"
-        },
-        {
             "id": "147678",
             "type": "poll_rcp_avg",
             "pollster": "Cook Political Report",
@@ -6885,8 +6851,42 @@
             "polling_end_date": "2024-09-25"
         },
         {
+            "id": "147515",
+            "type": "poll",
+            "pollster": "FOX News",
+            "date": "9/20 - 9/24",
+            "sampleSize": "764 LV",
+            "marginError": 3.5,
+            "link": "https://www.foxnews.com/official-polls/fox-news-poll-voters-choice-flipped-arizona-since-last-month",
+            "spread_winner": "Trump",
+            "spread_value": 3.0,
+            "trump_value": "51",
+            "harris_value": "48",
+            "name": "2024 Arizona: Trump vs. Harris",
+            "slug": "arizona",
+            "polling_start_date": "2024-09-20",
+            "polling_end_date": "2024-09-24"
+        },
+        {
+            "id": "147520",
+            "type": "poll",
+            "pollster": "Bloomberg",
+            "date": "9/19 - 9/25",
+            "sampleSize": "926 LV",
+            "marginError": 3.0,
+            "link": "https://pro-assets.morningconsult.com/wp-uploads/2024/09/Bloomberg_Swing_States_Wave_12-1.pdf",
+            "spread_winner": "Harris",
+            "spread_value": 3.0,
+            "trump_value": "47",
+            "harris_value": "50",
+            "name": "2024 Arizona: Trump vs. Harris",
+            "slug": "arizona",
+            "polling_start_date": "2024-09-19",
+            "polling_end_date": "2024-09-25"
+        },
+        {
             "id": "147495",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Marist",
             "date": "9/19 - 9/24",
             "sampleSize": "1264 LV",
@@ -6903,7 +6903,7 @@
         },
         {
             "id": "147490",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Rasmussen Reports",
             "date": "9/19 - 9/22",
             "sampleSize": "1071 LV",
@@ -6920,7 +6920,7 @@
         },
         {
             "id": "147413",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "NY Times/Siena",
             "date": "9/17 - 9/21",
             "sampleSize": "713 LV",
@@ -7381,7 +7381,7 @@
         },
         {
             "id": "147853",
-            "type": "poll",
+            "type": "poll_rcp_avg",
             "pollster": "GSG/NSOR",
             "date": "9/23 - 9/29",
             "sampleSize": "401 LV",
@@ -7466,7 +7466,7 @@
         },
         {
             "id": "147564",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "FOX News",
             "date": "9/20 - 9/24",
             "sampleSize": "787 LV",
