@@ -171,7 +171,7 @@
     },
     {
         "id":"147674",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Cook Political Report",
         "date":"9\/19 - 9\/25",
         "sampleSize":"411 LV",
@@ -188,7 +188,7 @@
     },
     {
         "id":"147528",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Bloomberg",
         "date":"9\/19 - 9\/25",
         "sampleSize":"828 LV",
@@ -205,7 +205,7 @@
     },
     {
         "id":"147497",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Marist",
         "date":"9\/19 - 9\/24",
         "sampleSize":"1348 LV",
@@ -222,7 +222,7 @@
     },
     {
         "id":"147546",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Rasmussen Reports",
         "date":"9\/19 - 9\/22",
         "sampleSize":"1078 LV",
@@ -239,7 +239,7 @@
     },
     {
         "id":"147418",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"NY Times\/Siena",
         "date":"9\/17 - 9\/21",
         "sampleSize":"682 LV",

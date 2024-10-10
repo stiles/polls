@@ -3560,21 +3560,21 @@
     ],
     "georgia": [
         {
-            "id": "147657",
+            "id": "147855",
             "type": "poll_rcp_avg",
-            "pollster": "Quinnipiac",
-            "date": "9/25 - 9/29",
-            "sampleSize": "942 LV",
-            "marginError": 3.2,
-            "link": "https://poll.qu.edu/images/polling/ga/ga10012024_sxhq46.pdf",
+            "pollster": "Trafalgar Group (R)",
+            "date": "10/7 - 10/8",
+            "sampleSize": "1089 LV",
+            "marginError": 2.9,
+            "link": "https://www.thetrafalgargroup.org/wp-content/uploads/2024/10/GA-24-General-1009_Report.pdf",
             "spread_winner": "Trump",
-            "spread_value": 5.0,
-            "trump_value": "50",
+            "spread_value": 1.0,
+            "trump_value": "46",
             "harris_value": "45",
             "name": "2024 Georgia: Trump vs. Harris",
             "slug": "georgia",
-            "polling_start_date": "2024-09-25",
-            "polling_end_date": "2024-09-29"
+            "polling_start_date": "2024-10-07",
+            "polling_end_date": "2024-10-08"
         },
         {
             "id": "147632",
@@ -3592,6 +3592,40 @@
             "slug": "georgia",
             "polling_start_date": "2024-09-29",
             "polling_end_date": "2024-09-30"
+        },
+        {
+            "id": "147657",
+            "type": "poll_rcp_avg",
+            "pollster": "Quinnipiac",
+            "date": "9/25 - 9/29",
+            "sampleSize": "942 LV",
+            "marginError": 3.2,
+            "link": "https://poll.qu.edu/images/polling/ga/ga10012024_sxhq46.pdf",
+            "spread_winner": "Trump",
+            "spread_value": 5.0,
+            "trump_value": "50",
+            "harris_value": "45",
+            "name": "2024 Georgia: Trump vs. Harris",
+            "slug": "georgia",
+            "polling_start_date": "2024-09-25",
+            "polling_end_date": "2024-09-29"
+        },
+        {
+            "id": "147849",
+            "type": "poll",
+            "pollster": "GSG/NSOR",
+            "date": "9/23 - 9/29",
+            "sampleSize": "400 LV",
+            "marginError": 4.9,
+            "link": "https://www.pgpf.org/sites/default/files/PGPF-Battleground-Poll-Topline-Results-by-State.pdf",
+            "spread_winner": "Tie",
+            "spread_value": 0.0,
+            "trump_value": "47",
+            "harris_value": "47",
+            "name": "2024 Georgia: Trump vs. Harris",
+            "slug": "georgia",
+            "polling_start_date": "2024-09-23",
+            "polling_end_date": "2024-09-29"
         },
         {
             "id": "147586",
@@ -3697,7 +3731,7 @@
         },
         {
             "id": "147433",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Rasmussen Reports",
             "date": "9/19 - 9/22",
             "sampleSize": "1152 LV",
@@ -3714,7 +3748,7 @@
         },
         {
             "id": "147416",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "NY Times/Siena",
             "date": "9/17 - 9/21",
             "sampleSize": "682 LV",
@@ -3731,7 +3765,7 @@
         },
         {
             "id": "147391",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "AmGreatness/TIPP",
             "date": "9/16 - 9/18",
             "sampleSize": "835 LV",
@@ -3748,7 +3782,7 @@
         },
         {
             "id": "147318",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "The Hill/Emerson",
             "date": "9/15 - 9/18",
             "sampleSize": "975 LV",
@@ -7228,7 +7262,7 @@
         },
         {
             "id": "147674",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Cook Political Report",
             "date": "9/19 - 9/25",
             "sampleSize": "411 LV",
@@ -7245,7 +7279,7 @@
         },
         {
             "id": "147528",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Bloomberg",
             "date": "9/19 - 9/25",
             "sampleSize": "828 LV",
@@ -7262,7 +7296,7 @@
         },
         {
             "id": "147497",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Marist",
             "date": "9/19 - 9/24",
             "sampleSize": "1348 LV",
@@ -7279,7 +7313,7 @@
         },
         {
             "id": "147546",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Rasmussen Reports",
             "date": "9/19 - 9/22",
             "sampleSize": "1078 LV",
@@ -7296,7 +7330,7 @@
         },
         {
             "id": "147418",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "NY Times/Siena",
             "date": "9/17 - 9/21",
             "sampleSize": "682 LV",
