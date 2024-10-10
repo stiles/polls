@@ -1,5 +1,22 @@
 [
     {
+        "id":"147889",
+        "type":"poll_rcp_avg",
+        "pollster":"Pew Research",
+        "date":"9\/30 - 10\/6",
+        "sampleSize":"4025 RV",
+        "marginError":1.9,
+        "link":"https:\/\/www.pewresearch.org\/wp-content\/uploads\/sites\/20\/2024\/10\/PP_2024.10.10_pre-election-attitudes_TOPLINE.pdf",
+        "spread_winner":"Harris",
+        "spread_value":1.0,
+        "harris_value":"48",
+        "trump_value":"47",
+        "name":"2024 General Election: Trump vs Harris",
+        "slug":"general",
+        "polling_start_date":"2024-09-30",
+        "polling_end_date":"2024-10-06"
+    },
+    {
         "id":"147884",
         "type":"poll_rcp_avg",
         "pollster":"Rasmussen Reports",
@@ -103,7 +120,7 @@
     },
     {
         "id":"147759",
-        "type":"poll",
+        "type":"poll_rcp_avg",
         "pollster":"Data for Progress (D)**",
         "date":"10\/2 - 10\/3",
         "sampleSize":"1211 LV",
@@ -171,7 +188,7 @@
     },
     {
         "id":"147642",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"New York Post",
         "date":"9\/27 - 9\/29",
         "sampleSize":"851 LV",
@@ -205,7 +222,7 @@
     },
     {
         "id":"147704",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Susquehanna",
         "date":"9\/23 - 10\/1",
         "sampleSize":"1001 LV",
@@ -273,7 +290,7 @@
     },
     {
         "id":"147455",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Quinnipiac",
         "date":"9\/19 - 9\/22",
         "sampleSize":"1728 LV",
@@ -290,7 +307,7 @@
     },
     {
         "id":"147449",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"CNN*",
         "date":"9\/19 - 9\/22",
         "sampleSize":"2074 LV",

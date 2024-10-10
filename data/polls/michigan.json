@@ -1,5 +1,22 @@
 [
     {
+        "id":"147892",
+        "type":"poll_rcp_avg",
+        "pollster":"InsiderAdvantage",
+        "date":"10\/8 - 10\/9",
+        "sampleSize":"800 LV",
+        "marginError":3.7,
+        "link":"https:\/\/pollingplus.com\/news\/insideradvantage-surveys-trump-leads-by-two-points-in-michigan-race-all-tied-up-in-wisconsin\/",
+        "spread_winner":"Trump",
+        "spread_value":2.0,
+        "trump_value":"48",
+        "harris_value":"46",
+        "name":"2024 Michigan: Trump vs. Harris",
+        "slug":"michigan",
+        "polling_start_date":"2024-10-08",
+        "polling_end_date":"2024-10-09"
+    },
+    {
         "id":"147857",
         "type":"poll_rcp_avg",
         "pollster":"The Hill\/Emerson",

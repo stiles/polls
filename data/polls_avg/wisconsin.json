@@ -3,7 +3,7 @@
         "id":"8305",
         "type":"rcp_average",
         "pollster":"rcp_average",
-        "date":"9\/18 - 10\/8",
+        "date":"9\/18 - 10\/9",
         "sampleSize":"",
         "marginError":0.0,
         "link":null,
@@ -14,6 +14,6 @@
         "name":"2024 Wisconsin: Trump vs. Harris",
         "slug":"wisconsin",
         "polling_start_date":"2024-09-18",
-        "polling_end_date":"2024-10-08"
+        "polling_end_date":"2024-10-09"
     }
 ]

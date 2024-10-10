@@ -18,7 +18,7 @@
     },
     {
         "id":"147804",
-        "type":"poll",
+        "type":"poll_rcp_avg",
         "pollster":"Morning Consult",
         "date":"10\/4 - 10\/6",
         "sampleSize":"2122 LV",
@@ -154,7 +154,7 @@
     },
     {
         "id":"147624",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Morning Consult",
         "date":"9\/27 - 9\/29",
         "sampleSize":"11381 LV",

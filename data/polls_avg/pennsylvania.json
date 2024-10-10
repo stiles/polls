@@ -3,7 +3,7 @@
         "id":"8303",
         "type":"rcp_average",
         "pollster":"rcp_average",
-        "date":"9\/19 - 10\/8",
+        "date":"9\/19 - 10\/9",
         "sampleSize":"",
         "marginError":0.0,
         "link":null,
@@ -14,6 +14,6 @@
         "name":"2024 Pennsylvania: Trump vs. Harris",
         "slug":"pennsylvania",
         "polling_start_date":"2024-09-19",
-        "polling_end_date":"2024-10-08"
+        "polling_end_date":"2024-10-09"
     }
 ]

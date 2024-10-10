@@ -1,5 +1,22 @@
 [
     {
+        "id":"147886",
+        "type":"poll_rcp_avg",
+        "pollster":"AmGreatness\/TIPP",
+        "date":"10\/7 - 10\/9",
+        "sampleSize":"803 LV",
+        "marginError":3.5,
+        "link":"https:\/\/amgreatness.com\/2024\/10\/10\/trump-leads-in-pennsylvania-dave-mccormick-charges\/",
+        "spread_winner":"Trump",
+        "spread_value":1.0,
+        "trump_value":"49",
+        "harris_value":"48",
+        "name":"2024 Pennsylvania: Trump vs. Harris",
+        "slug":"pennsylvania",
+        "polling_start_date":"2024-10-07",
+        "polling_end_date":"2024-10-09"
+    },
+    {
         "id":"147856",
         "type":"poll_rcp_avg",
         "pollster":"The Hill\/Emerson",
