@@ -1,5 +1,22 @@
 [
     {
+        "id":"147858",
+        "type":"poll_rcp_avg",
+        "pollster":"The Hill\/Emerson",
+        "date":"10\/5 - 10\/8",
+        "sampleSize":"1000 LV",
+        "marginError":3.0,
+        "link":"https:\/\/emersoncollegepolling.com\/october-2024-state-polls-mixed-movement-across-swing-states-shows-dead-heat\/",
+        "spread_winner":"Tie",
+        "spread_value":0.0,
+        "harris_value":"49",
+        "trump_value":"49",
+        "name":"2024 Wisconsin: Trump vs. Harris",
+        "slug":"wisconsin",
+        "polling_start_date":"2024-10-05",
+        "polling_end_date":"2024-10-08"
+    },
+    {
         "id":"147832",
         "type":"poll_rcp_avg",
         "pollster":"Quinnipiac",
@@ -32,6 +49,23 @@
         "slug":"wisconsin",
         "polling_start_date":"2024-09-28",
         "polling_end_date":"2024-09-30"
+    },
+    {
+        "id":"147841",
+        "type":"poll_rcp_avg",
+        "pollster":"GSG\/NSOR",
+        "date":"9\/23 - 9\/29",
+        "sampleSize":"408 LV",
+        "marginError":4.9,
+        "link":"https:\/\/www.pgpf.org\/sites\/default\/files\/PGPF-Battleground-Poll-Topline-Results-by-State.pdf",
+        "spread_winner":"Harris",
+        "spread_value":2.0,
+        "harris_value":"48",
+        "trump_value":"46",
+        "name":"2024 Wisconsin: Trump vs. Harris",
+        "slug":"wisconsin",
+        "polling_start_date":"2024-09-23",
+        "polling_end_date":"2024-09-29"
     },
     {
         "id":"147571",
@@ -86,7 +120,7 @@
     },
     {
         "id":"147668",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Cook Political Report",
         "date":"9\/19 - 9\/25",
         "sampleSize":"411 LV",
@@ -103,7 +137,7 @@
     },
     {
         "id":"147532",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Bloomberg",
         "date":"9\/19 - 9\/25",
         "sampleSize":"785 LV",
@@ -120,7 +154,7 @@
     },
     {
         "id":"147488",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Rasmussen Reports",
         "date":"9\/19 - 9\/22",
         "sampleSize":"1071 LV",
@@ -137,7 +171,7 @@
     },
     {
         "id":"147637",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Remington Research (R)",
         "date":"9\/16 - 9\/20",
         "sampleSize":" LV",
@@ -154,7 +188,7 @@
     },
     {
         "id":"147325",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"The Hill\/Emerson",
         "date":"9\/15 - 9\/18",
         "sampleSize":"1000 LV",

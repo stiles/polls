@@ -1,5 +1,22 @@
 [
     {
+        "id":"147862",
+        "type":"poll_rcp_avg",
+        "pollster":"The Hill\/Emerson",
+        "date":"10\/5 - 10\/8",
+        "sampleSize":"900 LV",
+        "marginError":3.2,
+        "link":"https:\/\/emersoncollegepolling.com\/october-2024-state-polls-mixed-movement-across-swing-states-shows-dead-heat\/",
+        "spread_winner":"Harris",
+        "spread_value":1.0,
+        "harris_value":"48",
+        "trump_value":"47",
+        "name":"2024 Nevada: Trump vs. Harris",
+        "slug":"nevada",
+        "polling_start_date":"2024-10-05",
+        "polling_end_date":"2024-10-08"
+    },
+    {
         "id":"147630",
         "type":"poll_rcp_avg",
         "pollster":"InsiderAdvantage",
@@ -15,6 +32,23 @@
         "slug":"nevada",
         "polling_start_date":"2024-09-29",
         "polling_end_date":"2024-09-30"
+    },
+    {
+        "id":"147851",
+        "type":"poll",
+        "pollster":"GSG\/NSOR",
+        "date":"9\/23 - 9\/29",
+        "sampleSize":"407 LV",
+        "marginError":4.9,
+        "link":"https:\/\/www.pgpf.org\/sites\/default\/files\/PGPF-Battleground-Poll-Topline-Results-by-State.pdf",
+        "spread_winner":"Harris",
+        "spread_value":1.0,
+        "harris_value":"48",
+        "trump_value":"47",
+        "name":"2024 Nevada: Trump vs. Harris",
+        "slug":"nevada",
+        "polling_start_date":"2024-09-23",
+        "polling_end_date":"2024-09-29"
     },
     {
         "id":"147514",
@@ -119,8 +153,25 @@
         "polling_end_date":"2024-09-20"
     },
     {
+        "id":"147743",
+        "type":"poll",
+        "pollster":"Tarrance Group (R)",
+        "date":"9\/16 - 9\/19",
+        "sampleSize":"600 LV",
+        "marginError":4.1,
+        "link":"https:\/\/www.realclearpolitics.com\/docs\/2024\/17869-key-findings.pdf",
+        "spread_winner":"Harris",
+        "spread_value":3.0,
+        "harris_value":"47",
+        "trump_value":"44",
+        "name":"2024 Nevada: Trump vs. Harris",
+        "slug":"nevada",
+        "polling_start_date":"2024-09-16",
+        "polling_end_date":"2024-09-19"
+    },
+    {
         "id":"147320",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"The Hill\/Emerson",
         "date":"9\/15 - 9\/18",
         "sampleSize":"895 LV",
