@@ -4250,21 +4250,21 @@
     ],
     "pennsylvania": [
         {
-            "id": "147896",
+            "id": "147920",
             "type": "poll_rcp_avg",
-            "pollster": "Wall Street Journal",
-            "date": "9/28 - 10/8",
-            "sampleSize": "600 RV",
-            "marginError": 4.0,
-            "link": "https://www.wsj.com/politics/elections/trump-harris-swing-state-poll-october-2024-c3ca9414?mod=hp_lead_pos1",
-            "spread_winner": "Trump",
-            "spread_value": 1.0,
+            "pollster": "NY Times/Siena",
+            "date": "10/7 - 10/10",
+            "sampleSize": "857 LV",
+            "marginError": 0.0,
+            "link": "https://www.nytimes.com/interactive/2024/10/12/us/elections/times-siena-inquirer-poll-pennsylvania-crosstabs.html",
+            "spread_winner": "Harris",
+            "spread_value": 3.0,
             "trump_value": "47",
-            "harris_value": "46",
+            "harris_value": "50",
             "name": "2024 Pennsylvania: Trump vs. Harris",
             "slug": "pennsylvania",
-            "polling_start_date": "2024-09-28",
-            "polling_end_date": "2024-10-08"
+            "polling_start_date": "2024-10-07",
+            "polling_end_date": "2024-10-10"
         },
         {
             "id": "147886",
@@ -4284,23 +4284,6 @@
             "polling_end_date": "2024-10-09"
         },
         {
-            "id": "147856",
-            "type": "poll_rcp_avg",
-            "pollster": "The Hill/Emerson",
-            "date": "10/5 - 10/8",
-            "sampleSize": "1000 LV",
-            "marginError": 3.0,
-            "link": "https://emersoncollegepolling.com/october-2024-state-polls-mixed-movement-across-swing-states-shows-dead-heat/",
-            "spread_winner": "Trump",
-            "spread_value": 1.0,
-            "trump_value": "49",
-            "harris_value": "48",
-            "name": "2024 Pennsylvania: Trump vs. Harris",
-            "slug": "pennsylvania",
-            "polling_start_date": "2024-10-05",
-            "polling_end_date": "2024-10-08"
-        },
-        {
             "id": "147815",
             "type": "poll_rcp_avg",
             "pollster": "InsiderAdvantage",
@@ -4315,6 +4298,23 @@
             "name": "2024 Pennsylvania: Trump vs. Harris",
             "slug": "pennsylvania",
             "polling_start_date": "2024-10-07",
+            "polling_end_date": "2024-10-08"
+        },
+        {
+            "id": "147856",
+            "type": "poll_rcp_avg",
+            "pollster": "The Hill/Emerson",
+            "date": "10/5 - 10/8",
+            "sampleSize": "1000 LV",
+            "marginError": 3.0,
+            "link": "https://emersoncollegepolling.com/october-2024-state-polls-mixed-movement-across-swing-states-shows-dead-heat/",
+            "spread_winner": "Trump",
+            "spread_value": 1.0,
+            "trump_value": "49",
+            "harris_value": "48",
+            "name": "2024 Pennsylvania: Trump vs. Harris",
+            "slug": "pennsylvania",
+            "polling_start_date": "2024-10-05",
             "polling_end_date": "2024-10-08"
         },
         {
@@ -4333,6 +4333,23 @@
             "slug": "pennsylvania",
             "polling_start_date": "2024-10-03",
             "polling_end_date": "2024-10-07"
+        },
+        {
+            "id": "147896",
+            "type": "poll_rcp_avg",
+            "pollster": "Wall Street Journal",
+            "date": "9/28 - 10/8",
+            "sampleSize": "600 RV",
+            "marginError": 4.0,
+            "link": "https://www.wsj.com/politics/elections/trump-harris-swing-state-poll-october-2024-c3ca9414?mod=hp_lead_pos1",
+            "spread_winner": "Trump",
+            "spread_value": 1.0,
+            "trump_value": "47",
+            "harris_value": "46",
+            "name": "2024 Pennsylvania: Trump vs. Harris",
+            "slug": "pennsylvania",
+            "polling_start_date": "2024-09-28",
+            "polling_end_date": "2024-10-08"
         },
         {
             "id": "147664",
@@ -6910,21 +6927,21 @@
     ],
     "arizona": [
         {
-            "id": "147902",
+            "id": "147917",
             "type": "poll_rcp_avg",
-            "pollster": "Wall Street Journal",
-            "date": "9/28 - 10/8",
-            "sampleSize": "600 RV",
-            "marginError": 4.0,
-            "link": "https://www.wsj.com/politics/elections/trump-harris-swing-state-poll-october-2024-c3ca9414?mod=hp_lead_pos1",
-            "spread_winner": "Harris",
-            "spread_value": 2.0,
-            "trump_value": "46",
-            "harris_value": "48",
+            "pollster": "NY Times/Siena",
+            "date": "10/7 - 10/10",
+            "sampleSize": "808 LV",
+            "marginError": 0.0,
+            "link": "https://www.nytimes.com/interactive/2024/10/12/us/elections/times-siena-poll-arizona-crosstabs.html",
+            "spread_winner": "Trump",
+            "spread_value": 5.0,
+            "trump_value": "51",
+            "harris_value": "46",
             "name": "2024 Arizona: Trump vs. Harris",
             "slug": "arizona",
-            "polling_start_date": "2024-09-28",
-            "polling_end_date": "2024-10-08"
+            "polling_start_date": "2024-10-07",
+            "polling_end_date": "2024-10-10"
         },
         {
             "id": "147861",
@@ -6944,21 +6961,21 @@
             "polling_end_date": "2024-10-08"
         },
         {
-            "id": "147812",
+            "id": "147902",
             "type": "poll_rcp_avg",
-            "pollster": "Fabrizio/Anzalone",
-            "date": "9/24 - 10/1",
-            "sampleSize": "600 LV",
+            "pollster": "Wall Street Journal",
+            "date": "9/28 - 10/8",
+            "sampleSize": "600 RV",
             "marginError": 4.0,
-            "link": "https://www.aarp.org/content/dam/aarp/research/topics/voter-opinion-research/politics/arizona-older-voter-survey-report-october-2024.doi.10.26419-2fres.00813.044.pdf",
-            "spread_winner": "Trump",
+            "link": "https://www.wsj.com/politics/elections/trump-harris-swing-state-poll-october-2024-c3ca9414?mod=hp_lead_pos1",
+            "spread_winner": "Harris",
             "spread_value": 2.0,
-            "trump_value": "50",
+            "trump_value": "46",
             "harris_value": "48",
             "name": "2024 Arizona: Trump vs. Harris",
             "slug": "arizona",
-            "polling_start_date": "2024-09-24",
-            "polling_end_date": "2024-10-01"
+            "polling_start_date": "2024-09-28",
+            "polling_end_date": "2024-10-08"
         },
         {
             "id": "147629",
@@ -6976,6 +6993,23 @@
             "slug": "arizona",
             "polling_start_date": "2024-09-29",
             "polling_end_date": "2024-09-30"
+        },
+        {
+            "id": "147812",
+            "type": "poll_rcp_avg",
+            "pollster": "Fabrizio/Anzalone",
+            "date": "9/24 - 10/1",
+            "sampleSize": "600 LV",
+            "marginError": 4.0,
+            "link": "https://www.aarp.org/content/dam/aarp/research/topics/voter-opinion-research/politics/arizona-older-voter-survey-report-october-2024.doi.10.26419-2fres.00813.044.pdf",
+            "spread_winner": "Trump",
+            "spread_value": 2.0,
+            "trump_value": "50",
+            "harris_value": "48",
+            "name": "2024 Arizona: Trump vs. Harris",
+            "slug": "arizona",
+            "polling_start_date": "2024-09-24",
+            "polling_end_date": "2024-10-01"
         },
         {
             "id": "147660",
