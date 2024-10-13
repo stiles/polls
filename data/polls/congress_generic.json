@@ -17,6 +17,23 @@
         "polling_end_date":"2024-10-07"
     },
     {
+        "id":"147937",
+        "type":"poll_rcp_avg",
+        "pollster":"NBC News",
+        "date":"10\/4 - 10\/8",
+        "sampleSize":"1000 RV",
+        "marginError":3.1,
+        "link":"https:\/\/www.nbcnews.com\/politics\/2024-election\/dead-heat-trump-pulls-even-harris-nbc-news-poll-rcna174201",
+        "spread_winner":"Tie",
+        "spread_value":0.0,
+        "democrats_value":"47",
+        "republicans_value":"47",
+        "name":"2024 Generic Congressional Vote",
+        "slug":"congress_generic",
+        "polling_start_date":"2024-10-04",
+        "polling_end_date":"2024-10-08"
+    },
+    {
         "id":"147789",
         "type":"poll_rcp_avg",
         "pollster":"Yahoo News",
@@ -137,7 +154,7 @@
     },
     {
         "id":"147405",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"NBC News",
         "date":"9\/13 - 9\/17",
         "sampleSize":"1000 RV",

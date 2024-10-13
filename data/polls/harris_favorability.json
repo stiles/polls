@@ -17,6 +17,40 @@
         "polling_end_date":"2024-10-07"
     },
     {
+        "id":"147935",
+        "type":"poll_rcp_avg",
+        "pollster":"NBC News",
+        "date":"10\/4 - 10\/8",
+        "sampleSize":"1000 RV",
+        "marginError":3.1,
+        "link":"https:\/\/www.nbcnews.com\/politics\/2024-election\/dead-heat-trump-pulls-even-harris-nbc-news-poll-rcna174201",
+        "spread_winner":"Unfavorable",
+        "spread_value":6.0,
+        "favorable_value":"43",
+        "unfavorable_value":"49",
+        "name":"Kamala Harris Favorability",
+        "slug":"harris_favorability",
+        "polling_start_date":"2024-10-04",
+        "polling_end_date":"2024-10-08"
+    },
+    {
+        "id":"147938",
+        "type":"poll_rcp_avg",
+        "pollster":"ABC News\/Ipsos",
+        "date":"10\/4 - 10\/8",
+        "sampleSize":"2631 A",
+        "marginError":0.0,
+        "link":"https:\/\/www.langerresearch.com\/wp-content\/uploads\/1237a22024ElectionUpdate.pdf",
+        "spread_winner":"Unfavorable",
+        "spread_value":3.0,
+        "favorable_value":"44",
+        "unfavorable_value":"47",
+        "name":"Kamala Harris Favorability",
+        "slug":"harris_favorability",
+        "polling_start_date":"2024-10-04",
+        "polling_end_date":"2024-10-08"
+    },
+    {
         "id":"147804",
         "type":"poll_rcp_avg",
         "pollster":"Morning Consult",
@@ -69,7 +103,7 @@
     },
     {
         "id":"147762",
-        "type":"poll",
+        "type":"poll_rcp_avg",
         "pollster":"Data for Progress (D)**",
         "date":"10\/2 - 10\/3",
         "sampleSize":"1211 LV",
@@ -188,7 +222,7 @@
     },
     {
         "id":"147542",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Reuters\/Ipsos",
         "date":"9\/20 - 9\/22",
         "sampleSize":"1029 A",
@@ -273,7 +307,7 @@
     },
     {
         "id":"147407",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"NBC News",
         "date":"9\/13 - 9\/17",
         "sampleSize":"1000 RV",
@@ -358,7 +392,7 @@
     },
     {
         "id":"147154",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Data for Progress (D)**",
         "date":"9\/12 - 9\/13",
         "sampleSize":"1283 LV",
