@@ -1,5 +1,22 @@
 [
     {
+        "id":"147953",
+        "type":"poll_rcp_avg",
+        "pollster":"Harvard-Harris",
+        "date":"10\/11 - 10\/13",
+        "sampleSize":"3145 RV",
+        "marginError":0.0,
+        "link":"https:\/\/harvardharrispoll.com\/key-results-october-5\/",
+        "spread_winner":"Favorable",
+        "spread_value":3.0,
+        "favorable_value":"49",
+        "unfavorable_value":"46",
+        "name":"Kamala Harris Favorability",
+        "slug":"harris_favorability",
+        "polling_start_date":"2024-10-11",
+        "polling_end_date":"2024-10-13"
+    },
+    {
         "id":"147821",
         "type":"poll_rcp_avg",
         "pollster":"Economist\/YouGov",
@@ -375,7 +392,7 @@
     },
     {
         "id":"147243",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Monmouth",
         "date":"9\/11 - 9\/15",
         "sampleSize":"803 RV",
@@ -408,25 +425,8 @@
         "polling_end_date":"2024-09-13"
     },
     {
-        "id":"147174",
-        "type":"poll_rcp_avg",
-        "pollster":"Atlas Intel",
-        "date":"9\/11 - 9\/12",
-        "sampleSize":"1775 LV",
-        "marginError":2.0,
-        "link":"https:\/\/www.realclearpolitics.com\/docs\/2024\/atlas_poll_us_elections_september_2024.pdf",
-        "spread_winner":"Unfavorable",
-        "spread_value":2.0,
-        "favorable_value":"48",
-        "unfavorable_value":"50",
-        "name":"Kamala Harris Favorability",
-        "slug":"harris_favorability",
-        "polling_start_date":"2024-09-11",
-        "polling_end_date":"2024-09-12"
-    },
-    {
         "id":"147257",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Forbes\/HarrisX",
         "date":"9\/11 - 9\/13",
         "sampleSize":"3018 RV",
@@ -460,7 +460,7 @@
     },
     {
         "id":"147195",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"TIPP",
         "date":"9\/11 - 9\/13",
         "sampleSize":"1721 RV",
@@ -493,8 +493,25 @@
         "polling_end_date":"2024-09-13"
     },
     {
+        "id":"147174",
+        "type":"poll",
+        "pollster":"Atlas Intel",
+        "date":"9\/11 - 9\/12",
+        "sampleSize":"1775 LV",
+        "marginError":2.0,
+        "link":"https:\/\/www.realclearpolitics.com\/docs\/2024\/atlas_poll_us_elections_september_2024.pdf",
+        "spread_winner":"Unfavorable",
+        "spread_value":2.0,
+        "favorable_value":"48",
+        "unfavorable_value":"50",
+        "name":"Kamala Harris Favorability",
+        "slug":"harris_favorability",
+        "polling_start_date":"2024-09-11",
+        "polling_end_date":"2024-09-12"
+    },
+    {
         "id":"147288",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Gallup",
         "date":"9\/3 - 9\/15",
         "sampleSize":"1007 A",

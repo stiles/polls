@@ -1,5 +1,22 @@
 [
     {
+        "id":"147940",
+        "type":"poll_rcp_avg",
+        "pollster":"Harvard-Harris",
+        "date":"10\/11 - 10\/13",
+        "sampleSize":"2596 LV",
+        "marginError":0.0,
+        "link":"https:\/\/harvardharrispoll.com\/key-results-october-5\/",
+        "spread_winner":"Harris",
+        "spread_value":2.0,
+        "harris_value":"51",
+        "trump_value":"49",
+        "name":"2024 General Election: Trump vs Harris",
+        "slug":"general",
+        "polling_start_date":"2024-10-11",
+        "polling_end_date":"2024-10-13"
+    },
+    {
         "id":"147927",
         "type":"poll_rcp_avg",
         "pollster":"NBC News",

@@ -1,5 +1,26 @@
 [
     {
+        "id":"147941",
+        "type":"poll_rcp_avg",
+        "pollster":"Harvard-Harris",
+        "date":"10\/11 - 10\/13",
+        "sampleSize":"2596 LV",
+        "marginError":0.0,
+        "link":"https:\/\/harvardharrispoll.com\/key-results-october-5\/",
+        "spread_winner":"Harris",
+        "spread_value":1.0,
+        "harris_value":"49",
+        "trump_value":"48",
+        "kennedy_value":"",
+        "oliver_value":"",
+        "stein_value":"1",
+        "west_value":"1",
+        "name":"General Election: Trump vs. Harris vs. Kennedy vs. West vs. Stein",
+        "slug":"general_third_parties",
+        "polling_start_date":"2024-10-11",
+        "polling_end_date":"2024-10-13"
+    },
+    {
         "id":"147817",
         "type":"poll_rcp_avg",
         "pollster":"Economist\/YouGov",
@@ -463,7 +484,7 @@
     },
     {
         "id":"147042",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Harvard-Harris",
         "date":"9\/4 - 9\/5",
         "sampleSize":"2358 RV",
