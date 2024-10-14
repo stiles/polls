@@ -4343,6 +4343,23 @@
     ],
     "pennsylvania": [
         {
+            "id": "147963",
+            "type": "poll_rcp_avg",
+            "pollster": "Rasmussen Reports",
+            "date": "10/9 - 10/13",
+            "sampleSize": "1072 LV",
+            "marginError": 3.0,
+            "link": "https://www.rasmussenreports.com/public_content/politics/partner_surveys/election_2024_trump_now_3_in_pennsylvania",
+            "spread_winner": "Trump",
+            "spread_value": 3.0,
+            "trump_value": "50",
+            "harris_value": "47",
+            "name": "2024 Pennsylvania: Trump vs. Harris",
+            "slug": "pennsylvania",
+            "polling_start_date": "2024-10-09",
+            "polling_end_date": "2024-10-13"
+        },
+        {
             "id": "147920",
             "type": "poll_rcp_avg",
             "pollster": "NY Times/Siena",
@@ -4377,23 +4394,6 @@
             "polling_end_date": "2024-10-09"
         },
         {
-            "id": "147815",
-            "type": "poll_rcp_avg",
-            "pollster": "InsiderAdvantage",
-            "date": "10/7 - 10/8",
-            "sampleSize": "800 LV",
-            "marginError": 3.5,
-            "link": "https://insideradvantage.com/insideradvantage-pennsylvania-survey-trump-leads-by-two-points/",
-            "spread_winner": "Trump",
-            "spread_value": 2.0,
-            "trump_value": "49",
-            "harris_value": "47",
-            "name": "2024 Pennsylvania: Trump vs. Harris",
-            "slug": "pennsylvania",
-            "polling_start_date": "2024-10-07",
-            "polling_end_date": "2024-10-08"
-        },
-        {
             "id": "147856",
             "type": "poll_rcp_avg",
             "pollster": "The Hill/Emerson",
@@ -4408,6 +4408,23 @@
             "name": "2024 Pennsylvania: Trump vs. Harris",
             "slug": "pennsylvania",
             "polling_start_date": "2024-10-05",
+            "polling_end_date": "2024-10-08"
+        },
+        {
+            "id": "147815",
+            "type": "poll_rcp_avg",
+            "pollster": "InsiderAdvantage",
+            "date": "10/7 - 10/8",
+            "sampleSize": "800 LV",
+            "marginError": 3.5,
+            "link": "https://insideradvantage.com/insideradvantage-pennsylvania-survey-trump-leads-by-two-points/",
+            "spread_winner": "Trump",
+            "spread_value": 2.0,
+            "trump_value": "49",
+            "harris_value": "47",
+            "name": "2024 Pennsylvania: Trump vs. Harris",
+            "slug": "pennsylvania",
+            "polling_start_date": "2024-10-07",
             "polling_end_date": "2024-10-08"
         },
         {
@@ -4445,23 +4462,6 @@
             "polling_end_date": "2024-10-08"
         },
         {
-            "id": "147664",
-            "type": "poll",
-            "pollster": "Emerson",
-            "date": "9/27 - 9/28",
-            "sampleSize": "1000 LV",
-            "marginError": 3.0,
-            "link": "https://emersoncollegepolling.com/september-2024-pennsylvania-poll-trump-48-harris-48/",
-            "spread_winner": "Tie",
-            "spread_value": 0.0,
-            "trump_value": "48",
-            "harris_value": "48",
-            "name": "2024 Pennsylvania: Trump vs. Harris",
-            "slug": "pennsylvania",
-            "polling_start_date": "2024-09-27",
-            "polling_end_date": "2024-09-28"
-        },
-        {
             "id": "147604",
             "type": "poll_rcp_avg",
             "pollster": "Trafalgar Group (R)",
@@ -4477,6 +4477,23 @@
             "slug": "pennsylvania",
             "polling_start_date": "2024-09-26",
             "polling_end_date": "2024-09-29"
+        },
+        {
+            "id": "147664",
+            "type": "poll",
+            "pollster": "Emerson",
+            "date": "9/27 - 9/28",
+            "sampleSize": "1000 LV",
+            "marginError": 3.0,
+            "link": "https://emersoncollegepolling.com/september-2024-pennsylvania-poll-trump-48-harris-48/",
+            "spread_winner": "Tie",
+            "spread_value": 0.0,
+            "trump_value": "48",
+            "harris_value": "48",
+            "name": "2024 Pennsylvania: Trump vs. Harris",
+            "slug": "pennsylvania",
+            "polling_start_date": "2024-09-27",
+            "polling_end_date": "2024-09-28"
         },
         {
             "id": "147845",
