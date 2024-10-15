@@ -1,5 +1,22 @@
 [
     {
+        "id":"147983",
+        "type":"poll_rcp_avg",
+        "pollster":"Trafalgar Group (R)",
+        "date":"10\/10 - 10\/13",
+        "sampleSize":"1085 LV",
+        "marginError":2.9,
+        "link":"https:\/\/www.thetrafalgargroup.org\/wp-content\/uploads\/2024\/10\/NC-24-General-1015_Report.pdf",
+        "spread_winner":"Trump",
+        "spread_value":2.0,
+        "trump_value":"47",
+        "harris_value":"45",
+        "name":"2024 North Carolina: Trump vs. Harris",
+        "slug":"north_carolina",
+        "polling_start_date":"2024-10-10",
+        "polling_end_date":"2024-10-13"
+    },
+    {
         "id":"147859",
         "type":"poll_rcp_avg",
         "pollster":"The Hill\/Emerson",
