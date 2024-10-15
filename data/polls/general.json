@@ -17,6 +17,23 @@
         "polling_end_date":"2024-10-13"
     },
     {
+        "id":"147970",
+        "type":"poll_rcp_avg",
+        "pollster":"Morning Consult",
+        "date":"10\/11 - 10\/13",
+        "sampleSize":"8647 LV",
+        "marginError":1.0,
+        "link":"https:\/\/www.realclearpolitics.com\/docs\/2024\/Morning_Consult_Oct_11-13_2024.pdf",
+        "spread_winner":"Harris",
+        "spread_value":4.0,
+        "harris_value":"50",
+        "trump_value":"46",
+        "name":"2024 General Election: Trump vs Harris",
+        "slug":"general",
+        "polling_start_date":"2024-10-11",
+        "polling_end_date":"2024-10-13"
+    },
+    {
         "id":"147927",
         "type":"poll_rcp_avg",
         "pollster":"NBC News",
@@ -103,7 +120,7 @@
     },
     {
         "id":"147803",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Morning Consult",
         "date":"10\/4 - 10\/6",
         "sampleSize":"11353 LV",
@@ -171,7 +188,7 @@
     },
     {
         "id":"147799",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"NY Times\/Siena",
         "date":"9\/29 - 10\/6",
         "sampleSize":"3385 LV",
