@@ -34,6 +34,23 @@
         "polling_end_date":"2024-10-13"
     },
     {
+        "id":"147989",
+        "type":"poll_rcp_avg",
+        "pollster":"Rasmussen Reports",
+        "date":"10\/9 - 10\/14",
+        "sampleSize":"1948 LV",
+        "marginError":2.0,
+        "link":"https:\/\/www.rasmussenreports.com\/public_content\/politics\/elections\/election_2024\/election2024",
+        "spread_winner":"Trump",
+        "spread_value":3.0,
+        "harris_value":"45",
+        "trump_value":"48",
+        "name":"2024 General Election: Trump vs Harris",
+        "slug":"general",
+        "polling_start_date":"2024-10-09",
+        "polling_end_date":"2024-10-14"
+    },
+    {
         "id":"147927",
         "type":"poll_rcp_avg",
         "pollster":"NBC News",
@@ -86,7 +103,7 @@
     },
     {
         "id":"147884",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Rasmussen Reports",
         "date":"10\/3 - 10\/9",
         "sampleSize":"2244 LV",

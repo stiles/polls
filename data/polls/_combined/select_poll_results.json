@@ -35,6 +35,23 @@
             "polling_end_date": "2024-10-13"
         },
         {
+            "id": "147989",
+            "type": "poll_rcp_avg",
+            "pollster": "Rasmussen Reports",
+            "date": "10/9 - 10/14",
+            "sampleSize": "1948 LV",
+            "marginError": 2.0,
+            "link": "https://www.rasmussenreports.com/public_content/politics/elections/election_2024/election2024",
+            "spread_winner": "Trump",
+            "spread_value": 3.0,
+            "harris_value": "45",
+            "trump_value": "48",
+            "name": "2024 General Election: Trump vs Harris",
+            "slug": "general",
+            "polling_start_date": "2024-10-09",
+            "polling_end_date": "2024-10-14"
+        },
+        {
             "id": "147927",
             "type": "poll_rcp_avg",
             "pollster": "NBC News",
@@ -87,7 +104,7 @@
         },
         {
             "id": "147884",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Rasmussen Reports",
             "date": "10/3 - 10/9",
             "sampleSize": "2244 LV",
@@ -2522,6 +2539,27 @@
             "polling_end_date": "2024-10-04"
         },
         {
+            "id": "147783",
+            "type": "poll",
+            "pollster": "Yahoo News",
+            "date": "10/2 - 10/4",
+            "sampleSize": "1033 LV",
+            "marginError": 0.0,
+            "link": "https://www.scribd.com/document/777272307/20241004-politics",
+            "spread_winner": "Tie",
+            "spread_value": 0.0,
+            "harris_value": "47",
+            "trump_value": "47",
+            "kennedy_value": "",
+            "oliver_value": "1",
+            "stein_value": "1",
+            "west_value": "1",
+            "name": "General Election: Trump vs. Harris vs. Kennedy vs. West vs. Stein",
+            "slug": "general_third_parties",
+            "polling_start_date": "2024-10-02",
+            "polling_end_date": "2024-10-04"
+        },
+        {
             "id": "147890",
             "type": "poll_rcp_avg",
             "pollster": "Pew Research",
@@ -2562,27 +2600,6 @@
             "slug": "general_third_parties",
             "polling_start_date": "2024-09-29",
             "polling_end_date": "2024-10-06"
-        },
-        {
-            "id": "147783",
-            "type": "poll",
-            "pollster": "Yahoo News",
-            "date": "10/2 - 10/4",
-            "sampleSize": "1033 LV",
-            "marginError": 0.0,
-            "link": "https://www.scribd.com/document/777272307/20241004-politics",
-            "spread_winner": "Tie",
-            "spread_value": 0.0,
-            "harris_value": "47",
-            "trump_value": "47",
-            "kennedy_value": "",
-            "oliver_value": "1",
-            "stein_value": "1",
-            "west_value": "1",
-            "name": "General Election: Trump vs. Harris vs. Kennedy vs. West vs. Stein",
-            "slug": "general_third_parties",
-            "polling_start_date": "2024-10-02",
-            "polling_end_date": "2024-10-04"
         },
         {
             "id": "147688",
@@ -7772,6 +7789,23 @@
             "slug": "north_carolina",
             "polling_start_date": "2024-10-10",
             "polling_end_date": "2024-10-13"
+        },
+        {
+            "id": "147986",
+            "type": "poll_rcp_avg",
+            "pollster": "Rasmussen Reports",
+            "date": "10/9 - 10/14",
+            "sampleSize": "1042 LV",
+            "marginError": 3.0,
+            "link": "https://www.rasmussenreports.com/public_content/politics/partner_surveys/election_2024_trump_now_5_in_north_carolina",
+            "spread_winner": "Trump",
+            "spread_value": 5.0,
+            "trump_value": "51",
+            "harris_value": "46",
+            "name": "2024 North Carolina: Trump vs. Harris",
+            "slug": "north_carolina",
+            "polling_start_date": "2024-10-09",
+            "polling_end_date": "2024-10-14"
         },
         {
             "id": "147859",
