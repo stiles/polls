@@ -3,17 +3,17 @@
         "id":"8306",
         "type":"rcp_average",
         "pollster":"rcp_average",
-        "date":"9\/20 - 10\/8",
+        "date":"9\/23 - 10\/13",
         "sampleSize":"",
         "marginError":0.0,
         "link":null,
         "spread_winner":"Trump",
-        "spread_value":0.2,
-        "trump_value":"48.2",
-        "harris_value":"48.0",
+        "spread_value":0.5,
+        "trump_value":"47.7",
+        "harris_value":"47.2",
         "name":"2024 Nevada: Trump vs. Harris",
         "slug":"nevada",
-        "polling_start_date":"2024-09-20",
-        "polling_end_date":"2024-10-08"
+        "polling_start_date":"2024-09-23",
+        "polling_end_date":"2024-10-13"
     }
 ]

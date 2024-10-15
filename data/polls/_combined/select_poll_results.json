@@ -3801,21 +3801,21 @@
     ],
     "georgia": [
         {
-            "id": "147860",
+            "id": "147990",
             "type": "poll_rcp_avg",
-            "pollster": "The Hill/Emerson",
-            "date": "10/5 - 10/8",
-            "sampleSize": "1000 LV",
-            "marginError": 3.0,
-            "link": "https://emersoncollegepolling.com/october-2024-state-polls-mixed-movement-across-swing-states-shows-dead-heat/",
+            "pollster": "InsiderAdvantage",
+            "date": "10/14 - 10/15",
+            "sampleSize": "800 LV",
+            "marginError": 3.7,
+            "link": "https://jamesmagazinega.com/2024/10/15/breaking-new-insideradvantage-poll-shows-trump-with-slight-lead-in-georgia/",
             "spread_winner": "Trump",
-            "spread_value": 1.0,
+            "spread_value": 2.0,
             "trump_value": "49",
-            "harris_value": "48",
+            "harris_value": "47",
             "name": "2024 Georgia: Trump vs. Harris",
             "slug": "georgia",
-            "polling_start_date": "2024-10-05",
-            "polling_end_date": "2024-10-08"
+            "polling_start_date": "2024-10-14",
+            "polling_end_date": "2024-10-15"
         },
         {
             "id": "147855",
@@ -3832,6 +3832,23 @@
             "name": "2024 Georgia: Trump vs. Harris",
             "slug": "georgia",
             "polling_start_date": "2024-10-07",
+            "polling_end_date": "2024-10-08"
+        },
+        {
+            "id": "147860",
+            "type": "poll_rcp_avg",
+            "pollster": "The Hill/Emerson",
+            "date": "10/5 - 10/8",
+            "sampleSize": "1000 LV",
+            "marginError": 3.0,
+            "link": "https://emersoncollegepolling.com/october-2024-state-polls-mixed-movement-across-swing-states-shows-dead-heat/",
+            "spread_winner": "Trump",
+            "spread_value": 1.0,
+            "trump_value": "49",
+            "harris_value": "48",
+            "name": "2024 Georgia: Trump vs. Harris",
+            "slug": "georgia",
+            "polling_start_date": "2024-10-05",
             "polling_end_date": "2024-10-08"
         },
         {
@@ -3853,7 +3870,7 @@
         },
         {
             "id": "147632",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "InsiderAdvantage",
             "date": "9/29 - 9/30",
             "sampleSize": "800 LV",
@@ -6648,21 +6665,21 @@
     ],
     "nevada": [
         {
-            "id": "147899",
+            "id": "147987",
             "type": "poll_rcp_avg",
-            "pollster": "Wall Street Journal",
-            "date": "9/28 - 10/8",
-            "sampleSize": "600 RV",
-            "marginError": 4.0,
-            "link": "https://www.wsj.com/politics/elections/trump-harris-swing-state-poll-october-2024-c3ca9414?mod=hp_lead_pos1",
-            "spread_winner": "Trump",
-            "spread_value": 6.0,
-            "trump_value": "49",
-            "harris_value": "43",
+            "pollster": "Trafalgar Group (R)",
+            "date": "10/10 - 10/13",
+            "sampleSize": "1088 LV",
+            "marginError": 2.9,
+            "link": "https://www.thetrafalgargroup.org/wp-content/uploads/2024/10/NV-24-General-1015_Report.pdf",
+            "spread_winner": "Harris",
+            "spread_value": 1.0,
+            "trump_value": "45",
+            "harris_value": "46",
             "name": "2024 Nevada: Trump vs. Harris",
             "slug": "nevada",
-            "polling_start_date": "2024-09-28",
-            "polling_end_date": "2024-10-08"
+            "polling_start_date": "2024-10-10",
+            "polling_end_date": "2024-10-13"
         },
         {
             "id": "147862",
@@ -6679,6 +6696,23 @@
             "name": "2024 Nevada: Trump vs. Harris",
             "slug": "nevada",
             "polling_start_date": "2024-10-05",
+            "polling_end_date": "2024-10-08"
+        },
+        {
+            "id": "147899",
+            "type": "poll_rcp_avg",
+            "pollster": "Wall Street Journal",
+            "date": "9/28 - 10/8",
+            "sampleSize": "600 RV",
+            "marginError": 4.0,
+            "link": "https://www.wsj.com/politics/elections/trump-harris-swing-state-poll-october-2024-c3ca9414?mod=hp_lead_pos1",
+            "spread_winner": "Trump",
+            "spread_value": 6.0,
+            "trump_value": "49",
+            "harris_value": "43",
+            "name": "2024 Nevada: Trump vs. Harris",
+            "slug": "nevada",
+            "polling_start_date": "2024-09-28",
             "polling_end_date": "2024-10-08"
         },
         {
@@ -6734,7 +6768,7 @@
         },
         {
             "id": "147590",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Atlas Intel",
             "date": "9/20 - 9/25",
             "sampleSize": "858 LV",
@@ -7774,23 +7808,6 @@
     ],
     "north_carolina": [
         {
-            "id": "147983",
-            "type": "poll_rcp_avg",
-            "pollster": "Trafalgar Group (R)",
-            "date": "10/10 - 10/13",
-            "sampleSize": "1085 LV",
-            "marginError": 2.9,
-            "link": "https://www.thetrafalgargroup.org/wp-content/uploads/2024/10/NC-24-General-1015_Report.pdf",
-            "spread_winner": "Trump",
-            "spread_value": 2.0,
-            "trump_value": "47",
-            "harris_value": "45",
-            "name": "2024 North Carolina: Trump vs. Harris",
-            "slug": "north_carolina",
-            "polling_start_date": "2024-10-10",
-            "polling_end_date": "2024-10-13"
-        },
-        {
             "id": "147986",
             "type": "poll_rcp_avg",
             "pollster": "Rasmussen Reports",
@@ -7806,6 +7823,23 @@
             "slug": "north_carolina",
             "polling_start_date": "2024-10-09",
             "polling_end_date": "2024-10-14"
+        },
+        {
+            "id": "147983",
+            "type": "poll_rcp_avg",
+            "pollster": "Trafalgar Group (R)",
+            "date": "10/10 - 10/13",
+            "sampleSize": "1085 LV",
+            "marginError": 2.9,
+            "link": "https://www.thetrafalgargroup.org/wp-content/uploads/2024/10/NC-24-General-1015_Report.pdf",
+            "spread_winner": "Trump",
+            "spread_value": 2.0,
+            "trump_value": "47",
+            "harris_value": "45",
+            "name": "2024 North Carolina: Trump vs. Harris",
+            "slug": "north_carolina",
+            "polling_start_date": "2024-10-10",
+            "polling_end_date": "2024-10-13"
         },
         {
             "id": "147859",
@@ -7962,7 +7996,7 @@
         },
         {
             "id": "147553",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "CNN",
             "date": "9/20 - 9/25",
             "sampleSize": "931 LV",
@@ -7979,7 +8013,7 @@
         },
         {
             "id": "147593",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Atlas Intel",
             "date": "9/20 - 9/25",
             "sampleSize": "1173 LV",
