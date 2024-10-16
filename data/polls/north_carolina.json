@@ -1,5 +1,22 @@
 [
     {
+        "id":"148040",
+        "type":"poll_rcp_avg",
+        "pollster":"Quinnipiac",
+        "date":"10\/10 - 10\/14",
+        "sampleSize":"1031 LV",
+        "marginError":3.1,
+        "link":"https:\/\/poll.qu.edu\/images\/polling\/nc\/nc10162024_crosstabs_swth19.pdf",
+        "spread_winner":"Harris",
+        "spread_value":3.0,
+        "trump_value":"47",
+        "harris_value":"50",
+        "name":"2024 North Carolina: Trump vs. Harris",
+        "slug":"north_carolina",
+        "polling_start_date":"2024-10-10",
+        "polling_end_date":"2024-10-14"
+    },
+    {
         "id":"147986",
         "type":"poll_rcp_avg",
         "pollster":"Rasmussen Reports",
@@ -120,7 +137,7 @@
     },
     {
         "id":"147655",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Quinnipiac",
         "date":"9\/25 - 9\/29",
         "sampleSize":"953 LV",
@@ -171,7 +188,7 @@
     },
     {
         "id":"147724",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"High Point University",
         "date":"9\/20 - 9\/29",
         "sampleSize":"589 LV",
