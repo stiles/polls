@@ -3,17 +3,17 @@
         "id":"8304",
         "type":"rcp_average",
         "pollster":"rcp_average",
-        "date":"9\/19 - 10\/9",
+        "date":"9\/21 - 10\/9",
         "sampleSize":"",
         "marginError":0.0,
         "link":null,
         "spread_winner":"Trump",
-        "spread_value":0.9,
-        "trump_value":"48.5",
-        "harris_value":"47.6",
+        "spread_value":1.0,
+        "trump_value":"48.4",
+        "harris_value":"47.4",
         "name":"2024 Michigan: Trump vs. Harris",
         "slug":"michigan",
-        "polling_start_date":"2024-09-19",
+        "polling_start_date":"2024-09-21",
         "polling_end_date":"2024-10-09"
     }
 ]

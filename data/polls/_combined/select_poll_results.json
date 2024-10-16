@@ -5489,7 +5489,7 @@
         },
         {
             "id": "147587",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Atlas Intel",
             "date": "9/20 - 9/25",
             "sampleSize": "918 LV",
@@ -5506,7 +5506,7 @@
         },
         {
             "id": "147524",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Bloomberg",
             "date": "9/19 - 9/25",
             "sampleSize": "800 LV",
@@ -7262,23 +7262,6 @@
             "polling_end_date": "2024-10-01"
         },
         {
-            "id": "147660",
-            "type": "poll",
-            "pollster": "Emerson",
-            "date": "9/27 - 9/28",
-            "sampleSize": "920 LV",
-            "marginError": 3.2,
-            "link": "https://emersoncollegepolling.com/september-2024-arizona-and-north-carolina-polls-harris-and-trump-neck-and-neck-in-key-swing-states/",
-            "spread_winner": "Trump",
-            "spread_value": 3.0,
-            "trump_value": "50",
-            "harris_value": "47",
-            "name": "2024 Arizona: Trump vs. Harris",
-            "slug": "arizona",
-            "polling_start_date": "2024-09-27",
-            "polling_end_date": "2024-09-28"
-        },
-        {
             "id": "147741",
             "type": "poll_rcp_avg",
             "pollster": "KPHO-TV/HighGround",
@@ -7296,8 +7279,25 @@
             "polling_end_date": "2024-09-29"
         },
         {
+            "id": "147660",
+            "type": "poll",
+            "pollster": "Emerson",
+            "date": "9/27 - 9/28",
+            "sampleSize": "920 LV",
+            "marginError": 3.2,
+            "link": "https://emersoncollegepolling.com/september-2024-arizona-and-north-carolina-polls-harris-and-trump-neck-and-neck-in-key-swing-states/",
+            "spread_winner": "Trump",
+            "spread_value": 3.0,
+            "trump_value": "50",
+            "harris_value": "47",
+            "name": "2024 Arizona: Trump vs. Harris",
+            "slug": "arizona",
+            "polling_start_date": "2024-09-27",
+            "polling_end_date": "2024-09-28"
+        },
+        {
             "id": "147847",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "GSG/NSOR",
             "date": "9/23 - 9/29",
             "sampleSize": "400 LV",
@@ -7314,7 +7314,7 @@
         },
         {
             "id": "147534",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "USA Today/Suffolk",
             "date": "9/21 - 9/24",
             "sampleSize": "500 LV",
@@ -7331,7 +7331,7 @@
         },
         {
             "id": "147584",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Atlas Intel",
             "date": "9/20 - 9/25",
             "sampleSize": "946 LV",
@@ -7348,7 +7348,7 @@
         },
         {
             "id": "147678",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Cook Political Report",
             "date": "9/19 - 9/25",
             "sampleSize": "409 LV",

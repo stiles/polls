@@ -37,8 +37,8 @@
     },
     {
         "date":"2024-10-15",
-        "harris":49.4,
-        "trump":46.93,
+        "harris":49.13,
+        "trump":46.6,
         "source":"270toWin",
         "winning":"D +2.5",
         "winning_margin":2.5,
@@ -54,7 +54,7 @@
         "fetched_date":"2024-10-15"
     },
     {
-        "date":"2024-10-15",
+        "date":"2024-10-16",
         "harris":49.0,
         "trump":47.0,
         "source":"New York Times",
@@ -64,8 +64,8 @@
     },
     {
         "date":"2024-10-15",
-        "harris":49.8,
-        "trump":46.9,
+        "harris":49.7,
+        "trump":46.8,
         "source":"The Hill",
         "winning":"D +2.9",
         "winning_margin":2.9,

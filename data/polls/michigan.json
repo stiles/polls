@@ -154,7 +154,7 @@
     },
     {
         "id":"147587",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Atlas Intel",
         "date":"9\/20 - 9\/25",
         "sampleSize":"918 LV",
@@ -171,7 +171,7 @@
     },
     {
         "id":"147524",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Bloomberg",
         "date":"9\/19 - 9\/25",
         "sampleSize":"800 LV",
