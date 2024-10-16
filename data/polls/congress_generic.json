@@ -1,5 +1,22 @@
 [
     {
+        "id":"148001",
+        "type":"poll_rcp_avg",
+        "pollster":"Marquette",
+        "date":"10\/1 - 10\/10",
+        "sampleSize":"699 LV",
+        "marginError":4.7,
+        "link":"https:\/\/law.marquette.edu\/poll\/wp-content\/uploads\/2024\/10\/MLSPSC22ToplinesLV_NationalIssues.html#B1:_Trump_vs_Harris",
+        "spread_winner":"Democrats",
+        "spread_value":2.0,
+        "democrats_value":"51",
+        "republicans_value":"49",
+        "name":"2024 Generic Congressional Vote",
+        "slug":"congress_generic",
+        "polling_start_date":"2024-10-01",
+        "polling_end_date":"2024-10-10"
+    },
+    {
         "id":"147942",
         "type":"poll_rcp_avg",
         "pollster":"Harvard-Harris",
