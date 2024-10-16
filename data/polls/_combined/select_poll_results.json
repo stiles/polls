@@ -11348,6 +11348,23 @@
     ],
     "harris_favorability": [
         {
+            "id": "148010",
+            "type": "poll_rcp_avg",
+            "pollster": "TIPP",
+            "date": "10/12 - 10/14",
+            "sampleSize": "1198 LV",
+            "marginError": 0.0,
+            "link": "https://tippinsights.com/tipp-tracking-poll-day-3-harris-widens-popular-vote-lead-while-trump-maintains-edge-in-electoral-projections/",
+            "spread_winner": "Tie",
+            "spread_value": 0.0,
+            "favorable_value": "48",
+            "unfavorable_value": "48",
+            "name": "Kamala Harris Favorability",
+            "slug": "harris_favorability",
+            "polling_start_date": "2024-10-12",
+            "polling_end_date": "2024-10-14"
+        },
+        {
             "id": "147953",
             "type": "poll_rcp_avg",
             "pollster": "Harvard-Harris",

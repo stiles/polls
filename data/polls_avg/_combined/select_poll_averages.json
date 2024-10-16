@@ -177,7 +177,7 @@
         "id": "6690",
         "type": "rcp_average",
         "pollster": "rcp_average",
-        "date": "9/13 - 10/13",
+        "date": "9/13 - 10/14",
         "sampleSize": "",
         "marginError": 0.0,
         "link": null,
@@ -188,7 +188,7 @@
         "name": "Kamala Harris Favorability",
         "slug": "harris_favorability",
         "polling_start_date": "2024-09-13",
-        "polling_end_date": "2024-10-13"
+        "polling_end_date": "2024-10-14"
     },
     {
         "id": "902",
