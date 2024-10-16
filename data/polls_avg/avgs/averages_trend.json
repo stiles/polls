@@ -46,11 +46,11 @@
     },
     {
         "date":"2024-10-14",
-        "harris":50.1,
-        "trump":46.8,
+        "harris":49.9,
+        "trump":46.7,
         "source":"Economist",
-        "winning":"D +3.3",
-        "winning_margin":3.3,
+        "winning":"D +3.2",
+        "winning_margin":3.2,
         "fetched_date":"2024-10-16"
     },
     {
