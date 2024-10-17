@@ -1,5 +1,22 @@
 [
     {
+        "id":"148046",
+        "type":"poll_rcp_avg",
+        "pollster":"FOX News",
+        "date":"10\/11 - 10\/14",
+        "sampleSize":"870 LV",
+        "marginError":3.0,
+        "link":"https:\/\/static.foxnews.com\/foxnews.com\/content\/uploads\/2024\/10\/fox_october-11-14-2024_national_topline_october-16-release.pdf",
+        "spread_winner":"Trump",
+        "spread_value":2.0,
+        "harris_value":"48",
+        "trump_value":"50",
+        "name":"2024 General Election: Trump vs Harris",
+        "slug":"general",
+        "polling_start_date":"2024-10-11",
+        "polling_end_date":"2024-10-14"
+    },
+    {
         "id":"147998",
         "type":"poll_rcp_avg",
         "pollster":"Marquette",
@@ -34,8 +51,25 @@
         "polling_end_date":"2024-10-10"
     },
     {
-        "id":"147989",
+        "id":"148045",
         "type":"poll_rcp_avg",
+        "pollster":"Rasmussen Reports",
+        "date":"10\/10 - 10\/15",
+        "sampleSize":"2049 LV",
+        "marginError":2.0,
+        "link":"https:\/\/www.rasmussenreports.com\/public_content\/politics\/elections\/election_2024\/election2024",
+        "spread_winner":"Trump",
+        "spread_value":1.0,
+        "harris_value":"47",
+        "trump_value":"48",
+        "name":"2024 General Election: Trump vs Harris",
+        "slug":"general",
+        "polling_start_date":"2024-10-10",
+        "polling_end_date":"2024-10-15"
+    },
+    {
+        "id":"147989",
+        "type":"poll",
         "pollster":"Rasmussen Reports",
         "date":"10\/9 - 10\/14",
         "sampleSize":"1948 LV",
