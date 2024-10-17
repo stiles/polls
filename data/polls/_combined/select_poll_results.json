@@ -4678,6 +4678,23 @@
             "polling_end_date": "2024-10-08"
         },
         {
+            "id": "148052",
+            "type": "poll_rcp_avg",
+            "pollster": "UMass Lowell",
+            "date": "10/2 - 10/9",
+            "sampleSize": "800 LV",
+            "marginError": 4.0,
+            "link": "https://www.realclearpolitics.com/docs/2024/Umass_Lowell_PA_Oct.pdf",
+            "spread_winner": "Harris",
+            "spread_value": 1.0,
+            "trump_value": "45",
+            "harris_value": "46",
+            "name": "2024 Pennsylvania: Trump vs. Harris",
+            "slug": "pennsylvania",
+            "polling_start_date": "2024-10-02",
+            "polling_end_date": "2024-10-09"
+        },
+        {
             "id": "147838",
             "type": "poll_rcp_avg",
             "pollster": "Quinnipiac",
