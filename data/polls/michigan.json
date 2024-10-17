@@ -34,6 +34,23 @@
         "polling_end_date":"2024-10-14"
     },
     {
+        "id":"147835",
+        "type":"poll_rcp_avg",
+        "pollster":"Quinnipiac",
+        "date":"10\/3 - 10\/7",
+        "sampleSize":"1007 LV",
+        "marginError":3.1,
+        "link":"https:\/\/poll.qu.edu\/poll-release?releaseid=3913",
+        "spread_winner":"Trump",
+        "spread_value":4.0,
+        "trump_value":"51",
+        "harris_value":"47",
+        "name":"2024 Michigan: Trump vs. Harris",
+        "slug":"michigan",
+        "polling_start_date":"2024-10-03",
+        "polling_end_date":"2024-10-07"
+    },
+    {
         "id":"147977",
         "type":"poll_rcp_avg",
         "pollster":"Fabrizio\/Anzalone",
@@ -83,23 +100,6 @@
         "slug":"michigan",
         "polling_start_date":"2024-10-05",
         "polling_end_date":"2024-10-08"
-    },
-    {
-        "id":"147835",
-        "type":"poll_rcp_avg",
-        "pollster":"Quinnipiac",
-        "date":"10\/3 - 10\/7",
-        "sampleSize":"1007 LV",
-        "marginError":3.1,
-        "link":"https:\/\/poll.qu.edu\/poll-release?releaseid=3913",
-        "spread_winner":"Trump",
-        "spread_value":4.0,
-        "trump_value":"51",
-        "harris_value":"47",
-        "name":"2024 Michigan: Trump vs. Harris",
-        "slug":"michigan",
-        "polling_start_date":"2024-10-03",
-        "polling_end_date":"2024-10-07"
     },
     {
         "id":"147898",
