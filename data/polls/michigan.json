@@ -1,5 +1,22 @@
 [
     {
+        "id":"148056",
+        "type":"poll_rcp_avg",
+        "pollster":"MNS\/Mitchell Research",
+        "date":"10\/14 - 10\/14",
+        "sampleSize":"589 LV",
+        "marginError":4.0,
+        "link":"https:\/\/www.michigannewssource.com\/2024\/10\/exclusive-poll-trump-and-harris-still-in-dead-heat-in-michigan-demographic-breakdown-tells-real-story\/",
+        "spread_winner":"Trump",
+        "spread_value":1.0,
+        "trump_value":"48",
+        "harris_value":"47",
+        "name":"2024 Michigan: Trump vs. Harris",
+        "slug":"michigan",
+        "polling_start_date":"2024-10-14",
+        "polling_end_date":"2024-10-14"
+    },
+    {
         "id":"147977",
         "type":"poll_rcp_avg",
         "pollster":"Fabrizio\/Anzalone",
@@ -86,7 +103,7 @@
     },
     {
         "id":"147720",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"MIRS\/MI News Source",
         "date":"9\/30 - 9\/30",
         "sampleSize":"709 LV",
