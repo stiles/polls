@@ -34,6 +34,23 @@
         "polling_end_date":"2024-10-13"
     },
     {
+        "id":"148067",
+        "type":"poll_rcp_avg",
+        "pollster":"Reuters\/Ipsos",
+        "date":"10\/11 - 10\/13",
+        "sampleSize":"938 A",
+        "marginError":0.0,
+        "link":"https:\/\/www.ipsos.com\/sites\/default\/files\/Reuters%20Ipsos%20Core%20Political%2010%2016%202024%20PDF.pdf",
+        "spread_winner":"Wrong Track",
+        "spread_value":-45.0,
+        "right_direction_value":"18",
+        "wrong_track_value":"63",
+        "name":"Direction of Country",
+        "slug":"country_direction",
+        "polling_start_date":"2024-10-11",
+        "polling_end_date":"2024-10-13"
+    },
+    {
         "id":"147966",
         "type":"poll_rcp_avg",
         "pollster":"Rasmussen Reports",
@@ -171,7 +188,7 @@
     },
     {
         "id":"147539",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Reuters\/Ipsos",
         "date":"9\/20 - 9\/22",
         "sampleSize":"1029 A",
@@ -239,7 +256,7 @@
     },
     {
         "id":"147363",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"GWU\/HarrisX",
         "date":"9\/14 - 9\/16",
         "sampleSize":"1505 RV",
@@ -324,7 +341,7 @@
     },
     {
         "id":"147065",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"NY Times\/Siena",
         "date":"9\/3 - 9\/6",
         "sampleSize":"1695 LV",

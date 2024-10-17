@@ -1,5 +1,22 @@
 [
     {
+        "id":"148061",
+        "type":"poll_rcp_avg",
+        "pollster":"Carolina Journal\/Cygnal",
+        "date":"10\/12 - 10\/14",
+        "sampleSize":"600 LV",
+        "marginError":4.0,
+        "link":"https:\/\/www.carolinajournal.com\/trump-harris-neck-and-neck-in-nc-as-presidential-race-enters-closing-weeks\/",
+        "spread_winner":"Tie",
+        "spread_value":0.0,
+        "trump_value":"47",
+        "harris_value":"47",
+        "name":"2024 North Carolina: Trump vs. Harris",
+        "slug":"north_carolina",
+        "polling_start_date":"2024-10-12",
+        "polling_end_date":"2024-10-14"
+    },
+    {
         "id":"148040",
         "type":"poll_rcp_avg",
         "pollster":"Quinnipiac",

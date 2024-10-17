@@ -1,4 +1,5 @@
 id,type,pollster,date,sampleSize,marginError,link,spread_winner,spread_value,trump_value,harris_value,name,slug,polling_start_date,polling_end_date
+148061,poll_rcp_avg,Carolina Journal/Cygnal,10/12 - 10/14,600 LV,4.0,https://www.carolinajournal.com/trump-harris-neck-and-neck-in-nc-as-presidential-race-enters-closing-weeks/,Tie,0.0,47,47,2024 North Carolina: Trump vs. Harris,north_carolina,2024-10-12,2024-10-14
 148040,poll_rcp_avg,Quinnipiac,10/10 - 10/14,1031 LV,3.1,https://poll.qu.edu/images/polling/nc/nc10162024_crosstabs_swth19.pdf,Harris,3.0,47,50,2024 North Carolina: Trump vs. Harris,north_carolina,2024-10-10,2024-10-14
 147986,poll_rcp_avg,Rasmussen Reports,10/9 - 10/14,1042 LV,3.0,https://www.rasmussenreports.com/public_content/politics/partner_surveys/election_2024_trump_now_5_in_north_carolina,Trump,5.0,51,46,2024 North Carolina: Trump vs. Harris,north_carolina,2024-10-09,2024-10-14
 147983,poll_rcp_avg,Trafalgar Group (R),10/10 - 10/13,1085 LV,2.9,https://www.thetrafalgargroup.org/wp-content/uploads/2024/10/NC-24-General-1015_Report.pdf,Trump,2.0,47,45,2024 North Carolina: Trump vs. Harris,north_carolina,2024-10-10,2024-10-13
