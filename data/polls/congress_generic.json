@@ -1,5 +1,22 @@
 [
     {
+        "id":"148086",
+        "type":"poll_rcp_avg",
+        "pollster":"Emerson",
+        "date":"10\/14 - 10\/16",
+        "sampleSize":"1000 LV",
+        "marginError":3.0,
+        "link":"https:\/\/emersoncollegepolling.com\/october-2024-tracking-national-poll-harris-49-trump-48\/",
+        "spread_winner":"Democrats",
+        "spread_value":3.0,
+        "democrats_value":"48",
+        "republicans_value":"45",
+        "name":"2024 Generic Congressional Vote",
+        "slug":"congress_generic",
+        "polling_start_date":"2024-10-14",
+        "polling_end_date":"2024-10-16"
+    },
+    {
         "id":"148018",
         "type":"poll_rcp_avg",
         "pollster":"Economist\/YouGov",
@@ -32,6 +49,23 @@
         "slug":"congress_generic",
         "polling_start_date":"2024-10-11",
         "polling_end_date":"2024-10-13"
+    },
+    {
+        "id":"148093",
+        "type":"poll_rcp_avg",
+        "pollster":"HarrisX",
+        "date":"10\/9 - 10\/11",
+        "sampleSize":"2010 RV",
+        "marginError":0.0,
+        "link":"https:\/\/elections.harrisx.com\/public\/Deseret_News_HarrisX_Political_Oct_14_2024_2_day.html",
+        "spread_winner":"Republicans",
+        "spread_value":1.0,
+        "democrats_value":"42",
+        "republicans_value":"43",
+        "name":"2024 Generic Congressional Vote",
+        "slug":"congress_generic",
+        "polling_start_date":"2024-10-09",
+        "polling_end_date":"2024-10-11"
     },
     {
         "id":"147818",
@@ -120,7 +154,7 @@
     },
     {
         "id":"147714",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Emerson",
         "date":"9\/29 - 10\/1",
         "sampleSize":"1000 LV",

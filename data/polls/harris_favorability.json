@@ -1,5 +1,22 @@
 [
     {
+        "id":"148088",
+        "type":"poll_rcp_avg",
+        "pollster":"Emerson",
+        "date":"10\/14 - 10\/16",
+        "sampleSize":"1000 LV",
+        "marginError":3.0,
+        "link":"https:\/\/emersoncollegepolling.com\/october-2024-tracking-national-poll-harris-49-trump-48\/",
+        "spread_winner":"Favorable",
+        "spread_value":6.0,
+        "favorable_value":"53",
+        "unfavorable_value":"47",
+        "name":"Kamala Harris Favorability",
+        "slug":"harris_favorability",
+        "polling_start_date":"2024-10-14",
+        "polling_end_date":"2024-10-16"
+    },
+    {
         "id":"148021",
         "type":"poll_rcp_avg",
         "pollster":"Economist\/YouGov",
@@ -66,6 +83,23 @@
         "slug":"harris_favorability",
         "polling_start_date":"2024-10-11",
         "polling_end_date":"2024-10-13"
+    },
+    {
+        "id":"148098",
+        "type":"poll_rcp_avg",
+        "pollster":"HarrisX",
+        "date":"10\/9 - 10\/11",
+        "sampleSize":"2010 RV",
+        "marginError":0.0,
+        "link":"https:\/\/elections.harrisx.com\/public\/Deseret_News_HarrisX_Political_Oct_14_2024_2_day.html",
+        "spread_winner":"Unfavorable",
+        "spread_value":1.0,
+        "favorable_value":"47",
+        "unfavorable_value":"48",
+        "name":"Kamala Harris Favorability",
+        "slug":"harris_favorability",
+        "polling_start_date":"2024-10-09",
+        "polling_end_date":"2024-10-11"
     },
     {
         "id":"147971",
@@ -239,7 +273,7 @@
     },
     {
         "id":"147715",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Emerson",
         "date":"9\/29 - 10\/1",
         "sampleSize":"1000 LV",
