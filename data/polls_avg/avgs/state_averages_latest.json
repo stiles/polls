@@ -33,17 +33,6 @@
         "source":"FiveThirtyEight"
     },
     {
-        "state":"Minnesota",
-        "date":"2024-10-18",
-        "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/minnesota\/polling-average.json",
-        "harris":50.0,
-        "trump":44.2,
-        "winning":"D +5.8",
-        "winning_margin":5.8,
-        "state_abbr":"MN",
-        "source":"FiveThirtyEight"
-    },
-    {
         "state":"Nevada",
         "date":"2024-10-18",
         "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/nevada\/polling-average.json",
