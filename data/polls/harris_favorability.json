@@ -51,6 +51,23 @@
         "polling_end_date":"2024-10-14"
     },
     {
+        "id":"148107",
+        "type":"poll_rcp_avg",
+        "pollster":"FOX News",
+        "date":"10\/11 - 10\/14",
+        "sampleSize":"870 LV",
+        "marginError":0.0,
+        "link":"https:\/\/static.foxnews.com\/foxnews.com\/content\/uploads\/2024\/10\/fox_october-11-14-2024_national_topline_october-17-release.pdf",
+        "spread_winner":"Unfavorable",
+        "spread_value":5.0,
+        "favorable_value":"47",
+        "unfavorable_value":"52",
+        "name":"Kamala Harris Favorability",
+        "slug":"harris_favorability",
+        "polling_start_date":"2024-10-11",
+        "polling_end_date":"2024-10-14"
+    },
+    {
         "id":"147953",
         "type":"poll_rcp_avg",
         "pollster":"Harvard-Harris",
@@ -477,7 +494,7 @@
     },
     {
         "id":"147328",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"FOX News",
         "date":"9\/13 - 9\/16",
         "sampleSize":"876 LV",

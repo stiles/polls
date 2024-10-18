@@ -11747,6 +11747,23 @@
             "polling_end_date": "2024-10-14"
         },
         {
+            "id": "148107",
+            "type": "poll_rcp_avg",
+            "pollster": "FOX News",
+            "date": "10/11 - 10/14",
+            "sampleSize": "870 LV",
+            "marginError": 0.0,
+            "link": "https://static.foxnews.com/foxnews.com/content/uploads/2024/10/fox_october-11-14-2024_national_topline_october-17-release.pdf",
+            "spread_winner": "Unfavorable",
+            "spread_value": 5.0,
+            "favorable_value": "47",
+            "unfavorable_value": "52",
+            "name": "Kamala Harris Favorability",
+            "slug": "harris_favorability",
+            "polling_start_date": "2024-10-11",
+            "polling_end_date": "2024-10-14"
+        },
+        {
             "id": "147953",
             "type": "poll_rcp_avg",
             "pollster": "Harvard-Harris",
@@ -12173,7 +12190,7 @@
         },
         {
             "id": "147328",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "FOX News",
             "date": "9/13 - 9/16",
             "sampleSize": "876 LV",
@@ -22015,6 +22032,23 @@
             "slug": "country_direction",
             "polling_start_date": "2024-10-11",
             "polling_end_date": "2024-10-13"
+        },
+        {
+            "id": "148095",
+            "type": "poll_rcp_avg",
+            "pollster": "HarrisX",
+            "date": "10/9 - 10/11",
+            "sampleSize": "2010 RV",
+            "marginError": 0.0,
+            "link": "https://elections.harrisx.com/public/Deseret_News_HarrisX_Political_Oct_14_2024_2_day.html",
+            "spread_winner": "Wrong Track",
+            "spread_value": -37.0,
+            "right_direction_value": "26",
+            "wrong_track_value": "63",
+            "name": "Direction of Country",
+            "slug": "country_direction",
+            "polling_start_date": "2024-10-09",
+            "polling_end_date": "2024-10-11"
         },
         {
             "id": "147966",
