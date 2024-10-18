@@ -4030,6 +4030,23 @@
     ],
     "georgia": [
         {
+            "id": "148114",
+            "type": "poll_rcp_avg",
+            "pollster": "East Carolina U.",
+            "date": "10/9 - 10/14",
+            "sampleSize": "701 LV",
+            "marginError": 4.0,
+            "link": "https://surveyresearch-ecu.reportablenews.com/pr/trump-leads-harris-by-three-points-in-georgia",
+            "spread_winner": "Trump",
+            "spread_value": 3.0,
+            "trump_value": "49",
+            "harris_value": "46",
+            "name": "2024 Georgia: Trump vs. Harris",
+            "slug": "georgia",
+            "polling_start_date": "2024-10-09",
+            "polling_end_date": "2024-10-14"
+        },
+        {
             "id": "148043",
             "type": "poll_rcp_avg",
             "pollster": "Quinnipiac",
