@@ -82,14 +82,14 @@ ties = len(states_fte) - (harris_leads + trump_leads)
 if ties > 1:
     state_phrase = 'states'
 else:
-    state_phrase = 'states'
+    state_phrase = 'state'
 
 if harris_leads > trump_leads:
     state_msg = f"<span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>{avg_winning}</span> is leading in <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>{number_map[harris_leads]}</span> of the potential swing states over {avg_losing}, according to FiveThirtyEight's averages."
 elif trump_leads > harris_leads:
     state_msg = f"<span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>{avg_losing}</span> is leading in <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>{number_map[trump_leads]}</span> of the potential swing states over {avg_winning}, according to FiveThirtyEight's averages."
 else:
-    state_msg = f"The state of the race is mixed, with <span style='background: #{avg_winning_color}; padding:1px 4px; color: #ffffff; font-weight: bold;'>{avg_winning}</span> ahead in **{number_map[harris_leads]}** states, <span style='background: #{avg_losing_color}; padding:1px 4px; color: #ffffff; font-weight: bold;'>{avg_losing}</span> ahead in **{number_map[trump_leads]}** states."
+    state_msg = f"The state of the race is mixed, with <span style='background: {avg_winning_color}; padding:1px 4px; color: #ffffff; font-weight: bold;'>{avg_winning}</span> ahead in **{number_map[harris_leads]}** states, <span style='background: {avg_winning_color}; padding:1px 4px; color: #ffffff; font-weight: bold;'>{avg_losing_color}</span> ahead in **{number_map[trump_leads]}** states."
 
 # Format sources
 def format_sources(sources):
