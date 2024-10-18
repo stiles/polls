@@ -26,8 +26,8 @@ def determine_winner(row):
     return f"{winner} +{margin:.1f}"
 
 # Which states are we interested in 
-states = ['Pennsylvania', 'Michigan', 'Wisconsin', 'Georgia', 'Nevada', 'Arizona', 'North Carolina', 'Minnesota']
-abbreviations = ['PA', 'MI', 'WI', 'GA', 'NV', 'AZ', 'NC', 'MN']
+states = ['Pennsylvania', 'Michigan', 'Wisconsin', 'Georgia', 'Nevada', 'Arizona', 'North Carolina']
+abbreviations = ['PA', 'MI', 'WI', 'GA', 'NV', 'AZ', 'NC']
 
 base_url = 'https://projects.fivethirtyeight.com/polls/president-general/2024/{}/polling-average.json'
 dfs = []
