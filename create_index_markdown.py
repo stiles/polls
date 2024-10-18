@@ -56,11 +56,13 @@ if harris_avg > trump_avg:
     avg_losing = "former President Donald Trump"
     avg_margin = round(harris_avg - trump_avg, 1)
     avg_winning_color = '#5194C3'
+    avg_losing_color = '#c52622'
 else:
     avg_winning = "Former President Donald Trump"
     avg_losing = "Vice President Kamala Harris"
     avg_margin = round(trump_avg - harris_avg, 1)
     avg_winning_color = '#c52622'
+    avg_losing_color = '#5194C3'
 
 number_map = {
     0: "zero",
@@ -80,14 +82,14 @@ ties = len(states_fte) - (harris_leads + trump_leads)
 if ties > 1:
     state_phrase = 'states'
 else:
-    state_phrase = 'state'
+    state_phrase = 'states'
 
 if harris_leads > trump_leads:
     state_msg = f"<span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>{avg_winning}</span> is leading in <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>{number_map[harris_leads]}</span> of the potential swing states over {avg_losing}, according to FiveThirtyEight's averages."
 elif trump_leads > harris_leads:
     state_msg = f"<span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>{avg_losing}</span> is leading in <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>{number_map[trump_leads]}</span> of the potential swing states over {avg_winning}, according to FiveThirtyEight's averages."
 else:
-    state_msg = f"The state of the race is mixed, with **{avg_winning}** ahead in **{number_map[harris_leads]}** states, **{avg_losing}** ahead in **{number_map[trump_leads]}** states, and the candidates tied in **{ties}** {state_phrase}."
+    state_msg = f"The state of the race is mixed, with <span style='background: #{avg_winning_color}; padding:1px 4px; color: #ffffff; font-weight: bold;'>{avg_winning}</span> ahead in **{number_map[harris_leads]}** states, <span style='background: #{avg_losing_color}; padding:1px 4px; color: #ffffff; font-weight: bold;'>{avg_losing}</span> ahead in **{number_map[trump_leads]}** states."
 
 # Format sources
 def format_sources(sources):
