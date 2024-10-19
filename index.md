@@ -53,7 +53,7 @@ The latest forecasts for the 2024 presidential election based on models develope
 
 | Place | Favored / Chance | Source |
 |-------|---------------------|--------|
-| US | <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>Trump - 52%</span> | [Nate Silver](https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model) |
+| US | <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>Trump - 51%</span> | [Nate Silver](https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model) |
 | US | <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>Trump - 51%</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/2024-election-forecast) |
 | US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>Harris - 53%</span> | [Economist](https://www.economist.com/interactive/us-2024-election/prediction-model/president/) |
 | US | <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>Trump - 50%</span> | [The Hill](https://elections2024.thehill.com/forecast/2024/president/) |
@@ -81,10 +81,10 @@ The state of the race is mixed, with <span style='background: #5194C3; padding:1
 | Place             | Margin               | Source       |
 |-------------------|----------------------|--------------|
 | US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +1.8</span> |[Cook Report](https://www.cookpolitical.com/survey-research/cpr-national-polling-average/2024/harris-trump-overall) 
-| US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +1.4</span> |[RealClearPolitics](https://www.realclearpolling.com/polls/president/general/2024/trump-vs-harris) 
+| US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +1.3</span> |[RealClearPolitics](https://www.realclearpolling.com/polls/president/general/2024/trump-vs-harris) 
 | US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +2.1</span> |[FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/national/) 
 | US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +2.3</span> |[Nate Silver](https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model) 
-| US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +2.0</span> |[270toWin](https://www.270towin.com/2024-presidential-election-polls/) 
+| US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +1.9</span> |[270toWin](https://www.270towin.com/2024-presidential-election-polls/) 
 | US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +2.9</span> |[Economist](https://www.economist.com/interactive/us-2024-election/trump-harris-polls) 
 | US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +2.0</span> |[New York Times](https://www.nytimes.com/interactive/2024/us/elections/polls-president.html) 
 | US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +2.2</span> |[The Hill](https://elections2024.thehill.com/national/harris-trump-general/) 
@@ -94,4 +94,4 @@ The state of the race is mixed, with <span style='background: #5194C3; padding:1
 
  **About this page:** [Github repo](https://github.com/stiles/polls) 
 
- **Last update:** *10 a.m. ET, October 19*.
+ **Last update:** *12 p.m. ET, October 19*.

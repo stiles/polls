@@ -137,7 +137,7 @@
     },
     {
         "id":"147701",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Trafalgar Group (R)",
         "date":"9\/28 - 9\/30",
         "sampleSize":"1086 LV",
@@ -154,7 +154,7 @@
     },
     {
         "id":"147843",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"GSG\/NSOR",
         "date":"9\/23 - 9\/29",
         "sampleSize":"404 LV",
@@ -171,7 +171,7 @@
     },
     {
         "id":"147568",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"NY Times\/Siena",
         "date":"9\/21 - 9\/26",
         "sampleSize":"688 LV",

@@ -4064,23 +4064,6 @@
     ],
     "georgia": [
         {
-            "id": "148114",
-            "type": "poll_rcp_avg",
-            "pollster": "East Carolina U.",
-            "date": "10/9 - 10/14",
-            "sampleSize": "701 LV",
-            "marginError": 4.0,
-            "link": "https://surveyresearch-ecu.reportablenews.com/pr/trump-leads-harris-by-three-points-in-georgia",
-            "spread_winner": "Trump",
-            "spread_value": 3.0,
-            "trump_value": "49",
-            "harris_value": "46",
-            "name": "2024 Georgia: Trump vs. Harris",
-            "slug": "georgia",
-            "polling_start_date": "2024-10-09",
-            "polling_end_date": "2024-10-14"
-        },
-        {
             "id": "148117",
             "type": "poll_rcp_avg",
             "pollster": "AmGreatness/TIPP",
@@ -4096,6 +4079,23 @@
             "slug": "georgia",
             "polling_start_date": "2024-10-14",
             "polling_end_date": "2024-10-16"
+        },
+        {
+            "id": "147990",
+            "type": "poll_rcp_avg",
+            "pollster": "InsiderAdvantage",
+            "date": "10/14 - 10/15",
+            "sampleSize": "800 LV",
+            "marginError": 3.7,
+            "link": "https://jamesmagazinega.com/2024/10/15/breaking-new-insideradvantage-poll-shows-trump-with-slight-lead-in-georgia/",
+            "spread_winner": "Trump",
+            "spread_value": 2.0,
+            "trump_value": "49",
+            "harris_value": "47",
+            "name": "2024 Georgia: Trump vs. Harris",
+            "slug": "georgia",
+            "polling_start_date": "2024-10-14",
+            "polling_end_date": "2024-10-15"
         },
         {
             "id": "148043",
@@ -4115,21 +4115,21 @@
             "polling_end_date": "2024-10-14"
         },
         {
-            "id": "147990",
+            "id": "148114",
             "type": "poll_rcp_avg",
-            "pollster": "InsiderAdvantage",
-            "date": "10/14 - 10/15",
-            "sampleSize": "800 LV",
-            "marginError": 3.7,
-            "link": "https://jamesmagazinega.com/2024/10/15/breaking-new-insideradvantage-poll-shows-trump-with-slight-lead-in-georgia/",
+            "pollster": "East Carolina U.",
+            "date": "10/9 - 10/14",
+            "sampleSize": "701 LV",
+            "marginError": 4.0,
+            "link": "https://surveyresearch-ecu.reportablenews.com/pr/trump-leads-harris-by-three-points-in-georgia",
             "spread_winner": "Trump",
-            "spread_value": 2.0,
+            "spread_value": 3.0,
             "trump_value": "49",
-            "harris_value": "47",
+            "harris_value": "46",
             "name": "2024 Georgia: Trump vs. Harris",
             "slug": "georgia",
-            "polling_start_date": "2024-10-14",
-            "polling_end_date": "2024-10-15"
+            "polling_start_date": "2024-10-09",
+            "polling_end_date": "2024-10-14"
         },
         {
             "id": "147855",
@@ -4218,7 +4218,7 @@
         },
         {
             "id": "147849",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "GSG/NSOR",
             "date": "9/23 - 9/29",
             "sampleSize": "400 LV",
@@ -4235,7 +4235,7 @@
         },
         {
             "id": "147586",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Atlas Intel",
             "date": "9/20 - 9/25",
             "sampleSize": "1200 LV",
@@ -4252,7 +4252,7 @@
         },
         {
             "id": "147492",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "CBS News",
             "date": "9/20 - 9/24",
             "sampleSize": "1441 LV",
@@ -4269,7 +4269,7 @@
         },
         {
             "id": "147517",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "FOX News",
             "date": "9/20 - 9/24",
             "sampleSize": "707 LV",
@@ -5803,7 +5803,7 @@
         },
         {
             "id": "147701",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Trafalgar Group (R)",
             "date": "9/28 - 9/30",
             "sampleSize": "1086 LV",
@@ -5820,7 +5820,7 @@
         },
         {
             "id": "147843",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "GSG/NSOR",
             "date": "9/23 - 9/29",
             "sampleSize": "404 LV",
@@ -5837,7 +5837,7 @@
         },
         {
             "id": "147568",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "NY Times/Siena",
             "date": "9/21 - 9/26",
             "sampleSize": "688 LV",
@@ -8343,23 +8343,6 @@
             "polling_end_date": "2024-09-30"
         },
         {
-            "id": "147662",
-            "type": "poll_rcp_avg",
-            "pollster": "Emerson",
-            "date": "9/27 - 9/28",
-            "sampleSize": "850 LV",
-            "marginError": 3.3,
-            "link": "https://emersoncollegepolling.com/september-2024-arizona-and-north-carolina-polls-harris-and-trump-neck-and-neck-in-key-swing-states/",
-            "spread_winner": "Trump",
-            "spread_value": 1.0,
-            "trump_value": "49",
-            "harris_value": "48",
-            "name": "2024 North Carolina: Trump vs. Harris",
-            "slug": "north_carolina",
-            "polling_start_date": "2024-09-27",
-            "polling_end_date": "2024-09-28"
-        },
-        {
             "id": "147619",
             "type": "poll_rcp_avg",
             "pollster": "Washington Post",
@@ -8375,6 +8358,23 @@
             "slug": "north_carolina",
             "polling_start_date": "2024-09-25",
             "polling_end_date": "2024-09-29"
+        },
+        {
+            "id": "147662",
+            "type": "poll",
+            "pollster": "Emerson",
+            "date": "9/27 - 9/28",
+            "sampleSize": "850 LV",
+            "marginError": 3.3,
+            "link": "https://emersoncollegepolling.com/september-2024-arizona-and-north-carolina-polls-harris-and-trump-neck-and-neck-in-key-swing-states/",
+            "spread_winner": "Trump",
+            "spread_value": 1.0,
+            "trump_value": "49",
+            "harris_value": "48",
+            "name": "2024 North Carolina: Trump vs. Harris",
+            "slug": "north_carolina",
+            "polling_start_date": "2024-09-27",
+            "polling_end_date": "2024-09-28"
         },
         {
             "id": "147655",
@@ -8395,7 +8395,7 @@
         },
         {
             "id": "147853",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "GSG/NSOR",
             "date": "9/23 - 9/29",
             "sampleSize": "401 LV",
@@ -8412,7 +8412,7 @@
         },
         {
             "id": "147606",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "East Carolina U.",
             "date": "9/23 - 9/26",
             "sampleSize": "1005 LV",
