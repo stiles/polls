@@ -94,4 +94,4 @@ The state of the race is mixed, with <span style='background: #5194C3; padding:1
 
  **About this page:** [Github repo](https://github.com/stiles/polls) 
 
- **Last update:** *2 p.m. ET, October 19*.
+ **Last update:** *4 p.m. ET, October 19*.
