@@ -56,7 +56,7 @@ The latest forecasts for the 2024 presidential election based on models develope
 | US | <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>Trump - 53%</span> | [Nate Silver](https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model) |
 | US | <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>Trump - 52%</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/2024-election-forecast) |
 | US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>Harris - 53%</span> | [Economist](https://www.economist.com/interactive/us-2024-election/prediction-model/president/) |
-| US | <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>Trump - 50%</span> | [The Hill](https://elections2024.thehill.com/forecast/2024/president/) |
+| US | <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>Trump - 52%</span> | [The Hill](https://elections2024.thehill.com/forecast/2024/president/) |
 
 
 ### Swing state polling averages
@@ -76,7 +76,7 @@ The latest forecasts for the 2024 presidential election based on models develope
 **Data:** [Latest](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/state_averages_latest.json), [trend](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/state_averages_trend.json)
 
 ### All the national polling averages
-<span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>Vice President Kamala Harris</span> is leading in the national polls by a <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>1.7 percentage point</span> margin over former President Donald Trump, according to an average of prominent polling averages.
+<span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>Vice President Kamala Harris</span> is leading in the national polls by a <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>1.5 percentage point</span> margin over former President Donald Trump, according to an average of prominent polling averages.
 
 | Place             | Margin               | Source       |
 |-------------------|----------------------|--------------|
@@ -85,13 +85,13 @@ The latest forecasts for the 2024 presidential election based on models develope
 | US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +1.8</span> |[FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/national/) 
 | US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +1.7</span> |[Nate Silver](https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model) 
 | US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +1.7</span> |[270toWin](https://www.270towin.com/2024-presidential-election-polls/) 
-| US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +2.2</span> |[Economist](https://www.economist.com/interactive/us-2024-election/trump-harris-polls) 
+| US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +1.6</span> |[Economist](https://www.economist.com/interactive/us-2024-election/trump-harris-polls) 
 | US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +1.0</span> |[New York Times](https://www.nytimes.com/interactive/2024/us/elections/polls-president.html) 
-| US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +2.1</span> |[The Hill](https://elections2024.thehill.com/national/harris-trump-general/) 
+| US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +1.5</span> |[The Hill](https://elections2024.thehill.com/national/harris-trump-general/) 
 
 
  **Data:** [Latest](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/averages_latest.json), [trend](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/averages_trend.json) 
 
  **About this page:** [Github repo](https://github.com/stiles/polls) 
 
- **Last update:** *4 p.m. ET, October 20*.
+ **Last update:** *6 p.m. ET, October 20*.
