@@ -3,17 +3,17 @@
         "id":"8305",
         "type":"rcp_average",
         "pollster":"rcp_average",
-        "date":"9\/21 - 10\/14",
+        "date":"9\/23 - 10\/17",
         "sampleSize":"",
         "marginError":0.0,
         "link":null,
         "spread_winner":"Trump",
-        "spread_value":0.1,
-        "trump_value":"47.9",
+        "spread_value":0.2,
+        "trump_value":"48.0",
         "harris_value":"47.8",
         "name":"2024 Wisconsin: Trump vs. Harris",
         "slug":"wisconsin",
-        "polling_start_date":"2024-09-21",
-        "polling_end_date":"2024-10-14"
+        "polling_start_date":"2024-09-23",
+        "polling_end_date":"2024-10-17"
     }
 ]

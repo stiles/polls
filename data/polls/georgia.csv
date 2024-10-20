@@ -1,4 +1,5 @@
 id,type,pollster,date,sampleSize,marginError,link,spread_winner,spread_value,trump_value,harris_value,name,slug,polling_start_date,polling_end_date
+148129,poll_rcp_avg,Atlas Intel,10/12 - 10/17,1411 LV,3.0,https://www.realclearpolitics.com/docs/2024/Atlas-Poll-US-Swing-States-Oct-17-Georgia.pdf,Trump,2.0,50,48,2024 Georgia: Trump vs. Harris,georgia,2024-10-12,2024-10-17
 148117,poll_rcp_avg,AmGreatness/TIPP,10/14 - 10/16,813 LV,3.5,https://amgreatness.com/2024/10/18/trump-leads-in-georgia-new-polling/,Trump,1.0,49,48,2024 Georgia: Trump vs. Harris,georgia,2024-10-14,2024-10-16
 147990,poll_rcp_avg,InsiderAdvantage,10/14 - 10/15,800 LV,3.7,https://jamesmagazinega.com/2024/10/15/breaking-new-insideradvantage-poll-shows-trump-with-slight-lead-in-georgia/,Trump,2.0,49,47,2024 Georgia: Trump vs. Harris,georgia,2024-10-14,2024-10-15
 148043,poll_rcp_avg,Quinnipiac,10/10 - 10/14,1328 LV,2.7,https://poll.qu.edu/images/polling/ga/ga10162024_crosstabs_swth19.pdf,Trump,6.0,52,46,2024 Georgia: Trump vs. Harris,georgia,2024-10-10,2024-10-14

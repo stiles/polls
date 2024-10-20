@@ -1,4 +1,5 @@
 id,type,pollster,date,sampleSize,marginError,link,spread_winner,spread_value,trump_value,harris_value,name,slug,polling_start_date,polling_end_date
+148125,poll_rcp_avg,Atlas Intel,10/12 - 10/17,1529 LV,3.0,https://www.realclearpolitics.com/docs/2024/Atlas-Poll-US-Swing-States-Oct-17-Michigan.pdf,Trump,3.0,50,47,2024 Michigan: Trump vs. Harris,michigan,2024-10-12,2024-10-17
 148056,poll_rcp_avg,MNS/Mitchell Research,10/14 - 10/14,589 LV,4.0,https://www.michigannewssource.com/2024/10/exclusive-poll-trump-and-harris-still-in-dead-heat-in-michigan-demographic-breakdown-tells-real-story/,Trump,1.0,48,47,2024 Michigan: Trump vs. Harris,michigan,2024-10-14,2024-10-14
 148077,poll_rcp_avg,Rasmussen Reports,10/9 - 10/14,1058 LV,3.0,https://www.rasmussenreports.com/public_content/politics/partner_surveys/election_2024_trump_leads_harris_in_wisconsin_tied_in_michigan,Tie,0.0,48,48,2024 Michigan: Trump vs. Harris,michigan,2024-10-09,2024-10-14
 147835,poll_rcp_avg,Quinnipiac,10/3 - 10/7,1007 LV,3.1,https://poll.qu.edu/poll-release?releaseid=3913,Trump,4.0,51,47,2024 Michigan: Trump vs. Harris,michigan,2024-10-03,2024-10-07

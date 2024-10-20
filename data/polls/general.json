@@ -1,5 +1,22 @@
 [
     {
+        "id":"148135",
+        "type":"poll_rcp_avg",
+        "pollster":"Atlas Intel",
+        "date":"10\/12 - 10\/17",
+        "sampleSize":"4180 LV",
+        "marginError":2.0,
+        "link":"https:\/\/www.realclearpolitics.com\/docs\/2024\/Atlas-Poll-US-Elections-NATIONAL-Oct-17-2024.pdf",
+        "spread_winner":"Trump",
+        "spread_value":3.0,
+        "harris_value":"48",
+        "trump_value":"51",
+        "name":"2024 General Election: Trump vs Harris",
+        "slug":"general",
+        "polling_start_date":"2024-10-12",
+        "polling_end_date":"2024-10-17"
+    },
+    {
         "id":"148120",
         "type":"poll_rcp_avg",
         "pollster":"TIPP",
@@ -290,7 +307,7 @@
     },
     {
         "id":"147998",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Marquette",
         "date":"10\/1 - 10\/10",
         "sampleSize":"699 LV",
@@ -375,7 +392,7 @@
     },
     {
         "id":"147782",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Yahoo News",
         "date":"10\/2 - 10\/4",
         "sampleSize":"1033 LV",

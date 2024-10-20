@@ -1,4 +1,5 @@
 id,type,pollster,date,sampleSize,marginError,link,spread_winner,spread_value,trump_value,harris_value,name,slug,polling_start_date,polling_end_date
+148123,poll_rcp_avg,Atlas Intel,10/12 - 10/17,2048 LV,2.0,https://www.realclearpolitics.com/docs/2024/Atlas-Poll-US-Swing-States-Oct-17-Pennsylvania.pdf,Trump,3.0,50,47,2024 Pennsylvania: Trump vs. Harris,pennsylvania,2024-10-12,2024-10-17
 147963,poll_rcp_avg,Rasmussen Reports,10/9 - 10/13,1072 LV,3.0,https://www.rasmussenreports.com/public_content/politics/partner_surveys/election_2024_trump_now_3_in_pennsylvania,Trump,3.0,50,47,2024 Pennsylvania: Trump vs. Harris,pennsylvania,2024-10-09,2024-10-13
 147920,poll_rcp_avg,NY Times/Siena,10/7 - 10/10,857 LV,0.0,https://www.nytimes.com/interactive/2024/10/12/us/elections/times-siena-inquirer-poll-pennsylvania-crosstabs.html,Harris,3.0,47,50,2024 Pennsylvania: Trump vs. Harris,pennsylvania,2024-10-07,2024-10-10
 147886,poll_rcp_avg,AmGreatness/TIPP,10/7 - 10/9,803 LV,3.5,https://amgreatness.com/2024/10/10/trump-leads-in-pennsylvania-dave-mccormick-charges/,Trump,1.0,49,48,2024 Pennsylvania: Trump vs. Harris,pennsylvania,2024-10-07,2024-10-09
