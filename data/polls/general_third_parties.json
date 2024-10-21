@@ -190,7 +190,7 @@
     },
     {
         "id":"147890",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Pew Research",
         "date":"9\/30 - 10\/6",
         "sampleSize":"4025 RV",
@@ -211,7 +211,7 @@
     },
     {
         "id":"147783",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Yahoo News",
         "date":"10\/2 - 10\/4",
         "sampleSize":"1033 LV",
@@ -253,7 +253,7 @@
     },
     {
         "id":"147808",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"NY Times\/Siena",
         "date":"9\/29 - 10\/6",
         "sampleSize":"3385 LV",
