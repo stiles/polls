@@ -17,6 +17,23 @@
         "polling_end_date":"2024-10-16"
     },
     {
+        "id":"148152",
+        "type":"poll_rcp_avg",
+        "pollster":"Atlas Intel",
+        "date":"10\/12 - 10\/17",
+        "sampleSize":"4180 LV",
+        "marginError":2.0,
+        "link":"https:\/\/www.realclearpolitics.com\/docs\/2024\/Atlas-Poll-US-Elections-NATIONAL-Oct-17-2024.pdf",
+        "spread_winner":"Unfavorable",
+        "spread_value":5.0,
+        "favorable_value":"47",
+        "unfavorable_value":"52",
+        "name":"Kamala Harris Favorability",
+        "slug":"harris_favorability",
+        "polling_start_date":"2024-10-12",
+        "polling_end_date":"2024-10-17"
+    },
+    {
         "id":"148021",
         "type":"poll_rcp_avg",
         "pollster":"Economist\/YouGov",

@@ -1,2 +1,2 @@
 id,type,pollster,date,sampleSize,marginError,link,spread_winner,spread_value,favorable_value,unfavorable_value,name,slug,polling_start_date,polling_end_date
-6690,rcp_average,rcp_average,9/19 - 10/16,,0.0,,Unfavorable,0.4,47.8,48.2,Kamala Harris Favorability,harris_favorability,2024-09-19,2024-10-16
+6690,rcp_average,rcp_average,9/19 - 10/17,,0.0,,Unfavorable,0.6,47.8,48.4,Kamala Harris Favorability,harris_favorability,2024-09-19,2024-10-17
