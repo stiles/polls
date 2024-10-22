@@ -5865,6 +5865,23 @@
     ],
     "michigan": [
         {
+            "id": "148171",
+            "type": "poll_rcp_avg",
+            "pollster": "Trafalgar Group (R)",
+            "date": "10/18 - 10/20",
+            "sampleSize": "1090 LV",
+            "marginError": 2.9,
+            "link": "https://www.thetrafalgargroup.org/wp-content/uploads/2024/10/MI-Gen-Pres-Poll-Report-1021.pdf",
+            "spread_winner": "Trump",
+            "spread_value": 2.0,
+            "trump_value": "46",
+            "harris_value": "44",
+            "name": "2024 Michigan: Trump vs. Harris",
+            "slug": "michigan",
+            "polling_start_date": "2024-10-18",
+            "polling_end_date": "2024-10-20"
+        },
+        {
             "id": "148125",
             "type": "poll_rcp_avg",
             "pollster": "Atlas Intel",
@@ -6615,6 +6632,23 @@
     ],
     "wisconsin": [
         {
+            "id": "148169",
+            "type": "poll_rcp_avg",
+            "pollster": "Trafalgar Group (R)",
+            "date": "10/18 - 10/20",
+            "sampleSize": "1083 LV",
+            "marginError": 2.9,
+            "link": "https://www.thetrafalgargroup.org/wp-content/uploads/2024/10/WI-Gen-Pres-Report-1021.pdf",
+            "spread_winner": "Tie",
+            "spread_value": 0.0,
+            "trump_value": "47",
+            "harris_value": "47",
+            "name": "2024 Wisconsin: Trump vs. Harris",
+            "slug": "wisconsin",
+            "polling_start_date": "2024-10-18",
+            "polling_end_date": "2024-10-20"
+        },
+        {
             "id": "148127",
             "type": "poll_rcp_avg",
             "pollster": "Atlas Intel",
@@ -6718,7 +6752,7 @@
         },
         {
             "id": "147666",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Trafalgar Group (R)",
             "date": "9/28 - 9/30",
             "sampleSize": "1079 LV",
@@ -6735,7 +6769,7 @@
         },
         {
             "id": "147841",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "GSG/NSOR",
             "date": "9/23 - 9/29",
             "sampleSize": "408 LV",
@@ -7280,6 +7314,23 @@
     ],
     "nevada": [
         {
+            "id": "148174",
+            "type": "poll_rcp_avg",
+            "pollster": "InsiderAdvantage",
+            "date": "10/20 - 10/21",
+            "sampleSize": "800 LV",
+            "marginError": 3.5,
+            "link": "https://insideradvantage.com/insideradvantage-surveys-trump-leads-by-three-points-in-arizona-nevada-is-tied/",
+            "spread_winner": "Tie",
+            "spread_value": 0.0,
+            "trump_value": "48",
+            "harris_value": "48",
+            "name": "2024 Nevada: Trump vs. Harris",
+            "slug": "nevada",
+            "polling_start_date": "2024-10-20",
+            "polling_end_date": "2024-10-21"
+        },
+        {
             "id": "148133",
             "type": "poll_rcp_avg",
             "pollster": "Atlas Intel",
@@ -7366,7 +7417,7 @@
         },
         {
             "id": "147630",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "InsiderAdvantage",
             "date": "9/29 - 9/30",
             "sampleSize": "800 LV",
@@ -7809,6 +7860,23 @@
     ],
     "arizona": [
         {
+            "id": "148173",
+            "type": "poll_rcp_avg",
+            "pollster": "InsiderAdvantage",
+            "date": "10/20 - 10/21",
+            "sampleSize": "800 LV",
+            "marginError": 3.0,
+            "link": "https://insideradvantage.com/insideradvantage-surveys-trump-leads-by-three-points-in-arizona-nevada-is-tied/",
+            "spread_winner": "Trump",
+            "spread_value": 3.0,
+            "trump_value": "50",
+            "harris_value": "47",
+            "name": "2024 Arizona: Trump vs. Harris",
+            "slug": "arizona",
+            "polling_start_date": "2024-10-20",
+            "polling_end_date": "2024-10-21"
+        },
+        {
             "id": "148131",
             "type": "poll_rcp_avg",
             "pollster": "Atlas Intel",
@@ -7912,7 +7980,7 @@
         },
         {
             "id": "147629",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "InsiderAdvantage",
             "date": "9/29 - 9/30",
             "sampleSize": "800 LV",

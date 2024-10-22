@@ -1,5 +1,22 @@
 [
     {
+        "id":"148169",
+        "type":"poll_rcp_avg",
+        "pollster":"Trafalgar Group (R)",
+        "date":"10\/18 - 10\/20",
+        "sampleSize":"1083 LV",
+        "marginError":2.9,
+        "link":"https:\/\/www.thetrafalgargroup.org\/wp-content\/uploads\/2024\/10\/WI-Gen-Pres-Report-1021.pdf",
+        "spread_winner":"Tie",
+        "spread_value":0.0,
+        "trump_value":"47",
+        "harris_value":"47",
+        "name":"2024 Wisconsin: Trump vs. Harris",
+        "slug":"wisconsin",
+        "polling_start_date":"2024-10-18",
+        "polling_end_date":"2024-10-20"
+    },
+    {
         "id":"148127",
         "type":"poll_rcp_avg",
         "pollster":"Atlas Intel",
@@ -103,7 +120,7 @@
     },
     {
         "id":"147666",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Trafalgar Group (R)",
         "date":"9\/28 - 9\/30",
         "sampleSize":"1079 LV",
@@ -120,7 +137,7 @@
     },
     {
         "id":"147841",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"GSG\/NSOR",
         "date":"9\/23 - 9\/29",
         "sampleSize":"408 LV",

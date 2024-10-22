@@ -1,5 +1,22 @@
 [
     {
+        "id":"148171",
+        "type":"poll_rcp_avg",
+        "pollster":"Trafalgar Group (R)",
+        "date":"10\/18 - 10\/20",
+        "sampleSize":"1090 LV",
+        "marginError":2.9,
+        "link":"https:\/\/www.thetrafalgargroup.org\/wp-content\/uploads\/2024\/10\/MI-Gen-Pres-Poll-Report-1021.pdf",
+        "spread_winner":"Trump",
+        "spread_value":2.0,
+        "trump_value":"46",
+        "harris_value":"44",
+        "name":"2024 Michigan: Trump vs. Harris",
+        "slug":"michigan",
+        "polling_start_date":"2024-10-18",
+        "polling_end_date":"2024-10-20"
+    },
+    {
         "id":"148125",
         "type":"poll_rcp_avg",
         "pollster":"Atlas Intel",
