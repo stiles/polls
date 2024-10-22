@@ -1,5 +1,22 @@
 [
     {
+        "id":"148201",
+        "type":"poll_rcp_avg",
+        "pollster":"InsiderAdvantage",
+        "date":"10\/19 - 10\/20",
+        "sampleSize":"800 LV",
+        "marginError":3.5,
+        "link":"https:\/\/insideradvantage.com\/insideradvantage-survey-trump-leads-harris-by-two-points-in-north-carolina\/",
+        "spread_winner":"Trump",
+        "spread_value":2.0,
+        "trump_value":"49",
+        "harris_value":"47",
+        "name":"2024 North Carolina: Trump vs. Harris",
+        "slug":"north_carolina",
+        "polling_start_date":"2024-10-19",
+        "polling_end_date":"2024-10-20"
+    },
+    {
         "id":"148196",
         "type":"poll_rcp_avg",
         "pollster":"High Point\/SurveyUSA",
@@ -137,7 +154,7 @@
     },
     {
         "id":"147631",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"InsiderAdvantage",
         "date":"9\/29 - 9\/30",
         "sampleSize":"800 LV",
