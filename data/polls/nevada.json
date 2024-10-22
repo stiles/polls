@@ -1,5 +1,22 @@
 [
     {
+        "id":"148191",
+        "type":"poll_rcp_avg",
+        "pollster":"Fabrizio\/Anzalone",
+        "date":"10\/8 - 10\/15",
+        "sampleSize":"600 LV",
+        "marginError":4.0,
+        "link":"https:\/\/www.aarp.org\/content\/dam\/aarp\/research\/topics\/voter-opinion-research\/politics\/nevada-older-voter-survey-october-2024.doi.10.26419-2fres.00813.051.pdf",
+        "spread_winner":"Trump",
+        "spread_value":2.0,
+        "trump_value":"49",
+        "harris_value":"47",
+        "name":"2024 Nevada: Trump vs. Harris",
+        "slug":"nevada",
+        "polling_start_date":"2024-10-08",
+        "polling_end_date":"2024-10-15"
+    },
+    {
         "id":"148174",
         "type":"poll_rcp_avg",
         "pollster":"InsiderAdvantage",

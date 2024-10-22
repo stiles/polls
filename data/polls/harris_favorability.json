@@ -1,5 +1,22 @@
 [
     {
+        "id":"148187",
+        "type":"poll_rcp_avg",
+        "pollster":"Morning Consult",
+        "date":"10\/18 - 10\/20",
+        "sampleSize":"2143 LV",
+        "marginError":0.0,
+        "link":"https:\/\/pro.morningconsult.com\/trackers\/2024-presidential-election-polling",
+        "spread_winner":"Favorable",
+        "spread_value":5.0,
+        "favorable_value":"52",
+        "unfavorable_value":"47",
+        "name":"Kamala Harris Favorability",
+        "slug":"harris_favorability",
+        "polling_start_date":"2024-10-18",
+        "polling_end_date":"2024-10-20"
+    },
+    {
         "id":"148088",
         "type":"poll_rcp_avg",
         "pollster":"Emerson",
@@ -137,7 +154,7 @@
     },
     {
         "id":"147971",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Morning Consult",
         "date":"10\/11 - 10\/13",
         "sampleSize":"2193 LV",
@@ -185,6 +202,23 @@
         "slug":"harris_favorability",
         "polling_start_date":"2024-10-06",
         "polling_end_date":"2024-10-07"
+    },
+    {
+        "id":"148195",
+        "type":"poll_rcp_avg",
+        "pollster":"Gallup",
+        "date":"10\/1 - 10\/12",
+        "sampleSize":"930 RV",
+        "marginError":0.0,
+        "link":"https:\/\/www.realclearpolitics.com\/docs\/2024\/241022CandidateScalometer.pdf",
+        "spread_winner":"Unfavorable",
+        "spread_value":5.0,
+        "favorable_value":"47",
+        "unfavorable_value":"52",
+        "name":"Kamala Harris Favorability",
+        "slug":"harris_favorability",
+        "polling_start_date":"2024-10-01",
+        "polling_end_date":"2024-10-12"
     },
     {
         "id":"147935",

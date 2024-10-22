@@ -18,6 +18,23 @@
             "polling_end_date": "2024-10-20"
         },
         {
+            "id": "148197",
+            "type": "poll_rcp_avg",
+            "pollster": "Rasmussen Reports",
+            "date": "10/16 - 10/21",
+            "sampleSize": "3569 LV",
+            "marginError": 1.0,
+            "link": "https://www.rasmussenreports.com/public_content/politics/elections/election_2024/election2024",
+            "spread_winner": "Trump",
+            "spread_value": 1.0,
+            "harris_value": "47",
+            "trump_value": "48",
+            "name": "2024 General Election: Trump vs Harris",
+            "slug": "general",
+            "polling_start_date": "2024-10-16",
+            "polling_end_date": "2024-10-21"
+        },
+        {
             "id": "148177",
             "type": "poll_rcp_avg",
             "pollster": "Reuters/Ipsos",
@@ -36,7 +53,7 @@
         },
         {
             "id": "148167",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Rasmussen Reports",
             "date": "10/15 - 10/20",
             "sampleSize": "3384 LV",
@@ -7403,6 +7420,23 @@
     ],
     "nevada": [
         {
+            "id": "148191",
+            "type": "poll_rcp_avg",
+            "pollster": "Fabrizio/Anzalone",
+            "date": "10/8 - 10/15",
+            "sampleSize": "600 LV",
+            "marginError": 4.0,
+            "link": "https://www.aarp.org/content/dam/aarp/research/topics/voter-opinion-research/politics/nevada-older-voter-survey-october-2024.doi.10.26419-2fres.00813.051.pdf",
+            "spread_winner": "Trump",
+            "spread_value": 2.0,
+            "trump_value": "49",
+            "harris_value": "47",
+            "name": "2024 Nevada: Trump vs. Harris",
+            "slug": "nevada",
+            "polling_start_date": "2024-10-08",
+            "polling_end_date": "2024-10-15"
+        },
+        {
             "id": "148174",
             "type": "poll_rcp_avg",
             "pollster": "InsiderAdvantage",
@@ -8647,6 +8681,23 @@
         }
     ],
     "north_carolina": [
+        {
+            "id": "148196",
+            "type": "poll_rcp_avg",
+            "pollster": "High Point/SurveyUSA",
+            "date": "10/17 - 10/20",
+            "sampleSize": "1164 RV",
+            "marginError": 3.7,
+            "link": "https://www.surveyusa.com/client/PollReport.aspx?g=b7d2e65d-f396-4270-b2e1-62423de28238",
+            "spread_winner": "Harris",
+            "spread_value": 1.0,
+            "trump_value": "46",
+            "harris_value": "47",
+            "name": "2024 North Carolina: Trump vs. Harris",
+            "slug": "north_carolina",
+            "polling_start_date": "2024-10-17",
+            "polling_end_date": "2024-10-20"
+        },
         {
             "id": "148130",
             "type": "poll_rcp_avg",
@@ -12239,6 +12290,23 @@
     ],
     "harris_favorability": [
         {
+            "id": "148187",
+            "type": "poll_rcp_avg",
+            "pollster": "Morning Consult",
+            "date": "10/18 - 10/20",
+            "sampleSize": "2143 LV",
+            "marginError": 0.0,
+            "link": "https://pro.morningconsult.com/trackers/2024-presidential-election-polling",
+            "spread_winner": "Favorable",
+            "spread_value": 5.0,
+            "favorable_value": "52",
+            "unfavorable_value": "47",
+            "name": "Kamala Harris Favorability",
+            "slug": "harris_favorability",
+            "polling_start_date": "2024-10-18",
+            "polling_end_date": "2024-10-20"
+        },
+        {
             "id": "148088",
             "type": "poll_rcp_avg",
             "pollster": "Emerson",
@@ -12376,7 +12444,7 @@
         },
         {
             "id": "147971",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Morning Consult",
             "date": "10/11 - 10/13",
             "sampleSize": "2193 LV",
@@ -12424,6 +12492,23 @@
             "slug": "harris_favorability",
             "polling_start_date": "2024-10-06",
             "polling_end_date": "2024-10-07"
+        },
+        {
+            "id": "148195",
+            "type": "poll_rcp_avg",
+            "pollster": "Gallup",
+            "date": "10/1 - 10/12",
+            "sampleSize": "930 RV",
+            "marginError": 0.0,
+            "link": "https://www.realclearpolitics.com/docs/2024/241022CandidateScalometer.pdf",
+            "spread_winner": "Unfavorable",
+            "spread_value": 5.0,
+            "favorable_value": "47",
+            "unfavorable_value": "52",
+            "name": "Kamala Harris Favorability",
+            "slug": "harris_favorability",
+            "polling_start_date": "2024-10-01",
+            "polling_end_date": "2024-10-12"
         },
         {
             "id": "147935",
