@@ -51,6 +51,23 @@
         "polling_end_date":"2024-10-21"
     },
     {
+        "id":"148158",
+        "type":"poll_rcp_avg",
+        "pollster":"USA Today\/Suffolk",
+        "date":"10\/14 - 10\/18",
+        "sampleSize":"1000 LV",
+        "marginError":3.1,
+        "link":"https:\/\/www.suffolk.edu\/-\/media\/suffolk\/documents\/academics\/research-at-suffolk\/suprc\/polls\/national\/2024\/10_21_2024_national_marginals_part_1.pdf?la=en&amp;hash=D3737E304C773A1B429DC427D577EEF4DD8E6C55e-latino-black-voters\/75682566007\/?tbref=hp",
+        "spread_winner":"Harris",
+        "spread_value":1.0,
+        "harris_value":"50",
+        "trump_value":"49",
+        "name":"2024 General Election: Trump vs Harris",
+        "slug":"general",
+        "polling_start_date":"2024-10-14",
+        "polling_end_date":"2024-10-18"
+    },
+    {
         "id":"148167",
         "type":"poll",
         "pollster":"Rasmussen Reports",
@@ -68,21 +85,21 @@
         "polling_end_date":"2024-10-20"
     },
     {
-        "id":"148158",
+        "id":"148209",
         "type":"poll_rcp_avg",
-        "pollster":"USA Today\/Suffolk",
-        "date":"10\/14 - 10\/18",
-        "sampleSize":"1000 LV",
-        "marginError":3.1,
-        "link":"https:\/\/www.suffolk.edu\/-\/media\/suffolk\/documents\/academics\/research-at-suffolk\/suprc\/polls\/national\/2024\/10_21_2024_national_marginals_part_1.pdf?la=en&amp;hash=D3737E304C773A1B429DC427D577EEF4DD8E6C55e-latino-black-voters\/75682566007\/?tbref=hp",
+        "pollster":"TIPP",
+        "date":"10\/20 - 10\/22",
+        "sampleSize":"1294 LV",
+        "marginError":2.8,
+        "link":"https:\/\/tippinsights.com\/tipp-tracking-poll-day-10-harris-clings-to-slim-lead-as-trumps-surge-fades\/",
         "spread_winner":"Harris",
-        "spread_value":1.0,
-        "harris_value":"50",
-        "trump_value":"49",
+        "spread_value":2.0,
+        "harris_value":"49",
+        "trump_value":"47",
         "name":"2024 General Election: Trump vs Harris",
         "slug":"general",
-        "polling_start_date":"2024-10-14",
-        "polling_end_date":"2024-10-18"
+        "polling_start_date":"2024-10-20",
+        "polling_end_date":"2024-10-22"
     },
     {
         "id":"148162",
@@ -103,7 +120,7 @@
     },
     {
         "id":"148181",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"TIPP",
         "date":"10\/19 - 10\/21",
         "sampleSize":"1268 LV",

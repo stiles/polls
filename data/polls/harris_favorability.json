@@ -307,7 +307,7 @@
     },
     {
         "id":"147810",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"NY Times\/Siena",
         "date":"9\/29 - 10\/6",
         "sampleSize":"3385 LV",
@@ -324,7 +324,7 @@
     },
     {
         "id":"147762",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Data for Progress (D)**",
         "date":"10\/2 - 10\/3",
         "sampleSize":"1211 LV",
@@ -392,7 +392,7 @@
     },
     {
         "id":"147643",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"New York Post",
         "date":"9\/27 - 9\/29",
         "sampleSize":"1010 A",
@@ -477,7 +477,7 @@
     },
     {
         "id":"147457",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Quinnipiac",
         "date":"9\/19 - 9\/22",
         "sampleSize":"1728 LV",
@@ -494,7 +494,7 @@
     },
     {
         "id":"147452",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"CNN",
         "date":"9\/19 - 9\/22",
         "sampleSize":"2074 RV",
