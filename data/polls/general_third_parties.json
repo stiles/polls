@@ -1,5 +1,26 @@
 [
     {
+        "id":"148211",
+        "type":"poll_rcp_avg",
+        "pollster":"Economist\/YouGov",
+        "date":"10\/19 - 10\/22",
+        "sampleSize":"1293 LV",
+        "marginError":0.0,
+        "link":"https:\/\/d3nkl3psvxxpe9.cloudfront.net\/documents\/econTabReport_O3e18LR.pdf",
+        "spread_winner":"Harris",
+        "spread_value":3.0,
+        "harris_value":"49",
+        "trump_value":"46",
+        "kennedy_value":"",
+        "oliver_value":"",
+        "stein_value":"1",
+        "west_value":"0",
+        "name":"General Election: Trump vs. Harris vs. Kennedy vs. West vs. Stein",
+        "slug":"general_third_parties",
+        "polling_start_date":"2024-10-19",
+        "polling_end_date":"2024-10-22"
+    },
+    {
         "id":"148159",
         "type":"poll_rcp_avg",
         "pollster":"USA Today\/Suffolk",
@@ -106,7 +127,7 @@
     },
     {
         "id":"148016",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Economist\/YouGov",
         "date":"10\/12 - 10\/15",
         "sampleSize":"1314 LV",
