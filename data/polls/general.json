@@ -1,5 +1,22 @@
 [
     {
+        "id":"148228",
+        "type":"poll_rcp_avg",
+        "pollster":"Forbes\/HarrisX",
+        "date":"10\/20 - 10\/21",
+        "sampleSize":"1244 LV",
+        "marginError":2.8,
+        "link":"https:\/\/www.forbes.com\/sites\/saradorn\/2024\/10\/23\/trump-vs-harris-2024-polls-harris-leads-by-2-points-in-latest-survey\/",
+        "spread_winner":"Trump",
+        "spread_value":2.0,
+        "harris_value":"49",
+        "trump_value":"51",
+        "name":"2024 General Election: Trump vs Harris",
+        "slug":"general",
+        "polling_start_date":"2024-10-20",
+        "polling_end_date":"2024-10-21"
+    },
+    {
         "id":"148178",
         "type":"poll_rcp_avg",
         "pollster":"Morning Consult",
@@ -374,6 +391,23 @@
         "polling_end_date":"2024-10-14"
     },
     {
+        "id":"148082",
+        "type":"poll",
+        "pollster":"HarrisX",
+        "date":"10\/9 - 10\/11",
+        "sampleSize":"2010 RV",
+        "marginError":2.2,
+        "link":"https:\/\/www.deseret.com\/politics\/2024\/10\/17\/poll-trump-harris-walz-vance-economy-wrong-track-favorability\/",
+        "spread_winner":"Harris",
+        "spread_value":2.0,
+        "harris_value":"51",
+        "trump_value":"49",
+        "name":"2024 General Election: Trump vs Harris",
+        "slug":"general",
+        "polling_start_date":"2024-10-09",
+        "polling_end_date":"2024-10-11"
+    },
+    {
         "id":"147928",
         "type":"poll_rcp_avg",
         "pollster":"CBS News",
@@ -388,23 +422,6 @@
         "name":"2024 General Election: Trump vs Harris",
         "slug":"general",
         "polling_start_date":"2024-10-08",
-        "polling_end_date":"2024-10-11"
-    },
-    {
-        "id":"148082",
-        "type":"poll_rcp_avg",
-        "pollster":"HarrisX",
-        "date":"10\/9 - 10\/11",
-        "sampleSize":"2010 RV",
-        "marginError":2.2,
-        "link":"https:\/\/www.deseret.com\/politics\/2024\/10\/17\/poll-trump-harris-walz-vance-economy-wrong-track-favorability\/",
-        "spread_winner":"Harris",
-        "spread_value":2.0,
-        "harris_value":"51",
-        "trump_value":"49",
-        "name":"2024 General Election: Trump vs Harris",
-        "slug":"general",
-        "polling_start_date":"2024-10-09",
         "polling_end_date":"2024-10-11"
     },
     {
