@@ -1,5 +1,22 @@
 [
     {
+        "id":"148242",
+        "type":"poll_rcp_avg",
+        "pollster":"Quinnipiac",
+        "date":"10\/17 - 10\/21",
+        "sampleSize":"1136 LV",
+        "marginError":2.9,
+        "link":"https:\/\/poll.qu.edu\/poll-release?releaseid=3915",
+        "spread_winner":"Harris",
+        "spread_value":4.0,
+        "trump_value":"46",
+        "harris_value":"50",
+        "name":"2024 Michigan: Trump vs. Harris",
+        "slug":"michigan",
+        "polling_start_date":"2024-10-17",
+        "polling_end_date":"2024-10-21"
+    },
+    {
         "id":"148171",
         "type":"poll_rcp_avg",
         "pollster":"Trafalgar Group (R)",
@@ -69,7 +86,7 @@
     },
     {
         "id":"147835",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Quinnipiac",
         "date":"10\/3 - 10\/7",
         "sampleSize":"1007 LV",
@@ -137,7 +154,7 @@
     },
     {
         "id":"147898",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Wall Street Journal",
         "date":"9\/28 - 10\/8",
         "sampleSize":"600 RV",
