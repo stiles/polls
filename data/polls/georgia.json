@@ -1,5 +1,22 @@
 [
     {
+        "id":"148255",
+        "type":"poll_rcp_avg",
+        "pollster":"Bloomberg",
+        "date":"10\/16 - 10\/20",
+        "sampleSize":"914 LV",
+        "marginError":3.0,
+        "link":"https:\/\/pro-assets.morningconsult.com\/wp-uploads\/2024\/10\/Bloomberg-Swing-States-Wave-13.pdf",
+        "spread_winner":"Trump",
+        "spread_value":2.0,
+        "trump_value":"50",
+        "harris_value":"48",
+        "name":"2024 Georgia: Trump vs. Harris",
+        "slug":"georgia",
+        "polling_start_date":"2024-10-16",
+        "polling_end_date":"2024-10-20"
+    },
+    {
         "id":"148175",
         "type":"poll_rcp_avg",
         "pollster":"Atlanta Journal-Constitution",

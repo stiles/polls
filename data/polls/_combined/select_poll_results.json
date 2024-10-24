@@ -273,23 +273,6 @@
             "polling_end_date": "2024-10-16"
         },
         {
-            "id": "147940",
-            "type": "poll_rcp_avg",
-            "pollster": "Harvard-Harris",
-            "date": "10/11 - 10/13",
-            "sampleSize": "2596 LV",
-            "marginError": 0.0,
-            "link": "https://harvardharrispoll.com/key-results-october-5/",
-            "spread_winner": "Harris",
-            "spread_value": 2.0,
-            "harris_value": "51",
-            "trump_value": "49",
-            "name": "2024 General Election: Trump vs Harris",
-            "slug": "general",
-            "polling_start_date": "2024-10-11",
-            "polling_end_date": "2024-10-13"
-        },
-        {
             "id": "148046",
             "type": "poll_rcp_avg",
             "pollster": "FOX News",
@@ -305,6 +288,23 @@
             "slug": "general",
             "polling_start_date": "2024-10-11",
             "polling_end_date": "2024-10-14"
+        },
+        {
+            "id": "147940",
+            "type": "poll_rcp_avg",
+            "pollster": "Harvard-Harris",
+            "date": "10/11 - 10/13",
+            "sampleSize": "2596 LV",
+            "marginError": 0.0,
+            "link": "https://harvardharrispoll.com/key-results-october-5/",
+            "spread_winner": "Harris",
+            "spread_value": 2.0,
+            "harris_value": "51",
+            "trump_value": "49",
+            "name": "2024 General Election: Trump vs Harris",
+            "slug": "general",
+            "polling_start_date": "2024-10-11",
+            "polling_end_date": "2024-10-13"
         },
         {
             "id": "147991",
@@ -4415,6 +4415,23 @@
     ],
     "georgia": [
         {
+            "id": "148255",
+            "type": "poll_rcp_avg",
+            "pollster": "Bloomberg",
+            "date": "10/16 - 10/20",
+            "sampleSize": "914 LV",
+            "marginError": 3.0,
+            "link": "https://pro-assets.morningconsult.com/wp-uploads/2024/10/Bloomberg-Swing-States-Wave-13.pdf",
+            "spread_winner": "Trump",
+            "spread_value": 2.0,
+            "trump_value": "50",
+            "harris_value": "48",
+            "name": "2024 Georgia: Trump vs. Harris",
+            "slug": "georgia",
+            "polling_start_date": "2024-10-16",
+            "polling_end_date": "2024-10-20"
+        },
+        {
             "id": "148175",
             "type": "poll_rcp_avg",
             "pollster": "Atlanta Journal-Constitution",
@@ -5131,6 +5148,40 @@
     ],
     "pennsylvania": [
         {
+            "id": "148249",
+            "type": "poll",
+            "pollster": "Emerson",
+            "date": "10/21 - 10/22",
+            "sampleSize": "1000 LV",
+            "marginError": 3.0,
+            "link": "https://emersoncollegepolling.com/blog/",
+            "spread_winner": "Trump",
+            "spread_value": 1.0,
+            "trump_value": "49",
+            "harris_value": "48",
+            "name": "2024 Pennsylvania: Trump vs. Harris",
+            "slug": "pennsylvania",
+            "polling_start_date": "2024-10-21",
+            "polling_end_date": "2024-10-22"
+        },
+        {
+            "id": "148257",
+            "type": "poll_rcp_avg",
+            "pollster": "Bloomberg",
+            "date": "10/16 - 10/20",
+            "sampleSize": "866 LV",
+            "marginError": 3.0,
+            "link": "https://pro-assets.morningconsult.com/wp-uploads/2024/10/Bloomberg-Swing-States-Wave-13.pdf",
+            "spread_winner": "Harris",
+            "spread_value": 2.0,
+            "trump_value": "48",
+            "harris_value": "50",
+            "name": "2024 Pennsylvania: Trump vs. Harris",
+            "slug": "pennsylvania",
+            "polling_start_date": "2024-10-16",
+            "polling_end_date": "2024-10-20"
+        },
+        {
             "id": "148145",
             "type": "poll_rcp_avg",
             "pollster": "Trafalgar Group (R)",
@@ -5285,7 +5336,7 @@
         },
         {
             "id": "147896",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Wall Street Journal",
             "date": "9/28 - 10/8",
             "sampleSize": "600 RV",
@@ -6119,6 +6170,23 @@
             "polling_end_date": "2024-10-20"
         },
         {
+            "id": "148258",
+            "type": "poll_rcp_avg",
+            "pollster": "Bloomberg",
+            "date": "10/16 - 10/20",
+            "sampleSize": "756 LV",
+            "marginError": 4.0,
+            "link": "https://pro-assets.morningconsult.com/wp-uploads/2024/10/Bloomberg-Swing-States-Wave-13.pdf",
+            "spread_winner": "Harris",
+            "spread_value": 3.0,
+            "trump_value": "47",
+            "harris_value": "50",
+            "name": "2024 Michigan: Trump vs. Harris",
+            "slug": "michigan",
+            "polling_start_date": "2024-10-16",
+            "polling_end_date": "2024-10-20"
+        },
+        {
             "id": "148125",
             "type": "poll_rcp_avg",
             "pollster": "Atlas Intel",
@@ -6869,6 +6937,23 @@
     ],
     "wisconsin": [
         {
+            "id": "148251",
+            "type": "poll",
+            "pollster": "The Hill/Emerson",
+            "date": "10/21 - 10/22",
+            "sampleSize": "1000 LV",
+            "marginError": 3.0,
+            "link": "https://emersoncollegepolling.com/blog/",
+            "spread_winner": "Trump",
+            "spread_value": 1.0,
+            "trump_value": "49",
+            "harris_value": "48",
+            "name": "2024 Wisconsin: Trump vs. Harris",
+            "slug": "wisconsin",
+            "polling_start_date": "2024-10-21",
+            "polling_end_date": "2024-10-22"
+        },
+        {
             "id": "148243",
             "type": "poll_rcp_avg",
             "pollster": "Quinnipiac",
@@ -6900,6 +6985,23 @@
             "name": "2024 Wisconsin: Trump vs. Harris",
             "slug": "wisconsin",
             "polling_start_date": "2024-10-18",
+            "polling_end_date": "2024-10-20"
+        },
+        {
+            "id": "148259",
+            "type": "poll_rcp_avg",
+            "pollster": "Bloomberg",
+            "date": "10/16 - 10/20",
+            "sampleSize": "643 LV",
+            "marginError": 4.0,
+            "link": "https://pro-assets.morningconsult.com/wp-uploads/2024/10/Bloomberg-Swing-States-Wave-13.pdf",
+            "spread_winner": "Tie",
+            "spread_value": 0.0,
+            "trump_value": "48",
+            "harris_value": "48",
+            "name": "2024 Wisconsin: Trump vs. Harris",
+            "slug": "wisconsin",
+            "polling_start_date": "2024-10-16",
             "polling_end_date": "2024-10-20"
         },
         {
@@ -8830,6 +8932,40 @@
     ],
     "north_carolina": [
         {
+            "id": "148253",
+            "type": "poll",
+            "pollster": "Emerson",
+            "date": "10/21 - 10/22",
+            "sampleSize": "1000 LV",
+            "marginError": 3.0,
+            "link": "https://emersoncollegepolling.com/blog/",
+            "spread_winner": "Trump",
+            "spread_value": 2.0,
+            "trump_value": "50",
+            "harris_value": "48",
+            "name": "2024 North Carolina: Trump vs. Harris",
+            "slug": "north_carolina",
+            "polling_start_date": "2024-10-21",
+            "polling_end_date": "2024-10-22"
+        },
+        {
+            "id": "148256",
+            "type": "poll_rcp_avg",
+            "pollster": "Bloomberg",
+            "date": "10/16 - 10/20",
+            "sampleSize": "755 LV",
+            "marginError": 4.0,
+            "link": "https://pro-assets.morningconsult.com/wp-uploads/2024/10/Bloomberg-Swing-States-Wave-13.pdf",
+            "spread_winner": "Trump",
+            "spread_value": 1.0,
+            "trump_value": "50",
+            "harris_value": "49",
+            "name": "2024 North Carolina: Trump vs. Harris",
+            "slug": "north_carolina",
+            "polling_start_date": "2024-10-16",
+            "polling_end_date": "2024-10-20"
+        },
+        {
             "id": "148201",
             "type": "poll_rcp_avg",
             "pollster": "InsiderAdvantage",
@@ -8967,7 +9103,7 @@
         },
         {
             "id": "147900",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Wall Street Journal",
             "date": "9/28 - 10/8",
             "sampleSize": "600 RV",

@@ -1,5 +1,39 @@
 [
     {
+        "id":"148249",
+        "type":"poll",
+        "pollster":"Emerson",
+        "date":"10\/21 - 10\/22",
+        "sampleSize":"1000 LV",
+        "marginError":3.0,
+        "link":"https:\/\/emersoncollegepolling.com\/blog\/",
+        "spread_winner":"Trump",
+        "spread_value":1.0,
+        "trump_value":"49",
+        "harris_value":"48",
+        "name":"2024 Pennsylvania: Trump vs. Harris",
+        "slug":"pennsylvania",
+        "polling_start_date":"2024-10-21",
+        "polling_end_date":"2024-10-22"
+    },
+    {
+        "id":"148257",
+        "type":"poll_rcp_avg",
+        "pollster":"Bloomberg",
+        "date":"10\/16 - 10\/20",
+        "sampleSize":"866 LV",
+        "marginError":3.0,
+        "link":"https:\/\/pro-assets.morningconsult.com\/wp-uploads\/2024\/10\/Bloomberg-Swing-States-Wave-13.pdf",
+        "spread_winner":"Harris",
+        "spread_value":2.0,
+        "trump_value":"48",
+        "harris_value":"50",
+        "name":"2024 Pennsylvania: Trump vs. Harris",
+        "slug":"pennsylvania",
+        "polling_start_date":"2024-10-16",
+        "polling_end_date":"2024-10-20"
+    },
+    {
         "id":"148145",
         "type":"poll_rcp_avg",
         "pollster":"Trafalgar Group (R)",
@@ -154,7 +188,7 @@
     },
     {
         "id":"147896",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Wall Street Journal",
         "date":"9\/28 - 10\/8",
         "sampleSize":"600 RV",
