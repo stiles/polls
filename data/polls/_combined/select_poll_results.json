@@ -6361,23 +6361,6 @@
             "polling_end_date": "2024-10-07"
         },
         {
-            "id": "147977",
-            "type": "poll_rcp_avg",
-            "pollster": "Fabrizio/Anzalone",
-            "date": "10/2 - 10/8",
-            "sampleSize": "600 LV",
-            "marginError": 4.0,
-            "link": "https://www.aarp.org/content/dam/aarp/research/topics/voter-opinion-research/politics/michigan-older-voter-survey-october-2024-report.doi.10.26419-2fres.00813.048.pdf",
-            "spread_winner": "Trump",
-            "spread_value": 1.0,
-            "trump_value": "49",
-            "harris_value": "48",
-            "name": "2024 Michigan: Trump vs. Harris",
-            "slug": "michigan",
-            "polling_start_date": "2024-10-02",
-            "polling_end_date": "2024-10-08"
-        },
-        {
             "id": "147892",
             "type": "poll_rcp_avg",
             "pollster": "InsiderAdvantage",
@@ -6409,6 +6392,23 @@
             "name": "2024 Michigan: Trump vs. Harris",
             "slug": "michigan",
             "polling_start_date": "2024-10-05",
+            "polling_end_date": "2024-10-08"
+        },
+        {
+            "id": "147977",
+            "type": "poll_rcp_avg",
+            "pollster": "Fabrizio/Anzalone",
+            "date": "10/2 - 10/8",
+            "sampleSize": "600 LV",
+            "marginError": 4.0,
+            "link": "https://www.aarp.org/content/dam/aarp/research/topics/voter-opinion-research/politics/michigan-older-voter-survey-october-2024-report.doi.10.26419-2fres.00813.048.pdf",
+            "spread_winner": "Trump",
+            "spread_value": 1.0,
+            "trump_value": "49",
+            "harris_value": "48",
+            "name": "2024 Michigan: Trump vs. Harris",
+            "slug": "michigan",
+            "polling_start_date": "2024-10-02",
             "polling_end_date": "2024-10-08"
         },
         {
