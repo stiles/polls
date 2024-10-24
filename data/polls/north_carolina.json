@@ -17,6 +17,23 @@
         "polling_end_date":"2024-10-22"
     },
     {
+        "id":"148279",
+        "type":"poll_rcp_avg",
+        "pollster":"Marist",
+        "date":"10\/17 - 10\/22",
+        "sampleSize":"1226 LV",
+        "marginError":3.6,
+        "link":"https:\/\/maristpoll.marist.edu\/polls\/marist-north-carolina-poll-u-s-presidential-contest-in-north-carolina-october-2024\/",
+        "spread_winner":"Trump",
+        "spread_value":2.0,
+        "trump_value":"50",
+        "harris_value":"48",
+        "name":"2024 North Carolina: Trump vs. Harris",
+        "slug":"north_carolina",
+        "polling_start_date":"2024-10-17",
+        "polling_end_date":"2024-10-22"
+    },
+    {
         "id":"148256",
         "type":"poll_rcp_avg",
         "pollster":"Bloomberg",
