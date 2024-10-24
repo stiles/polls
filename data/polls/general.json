@@ -1,5 +1,22 @@
 [
     {
+        "id":"148269",
+        "type":"poll_rcp_avg",
+        "pollster":"Wall Street Journal",
+        "date":"10\/19 - 10\/22",
+        "sampleSize":"1500 RV",
+        "marginError":2.5,
+        "link":"https:\/\/prod-i.a.dj.com\/public\/resources\/documents\/WSJ_partial_results_late_Oct_2024.pdf",
+        "spread_winner":"Trump",
+        "spread_value":3.0,
+        "harris_value":"46",
+        "trump_value":"49",
+        "name":"2024 General Election: Trump vs Harris",
+        "slug":"general",
+        "polling_start_date":"2024-10-19",
+        "polling_end_date":"2024-10-22"
+    },
+    {
         "id":"148228",
         "type":"poll_rcp_avg",
         "pollster":"Forbes\/HarrisX",

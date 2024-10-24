@@ -1,20 +1,20 @@
 [
     {
-        "id":"148230",
+        "id":"148278",
         "type":"poll_rcp_avg",
-        "pollster":"Forbes\/HarrisX",
-        "date":"10\/20 - 10\/21",
-        "sampleSize":"1244 LV",
-        "marginError":0.0,
-        "link":"https:\/\/www.forbes.com\/sites\/saradorn\/2024\/10\/23\/trump-vs-harris-2024-polls-harris-leads-by-2-points-in-latest-survey\/",
+        "pollster":"Wall Street Journal",
+        "date":"10\/19 - 10\/22",
+        "sampleSize":"1500 RV",
+        "marginError":2.5,
+        "link":"https:\/\/www.msn.com\/en-us\/news\/politics\/trump-takes-narrow-lead-over-harris-in-closing-weeks-of-race\/ar-AA1sOqEU",
         "spread_winner":"Wrong Track",
-        "spread_value":-39.0,
+        "spread_value":-38.0,
         "right_direction_value":"26",
-        "wrong_track_value":"65",
+        "wrong_track_value":"64",
         "name":"Direction of Country",
         "slug":"country_direction",
-        "polling_start_date":"2024-10-20",
-        "polling_end_date":"2024-10-21"
+        "polling_start_date":"2024-10-19",
+        "polling_end_date":"2024-10-22"
     },
     {
         "id":"148212",
@@ -32,6 +32,23 @@
         "slug":"country_direction",
         "polling_start_date":"2024-10-19",
         "polling_end_date":"2024-10-22"
+    },
+    {
+        "id":"148230",
+        "type":"poll_rcp_avg",
+        "pollster":"Forbes\/HarrisX",
+        "date":"10\/20 - 10\/21",
+        "sampleSize":"1244 LV",
+        "marginError":0.0,
+        "link":"https:\/\/www.forbes.com\/sites\/saradorn\/2024\/10\/23\/trump-vs-harris-2024-polls-harris-leads-by-2-points-in-latest-survey\/",
+        "spread_winner":"Wrong Track",
+        "spread_value":-39.0,
+        "right_direction_value":"26",
+        "wrong_track_value":"65",
+        "name":"Direction of Country",
+        "slug":"country_direction",
+        "polling_start_date":"2024-10-20",
+        "polling_end_date":"2024-10-21"
     },
     {
         "id":"148166",

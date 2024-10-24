@@ -1,4 +1,5 @@
 id,type,pollster,date,sampleSize,marginError,link,spread_winner,spread_value,harris_value,trump_value,name,slug,polling_start_date,polling_end_date
+148269,poll_rcp_avg,Wall Street Journal,10/19 - 10/22,1500 RV,2.5,https://prod-i.a.dj.com/public/resources/documents/WSJ_partial_results_late_Oct_2024.pdf,Trump,3.0,46,49,2024 General Election: Trump vs Harris,general,2024-10-19,2024-10-22
 148228,poll_rcp_avg,Forbes/HarrisX,10/20 - 10/21,1244 LV,2.8,https://www.forbes.com/sites/saradorn/2024/10/23/trump-vs-harris-2024-polls-harris-leads-by-2-points-in-latest-survey/,Trump,2.0,49,51,2024 General Election: Trump vs Harris,general,2024-10-20,2024-10-21
 148178,poll_rcp_avg,Morning Consult,10/18 - 10/20,8570 LV,1.0,https://www.realclearpolitics.com/docs/2024/Morning_Consult_Oct_18-20_2024.pdf,Harris,4.0,50,46,2024 General Election: Trump vs Harris,general,2024-10-18,2024-10-20
 148246,poll_rcp_avg,Rasmussen Reports,10/17 - 10/22,3816 LV,1.0,https://www.rasmussenreports.com/public_content/politics/elections/election_2024/election2024,Trump,3.0,46,49,2024 General Election: Trump vs Harris,general,2024-10-17,2024-10-22

@@ -1,5 +1,22 @@
 [
     {
+        "id":"148260",
+        "type":"poll_rcp_avg",
+        "pollster":"Bloomberg",
+        "date":"10\/16 - 10\/20",
+        "sampleSize":"449 LV",
+        "marginError":5.0,
+        "link":"https:\/\/pro-assets.morningconsult.com\/wp-uploads\/2024\/10\/Bloomberg-Swing-States-Wave-13.pdf",
+        "spread_winner":"Harris",
+        "spread_value":1.0,
+        "trump_value":"48",
+        "harris_value":"49",
+        "name":"2024 Nevada: Trump vs. Harris",
+        "slug":"nevada",
+        "polling_start_date":"2024-10-16",
+        "polling_end_date":"2024-10-20"
+    },
+    {
         "id":"148191",
         "type":"poll_rcp_avg",
         "pollster":"Fabrizio\/Anzalone",
