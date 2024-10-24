@@ -17,6 +17,23 @@
         "polling_end_date":"2024-10-22"
     },
     {
+        "id":"148285",
+        "type":"poll_rcp_avg",
+        "pollster":"CNBC",
+        "date":"10\/15 - 10\/19",
+        "sampleSize":"1000 RV",
+        "marginError":3.1,
+        "link":"https:\/\/www.cnbc.com\/2024\/10\/24\/presidential-election-is-a-dead-heat-though-trump-leads-harris-big-on-economy-says-cnbc-survey.html",
+        "spread_winner":"Trump",
+        "spread_value":2.0,
+        "harris_value":"46",
+        "trump_value":"48",
+        "name":"2024 General Election: Trump vs Harris",
+        "slug":"general",
+        "polling_start_date":"2024-10-15",
+        "polling_end_date":"2024-10-19"
+    },
+    {
         "id":"148228",
         "type":"poll_rcp_avg",
         "pollster":"Forbes\/HarrisX",
@@ -32,6 +49,23 @@
         "slug":"general",
         "polling_start_date":"2024-10-20",
         "polling_end_date":"2024-10-21"
+    },
+    {
+        "id":"148246",
+        "type":"poll_rcp_avg",
+        "pollster":"Rasmussen Reports",
+        "date":"10\/17 - 10\/22",
+        "sampleSize":"3816 LV",
+        "marginError":1.0,
+        "link":"https:\/\/www.rasmussenreports.com\/public_content\/politics\/elections\/election_2024\/election2024",
+        "spread_winner":"Trump",
+        "spread_value":3.0,
+        "harris_value":"46",
+        "trump_value":"49",
+        "name":"2024 General Election: Trump vs Harris",
+        "slug":"general",
+        "polling_start_date":"2024-10-17",
+        "polling_end_date":"2024-10-22"
     },
     {
         "id":"148178",
@@ -51,21 +85,21 @@
         "polling_end_date":"2024-10-20"
     },
     {
-        "id":"148246",
+        "id":"148284",
         "type":"poll_rcp_avg",
-        "pollster":"Rasmussen Reports",
-        "date":"10\/17 - 10\/22",
-        "sampleSize":"3816 LV",
-        "marginError":1.0,
-        "link":"https:\/\/www.rasmussenreports.com\/public_content\/politics\/elections\/election_2024\/election2024",
-        "spread_winner":"Trump",
+        "pollster":"TIPP",
+        "date":"10\/21 - 10\/23",
+        "sampleSize":"1260 LV",
+        "marginError":2.8,
+        "link":"https:\/\/tippinsights.com\/tipp-tracking-poll-day-11-harris-extends-slim-lead-to-3-points-in-heated-race\/",
+        "spread_winner":"Harris",
         "spread_value":3.0,
-        "harris_value":"46",
-        "trump_value":"49",
+        "harris_value":"50",
+        "trump_value":"47",
         "name":"2024 General Election: Trump vs Harris",
         "slug":"general",
-        "polling_start_date":"2024-10-17",
-        "polling_end_date":"2024-10-22"
+        "polling_start_date":"2024-10-21",
+        "polling_end_date":"2024-10-23"
     },
     {
         "id":"148197",
@@ -137,7 +171,7 @@
     },
     {
         "id":"148209",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"TIPP",
         "date":"10\/20 - 10\/22",
         "sampleSize":"1294 LV",

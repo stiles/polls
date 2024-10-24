@@ -1,5 +1,22 @@
 [
     {
+        "id":"148286",
+        "type":"poll_rcp_avg",
+        "pollster":"Franklin &amp; Marshall",
+        "date":"10\/9 - 10\/20",
+        "sampleSize":"583 LV",
+        "marginError":5.0,
+        "link":"https:\/\/www.fandmpoll.org\/franklin-marshall-poll-release-october-2024\/",
+        "spread_winner":"Trump",
+        "spread_value":1.0,
+        "trump_value":"50",
+        "harris_value":"49",
+        "name":"2024 Pennsylvania: Trump vs. Harris",
+        "slug":"pennsylvania",
+        "polling_start_date":"2024-10-09",
+        "polling_end_date":"2024-10-20"
+    },
+    {
         "id":"148249",
         "type":"poll",
         "pollster":"Emerson",

@@ -1,22 +1,5 @@
 [
     {
-        "id":"148253",
-        "type":"poll",
-        "pollster":"Emerson",
-        "date":"10\/21 - 10\/22",
-        "sampleSize":"1000 LV",
-        "marginError":3.0,
-        "link":"https:\/\/emersoncollegepolling.com\/blog\/",
-        "spread_winner":"Trump",
-        "spread_value":2.0,
-        "trump_value":"50",
-        "harris_value":"48",
-        "name":"2024 North Carolina: Trump vs. Harris",
-        "slug":"north_carolina",
-        "polling_start_date":"2024-10-21",
-        "polling_end_date":"2024-10-22"
-    },
-    {
         "id":"148279",
         "type":"poll_rcp_avg",
         "pollster":"Marist",
@@ -31,6 +14,23 @@
         "name":"2024 North Carolina: Trump vs. Harris",
         "slug":"north_carolina",
         "polling_start_date":"2024-10-17",
+        "polling_end_date":"2024-10-22"
+    },
+    {
+        "id":"148253",
+        "type":"poll_rcp_avg",
+        "pollster":"Emerson",
+        "date":"10\/21 - 10\/22",
+        "sampleSize":"950 LV",
+        "marginError":3.1,
+        "link":"https:\/\/emersoncollegepolling.com\/october-2024-polls-trump-and-harris-locked-in-tight-race\/",
+        "spread_winner":"Trump",
+        "spread_value":2.0,
+        "trump_value":"50",
+        "harris_value":"48",
+        "name":"2024 North Carolina: Trump vs. Harris",
+        "slug":"north_carolina",
+        "polling_start_date":"2024-10-21",
         "polling_end_date":"2024-10-22"
     },
     {
@@ -171,7 +171,7 @@
     },
     {
         "id":"147859",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"The Hill\/Emerson",
         "date":"10\/5 - 10\/8",
         "sampleSize":"1000 LV",
