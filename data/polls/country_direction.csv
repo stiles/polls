@@ -1,4 +1,5 @@
 id,type,pollster,date,sampleSize,marginError,link,spread_winner,spread_value,right_direction_value,wrong_track_value,name,slug,polling_start_date,polling_end_date
+148305,poll_rcp_avg,NY Times/Siena,10/20 - 10/23,2516 LV,0.0,https://www.nytimes.com/2024/10/25/us/politics/poll-harris-trump-times-siena.html,Wrong Track,-33.0,28,61,Direction of Country,country_direction,2024-10-20,2024-10-23
 148278,poll_rcp_avg,Wall Street Journal,10/19 - 10/22,1500 RV,2.5,https://www.msn.com/en-us/news/politics/trump-takes-narrow-lead-over-harris-in-closing-weeks-of-race/ar-AA1sOqEU,Wrong Track,-38.0,26,64,Direction of Country,country_direction,2024-10-19,2024-10-22
 148212,poll_rcp_avg,Economist/YouGov,10/19 - 10/22,1295 LV,0.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_O3e18LR.pdf,Wrong Track,-39.0,26,65,Direction of Country,country_direction,2024-10-19,2024-10-22
 148230,poll_rcp_avg,Forbes/HarrisX,10/20 - 10/21,1244 LV,0.0,https://www.forbes.com/sites/saradorn/2024/10/23/trump-vs-harris-2024-polls-harris-leads-by-2-points-in-latest-survey/,Wrong Track,-39.0,26,65,Direction of Country,country_direction,2024-10-20,2024-10-21

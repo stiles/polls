@@ -1,5 +1,22 @@
 [
     {
+        "id":"148305",
+        "type":"poll_rcp_avg",
+        "pollster":"NY Times\/Siena",
+        "date":"10\/20 - 10\/23",
+        "sampleSize":"2516 LV",
+        "marginError":0.0,
+        "link":"https:\/\/www.nytimes.com\/2024\/10\/25\/us\/politics\/poll-harris-trump-times-siena.html",
+        "spread_winner":"Wrong Track",
+        "spread_value":-33.0,
+        "right_direction_value":"28",
+        "wrong_track_value":"61",
+        "name":"Direction of Country",
+        "slug":"country_direction",
+        "polling_start_date":"2024-10-20",
+        "polling_end_date":"2024-10-23"
+    },
+    {
         "id":"148278",
         "type":"poll_rcp_avg",
         "pollster":"Wall Street Journal",

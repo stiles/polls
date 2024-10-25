@@ -3,7 +3,7 @@
         "id":"6690",
         "type":"rcp_average",
         "pollster":"rcp_average",
-        "date":"10\/1 - 10\/22",
+        "date":"10\/1 - 10\/23",
         "sampleSize":"",
         "marginError":0.0,
         "link":null,
@@ -14,6 +14,6 @@
         "name":"Kamala Harris Favorability",
         "slug":"harris_favorability",
         "polling_start_date":"2024-10-01",
-        "polling_end_date":"2024-10-22"
+        "polling_end_date":"2024-10-23"
     }
 ]

@@ -1,4 +1,5 @@
 id,type,pollster,date,sampleSize,marginError,link,spread_winner,spread_value,democrats_value,republicans_value,name,slug,polling_start_date,polling_end_date
+148306,poll_rcp_avg,NY Times/Siena,10/20 - 10/23,2516 LV,0.0,https://www.nytimes.com/2024/10/25/us/politics/poll-harris-trump-times-siena.html,Tie,0.0,48,48,2024 Generic Congressional Vote,congress_generic,2024-10-20,2024-10-23
 148294,poll_rcp_avg,Wall Street Journal,10/19 - 10/22,1500 RV,0.0,https://prod-i.a.dj.com/public/resources/documents/WSJ_partial_results_late_Oct_2024.pdf,Republicans,4.0,45,49,2024 Generic Congressional Vote,congress_generic,2024-10-19,2024-10-22
 148213,poll_rcp_avg,Economist/YouGov,10/19 - 10/22,1290 LV,0.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_O3e18LR.pdf,Tie,0.0,47,47,2024 Generic Congressional Vote,congress_generic,2024-10-19,2024-10-22
 148234,poll_rcp_avg,Forbes/HarrisX,10/20 - 10/21,1244 LV,0.0,https://www.forbes.com/sites/saradorn/2024/10/23/trump-vs-harris-2024-polls-harris-leads-by-2-points-in-latest-survey/,Republicans,1.0,46,47,2024 Generic Congressional Vote,congress_generic,2024-10-20,2024-10-21

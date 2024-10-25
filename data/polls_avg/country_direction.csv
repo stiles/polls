@@ -1,2 +1,2 @@
 id,type,pollster,date,sampleSize,marginError,link,spread_winner,spread_value,right_direction_value,wrong_track_value,name,slug,polling_start_date,polling_end_date
-902,rcp_average,rcp_average,10/1 - 10/22,,0.0,,Wrong Track,-38.0,26.8,64.8,Direction of Country,country_direction,2024-10-01,2024-10-22
+902,rcp_average,rcp_average,10/1 - 10/23,,0.0,,Wrong Track,-37.5,26.9,64.4,Direction of Country,country_direction,2024-10-01,2024-10-23
