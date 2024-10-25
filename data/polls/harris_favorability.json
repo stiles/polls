@@ -102,6 +102,23 @@
         "polling_end_date":"2024-10-19"
     },
     {
+        "id":"148313",
+        "type":"poll_rcp_avg",
+        "pollster":"USA Today\/Suffolk",
+        "date":"10\/14 - 10\/18",
+        "sampleSize":"1000 LV",
+        "marginError":0.0,
+        "link":"https:\/\/www.suffolk.edu\/-\/media\/suffolk\/documents\/academics\/research-at-suffolk\/suprc\/polls\/national\/2024\/10_25_2024_complete_national_marginals.pdf?la=en&amp;hash=5F11AAE887D75AACE17DF8B37DBAF3518CBB99F1",
+        "spread_winner":"Unfavorable",
+        "spread_value":3.0,
+        "favorable_value":"46",
+        "unfavorable_value":"49",
+        "name":"Kamala Harris Favorability",
+        "slug":"harris_favorability",
+        "polling_start_date":"2024-10-14",
+        "polling_end_date":"2024-10-18"
+    },
+    {
         "id":"148088",
         "type":"poll_rcp_avg",
         "pollster":"Emerson",
