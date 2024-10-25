@@ -2,9 +2,9 @@
     {
         "id":7386,
         "type":"rcp_average",
-        "spread_winner":"Tie",
-        "spread_value":0,
-        "trump_value":48.4,
+        "spread_winner":"Harris",
+        "spread_value":0.1,
+        "trump_value":48.3,
         "harris_value":48.4,
         "fetch_date":"2024-10-25"
     }

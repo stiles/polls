@@ -187,23 +187,6 @@
         "polling_end_date":"2024-10-11"
     },
     {
-        "id":"147818",
-        "type":"poll",
-        "pollster":"Economist\/YouGov",
-        "date":"10\/6 - 10\/7",
-        "sampleSize":"1233 LV",
-        "marginError":0.0,
-        "link":"https:\/\/d3nkl3psvxxpe9.cloudfront.net\/documents\/econTabReport_pw9W1fW.pdf",
-        "spread_winner":"Democrats",
-        "spread_value":1.0,
-        "republicans_value":"46",
-        "democrats_value":"47",
-        "name":"2024 Generic Congressional Vote",
-        "slug":"congress_generic",
-        "polling_start_date":"2024-10-06",
-        "polling_end_date":"2024-10-07"
-    },
-    {
         "id":"147937",
         "type":"poll_rcp_avg",
         "pollster":"NBC News",
@@ -221,8 +204,25 @@
         "polling_end_date":"2024-10-08"
     },
     {
+        "id":"147818",
+        "type":"poll",
+        "pollster":"Economist\/YouGov",
+        "date":"10\/6 - 10\/7",
+        "sampleSize":"1233 LV",
+        "marginError":0.0,
+        "link":"https:\/\/d3nkl3psvxxpe9.cloudfront.net\/documents\/econTabReport_pw9W1fW.pdf",
+        "spread_winner":"Democrats",
+        "spread_value":1.0,
+        "republicans_value":"46",
+        "democrats_value":"47",
+        "name":"2024 Generic Congressional Vote",
+        "slug":"congress_generic",
+        "polling_start_date":"2024-10-06",
+        "polling_end_date":"2024-10-07"
+    },
+    {
         "id":"148001",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Marquette",
         "date":"10\/1 - 10\/10",
         "sampleSize":"699 LV",
@@ -239,7 +239,7 @@
     },
     {
         "id":"147789",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Yahoo News",
         "date":"10\/2 - 10\/4",
         "sampleSize":"1032 LV",
@@ -256,7 +256,7 @@
     },
     {
         "id":"147780",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Rasmussen Reports",
         "date":"10\/1 - 10\/3",
         "sampleSize":"1050 LV",
@@ -307,7 +307,7 @@
     },
     {
         "id":"147730",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"NPR\/PBS\/Marist",
         "date":"9\/27 - 10\/1",
         "sampleSize":"1294 LV",
