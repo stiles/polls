@@ -21,6 +21,27 @@
         "polling_end_date":"2024-10-23"
     },
     {
+        "id":"148321",
+        "type":"poll_rcp_avg",
+        "pollster":"CNN*",
+        "date":"10\/20 - 10\/23",
+        "sampleSize":"1704 LV",
+        "marginError":3.1,
+        "link":"https:\/\/www.cnn.com\/2024\/10\/25\/politics\/cnn-poll-harris-trump\/index.html",
+        "spread_winner":"Tie",
+        "spread_value":0.0,
+        "trump_value":"47",
+        "harris_value":"47",
+        "kennedy_value":"",
+        "stein_value":"1",
+        "west_value":"",
+        "oliver_value":"2",
+        "name":"General Election: Trump vs. Harris vs. Kennedy vs. West vs. Stein",
+        "slug":"general_third_parties",
+        "polling_start_date":"2024-10-20",
+        "polling_end_date":"2024-10-23"
+    },
+    {
         "id":"148275",
         "type":"poll_rcp_avg",
         "pollster":"Wall Street Journal",
