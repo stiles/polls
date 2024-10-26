@@ -55,7 +55,7 @@ The latest forecasts for the 2024 presidential election based on models develope
 |-------|---------------------|--------|
 | US | <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>Trump - 53%</span> | [Nate Silver](https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model) |
 | US | <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>Trump - 53%</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/2024-election-forecast) |
-| US | <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>Trump - 52%</span> | [Economist](https://www.economist.com/interactive/us-2024-election/prediction-model/president/) |
+| US | <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>Trump - 53%</span> | [Economist](https://www.economist.com/interactive/us-2024-election/prediction-model/president/) |
 | US | <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>Trump - 52%</span> | [The Hill](https://elections2024.thehill.com/forecast/2024/president/) |
 
 
@@ -76,11 +76,11 @@ The latest forecasts for the 2024 presidential election based on models develope
 **Data:** [Latest](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/state_averages_latest.json), [trend](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/state_averages_trend.json)
 
 ### All the national polling averages
-<span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>Vice President Kamala Harris</span> is leading in the national polls by a <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>1.1 percentage point</span> margin over former President Donald Trump, according to an average of prominent polling averages.
+<span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>Vice President Kamala Harris</span> is leading in the national polls by a <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>1.0 percentage point</span> margin over former President Donald Trump, according to an average of prominent polling averages.
 
 | Place             | Margin               | Source       |
 |-------------------|----------------------|--------------|
-| US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +1.5</span> |[Cook Report](https://www.cookpolitical.com/survey-research/cpr-national-polling-average/2024/harris-trump-overall) 
+| US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +1.1</span> |[Cook Report](https://www.cookpolitical.com/survey-research/cpr-national-polling-average/2024/harris-trump-overall) 
 | US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +0.1</span> |[RealClearPolitics](https://www.realclearpolling.com/polls/president/general/2024/trump-vs-harris) 
 | US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +1.4</span> |[FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/national/) 
 | US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +1.3</span> |[Nate Silver](https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model) 
@@ -94,4 +94,4 @@ The latest forecasts for the 2024 presidential election based on models develope
 
  **About this page:** [Github repo](https://github.com/stiles/polls) 
 
- **Last update:** *2 a.m. ET, October 26*.
+ **Last update:** *4 a.m. ET, October 26*.
