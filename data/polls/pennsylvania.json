@@ -1,20 +1,20 @@
 [
     {
-        "id":"148286",
+        "id":"148352",
         "type":"poll_rcp_avg",
-        "pollster":"Franklin &amp; Marshall",
-        "date":"10\/9 - 10\/20",
-        "sampleSize":"583 LV",
-        "marginError":5.0,
-        "link":"https:\/\/www.fandmpoll.org\/franklin-marshall-poll-release-october-2024\/",
+        "pollster":"InsiderAdvantage",
+        "date":"10\/26 - 10\/27",
+        "sampleSize":"800 LV",
+        "marginError":3.5,
+        "link":"https:\/\/insideradvantage.com\/insideradvantage-pennsylvania-survey-trump-leads-by-one-point-casey-jr-and-mccormick-tied-in-senate-contest\/",
         "spread_winner":"Trump",
         "spread_value":1.0,
-        "trump_value":"50",
-        "harris_value":"49",
+        "trump_value":"48",
+        "harris_value":"47",
         "name":"2024 Pennsylvania: Trump vs. Harris",
         "slug":"pennsylvania",
-        "polling_start_date":"2024-10-09",
-        "polling_end_date":"2024-10-20"
+        "polling_start_date":"2024-10-26",
+        "polling_end_date":"2024-10-27"
     },
     {
         "id":"148249",
@@ -66,6 +66,23 @@
         "slug":"pennsylvania",
         "polling_start_date":"2024-10-17",
         "polling_end_date":"2024-10-19"
+    },
+    {
+        "id":"148286",
+        "type":"poll_rcp_avg",
+        "pollster":"Franklin &amp; Marshall",
+        "date":"10\/9 - 10\/20",
+        "sampleSize":"583 LV",
+        "marginError":5.0,
+        "link":"https:\/\/www.fandmpoll.org\/franklin-marshall-poll-release-october-2024\/",
+        "spread_winner":"Trump",
+        "spread_value":1.0,
+        "trump_value":"50",
+        "harris_value":"49",
+        "name":"2024 Pennsylvania: Trump vs. Harris",
+        "slug":"pennsylvania",
+        "polling_start_date":"2024-10-09",
+        "polling_end_date":"2024-10-20"
     },
     {
         "id":"148123",
@@ -137,7 +154,7 @@
     },
     {
         "id":"147856",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"The Hill\/Emerson",
         "date":"10\/5 - 10\/8",
         "sampleSize":"1000 LV",
@@ -154,7 +171,7 @@
     },
     {
         "id":"147815",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"InsiderAdvantage",
         "date":"10\/7 - 10\/8",
         "sampleSize":"800 LV",
