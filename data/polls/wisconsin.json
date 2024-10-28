@@ -1,5 +1,22 @@
 [
     {
+        "id":"148354",
+        "type":"poll_rcp_avg",
+        "pollster":"USA Today\/Suffolk",
+        "date":"10\/20 - 10\/23",
+        "sampleSize":"500 LV",
+        "marginError":4.4,
+        "link":"https:\/\/www.usatoday.com\/story\/news\/politics\/elections\/2024\/10\/28\/poll-harris-trump-dead-heat-battleground-wisconsin\/75845037007\/",
+        "spread_winner":"Trump",
+        "spread_value":1.0,
+        "trump_value":"48",
+        "harris_value":"47",
+        "name":"2024 Wisconsin: Trump vs. Harris",
+        "slug":"wisconsin",
+        "polling_start_date":"2024-10-20",
+        "polling_end_date":"2024-10-23"
+    },
+    {
         "id":"148251",
         "type":"poll_rcp_avg",
         "pollster":"Emerson",
@@ -137,7 +154,7 @@
     },
     {
         "id":"147858",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"The Hill\/Emerson",
         "date":"10\/5 - 10\/8",
         "sampleSize":"1000 LV",
@@ -154,7 +171,7 @@
     },
     {
         "id":"147897",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Wall Street Journal",
         "date":"9\/28 - 10\/8",
         "sampleSize":"600 RV",
