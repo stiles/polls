@@ -1,5 +1,22 @@
 [
     {
+        "id":"148364",
+        "type":"poll_rcp_avg",
+        "pollster":"InsiderAdvantage",
+        "date":"10\/26 - 10\/27",
+        "sampleSize":"800 LV",
+        "marginError":3.7,
+        "link":"https:\/\/insideradvantage.com\/insideradvantage-michigan-survey-trump-leads-by-one-point-slotkin-and-rogers-tied-in-u-s-senate-race\/",
+        "spread_winner":"Trump",
+        "spread_value":1.0,
+        "trump_value":"48",
+        "harris_value":"47",
+        "name":"2024 Michigan: Trump vs. Harris",
+        "slug":"michigan",
+        "polling_start_date":"2024-10-26",
+        "polling_end_date":"2024-10-27"
+    },
+    {
         "id":"148242",
         "type":"poll_rcp_avg",
         "pollster":"Quinnipiac",
@@ -120,7 +137,7 @@
     },
     {
         "id":"147892",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"InsiderAdvantage",
         "date":"10\/8 - 10\/9",
         "sampleSize":"800 LV",
