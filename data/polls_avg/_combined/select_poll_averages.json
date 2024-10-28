@@ -41,18 +41,18 @@
         "id": "8302",
         "type": "rcp_average",
         "pollster": "rcp_average",
-        "date": "10/5 - 10/22",
+        "date": "10/5 - 10/26",
         "sampleSize": "",
         "marginError": 0.0,
         "link": null,
         "spread_winner": "Trump",
-        "spread_value": 2.2,
-        "trump_value": "49.0",
-        "harris_value": "46.8",
+        "spread_value": 2.3,
+        "trump_value": "49.2",
+        "harris_value": "46.9",
         "name": "2024 Georgia: Trump vs. Harris",
         "slug": "georgia",
         "polling_start_date": "2024-10-05",
-        "polling_end_date": "2024-10-22"
+        "polling_end_date": "2024-10-26"
     },
     {
         "id": "8303",
@@ -126,7 +126,7 @@
         "id": "8307",
         "type": "rcp_average",
         "pollster": "rcp_average",
-        "date": "9/28 - 10/22",
+        "date": "9/28 - 10/26",
         "sampleSize": "",
         "marginError": 0.0,
         "link": null,
@@ -137,7 +137,7 @@
         "name": "2024 Arizona: Trump vs. Harris",
         "slug": "arizona",
         "polling_start_date": "2024-09-28",
-        "polling_end_date": "2024-10-22"
+        "polling_end_date": "2024-10-26"
     },
     {
         "id": "8394",

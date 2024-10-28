@@ -1,5 +1,22 @@
 [
     {
+        "id":"148350",
+        "type":"poll_rcp_avg",
+        "pollster":"Trafalgar Group (R)",
+        "date":"10\/24 - 10\/26",
+        "sampleSize":"1087 LV",
+        "marginError":2.9,
+        "link":"https:\/\/www.thetrafalgargroup.org\/wp-content\/uploads\/2024\/10\/GA-24-General-1027_Report.pdf",
+        "spread_winner":"Trump",
+        "spread_value":2.0,
+        "trump_value":"48",
+        "harris_value":"46",
+        "name":"2024 Georgia: Trump vs. Harris",
+        "slug":"georgia",
+        "polling_start_date":"2024-10-24",
+        "polling_end_date":"2024-10-26"
+    },
+    {
         "id":"148283",
         "type":"poll_rcp_avg",
         "pollster":"Marist",
@@ -34,20 +51,20 @@
         "polling_end_date":"2024-10-20"
     },
     {
-        "id":"148175",
+        "id":"148117",
         "type":"poll_rcp_avg",
-        "pollster":"Atlanta Journal-Constitution",
-        "date":"10\/7 - 10\/16",
-        "sampleSize":"1000 LV",
-        "marginError":3.1,
-        "link":"https:\/\/www.ajc.com\/politics\/trump-has-a-slight-edge-in-georgia-over-harris-latest-ajc-poll-finds\/LVP66TCGKJCF5CEDNUBAYU3EW4\/",
+        "pollster":"AmGreatness\/TIPP",
+        "date":"10\/14 - 10\/16",
+        "sampleSize":"813 LV",
+        "marginError":3.5,
+        "link":"https:\/\/amgreatness.com\/2024\/10\/18\/trump-leads-in-georgia-new-polling\/",
         "spread_winner":"Trump",
-        "spread_value":4.0,
-        "trump_value":"47",
-        "harris_value":"43",
+        "spread_value":1.0,
+        "trump_value":"49",
+        "harris_value":"48",
         "name":"2024 Georgia: Trump vs. Harris",
         "slug":"georgia",
-        "polling_start_date":"2024-10-07",
+        "polling_start_date":"2024-10-14",
         "polling_end_date":"2024-10-16"
     },
     {
@@ -66,23 +83,6 @@
         "slug":"georgia",
         "polling_start_date":"2024-10-12",
         "polling_end_date":"2024-10-17"
-    },
-    {
-        "id":"148117",
-        "type":"poll_rcp_avg",
-        "pollster":"AmGreatness\/TIPP",
-        "date":"10\/14 - 10\/16",
-        "sampleSize":"813 LV",
-        "marginError":3.5,
-        "link":"https:\/\/amgreatness.com\/2024\/10\/18\/trump-leads-in-georgia-new-polling\/",
-        "spread_winner":"Trump",
-        "spread_value":1.0,
-        "trump_value":"49",
-        "harris_value":"48",
-        "name":"2024 Georgia: Trump vs. Harris",
-        "slug":"georgia",
-        "polling_start_date":"2024-10-14",
-        "polling_end_date":"2024-10-16"
     },
     {
         "id":"147990",
@@ -119,6 +119,23 @@
         "polling_end_date":"2024-10-14"
     },
     {
+        "id":"148175",
+        "type":"poll_rcp_avg",
+        "pollster":"Atlanta Journal-Constitution",
+        "date":"10\/7 - 10\/16",
+        "sampleSize":"1000 LV",
+        "marginError":3.1,
+        "link":"https:\/\/www.ajc.com\/politics\/trump-has-a-slight-edge-in-georgia-over-harris-latest-ajc-poll-finds\/LVP66TCGKJCF5CEDNUBAYU3EW4\/",
+        "spread_winner":"Trump",
+        "spread_value":4.0,
+        "trump_value":"47",
+        "harris_value":"43",
+        "name":"2024 Georgia: Trump vs. Harris",
+        "slug":"georgia",
+        "polling_start_date":"2024-10-07",
+        "polling_end_date":"2024-10-16"
+    },
+    {
         "id":"148114",
         "type":"poll_rcp_avg",
         "pollster":"East Carolina U.",
@@ -137,7 +154,7 @@
     },
     {
         "id":"147855",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Trafalgar Group (R)",
         "date":"10\/7 - 10\/8",
         "sampleSize":"1089 LV",
