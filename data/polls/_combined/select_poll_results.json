@@ -23756,6 +23756,23 @@
     ],
     "country_direction": [
         {
+            "id": "148371",
+            "type": "poll_rcp_avg",
+            "pollster": "Rasmussen Reports",
+            "date": "10/20 - 10/24",
+            "sampleSize": "3928 LV",
+            "marginError": 2.5,
+            "link": "https://www.rasmussenreports.com/public_content/politics/mood_of_america/right_direction_wrong_track_oct28",
+            "spread_winner": "Wrong Track",
+            "spread_value": -25.0,
+            "right_direction_value": "35",
+            "wrong_track_value": "60",
+            "name": "Direction of Country",
+            "slug": "country_direction",
+            "polling_start_date": "2024-10-20",
+            "polling_end_date": "2024-10-24"
+        },
+        {
             "id": "148305",
             "type": "poll_rcp_avg",
             "pollster": "NY Times/Siena",
@@ -23842,7 +23859,7 @@
         },
         {
             "id": "148166",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Rasmussen Reports",
             "date": "10/13 - 10/17",
             "sampleSize": "3163 LV",
