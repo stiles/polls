@@ -1,5 +1,22 @@
 [
     {
+        "id":"148396",
+        "type":"poll_rcp_avg",
+        "pollster":"CNN*",
+        "date":"10\/21 - 10\/26",
+        "sampleSize":"683 LV",
+        "marginError":4.6,
+        "link":"https:\/\/www.cnn.com\/2024\/10\/29\/politics\/cnn-polls-arizona-nevada-trump-harris\/index.html",
+        "spread_winner":"Trump",
+        "spread_value":1.0,
+        "trump_value":"48",
+        "harris_value":"47",
+        "name":"2024 Nevada: Trump vs. Harris",
+        "slug":"nevada",
+        "polling_start_date":"2024-10-21",
+        "polling_end_date":"2024-10-26"
+    },
+    {
         "id":"148260",
         "type":"poll_rcp_avg",
         "pollster":"Bloomberg",

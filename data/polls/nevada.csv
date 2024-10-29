@@ -1,4 +1,5 @@
 id,type,pollster,date,sampleSize,marginError,link,spread_winner,spread_value,trump_value,harris_value,name,slug,polling_start_date,polling_end_date
+148396,poll_rcp_avg,CNN*,10/21 - 10/26,683 LV,4.6,https://www.cnn.com/2024/10/29/politics/cnn-polls-arizona-nevada-trump-harris/index.html,Trump,1.0,48,47,2024 Nevada: Trump vs. Harris,nevada,2024-10-21,2024-10-26
 148260,poll_rcp_avg,Bloomberg,10/16 - 10/20,449 LV,5.0,https://pro-assets.morningconsult.com/wp-uploads/2024/10/Bloomberg-Swing-States-Wave-13.pdf,Harris,1.0,48,49,2024 Nevada: Trump vs. Harris,nevada,2024-10-16,2024-10-20
 148191,poll_rcp_avg,Fabrizio/Anzalone,10/8 - 10/15,600 LV,4.0,https://www.aarp.org/content/dam/aarp/research/topics/voter-opinion-research/politics/nevada-older-voter-survey-october-2024.doi.10.26419-2fres.00813.051.pdf,Trump,2.0,49,47,2024 Nevada: Trump vs. Harris,nevada,2024-10-08,2024-10-15
 148174,poll_rcp_avg,InsiderAdvantage,10/20 - 10/21,800 LV,3.5,https://insideradvantage.com/insideradvantage-surveys-trump-leads-by-three-points-in-arizona-nevada-is-tied/,Tie,0.0,48,48,2024 Nevada: Trump vs. Harris,nevada,2024-10-20,2024-10-21

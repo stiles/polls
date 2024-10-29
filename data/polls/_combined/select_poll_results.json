@@ -18,6 +18,40 @@
             "polling_end_date": "2024-10-28"
         },
         {
+            "id": "148393",
+            "type": "poll_rcp_avg",
+            "pollster": "Reuters/Ipsos",
+            "date": "10/25 - 10/27",
+            "sampleSize": " LV",
+            "marginError": 0.0,
+            "link": "https://www.reuters.com/world/us/harris-lead-over-trump-dwindles-single-point-44-43-reutersipsos-poll-finds-2024-10-29/",
+            "spread_winner": "Harris",
+            "spread_value": 1.0,
+            "trump_value": "46",
+            "harris_value": "47",
+            "name": "2024 General Election: Trump vs Harris",
+            "slug": "general",
+            "polling_start_date": "2024-10-25",
+            "polling_end_date": "2024-10-27"
+        },
+        {
+            "id": "148383",
+            "type": "poll_rcp_avg",
+            "pollster": "Morning Consult",
+            "date": "10/25 - 10/27",
+            "sampleSize": "8807 LV",
+            "marginError": 1.0,
+            "link": "https://www.realclearpolitics.com/docs/2024/Morning_Consult_Tracker_Oct_25-27,_2024.pdf",
+            "spread_winner": "Harris",
+            "spread_value": 3.0,
+            "trump_value": "47",
+            "harris_value": "50",
+            "name": "2024 General Election: Trump vs Harris",
+            "slug": "general",
+            "polling_start_date": "2024-10-25",
+            "polling_end_date": "2024-10-27"
+        },
+        {
             "id": "148372",
             "type": "poll_rcp_avg",
             "pollster": "Rasmussen Reports",
@@ -206,7 +240,7 @@
         },
         {
             "id": "148341",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "ABC News/Ipsos",
             "date": "10/18 - 10/22",
             "sampleSize": "1913 LV",
@@ -291,7 +325,7 @@
         },
         {
             "id": "148178",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Morning Consult",
             "date": "10/18 - 10/20",
             "sampleSize": "8570 LV",
@@ -8263,6 +8297,23 @@
     ],
     "nevada": [
         {
+            "id": "148396",
+            "type": "poll_rcp_avg",
+            "pollster": "CNN*",
+            "date": "10/21 - 10/26",
+            "sampleSize": "683 LV",
+            "marginError": 4.6,
+            "link": "https://www.cnn.com/2024/10/29/politics/cnn-polls-arizona-nevada-trump-harris/index.html",
+            "spread_winner": "Trump",
+            "spread_value": 1.0,
+            "trump_value": "48",
+            "harris_value": "47",
+            "name": "2024 Nevada: Trump vs. Harris",
+            "slug": "nevada",
+            "polling_start_date": "2024-10-21",
+            "polling_end_date": "2024-10-26"
+        },
+        {
             "id": "148260",
             "type": "poll_rcp_avg",
             "pollster": "Bloomberg",
@@ -8842,6 +8893,23 @@
         }
     ],
     "arizona": [
+        {
+            "id": "148394",
+            "type": "poll_rcp_avg",
+            "pollster": "CNN*",
+            "date": "10/21 - 10/26",
+            "sampleSize": "781 LV",
+            "marginError": 4.4,
+            "link": "https://www.cnn.com/2024/10/29/politics/cnn-polls-arizona-nevada-trump-harris/index.html",
+            "spread_winner": "Harris",
+            "spread_value": 1.0,
+            "trump_value": "47",
+            "harris_value": "48",
+            "name": "2024 Arizona: Trump vs. Harris",
+            "slug": "arizona",
+            "polling_start_date": "2024-10-21",
+            "polling_end_date": "2024-10-26"
+        },
         {
             "id": "148348",
             "type": "poll_rcp_avg",
@@ -9593,6 +9661,23 @@
     ],
     "north_carolina": [
         {
+            "id": "148400",
+            "type": "poll_rcp_avg",
+            "pollster": "Trafalgar Group (R)",
+            "date": "10/25 - 10/28",
+            "sampleSize": "1091 LV",
+            "marginError": 2.9,
+            "link": "https://www.thetrafalgargroup.org/wp-content/uploads/2024/10/NC-24-General-1029_Report.pdf",
+            "spread_winner": "Trump",
+            "spread_value": 3.0,
+            "trump_value": "49",
+            "harris_value": "46",
+            "name": "2024 North Carolina: Trump vs. Harris",
+            "slug": "north_carolina",
+            "polling_start_date": "2024-10-25",
+            "polling_end_date": "2024-10-28"
+        },
+        {
             "id": "148384",
             "type": "poll_rcp_avg",
             "pollster": "WRAL-TV/SurveyUSA",
@@ -9781,7 +9866,7 @@
         },
         {
             "id": "147983",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Trafalgar Group (R)",
             "date": "10/10 - 10/13",
             "sampleSize": "1085 LV",

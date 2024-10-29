@@ -1,4 +1,5 @@
 id,type,pollster,date,sampleSize,marginError,link,spread_winner,spread_value,trump_value,harris_value,name,slug,polling_start_date,polling_end_date
+148394,poll_rcp_avg,CNN*,10/21 - 10/26,781 LV,4.4,https://www.cnn.com/2024/10/29/politics/cnn-polls-arizona-nevada-trump-harris/index.html,Harris,1.0,47,48,2024 Arizona: Trump vs. Harris,arizona,2024-10-21,2024-10-26
 148348,poll_rcp_avg,Trafalgar Group (R),10/24 - 10/26,1094 LV,2.9,https://www.thetrafalgargroup.org/wp-content/uploads/2024/10/AZ-24-General-1027_Report.pdf,Trump,2.0,48,46,2024 Arizona: Trump vs. Harris,arizona,2024-10-24,2024-10-26
 148281,poll_rcp_avg,Marist,10/17 - 10/22,1193 LV,3.7,https://maristpoll.marist.edu/polls/marist-arizona-poll-u-s-presidential-contest-in-arizona-october-2024/,Trump,1.0,50,49,2024 Arizona: Trump vs. Harris,arizona,2024-10-17,2024-10-22
 148173,poll_rcp_avg,InsiderAdvantage,10/20 - 10/21,800 LV,3.0,https://insideradvantage.com/insideradvantage-surveys-trump-leads-by-three-points-in-arizona-nevada-is-tied/,Trump,3.0,50,47,2024 Arizona: Trump vs. Harris,arizona,2024-10-20,2024-10-21
