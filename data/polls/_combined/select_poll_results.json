@@ -5622,6 +5622,23 @@
             "polling_end_date": "2024-10-27"
         },
         {
+            "id": "148374",
+            "type": "poll_rcp_avg",
+            "pollster": "AmGreatness/NSOR",
+            "date": "10/22 - 10/26",
+            "sampleSize": "600 LV",
+            "marginError": 4.0,
+            "link": "https://amgreatness.com/2024/10/28/pennsylvania-headed-for-a-photo-finish-new-american-greatness-polling/",
+            "spread_winner": "Tie",
+            "spread_value": 0.0,
+            "trump_value": "47",
+            "harris_value": "47",
+            "name": "2024 Pennsylvania: Trump vs. Harris",
+            "slug": "pennsylvania",
+            "polling_start_date": "2024-10-22",
+            "polling_end_date": "2024-10-26"
+        },
+        {
             "id": "148249",
             "type": "poll_rcp_avg",
             "pollster": "Emerson",
@@ -5742,7 +5759,7 @@
         },
         {
             "id": "147886",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "AmGreatness/TIPP",
             "date": "10/7 - 10/9",
             "sampleSize": "803 LV",
