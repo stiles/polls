@@ -1,5 +1,22 @@
 [
     {
+        "id":"148380",
+        "type":"poll_rcp_avg",
+        "pollster":"TIPP",
+        "date":"10\/26 - 10\/28",
+        "sampleSize":"1291 LV",
+        "marginError":2.7,
+        "link":"https:\/\/tippinsights.com\/tipp-tracking-poll-day-16-harris-edges-trump-in-a-tight-race-48-47\/",
+        "spread_winner":"Harris",
+        "spread_value":1.0,
+        "trump_value":"47",
+        "harris_value":"48",
+        "name":"2024 General Election: Trump vs Harris",
+        "slug":"general",
+        "polling_start_date":"2024-10-26",
+        "polling_end_date":"2024-10-28"
+    },
+    {
         "id":"148372",
         "type":"poll_rcp_avg",
         "pollster":"Rasmussen Reports",
@@ -120,7 +137,7 @@
     },
     {
         "id":"148342",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"TIPP",
         "date":"10\/24 - 10\/26",
         "sampleSize":"1292 LV",

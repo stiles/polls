@@ -1,6 +1,23 @@
 {
     "general": [
         {
+            "id": "148380",
+            "type": "poll_rcp_avg",
+            "pollster": "TIPP",
+            "date": "10/26 - 10/28",
+            "sampleSize": "1291 LV",
+            "marginError": 2.7,
+            "link": "https://tippinsights.com/tipp-tracking-poll-day-16-harris-edges-trump-in-a-tight-race-48-47/",
+            "spread_winner": "Harris",
+            "spread_value": 1.0,
+            "trump_value": "47",
+            "harris_value": "48",
+            "name": "2024 General Election: Trump vs Harris",
+            "slug": "general",
+            "polling_start_date": "2024-10-26",
+            "polling_end_date": "2024-10-28"
+        },
+        {
             "id": "148372",
             "type": "poll_rcp_avg",
             "pollster": "Rasmussen Reports",
@@ -121,7 +138,7 @@
         },
         {
             "id": "148342",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "TIPP",
             "date": "10/24 - 10/26",
             "sampleSize": "1292 LV",
@@ -3097,6 +3114,27 @@
     ],
     "general_third_parties": [
         {
+            "id": "148381",
+            "type": "poll_rcp_avg",
+            "pollster": "TIPP",
+            "date": "10/25 - 10/27",
+            "sampleSize": "1291 LV",
+            "marginError": 2.7,
+            "link": "https://tippinsights.com/tipp-tracking-poll-day-16-harris-edges-trump-in-a-tight-race-48-47/",
+            "spread_winner": "Harris",
+            "spread_value": 1.0,
+            "trump_value": "47",
+            "harris_value": "48",
+            "kennedy_value": "",
+            "stein_value": "1",
+            "oliver_value": "",
+            "west_value": "1",
+            "name": "General Election: Trump vs. Harris vs. Kennedy vs. West vs. Stein",
+            "slug": "general_third_parties",
+            "polling_start_date": "2024-10-25",
+            "polling_end_date": "2024-10-27"
+        },
+        {
             "id": "148304",
             "type": "poll_rcp_avg",
             "pollster": "NY Times/Siena",
@@ -3161,7 +3199,7 @@
         },
         {
             "id": "148343",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "TIPP",
             "date": "10/24 - 10/26",
             "sampleSize": "1292 LV",
@@ -6589,6 +6627,23 @@
     ],
     "michigan": [
         {
+            "id": "148378",
+            "type": "poll_rcp_avg",
+            "pollster": "Emerson",
+            "date": "10/25 - 10/27",
+            "sampleSize": "1000 LV",
+            "marginError": 3.0,
+            "link": "https://emersoncollegepolling.com/october-2024-michigan-poll-trump-49-harris-48/",
+            "spread_winner": "Trump",
+            "spread_value": 1.0,
+            "trump_value": "49",
+            "harris_value": "48",
+            "name": "2024 Michigan: Trump vs. Harris",
+            "slug": "michigan",
+            "polling_start_date": "2024-10-25",
+            "polling_end_date": "2024-10-27"
+        },
+        {
             "id": "148364",
             "type": "poll_rcp_avg",
             "pollster": "InsiderAdvantage",
@@ -6743,7 +6798,7 @@
         },
         {
             "id": "147857",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "The Hill/Emerson",
             "date": "10/5 - 10/8",
             "sampleSize": "950 LV",
