@@ -1,5 +1,39 @@
 [
     {
+        "id":"148384",
+        "type":"poll_rcp_avg",
+        "pollster":"WRAL-TV\/SurveyUSA",
+        "date":"10\/23 - 10\/26",
+        "sampleSize":"853 LV",
+        "marginError":4.1,
+        "link":"https:\/\/www.surveyusa.com\/client\/PollReport.aspx?g=7ddb5308-26ff-4f6a-92f1-80d09e31c6ee",
+        "spread_winner":"Tie",
+        "spread_value":0.0,
+        "trump_value":"47",
+        "harris_value":"47",
+        "name":"2024 North Carolina: Trump vs. Harris",
+        "slug":"north_carolina",
+        "polling_start_date":"2024-10-23",
+        "polling_end_date":"2024-10-26"
+    },
+    {
+        "id":"148385",
+        "type":"poll_rcp_avg",
+        "pollster":"Elon University",
+        "date":"10\/10 - 10\/17",
+        "sampleSize":"800 RV",
+        "marginError":4.0,
+        "link":"https:\/\/www.elon.edu\/u\/elon-poll\/elon-poll-october-29-2024\/",
+        "spread_winner":"Tie",
+        "spread_value":0.0,
+        "trump_value":"46",
+        "harris_value":"46",
+        "name":"2024 North Carolina: Trump vs. Harris",
+        "slug":"north_carolina",
+        "polling_start_date":"2024-10-10",
+        "polling_end_date":"2024-10-17"
+    },
+    {
         "id":"148279",
         "type":"poll_rcp_avg",
         "pollster":"Marist",
@@ -69,7 +103,7 @@
     },
     {
         "id":"148196",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"High Point\/SurveyUSA",
         "date":"10\/17 - 10\/20",
         "sampleSize":"1164 RV",
