@@ -1,5 +1,22 @@
 [
     {
+        "id":"148427",
+        "type":"poll_rcp_avg",
+        "pollster":"Atlas Intel",
+        "date":"10\/25 - 10\/29",
+        "sampleSize":"1299 LV",
+        "marginError":3.0,
+        "link":"https:\/\/cdn.atlasintel.org\/12bd169b-6db5-44be-9429-90f44ba0d845.pdf?_gl=1*ui466n*_ga*MTgxNDIzMTA3LjE3MzAyMjkxMjI.*_ga_W78QD5CNP1*MTczMDIyOTEyMi4xLjEuMTczMDIyOTkwMC4wLjAuMA",
+        "spread_winner":"Trump",
+        "spread_value":3.0,
+        "trump_value":"50",
+        "harris_value":"47",
+        "name":"2024 Pennsylvania: Trump vs. Harris",
+        "slug":"pennsylvania",
+        "polling_start_date":"2024-10-25",
+        "polling_end_date":"2024-10-29"
+    },
+    {
         "id":"148352",
         "type":"poll_rcp_avg",
         "pollster":"InsiderAdvantage",
@@ -15,6 +32,23 @@
         "slug":"pennsylvania",
         "polling_start_date":"2024-10-26",
         "polling_end_date":"2024-10-27"
+    },
+    {
+        "id":"148436",
+        "type":"poll_rcp_avg",
+        "pollster":"CBS News",
+        "date":"10\/22 - 10\/28",
+        "sampleSize":"1273 LV",
+        "marginError":3.9,
+        "link":"https:\/\/www.cbsnews.com\/news\/harris-trump-poll-pennsylvania-29-10-2024\/",
+        "spread_winner":"Tie",
+        "spread_value":0.0,
+        "trump_value":"49",
+        "harris_value":"49",
+        "name":"2024 Pennsylvania: Trump vs. Harris",
+        "slug":"pennsylvania",
+        "polling_start_date":"2024-10-22",
+        "polling_end_date":"2024-10-28"
     },
     {
         "id":"148374",
@@ -103,7 +137,7 @@
     },
     {
         "id":"148123",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Atlas Intel",
         "date":"10\/12 - 10\/17",
         "sampleSize":"2048 LV",
@@ -141,7 +175,7 @@
         "pollster":"NY Times\/Siena",
         "date":"10\/7 - 10\/10",
         "sampleSize":"857 LV",
-        "marginError":0.0,
+        "marginError":4.0,
         "link":"https:\/\/www.nytimes.com\/interactive\/2024\/10\/12\/us\/elections\/times-siena-inquirer-poll-pennsylvania-crosstabs.html",
         "spread_winner":"Harris",
         "spread_value":3.0,
@@ -222,7 +256,7 @@
     },
     {
         "id":"147838",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Quinnipiac",
         "date":"10\/3 - 10\/7",
         "sampleSize":"1412 LV",
@@ -736,7 +770,7 @@
         "pollster":"Rasmussen Reports",
         "date":"8\/13 - 8\/17",
         "sampleSize":"1312 LV",
-        "marginError":0.0,
+        "marginError":3.0,
         "link":"https:\/\/www.realclearpolling.com\/stories\/analysis\/no-frontrunner-in-swing-states-before-democratic-convention",
         "spread_winner":"Trump",
         "spread_value":1.0,
