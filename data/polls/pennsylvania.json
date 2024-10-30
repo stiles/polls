@@ -290,7 +290,7 @@
     },
     {
         "id":"148052",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"UMass Lowell",
         "date":"10\/2 - 10\/9",
         "sampleSize":"800 LV",
