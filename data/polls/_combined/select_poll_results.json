@@ -6784,6 +6784,23 @@
     ],
     "michigan": [
         {
+            "id": "148444",
+            "type": "poll_rcp_avg",
+            "pollster": "USA Today/Suffolk",
+            "date": "10/24 - 10/27",
+            "sampleSize": "500 LV",
+            "marginError": 4.0,
+            "link": "https://www.suffolk.edu/-/media/suffolk/documents/academics/research-at-suffolk/suprc/polls/other-states/2024/10_30_2024_michigan_statewide_marginals.pdf?la=en&amp;hash=DAB8CF28F43F3793606C3F1A7F6CBE99DD0548DF",
+            "spread_winner": "Tie",
+            "spread_value": 0.0,
+            "harris_value": "47",
+            "trump_value": "47",
+            "name": "2024 Michigan: Trump vs. Harris",
+            "slug": "michigan",
+            "polling_start_date": "2024-10-24",
+            "polling_end_date": "2024-10-27"
+        },
+        {
             "id": "148418",
             "type": "poll_rcp_avg",
             "pollster": "Atlas Intel",
@@ -9086,7 +9103,7 @@
         },
         {
             "id": "148403",
-            "type": "poll",
+            "type": "poll_rcp_avg",
             "pollster": "Data Orbital",
             "date": "10/26 - 10/28",
             "sampleSize": "550 LV",
@@ -9100,23 +9117,6 @@
             "slug": "arizona",
             "polling_start_date": "2024-10-26",
             "polling_end_date": "2024-10-28"
-        },
-        {
-            "id": "148394",
-            "type": "poll_rcp_avg",
-            "pollster": "CNN*",
-            "date": "10/21 - 10/26",
-            "sampleSize": "781 LV",
-            "marginError": 4.4,
-            "link": "https://www.cnn.com/2024/10/29/politics/cnn-polls-arizona-nevada-trump-harris/index.html",
-            "spread_winner": "Harris",
-            "spread_value": 1.0,
-            "trump_value": "47",
-            "harris_value": "48",
-            "name": "2024 Arizona: Trump vs. Harris",
-            "slug": "arizona",
-            "polling_start_date": "2024-10-21",
-            "polling_end_date": "2024-10-26"
         },
         {
             "id": "148348",
@@ -9133,6 +9133,23 @@
             "name": "2024 Arizona: Trump vs. Harris",
             "slug": "arizona",
             "polling_start_date": "2024-10-24",
+            "polling_end_date": "2024-10-26"
+        },
+        {
+            "id": "148394",
+            "type": "poll_rcp_avg",
+            "pollster": "CNN*",
+            "date": "10/21 - 10/26",
+            "sampleSize": "781 LV",
+            "marginError": 4.4,
+            "link": "https://www.cnn.com/2024/10/29/politics/cnn-polls-arizona-nevada-trump-harris/index.html",
+            "spread_winner": "Harris",
+            "spread_value": 1.0,
+            "trump_value": "47",
+            "harris_value": "48",
+            "name": "2024 Arizona: Trump vs. Harris",
+            "slug": "arizona",
+            "polling_start_date": "2024-10-21",
             "polling_end_date": "2024-10-26"
         },
         {
@@ -9239,7 +9256,7 @@
         },
         {
             "id": "147917",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "NY Times/Siena",
             "date": "10/7 - 10/10",
             "sampleSize": "808 LV",
@@ -9256,7 +9273,7 @@
         },
         {
             "id": "147861",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "The Hill/Emerson",
             "date": "10/5 - 10/8",
             "sampleSize": "1000 LV",
