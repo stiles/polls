@@ -54,7 +54,7 @@ The latest forecasts for the 2024 presidential election based on models develope
 | Place | Favored / Chance | Source |
 |-------|---------------------|--------|
 | US | <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>Trump - 55%</span> | [Nate Silver](https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model) |
-| US | <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>Trump - 52%</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/2024-election-forecast) |
+| US | <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>Trump - 51%</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/2024-election-forecast) |
 | US | <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>Trump - 49%</span> | [Economist](https://www.economist.com/interactive/us-2024-election/prediction-model/president/) |
 | US | <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>Trump - 54%</span> | [The Hill](https://elections2024.thehill.com/forecast/2024/president/) |
 
@@ -66,11 +66,11 @@ The latest forecasts for the 2024 presidential election based on models develope
 |-------|--------|--------|
 | Arizona | <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>R +2.2</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/arizona/polling-average.json) |
 | Georgia | <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>R +1.8</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/georgia/polling-average.json) |
-| Michigan | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +0.8</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/michigan/polling-average.json) |
-| Nevada | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +0.1</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/nevada/polling-average.json) |
-| North Carolina | <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>R +1.2</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/north-carolina/polling-average.json) |
+| Michigan | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +0.9</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/michigan/polling-average.json) |
+| Nevada | <span style='background: #7c4ea5; padding:1px 4px; color: #ffffff; font-weight: bold;'>T +0.0</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/nevada/polling-average.json) |
+| North Carolina | <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>R +1.1</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/north-carolina/polling-average.json) |
 | Pennsylvania | <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>R +0.4</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/pennsylvania/polling-average.json) |
-| Wisconsin | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +0.3</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/wisconsin/polling-average.json) |
+| Wisconsin | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +0.7</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/wisconsin/polling-average.json) |
 
 
 **Data:** [Latest](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/state_averages_latest.json), [trend](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/state_averages_trend.json)
@@ -94,4 +94,4 @@ The latest forecasts for the 2024 presidential election based on models develope
 
  **About this page:** [Github repo](https://github.com/stiles/polls) 
 
- **Last update:** *12 p.m. ET, October 30*.
+ **Last update:** *2 p.m. ET, October 30*.
