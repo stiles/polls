@@ -1297,7 +1297,7 @@
         "pollster":"NY Times\/Siena",
         "date":"9\/11 - 9\/16",
         "sampleSize":"2437 LV",
-        "marginError":0.0,
+        "marginError":3.8,
         "link":"https:\/\/www.nytimes.com\/interactive\/2024\/09\/19\/us\/elections\/times-siena-poll-likely-electorate-crosstabs.html",
         "spread_winner":"Tie",
         "spread_value":0.0,

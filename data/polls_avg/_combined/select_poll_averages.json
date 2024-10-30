@@ -177,18 +177,18 @@
         "id": "6690",
         "type": "rcp_average",
         "pollster": "rcp_average",
-        "date": "10/1 - 10/24",
+        "date": "10/1 - 10/27",
         "sampleSize": "",
         "marginError": 0.0,
         "link": null,
         "spread_winner": "Unfavorable",
-        "spread_value": 3.2,
+        "spread_value": 3.1,
         "favorable_value": "46.8",
-        "unfavorable_value": "50.0",
+        "unfavorable_value": "49.9",
         "name": "Kamala Harris Favorability",
         "slug": "harris_favorability",
         "polling_start_date": "2024-10-01",
-        "polling_end_date": "2024-10-24"
+        "polling_end_date": "2024-10-27"
     },
     {
         "id": "902",
