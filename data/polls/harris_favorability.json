@@ -17,6 +17,23 @@
         "polling_end_date":"2024-10-29"
     },
     {
+        "id":"148472",
+        "type":"poll_rcp_avg",
+        "pollster":"Reuters\/Ipsos",
+        "date":"10\/25 - 10\/27",
+        "sampleSize":"1150 A",
+        "marginError":0.0,
+        "link":"https:\/\/www.ipsos.com\/sites\/default\/files\/ct\/news\/documents\/2024-10\/Late-October%20Core%20Political%20Topline%20FINAL%20PDF%2010.29.24.pdf",
+        "spread_winner":"Unfavorable",
+        "spread_value":8.0,
+        "favorable_value":"44",
+        "unfavorable_value":"52",
+        "name":"Kamala Harris Favorability",
+        "slug":"harris_favorability",
+        "polling_start_date":"2024-10-25",
+        "polling_end_date":"2024-10-27"
+    },
+    {
         "id":"148441",
         "type":"poll_rcp_avg",
         "pollster":"Morning Consult",
@@ -307,7 +324,7 @@
     },
     {
         "id":"148070",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Reuters\/Ipsos",
         "date":"10\/11 - 10\/13",
         "sampleSize":"938 A",
