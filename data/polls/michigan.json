@@ -1,5 +1,39 @@
 [
     {
+        "id":"148518",
+        "type":"poll_rcp_avg",
+        "pollster":"Washington Post",
+        "date":"10\/24 - 10\/28",
+        "sampleSize":"1003 LV",
+        "marginError":3.7,
+        "link":"https:\/\/docs.google.com\/spreadsheets\/d\/1QxSXXjvqmK7LKwWCVGf6ztKZVkBuv03bsoo5XH94yeo\/edit?gid=2088647593#gid=2088647593",
+        "spread_winner":"Harris",
+        "spread_value":1.0,
+        "harris_value":"47",
+        "trump_value":"46",
+        "name":"2024 Michigan: Trump vs. Harris",
+        "slug":"michigan",
+        "polling_start_date":"2024-10-24",
+        "polling_end_date":"2024-10-28"
+    },
+    {
+        "id":"148516",
+        "type":"poll_rcp_avg",
+        "pollster":"MNS\/Mitchell Research",
+        "date":"10\/28 - 10\/29",
+        "sampleSize":" LV",
+        "marginError":2.5,
+        "link":"https:\/\/www.michigannewssource.com\/2024\/10\/exclusive-poll-rogers-leads-slotkin-by-2-points-trump-leads-harris\/",
+        "spread_winner":"Trump",
+        "spread_value":1.0,
+        "harris_value":"47",
+        "trump_value":"48",
+        "name":"2024 Michigan: Trump vs. Harris",
+        "slug":"michigan",
+        "polling_start_date":"2024-10-28",
+        "polling_end_date":"2024-10-29"
+    },
+    {
         "id":"148509",
         "type":"poll_rcp_avg",
         "pollster":"FOX News",
@@ -171,7 +205,7 @@
     },
     {
         "id":"148056",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"MNS\/Mitchell Research",
         "date":"10\/14 - 10\/14",
         "sampleSize":"589 LV",
