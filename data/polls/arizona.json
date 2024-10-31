@@ -1,7 +1,24 @@
 [
     {
-        "id":"148413",
+        "id":"148546",
         "type":"poll_rcp_avg",
+        "pollster":"Atlas Intel",
+        "date":"10\/30 - 10\/31",
+        "sampleSize":"1005 LV",
+        "marginError":3.0,
+        "link":"https:\/\/www.realclearpolitics.com\/docs\/2024\/Atlas-Poll-US-Swing-States-31-10-2024-Arizona.pdf",
+        "spread_winner":"Trump",
+        "spread_value":4.0,
+        "trump_value":"51",
+        "harris_value":"47",
+        "name":"2024 Arizona: Trump vs. Harris",
+        "slug":"arizona",
+        "polling_start_date":"2024-10-30",
+        "polling_end_date":"2024-10-31"
+    },
+    {
+        "id":"148413",
+        "type":"poll",
         "pollster":"Atlas Intel",
         "date":"10\/25 - 10\/29",
         "sampleSize":"1458 LV",

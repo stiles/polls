@@ -1,7 +1,24 @@
 [
     {
-        "id":"148421",
+        "id":"148554",
         "type":"poll_rcp_avg",
+        "pollster":"Atlas Intel",
+        "date":"10\/27 - 10\/30",
+        "sampleSize":"845 LV",
+        "marginError":3.0,
+        "link":"MI\tAtlas Intel\t\t11:43",
+        "spread_winner":"Trump",
+        "spread_value":4.0,
+        "trump_value":"51",
+        "harris_value":"47",
+        "name":"2024 Nevada: Trump vs. Harris",
+        "slug":"nevada",
+        "polling_start_date":"2024-10-27",
+        "polling_end_date":"2024-10-30"
+    },
+    {
+        "id":"148421",
+        "type":"poll",
         "pollster":"Atlas Intel",
         "date":"10\/25 - 10\/29",
         "sampleSize":"1083 LV",
