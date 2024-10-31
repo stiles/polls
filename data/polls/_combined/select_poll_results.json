@@ -5749,6 +5749,23 @@
     ],
     "pennsylvania": [
         {
+            "id": "148506",
+            "type": "poll_rcp_avg",
+            "pollster": "FOX News",
+            "date": "10/24 - 10/28",
+            "sampleSize": "1057 LV",
+            "marginError": 3.0,
+            "link": "https://www.foxnews.com/official-polls/fox-news-poll-its-neck-and-neck-pennsylvania-presidential-race",
+            "spread_winner": "Trump",
+            "spread_value": 1.0,
+            "trump_value": "50",
+            "harris_value": "49",
+            "name": "2024 Pennsylvania: Trump vs. Harris",
+            "slug": "pennsylvania",
+            "polling_start_date": "2024-10-24",
+            "polling_end_date": "2024-10-28"
+        },
+        {
             "id": "148491",
             "type": "poll_rcp_avg",
             "pollster": "Quinnipiac",
@@ -6872,6 +6889,23 @@
         }
     ],
     "michigan": [
+        {
+            "id": "148509",
+            "type": "poll_rcp_avg",
+            "pollster": "FOX News",
+            "date": "10/24 - 10/28",
+            "sampleSize": "988 LV",
+            "marginError": 3.0,
+            "link": "https://www.foxnews.com/official-polls/fox-news-poll-harris-erases-trumps-lead-economy-michigan",
+            "spread_winner": "Tie",
+            "spread_value": 0.0,
+            "harris_value": "49",
+            "trump_value": "49",
+            "name": "2024 Michigan: Trump vs. Harris",
+            "slug": "michigan",
+            "polling_start_date": "2024-10-24",
+            "polling_end_date": "2024-10-28"
+        },
         {
             "id": "148444",
             "type": "poll_rcp_avg",
@@ -10008,6 +10042,23 @@
         }
     ],
     "north_carolina": [
+        {
+            "id": "148512",
+            "type": "poll_rcp_avg",
+            "pollster": "FOX News",
+            "date": "10/24 - 10/28",
+            "sampleSize": "872 LV",
+            "marginError": 3.0,
+            "link": "https://www.foxnews.com/official-polls/fox-news-poll-trump-still-narrowly-ahead-harris-north-carolina",
+            "spread_winner": "Trump",
+            "spread_value": 1.0,
+            "trump_value": "50",
+            "harris_value": "49",
+            "name": "2024 North Carolina: Trump vs. Harris",
+            "slug": "north_carolina",
+            "polling_start_date": "2024-10-24",
+            "polling_end_date": "2024-10-28"
+        },
         {
             "id": "148424",
             "type": "poll_rcp_avg",

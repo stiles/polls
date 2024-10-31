@@ -1,5 +1,22 @@
 [
     {
+        "id":"148509",
+        "type":"poll_rcp_avg",
+        "pollster":"FOX News",
+        "date":"10\/24 - 10\/28",
+        "sampleSize":"988 LV",
+        "marginError":3.0,
+        "link":"https:\/\/www.foxnews.com\/official-polls\/fox-news-poll-harris-erases-trumps-lead-economy-michigan",
+        "spread_winner":"Tie",
+        "spread_value":0.0,
+        "harris_value":"49",
+        "trump_value":"49",
+        "name":"2024 Michigan: Trump vs. Harris",
+        "slug":"michigan",
+        "polling_start_date":"2024-10-24",
+        "polling_end_date":"2024-10-28"
+    },
+    {
         "id":"148444",
         "type":"poll_rcp_avg",
         "pollster":"USA Today\/Suffolk",
