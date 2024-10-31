@@ -8942,6 +8942,23 @@
             "polling_end_date": "2024-10-26"
         },
         {
+            "id": "148174",
+            "type": "poll_rcp_avg",
+            "pollster": "InsiderAdvantage",
+            "date": "10/20 - 10/21",
+            "sampleSize": "800 LV",
+            "marginError": 3.5,
+            "link": "https://insideradvantage.com/insideradvantage-surveys-trump-leads-by-three-points-in-arizona-nevada-is-tied/",
+            "spread_winner": "Tie",
+            "spread_value": 0.0,
+            "trump_value": "48",
+            "harris_value": "48",
+            "name": "2024 Nevada: Trump vs. Harris",
+            "slug": "nevada",
+            "polling_start_date": "2024-10-20",
+            "polling_end_date": "2024-10-21"
+        },
+        {
             "id": "148260",
             "type": "poll_rcp_avg",
             "pollster": "Bloomberg",
@@ -8974,23 +8991,6 @@
             "slug": "nevada",
             "polling_start_date": "2024-10-08",
             "polling_end_date": "2024-10-15"
-        },
-        {
-            "id": "148174",
-            "type": "poll_rcp_avg",
-            "pollster": "InsiderAdvantage",
-            "date": "10/20 - 10/21",
-            "sampleSize": "800 LV",
-            "marginError": 3.5,
-            "link": "https://insideradvantage.com/insideradvantage-surveys-trump-leads-by-three-points-in-arizona-nevada-is-tied/",
-            "spread_winner": "Tie",
-            "spread_value": 0.0,
-            "trump_value": "48",
-            "harris_value": "48",
-            "name": "2024 Nevada: Trump vs. Harris",
-            "slug": "nevada",
-            "polling_start_date": "2024-10-20",
-            "polling_end_date": "2024-10-21"
         },
         {
             "id": "148133",
