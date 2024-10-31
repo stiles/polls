@@ -34,6 +34,23 @@
         "polling_end_date":"2024-10-28"
     },
     {
+        "id":"148536",
+        "type":"poll_rcp_avg",
+        "pollster":"CNN*",
+        "date":"10\/23 - 10\/28",
+        "sampleSize":"732 LV",
+        "marginError":4.7,
+        "link":"https:\/\/s3.documentcloud.org\/documents\/25260795\/cnn-polls-harris-and-trump-remain-neck-and-neck-in-georgia-and-north-carolina.pdf",
+        "spread_winner":"Trump",
+        "spread_value":1.0,
+        "trump_value":"48",
+        "harris_value":"47",
+        "name":"2024 Georgia: Trump vs. Harris",
+        "slug":"georgia",
+        "polling_start_date":"2024-10-23",
+        "polling_end_date":"2024-10-28"
+    },
+    {
         "id":"148350",
         "type":"poll_rcp_avg",
         "pollster":"Trafalgar Group (R)",

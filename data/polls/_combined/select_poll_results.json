@@ -5092,6 +5092,23 @@
             "polling_end_date": "2024-10-28"
         },
         {
+            "id": "148536",
+            "type": "poll_rcp_avg",
+            "pollster": "CNN*",
+            "date": "10/23 - 10/28",
+            "sampleSize": "732 LV",
+            "marginError": 4.7,
+            "link": "https://s3.documentcloud.org/documents/25260795/cnn-polls-harris-and-trump-remain-neck-and-neck-in-georgia-and-north-carolina.pdf",
+            "spread_winner": "Trump",
+            "spread_value": 1.0,
+            "trump_value": "48",
+            "harris_value": "47",
+            "name": "2024 Georgia: Trump vs. Harris",
+            "slug": "georgia",
+            "polling_start_date": "2024-10-23",
+            "polling_end_date": "2024-10-28"
+        },
+        {
             "id": "148350",
             "type": "poll_rcp_avg",
             "pollster": "Trafalgar Group (R)",
@@ -10272,6 +10289,23 @@
             "polling_end_date": "2024-10-28"
         },
         {
+            "id": "148537",
+            "type": "poll_rcp_avg",
+            "pollster": "CNN*",
+            "date": "10/23 - 10/28",
+            "sampleSize": "750 LV",
+            "marginError": 4.5,
+            "link": "https://s3.documentcloud.org/documents/25260795/cnn-polls-harris-and-trump-remain-neck-and-neck-in-georgia-and-north-carolina.pdf",
+            "spread_winner": "Harris",
+            "spread_value": 1.0,
+            "trump_value": "47",
+            "harris_value": "48",
+            "name": "2024 North Carolina: Trump vs. Harris",
+            "slug": "north_carolina",
+            "polling_start_date": "2024-10-23",
+            "polling_end_date": "2024-10-28"
+        },
+        {
             "id": "148384",
             "type": "poll_rcp_avg",
             "pollster": "WRAL-TV/SurveyUSA",
@@ -10426,7 +10460,7 @@
         },
         {
             "id": "148061",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Carolina Journal/Cygnal",
             "date": "10/12 - 10/14",
             "sampleSize": "600 LV",
@@ -10443,7 +10477,7 @@
         },
         {
             "id": "148040",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Quinnipiac",
             "date": "10/10 - 10/14",
             "sampleSize": "1031 LV",
@@ -10460,7 +10494,7 @@
         },
         {
             "id": "147986",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Rasmussen Reports",
             "date": "10/9 - 10/14",
             "sampleSize": "1042 LV",

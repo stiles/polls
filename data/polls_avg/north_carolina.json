@@ -3,7 +3,7 @@
         "id":"8394",
         "type":"rcp_average",
         "pollster":"rcp_average",
-        "date":"10\/9 - 10\/29",
+        "date":"10\/10 - 10\/29",
         "sampleSize":"",
         "marginError":0.0,
         "link":null,
@@ -13,7 +13,7 @@
         "harris_value":"47.5",
         "name":"2024 North Carolina: Trump vs. Harris",
         "slug":"north_carolina",
-        "polling_start_date":"2024-10-09",
+        "polling_start_date":"2024-10-10",
         "polling_end_date":"2024-10-29"
     }
 ]
