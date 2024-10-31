@@ -3,7 +3,7 @@
         "id":"8510",
         "type":"rcp_average",
         "pollster":"rcp_average",
-        "date":"10\/4 - 10\/29",
+        "date":"10\/4 - 10\/30",
         "sampleSize":"",
         "marginError":0.0,
         "link":null,
@@ -18,6 +18,6 @@
         "name":"General Election: Trump vs. Harris vs. Kennedy vs. West vs. Stein",
         "slug":"general_third_parties",
         "polling_start_date":"2024-10-04",
-        "polling_end_date":"2024-10-29"
+        "polling_end_date":"2024-10-30"
     }
 ]

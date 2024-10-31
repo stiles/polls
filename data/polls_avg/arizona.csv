@@ -1,2 +1,2 @@
 id,type,pollster,date,sampleSize,marginError,link,spread_winner,spread_value,trump_value,harris_value,name,slug,polling_start_date,polling_end_date
-8307,rcp_average,rcp_average,10/11 - 10/29,,0.0,,Trump,2.5,49.5,47.0,2024 Arizona: Trump vs. Harris,arizona,2024-10-11,2024-10-29
+8307,rcp_average,rcp_average,10/11 - 10/29,,0.0,,Trump,2.4,49.3,46.9,2024 Arizona: Trump vs. Harris,arizona,2024-10-11,2024-10-29

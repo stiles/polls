@@ -153,21 +153,21 @@
         "polling_end_date":"2024-10-22"
     },
     {
-        "id":"148257",
+        "id":"148522",
         "type":"poll_rcp_avg",
-        "pollster":"Bloomberg",
-        "date":"10\/16 - 10\/20",
-        "sampleSize":"866 LV",
-        "marginError":3.0,
-        "link":"https:\/\/pro-assets.morningconsult.com\/wp-uploads\/2024\/10\/Bloomberg-Swing-States-Wave-13.pdf",
+        "pollster":"UMass Lowell",
+        "date":"10\/16 - 10\/23",
+        "sampleSize":"800 LV",
+        "marginError":3.7,
+        "link":"https:\/\/www.uml.edu\/docs\/2024-Oct31-PA-Topline_tcm18-392293.pdf",
         "spread_winner":"Harris",
-        "spread_value":2.0,
-        "trump_value":"48",
-        "harris_value":"50",
+        "spread_value":1.0,
+        "trump_value":"47",
+        "harris_value":"48",
         "name":"2024 Pennsylvania: Trump vs. Harris",
         "slug":"pennsylvania",
         "polling_start_date":"2024-10-16",
-        "polling_end_date":"2024-10-20"
+        "polling_end_date":"2024-10-23"
     },
     {
         "id":"148145",
@@ -185,6 +185,23 @@
         "slug":"pennsylvania",
         "polling_start_date":"2024-10-17",
         "polling_end_date":"2024-10-19"
+    },
+    {
+        "id":"148257",
+        "type":"poll_rcp_avg",
+        "pollster":"Bloomberg",
+        "date":"10\/16 - 10\/20",
+        "sampleSize":"866 LV",
+        "marginError":3.0,
+        "link":"https:\/\/pro-assets.morningconsult.com\/wp-uploads\/2024\/10\/Bloomberg-Swing-States-Wave-13.pdf",
+        "spread_winner":"Harris",
+        "spread_value":2.0,
+        "trump_value":"48",
+        "harris_value":"50",
+        "name":"2024 Pennsylvania: Trump vs. Harris",
+        "slug":"pennsylvania",
+        "polling_start_date":"2024-10-16",
+        "polling_end_date":"2024-10-20"
     },
     {
         "id":"148286",
@@ -222,7 +239,7 @@
     },
     {
         "id":"147963",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Rasmussen Reports",
         "date":"10\/9 - 10\/13",
         "sampleSize":"1072 LV",
@@ -239,7 +256,7 @@
     },
     {
         "id":"147920",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"NY Times\/Siena",
         "date":"10\/7 - 10\/10",
         "sampleSize":"857 LV",
