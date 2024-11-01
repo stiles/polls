@@ -1,5 +1,22 @@
 [
     {
+        "id":"148598",
+        "type":"poll_rcp_avg",
+        "pollster":"TIPP",
+        "date":"10\/29 - 10\/31",
+        "sampleSize":"1249 LV",
+        "marginError":2.7,
+        "link":"https:\/\/tippinsights.com\/tipp-tracking-day-19-trump-holds-a-one-point-lead-as-race-coasts-toward-election-day\/",
+        "spread_winner":"Trump",
+        "spread_value":1.0,
+        "trump_value":"49",
+        "harris_value":"48",
+        "name":"2024 General Election: Trump vs Harris",
+        "slug":"general",
+        "polling_start_date":"2024-10-29",
+        "polling_end_date":"2024-10-31"
+    },
+    {
         "id":"148456",
         "type":"poll",
         "pollster":"Economist\/YouGov*",
@@ -171,7 +188,7 @@
     },
     {
         "id":"148529",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"TIPP",
         "date":"10\/28 - 10\/30",
         "sampleSize":"1265 LV",

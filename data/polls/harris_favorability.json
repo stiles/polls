@@ -136,6 +136,23 @@
         "polling_end_date":"2024-10-22"
     },
     {
+        "id":"148602",
+        "type":"poll_rcp_avg",
+        "pollster":"Gallup",
+        "date":"10\/14 - 10\/27",
+        "sampleSize":"1007 A",
+        "marginError":0.0,
+        "link":"https:\/\/news.gallup.com\/poll\/652850\/final-election-indicators-give-mixed-signals.aspx",
+        "spread_winner":"Favorable",
+        "spread_value":1.0,
+        "favorable_value":"49",
+        "unfavorable_value":"48",
+        "name":"Kamala Harris Favorability",
+        "slug":"harris_favorability",
+        "polling_start_date":"2024-10-14",
+        "polling_end_date":"2024-10-27"
+    },
+    {
         "id":"148214",
         "type":"poll",
         "pollster":"Economist\/YouGov",
@@ -426,7 +443,7 @@
     },
     {
         "id":"148195",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Gallup",
         "date":"10\/1 - 10\/12",
         "sampleSize":"930 RV",

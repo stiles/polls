@@ -1,5 +1,22 @@
 [
     {
+        "id":"148596",
+        "type":"poll_rcp_avg",
+        "pollster":"Emerson",
+        "date":"10\/29 - 10\/31",
+        "sampleSize":"700 LV",
+        "marginError":3.6,
+        "link":"https:\/\/emersoncollegepolling.com\/october-2024-nevada-poll-harris-48-trump-47\/",
+        "spread_winner":"Harris",
+        "spread_value":1.0,
+        "trump_value":"47",
+        "harris_value":"48",
+        "name":"2024 Nevada: Trump vs. Harris",
+        "slug":"nevada",
+        "polling_start_date":"2024-10-29",
+        "polling_end_date":"2024-10-31"
+    },
+    {
         "id":"148554",
         "type":"poll_rcp_avg",
         "pollster":"Atlas Intel",
@@ -171,7 +188,7 @@
     },
     {
         "id":"147862",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"The Hill\/Emerson",
         "date":"10\/5 - 10\/8",
         "sampleSize":"900 LV",

@@ -1,5 +1,22 @@
 [
     {
+        "id":"148593",
+        "type":"poll_rcp_avg",
+        "pollster":"USA Today\/Suffolk",
+        "date":"10\/27 - 10\/30",
+        "sampleSize":"500 LV",
+        "marginError":4.4,
+        "link":"https:\/\/www.usatoday.com\/story\/news\/politics\/elections\/2024\/11\/01\/pennsylvania-poll-harris-trump\/75939000007\/",
+        "spread_winner":"Tie",
+        "spread_value":0.0,
+        "trump_value":"49",
+        "harris_value":"49",
+        "name":"2024 Pennsylvania: Trump vs. Harris",
+        "slug":"pennsylvania",
+        "polling_start_date":"2024-10-27",
+        "polling_end_date":"2024-10-30"
+    },
+    {
         "id":"148587",
         "type":"poll_rcp_avg",
         "pollster":"Marist",
