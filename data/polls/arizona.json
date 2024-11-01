@@ -1,5 +1,22 @@
 [
     {
+        "id":"148583",
+        "type":"poll_rcp_avg",
+        "pollster":"Noble Predictive Insights",
+        "date":"10\/28 - 10\/30",
+        "sampleSize":"775 LV",
+        "marginError":3.5,
+        "link":"https:\/\/www.noblepredictiveinsights.com\/post\/az-poll-of-record-trump-1-gallego-4",
+        "spread_winner":"Trump",
+        "spread_value":1.0,
+        "trump_value":"48",
+        "harris_value":"47",
+        "name":"2024 Arizona: Trump vs. Harris",
+        "slug":"arizona",
+        "polling_start_date":"2024-10-28",
+        "polling_end_date":"2024-10-30"
+    },
+    {
         "id":"148546",
         "type":"poll_rcp_avg",
         "pollster":"Atlas Intel",
