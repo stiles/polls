@@ -1,5 +1,22 @@
 [
     {
+        "id":"148587",
+        "type":"poll_rcp_avg",
+        "pollster":"Marist",
+        "date":"10\/27 - 10\/30",
+        "sampleSize":"1400 LV",
+        "marginError":3.1,
+        "link":"https:\/\/maristpoll.marist.edu\/polls\/marist-pennsylvania-poll-u-s-presidential-contest-in-pennsylvania-november-2024\/",
+        "spread_winner":"Harris",
+        "spread_value":2.0,
+        "trump_value":"48",
+        "harris_value":"50",
+        "name":"2024 Pennsylvania: Trump vs. Harris",
+        "slug":"pennsylvania",
+        "polling_start_date":"2024-10-27",
+        "polling_end_date":"2024-10-30"
+    },
+    {
         "id":"148559",
         "type":"poll_rcp_avg",
         "pollster":"Atlas Intel",
