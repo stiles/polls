@@ -1,4 +1,5 @@
 id,type,pollster,date,sampleSize,marginError,link,spread_winner,spread_value,harris_value,trump_value,name,slug,polling_start_date,polling_end_date
+148591,poll_rcp_avg,Marist,10/27 - 10/30,1214 LV,3.5,https://maristpoll.marist.edu/polls/marist-michigan-poll-u-s-presidential-contest-in-michigan-november-2024/,Harris,3.0,51,48,2024 Michigan: Trump vs. Harris,michigan,2024-10-27,2024-10-30
 148551,poll_rcp_avg,Atlas Intel,10/27 - 10/30,1136 LV,3.0,https://www.realclearpolitics.com/docs/2024/Atlas-Poll-US-Swing-States-31-10-2024-Michigan.pdf,Tie,0.0,49,49,2024 Michigan: Trump vs. Harris,michigan,2024-10-27,2024-10-30
 148516,poll_rcp_avg,MNS/Mitchell Research,10/28 - 10/29, LV,2.5,https://www.michigannewssource.com/2024/10/exclusive-poll-rogers-leads-slotkin-by-2-points-trump-leads-harris/,Trump,1.0,47,48,2024 Michigan: Trump vs. Harris,michigan,2024-10-28,2024-10-29
 148418,poll,Atlas Intel,10/25 - 10/29,983 LV,3.0,https://cdn.atlasintel.org/12bd169b-6db5-44be-9429-90f44ba0d845.pdf?_gl=1*ui466n*_ga*MTgxNDIzMTA3LjE3MzAyMjkxMjI.*_ga_W78QD5CNP1*MTczMDIyOTEyMi4xLjEuMTczMDIyOTkwMC4wLjAuMA,Trump,1.0,48,49,2024 Michigan: Trump vs. Harris,michigan,2024-10-25,2024-10-29
