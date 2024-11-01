@@ -17,6 +17,23 @@
         "polling_end_date":"2024-10-30"
     },
     {
+        "id":"148625",
+        "type":"poll_rcp_avg",
+        "pollster":"Rasmussen Reports",
+        "date":"10\/25 - 10\/28",
+        "sampleSize":"849 LV",
+        "marginError":3.0,
+        "link":"https:\/\/www.rasmussenreports.com\/public_content\/politics\/partner_surveys\/election_2024_trump_leads_in_pennsylvania_nevada_north_carolina",
+        "spread_winner":"Trump",
+        "spread_value":3.0,
+        "trump_value":"50",
+        "harris_value":"47",
+        "name":"2024 North Carolina: Trump vs. Harris",
+        "slug":"north_carolina",
+        "polling_start_date":"2024-10-25",
+        "polling_end_date":"2024-10-28"
+    },
+    {
         "id":"148424",
         "type":"poll",
         "pollster":"Atlas Intel",

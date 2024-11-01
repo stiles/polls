@@ -37,7 +37,7 @@
         "id":"148562",
         "type":"poll_rcp_avg",
         "pollster":"Atlas Intel",
-        "date":"10\/30 - 10\/30",
+        "date":"10\/30 - 10\/31",
         "sampleSize":"673 LV",
         "marginError":4.0,
         "link":"https:\/\/www.realclearpolitics.com\/docs\/2024\/Atlas-Poll-US-Swing-States-31-10-2024-Wisconsin.pdf",
@@ -48,7 +48,7 @@
         "name":"2024 Wisconsin: Trump vs. Harris",
         "slug":"wisconsin",
         "polling_start_date":"2024-10-30",
-        "polling_end_date":"2024-10-30"
+        "polling_end_date":"2024-10-31"
     },
     {
         "id":"148567",
