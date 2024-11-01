@@ -188,7 +188,7 @@
     },
     {
         "id":"147943",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Harvard-Harris",
         "date":"10\/11 - 10\/13",
         "sampleSize":"3145 RV",
@@ -256,7 +256,7 @@
     },
     {
         "id":"147930",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"NBC News",
         "date":"10\/4 - 10\/8",
         "sampleSize":"1000 RV",
@@ -273,7 +273,7 @@
     },
     {
         "id":"148002",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Marquette",
         "date":"10\/1 - 10\/10",
         "sampleSize":"699 LV",
@@ -290,7 +290,7 @@
     },
     {
         "id":"147784",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Yahoo News",
         "date":"10\/2 - 10\/4",
         "sampleSize":"1032 LV",

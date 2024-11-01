@@ -9107,6 +9107,23 @@
     ],
     "nevada": [
         {
+            "id": "148627",
+            "type": "poll_rcp_avg",
+            "pollster": "Susquehanna",
+            "date": "10/28 - 10/31",
+            "sampleSize": "400 LV",
+            "marginError": 4.9,
+            "link": "https://mcusercontent.com/fadb7f1420fadfe09cc9d0f9c/files/2781c19c-ac72-9bad-afe1-9de841f0908d/Topline_NVStatewide_Track_Oct2024.pdf",
+            "spread_winner": "Trump",
+            "spread_value": 6.0,
+            "trump_value": "50",
+            "harris_value": "44",
+            "name": "2024 Nevada: Trump vs. Harris",
+            "slug": "nevada",
+            "polling_start_date": "2024-10-28",
+            "polling_end_date": "2024-10-31"
+        },
+        {
             "id": "148596",
             "type": "poll_rcp_avg",
             "pollster": "Emerson",
@@ -25404,7 +25421,7 @@
         },
         {
             "id": "147943",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Harvard-Harris",
             "date": "10/11 - 10/13",
             "sampleSize": "3145 RV",
@@ -25472,7 +25489,7 @@
         },
         {
             "id": "147930",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "NBC News",
             "date": "10/4 - 10/8",
             "sampleSize": "1000 RV",
@@ -25489,7 +25506,7 @@
         },
         {
             "id": "148002",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Marquette",
             "date": "10/1 - 10/10",
             "sampleSize": "699 LV",
@@ -25506,7 +25523,7 @@
         },
         {
             "id": "147784",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Yahoo News",
             "date": "10/2 - 10/4",
             "sampleSize": "1032 LV",
