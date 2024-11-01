@@ -1,22 +1,5 @@
 [
     {
-        "id":"148606",
-        "type":"poll",
-        "pollster":"Echelon Insights",
-        "date":"10\/27 - 10\/30",
-        "sampleSize":"600 LV",
-        "marginError":4.5,
-        "link":"https:\/\/echeloninsights.com\/in-the-news\/oct2024-pa-poll\/",
-        "spread_winner":"Trump",
-        "spread_value":6.0,
-        "trump_value":"52",
-        "harris_value":"46",
-        "name":"2024 Pennsylvania: Trump vs. Harris",
-        "slug":"pennsylvania",
-        "polling_start_date":"2024-10-27",
-        "polling_end_date":"2024-10-30"
-    },
-    {
         "id":"148593",
         "type":"poll_rcp_avg",
         "pollster":"USA Today\/Suffolk",
@@ -65,6 +48,40 @@
         "name":"2024 Pennsylvania: Trump vs. Harris",
         "slug":"pennsylvania",
         "polling_start_date":"2024-10-27",
+        "polling_end_date":"2024-10-30"
+    },
+    {
+        "id":"148606",
+        "type":"poll",
+        "pollster":"Echelon Insights",
+        "date":"10\/27 - 10\/30",
+        "sampleSize":"600 LV",
+        "marginError":4.5,
+        "link":"https:\/\/echeloninsights.com\/in-the-news\/oct2024-pa-poll\/",
+        "spread_winner":"Trump",
+        "spread_value":6.0,
+        "trump_value":"52",
+        "harris_value":"46",
+        "name":"2024 Pennsylvania: Trump vs. Harris",
+        "slug":"pennsylvania",
+        "polling_start_date":"2024-10-27",
+        "polling_end_date":"2024-10-30"
+    },
+    {
+        "id":"148633",
+        "type":"poll_rcp_avg",
+        "pollster":"Washington Post",
+        "date":"10\/26 - 10\/30",
+        "sampleSize":"1204 LV",
+        "marginError":3.1,
+        "link":"https:\/\/docs.google.com\/spreadsheets\/d\/16sPT-TKbI6L71Qz27YfQ59ePA0NMsAc9pako2uSODs4\/edit?gid=0#gid=0",
+        "spread_winner":"Harris",
+        "spread_value":1.0,
+        "trump_value":"47",
+        "harris_value":"48",
+        "name":"2024 Pennsylvania: Trump vs. Harris",
+        "slug":"pennsylvania",
+        "polling_start_date":"2024-10-26",
         "polling_end_date":"2024-10-30"
     },
     {
