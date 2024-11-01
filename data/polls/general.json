@@ -34,6 +34,23 @@
         "polling_end_date":"2024-10-31"
     },
     {
+        "id":"148569",
+        "type":"poll_rcp_avg",
+        "pollster":"Forbes\/HarrisX",
+        "date":"10\/27 - 10\/29",
+        "sampleSize":"3718 LV",
+        "marginError":1.5,
+        "link":"https:\/\/www.forbes.com\/sites\/joewalsh\/2024\/10\/31\/new-harrisxforbes-poll-harris-leads-trump-by-just-1-point-a-statistical-tie-as-10-still-unsure\/",
+        "spread_winner":"Harris",
+        "spread_value":2.0,
+        "trump_value":"49",
+        "harris_value":"51",
+        "name":"2024 General Election: Trump vs Harris",
+        "slug":"general",
+        "polling_start_date":"2024-10-27",
+        "polling_end_date":"2024-10-29"
+    },
+    {
         "id":"148410",
         "type":"poll",
         "pollster":"Atlas Intel",
@@ -324,7 +341,7 @@
     },
     {
         "id":"148228",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Forbes\/HarrisX",
         "date":"10\/20 - 10\/21",
         "sampleSize":"1244 LV",

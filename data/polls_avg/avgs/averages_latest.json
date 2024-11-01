@@ -45,16 +45,16 @@
         "fetched_date":"2024-10-31"
     },
     {
-        "date":"2024-10-30",
-        "harris":49.2,
-        "trump":47.7,
+        "date":"2024-10-31",
+        "harris":49.0,
+        "trump":47.5,
         "source":"Economist",
         "winning":"D +1.5",
         "winning_margin":1.5,
         "fetched_date":"2024-10-31"
     },
     {
-        "date":"2024-10-31",
+        "date":"2024-11-01",
         "harris":49.0,
         "trump":48.0,
         "source":"New York Times",
@@ -64,11 +64,11 @@
     },
     {
         "date":"2024-10-31",
-        "harris":48.2,
-        "trump":47.5,
+        "harris":48.1,
+        "trump":47.7,
         "source":"The Hill",
-        "winning":"D +0.7",
-        "winning_margin":0.7,
+        "winning":"D +0.4",
+        "winning_margin":0.4,
         "fetched_date":"2024-10-31"
     }
 ]

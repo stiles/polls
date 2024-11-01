@@ -53,8 +53,8 @@ The latest forecasts for the 2024 presidential election based on models develope
 
 | Place | Favored / Chance | Source |
 |-------|---------------------|--------|
-| US | <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>Trump - 53%</span> | [Nate Silver](https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model) |
-| US | <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>Trump - 52%</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/2024-election-forecast) |
+| US | <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>Trump - 55%</span> | [Nate Silver](https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model) |
+| US | <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>Trump - 53%</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/2024-election-forecast) |
 | US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>Harris - 50%</span> | [Economist](https://www.economist.com/interactive/us-2024-election/prediction-model/president/) |
 | US | <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>Trump - 53%</span> | [The Hill](https://elections2024.thehill.com/forecast/2024/president/) |
 
@@ -87,11 +87,11 @@ The latest forecasts for the 2024 presidential election based on models develope
 | US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +1.1</span> |[270toWin](https://www.270towin.com/2024-presidential-election-polls/) 
 | US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +1.5</span> |[Economist](https://www.economist.com/interactive/us-2024-election/trump-harris-polls) 
 | US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +1.0</span> |[New York Times](https://www.nytimes.com/interactive/2024/us/elections/polls-president.html) 
-| US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +0.7</span> |[The Hill](https://elections2024.thehill.com/national/harris-trump-general/) 
+| US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +0.4</span> |[The Hill](https://elections2024.thehill.com/national/harris-trump-general/) 
 
 
  **Data:** [Latest](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/averages_latest.json), [trend](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/averages_trend.json) 
 
  **About this page:** [Github repo](https://github.com/stiles/polls) 
 
- **Last update:** *6 p.m. ET, October 31*.
+ **Last update:** *8 p.m. ET, October 31*.

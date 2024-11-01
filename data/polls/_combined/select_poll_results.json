@@ -35,6 +35,23 @@
             "polling_end_date": "2024-10-31"
         },
         {
+            "id": "148569",
+            "type": "poll_rcp_avg",
+            "pollster": "Forbes/HarrisX",
+            "date": "10/27 - 10/29",
+            "sampleSize": "3718 LV",
+            "marginError": 1.5,
+            "link": "https://www.forbes.com/sites/joewalsh/2024/10/31/new-harrisxforbes-poll-harris-leads-trump-by-just-1-point-a-statistical-tie-as-10-still-unsure/",
+            "spread_winner": "Harris",
+            "spread_value": 2.0,
+            "trump_value": "49",
+            "harris_value": "51",
+            "name": "2024 General Election: Trump vs Harris",
+            "slug": "general",
+            "polling_start_date": "2024-10-27",
+            "polling_end_date": "2024-10-29"
+        },
+        {
             "id": "148410",
             "type": "poll",
             "pollster": "Atlas Intel",
@@ -325,7 +342,7 @@
         },
         {
             "id": "148228",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Forbes/HarrisX",
             "date": "10/20 - 10/21",
             "sampleSize": "1244 LV",
@@ -3267,6 +3284,48 @@
     ],
     "general_third_parties": [
         {
+            "id": "148544",
+            "type": "poll_rcp_avg",
+            "pollster": "Atlas Intel",
+            "date": "10/30 - 10/31",
+            "sampleSize": "3490 LV",
+            "marginError": 2.0,
+            "link": "https://www.realclearpolitics.com/docs/2024/Atlas-Poll-US-Elections-NATIONAL-31-10-2024.pdf",
+            "spread_winner": "Trump",
+            "spread_value": 2.0,
+            "trump_value": "49",
+            "harris_value": "47",
+            "kennedy_value": "",
+            "stein_value": "1",
+            "oliver_value": "0",
+            "west_value": "",
+            "name": "General Election: Trump vs. Harris vs. Kennedy vs. West vs. Stein",
+            "slug": "general_third_parties",
+            "polling_start_date": "2024-10-30",
+            "polling_end_date": "2024-10-31"
+        },
+        {
+            "id": "148570",
+            "type": "poll_rcp_avg",
+            "pollster": "Forbes/HarrisX",
+            "date": "10/27 - 10/29",
+            "sampleSize": "3718 RV",
+            "marginError": 1.5,
+            "link": "https://www.forbes.com/sites/joewalsh/2024/10/31/new-harrisxforbes-poll-harris-leads-trump-by-just-1-point-a-statistical-tie-as-10-still-unsure/",
+            "spread_winner": "Harris",
+            "spread_value": 1.0,
+            "trump_value": "48",
+            "harris_value": "49",
+            "kennedy_value": "",
+            "stein_value": "1",
+            "oliver_value": "",
+            "west_value": "2",
+            "name": "General Election: Trump vs. Harris vs. Kennedy vs. West vs. Stein",
+            "slug": "general_third_parties",
+            "polling_start_date": "2024-10-27",
+            "polling_end_date": "2024-10-29"
+        },
+        {
             "id": "148457",
             "type": "poll",
             "pollster": "Economist/YouGov",
@@ -3289,7 +3348,7 @@
         },
         {
             "id": "148411",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Atlas Intel",
             "date": "10/25 - 10/29",
             "sampleSize": "3032 LV",
@@ -3499,7 +3558,7 @@
         },
         {
             "id": "148229",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Forbes/HarrisX",
             "date": "10/20 - 10/21",
             "sampleSize": "1244 LV",
@@ -3751,7 +3810,7 @@
         },
         {
             "id": "147924",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "ABC News/Ipsos",
             "date": "10/4 - 10/8",
             "sampleSize": "1714 LV",
@@ -8056,6 +8115,23 @@
             "polling_end_date": "2024-10-30"
         },
         {
+            "id": "148567",
+            "type": "poll_rcp_avg",
+            "pollster": "AmGreatness/TIPP",
+            "date": "10/28 - 10/30",
+            "sampleSize": "831 LV",
+            "marginError": 3.5,
+            "link": "https://amgreatness.com/2024/10/31/wisconsin-headed-for-a-photo-finish-hovde-charging-per-polling/",
+            "spread_winner": "Tie",
+            "spread_value": 0.0,
+            "harris_value": "48",
+            "trump_value": "48",
+            "name": "2024 Wisconsin: Trump vs. Harris",
+            "slug": "wisconsin",
+            "polling_start_date": "2024-10-28",
+            "polling_end_date": "2024-10-30"
+        },
+        {
             "id": "148430",
             "type": "poll",
             "pollster": "Atlas Intel",
@@ -11379,6 +11455,23 @@
     ],
     "congress_generic": [
         {
+            "id": "148575",
+            "type": "poll_rcp_avg",
+            "pollster": "Forbes/HarrisX",
+            "date": "10/27 - 10/29",
+            "sampleSize": "3718 LV",
+            "marginError": 1.5,
+            "link": "https://www.forbes.com/sites/joewalsh/2024/10/31/new-harrisxforbes-poll-harris-leads-trump-by-just-1-point-a-statistical-tie-as-10-still-unsure/",
+            "spread_winner": "Republicans",
+            "spread_value": 1.0,
+            "republicans_value": "46",
+            "democrats_value": "45",
+            "name": "2024 Generic Congressional Vote",
+            "slug": "congress_generic",
+            "polling_start_date": "2024-10-27",
+            "polling_end_date": "2024-10-29"
+        },
+        {
             "id": "148458",
             "type": "poll_rcp_avg",
             "pollster": "Economist/YouGov",
@@ -11482,7 +11575,7 @@
         },
         {
             "id": "148234",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Forbes/HarrisX",
             "date": "10/20 - 10/21",
             "sampleSize": "1244 LV",
@@ -14322,6 +14415,23 @@
     ],
     "harris_favorability": [
         {
+            "id": "148577",
+            "type": "poll_rcp_avg",
+            "pollster": "Forbes/HarrisX",
+            "date": "10/27 - 10/29",
+            "sampleSize": "3718 RV",
+            "marginError": 1.5,
+            "link": "https://www.forbes.com/sites/joewalsh/2024/10/31/new-harrisxforbes-poll-harris-leads-trump-by-just-1-point-a-statistical-tie-as-10-still-unsure/",
+            "spread_winner": "Tie",
+            "spread_value": 0.0,
+            "favorable_value": "49",
+            "unfavorable_value": "49",
+            "name": "Kamala Harris Favorability",
+            "slug": "harris_favorability",
+            "polling_start_date": "2024-10-27",
+            "polling_end_date": "2024-10-29"
+        },
+        {
             "id": "148460",
             "type": "poll_rcp_avg",
             "pollster": "Economist/YouGov",
@@ -14459,7 +14569,7 @@
         },
         {
             "id": "148236",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Forbes/HarrisX",
             "date": "10/20 - 10/21",
             "sampleSize": "1244 LV",
@@ -24864,6 +24974,23 @@
     ],
     "country_direction": [
         {
+            "id": "148571",
+            "type": "poll_rcp_avg",
+            "pollster": "Forbes/HarrisX",
+            "date": "10/27 - 10/29",
+            "sampleSize": "3718 LV",
+            "marginError": 1.5,
+            "link": "https://www.forbes.com/sites/joewalsh/2024/10/31/new-harrisxforbes-poll-harris-leads-trump-by-just-1-point-a-statistical-tie-as-10-still-unsure/",
+            "spread_winner": "Wrong Track",
+            "spread_value": -38.0,
+            "right_direction_value": "25",
+            "wrong_track_value": "63",
+            "name": "Direction of Country",
+            "slug": "country_direction",
+            "polling_start_date": "2024-10-27",
+            "polling_end_date": "2024-10-29"
+        },
+        {
             "id": "148459",
             "type": "poll_rcp_avg",
             "pollster": "Economist/YouGov",
@@ -24967,7 +25094,7 @@
         },
         {
             "id": "148230",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Forbes/HarrisX",
             "date": "10/20 - 10/21",
             "sampleSize": "1244 LV",

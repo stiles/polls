@@ -1,5 +1,22 @@
 [
     {
+        "id":"148571",
+        "type":"poll_rcp_avg",
+        "pollster":"Forbes\/HarrisX",
+        "date":"10\/27 - 10\/29",
+        "sampleSize":"3718 LV",
+        "marginError":1.5,
+        "link":"https:\/\/www.forbes.com\/sites\/joewalsh\/2024\/10\/31\/new-harrisxforbes-poll-harris-leads-trump-by-just-1-point-a-statistical-tie-as-10-still-unsure\/",
+        "spread_winner":"Wrong Track",
+        "spread_value":-38.0,
+        "right_direction_value":"25",
+        "wrong_track_value":"63",
+        "name":"Direction of Country",
+        "slug":"country_direction",
+        "polling_start_date":"2024-10-27",
+        "polling_end_date":"2024-10-29"
+    },
+    {
         "id":"148459",
         "type":"poll_rcp_avg",
         "pollster":"Economist\/YouGov",
@@ -103,7 +120,7 @@
     },
     {
         "id":"148230",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Forbes\/HarrisX",
         "date":"10\/20 - 10\/21",
         "sampleSize":"1244 LV",

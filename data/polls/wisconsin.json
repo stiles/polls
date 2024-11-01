@@ -17,6 +17,23 @@
         "polling_end_date":"2024-10-30"
     },
     {
+        "id":"148567",
+        "type":"poll_rcp_avg",
+        "pollster":"AmGreatness\/TIPP",
+        "date":"10\/28 - 10\/30",
+        "sampleSize":"831 LV",
+        "marginError":3.5,
+        "link":"https:\/\/amgreatness.com\/2024\/10\/31\/wisconsin-headed-for-a-photo-finish-hovde-charging-per-polling\/",
+        "spread_winner":"Tie",
+        "spread_value":0.0,
+        "harris_value":"48",
+        "trump_value":"48",
+        "name":"2024 Wisconsin: Trump vs. Harris",
+        "slug":"wisconsin",
+        "polling_start_date":"2024-10-28",
+        "polling_end_date":"2024-10-30"
+    },
+    {
         "id":"148430",
         "type":"poll",
         "pollster":"Atlas Intel",
