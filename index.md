@@ -54,7 +54,7 @@ The latest forecasts for the 2024 presidential election based on models develope
 | Place | Favored / Chance | Source |
 |-------|---------------------|--------|
 | US | <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>Trump - 54%</span> | [Nate Silver](https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model) |
-| US | <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>Trump - 52%</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/2024-election-forecast) |
+| US | <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>Trump - 51%</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/2024-election-forecast) |
 | US | <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>Trump - 51%</span> | [Economist](https://www.economist.com/interactive/us-2024-election/prediction-model/president/) |
 | US | <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>Trump - 54%</span> | [The Hill](https://elections2024.thehill.com/forecast/2024/president/) |
 
@@ -94,4 +94,4 @@ The latest forecasts for the 2024 presidential election based on models develope
 
  **About this page:** [Github repo](https://github.com/stiles/polls) 
 
- **Last update:** *10 p.m. ET, November 1*.
+ **Last update:** *12 a.m. ET, November 2*.
