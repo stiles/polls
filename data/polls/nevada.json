@@ -68,6 +68,23 @@
         "polling_end_date":"2024-10-30"
     },
     {
+        "id":"148641",
+        "type":"poll",
+        "pollster":"Data for Progress (D)**",
+        "date":"10\/25 - 10\/30",
+        "sampleSize":"721 LV",
+        "marginError":4.0,
+        "link":"https:\/\/www.dataforprogress.org\/blog\/2024\/11\/1\/final-data-for-progress-swing-state-polls",
+        "spread_winner":"Harris",
+        "spread_value":2.0,
+        "trump_value":"47",
+        "harris_value":"49",
+        "name":"2024 Nevada: Trump vs. Harris",
+        "slug":"nevada",
+        "polling_start_date":"2024-10-25",
+        "polling_end_date":"2024-10-30"
+    },
+    {
         "id":"148421",
         "type":"poll",
         "pollster":"Atlas Intel",

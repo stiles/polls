@@ -1,22 +1,5 @@
 [
     {
-        "id":"148609",
-        "type":"poll",
-        "pollster":"Echelon Insights",
-        "date":"10\/27 - 10\/30",
-        "sampleSize":"600 LV",
-        "marginError":4.5,
-        "link":"https:\/\/echeloninsights.com\/in-the-news\/oct2024-wi-poll\/",
-        "spread_winner":"Tie",
-        "spread_value":0.0,
-        "harris_value":"49",
-        "trump_value":"49",
-        "name":"2024 Wisconsin: Trump vs. Harris",
-        "slug":"wisconsin",
-        "polling_start_date":"2024-10-27",
-        "polling_end_date":"2024-10-30"
-    },
-    {
         "id":"148589",
         "type":"poll_rcp_avg",
         "pollster":"Marist",
@@ -32,6 +15,23 @@
         "slug":"wisconsin",
         "polling_start_date":"2024-10-27",
         "polling_end_date":"2024-10-30"
+    },
+    {
+        "id":"148647",
+        "type":"poll_rcp_avg",
+        "pollster":"Rasmussen Reports",
+        "date":"10\/25 - 10\/29",
+        "sampleSize":"818 LV",
+        "marginError":3.0,
+        "link":"https:\/\/www.rasmussenreports.com\/public_content\/politics\/partner_surveys\/election_2024_trump_50_harris_47_in_wisconsin",
+        "spread_winner":"Trump",
+        "spread_value":3.0,
+        "harris_value":"47",
+        "trump_value":"50",
+        "name":"2024 Wisconsin: Trump vs. Harris",
+        "slug":"wisconsin",
+        "polling_start_date":"2024-10-25",
+        "polling_end_date":"2024-10-29"
     },
     {
         "id":"148562",
@@ -65,6 +65,23 @@
         "name":"2024 Wisconsin: Trump vs. Harris",
         "slug":"wisconsin",
         "polling_start_date":"2024-10-28",
+        "polling_end_date":"2024-10-30"
+    },
+    {
+        "id":"148609",
+        "type":"poll",
+        "pollster":"Echelon Insights",
+        "date":"10\/27 - 10\/30",
+        "sampleSize":"600 LV",
+        "marginError":4.5,
+        "link":"https:\/\/echeloninsights.com\/in-the-news\/oct2024-wi-poll\/",
+        "spread_winner":"Tie",
+        "spread_value":0.0,
+        "harris_value":"49",
+        "trump_value":"49",
+        "name":"2024 Wisconsin: Trump vs. Harris",
+        "slug":"wisconsin",
+        "polling_start_date":"2024-10-27",
         "polling_end_date":"2024-10-30"
     },
     {
@@ -239,7 +256,7 @@
     },
     {
         "id":"148075",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Rasmussen Reports",
         "date":"10\/9 - 10\/14",
         "sampleSize":"1004 LV",
