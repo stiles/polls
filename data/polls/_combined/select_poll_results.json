@@ -7322,6 +7322,40 @@
     ],
     "michigan": [
         {
+            "id": "148651",
+            "type": "poll_rcp_avg",
+            "pollster": "Rasmussen Reports",
+            "date": "10/24 - 11/1",
+            "sampleSize": "908 LV",
+            "marginError": 3.0,
+            "link": "https://www.rasmussenreports.com/public_content/politics/partner_surveys/election_2024_harris_49_trump_48_in_michigan",
+            "spread_winner": "Harris",
+            "spread_value": 1.0,
+            "harris_value": "49",
+            "trump_value": "48",
+            "name": "2024 Michigan: Trump vs. Harris",
+            "slug": "michigan",
+            "polling_start_date": "2024-10-24",
+            "polling_end_date": "2024-11-01"
+        },
+        {
+            "id": "148612",
+            "type": "poll",
+            "pollster": "Echelon Insights",
+            "date": "10/27 - 10/30",
+            "sampleSize": "600 LV",
+            "marginError": 4.5,
+            "link": "https://echeloninsights.com/in-the-news/oct2024-mi-poll/",
+            "spread_winner": "Tie",
+            "spread_value": 0.0,
+            "harris_value": "48",
+            "trump_value": "48",
+            "name": "2024 Michigan: Trump vs. Harris",
+            "slug": "michigan",
+            "polling_start_date": "2024-10-27",
+            "polling_end_date": "2024-10-30"
+        },
+        {
             "id": "148591",
             "type": "poll_rcp_avg",
             "pollster": "Marist",
@@ -15189,7 +15223,7 @@
         },
         {
             "id": "147995",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Marist",
             "date": "10/8 - 10/10",
             "sampleSize": "1401 LV",
@@ -15240,7 +15274,7 @@
         },
         {
             "id": "147935",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "NBC News",
             "date": "10/4 - 10/8",
             "sampleSize": "1000 RV",
@@ -15274,7 +15308,7 @@
         },
         {
             "id": "148003",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Marquette",
             "date": "10/1 - 10/10",
             "sampleSize": "699 LV",
@@ -15308,7 +15342,7 @@
         },
         {
             "id": "147792",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Yahoo News",
             "date": "10/2 - 10/4",
             "sampleSize": "1030 LV",
