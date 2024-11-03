@@ -1,5 +1,22 @@
 [
     {
+        "id":"148700",
+        "type":"poll_rcp_avg",
+        "pollster":"NY Times\/Siena",
+        "date":"10\/28 - 11\/2",
+        "sampleSize":"1010 LV",
+        "marginError":0.0,
+        "link":"https:\/\/www.nytimes.com\/interactive\/2024\/11\/03\/us\/elections\/times-siena-north-carolina-poll-crosstabs.html",
+        "spread_winner":"Harris",
+        "spread_value":2.0,
+        "trump_value":"46",
+        "harris_value":"48",
+        "name":"2024 North Carolina: Trump vs. Harris",
+        "slug":"north_carolina",
+        "polling_start_date":"2024-10-28",
+        "polling_end_date":"2024-11-02"
+    },
+    {
         "id":"148664",
         "type":"poll_rcp_avg",
         "pollster":"Atlas Intel",

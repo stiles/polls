@@ -1,4 +1,5 @@
 id,type,pollster,date,sampleSize,marginError,link,spread_winner,spread_value,trump_value,harris_value,name,slug,polling_start_date,polling_end_date
+148698,poll_rcp_avg,NY Times/Siena,10/24 - 11/2,1004 LV,0.0,https://www.nytimes.com/interactive/2024/11/03/us/elections/times-siena-georgia-poll-crosstabs.html,Harris,1.0,47,48,2024 Georgia: Trump vs. Harris,georgia,2024-10-24,2024-11-02
 148668,poll_rcp_avg,Atlas Intel,11/1 - 11/2,1174 LV,3.0,https://www.realclearpolitics.com/docs/2024/Atlas-Poll-US-Swing-States-Georgia-02-11-2024.pdf,Trump,2.0,50,48,2024 Georgia: Trump vs. Harris,georgia,2024-11-01,2024-11-02
 148549,poll,Atlas Intel,10/27 - 10/30,1212 LV,3.0,https://www.realclearpolitics.com/docs/2024/Atlas-Poll-US-Swing-States-31-10-2024-Georgia.pdf,Trump,2.0,50,48,2024 Georgia: Trump vs. Harris,georgia,2024-10-27,2024-10-30
 148639,poll,Data for Progress (D)**,10/25 - 10/30,972 LV,3.0,https://www.dataforprogress.org/blog/2024/11/1/final-data-for-progress-swing-state-polls,Harris,1.0,48,49,2024 Georgia: Trump vs. Harris,georgia,2024-10-25,2024-10-30

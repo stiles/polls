@@ -1,5 +1,22 @@
 [
     {
+        "id":"148689",
+        "type":"poll_rcp_avg",
+        "pollster":"NY Times\/Siena",
+        "date":"10\/25 - 11\/2",
+        "sampleSize":"1305 LV",
+        "marginError":0.0,
+        "link":"https:\/\/www.nytimes.com\/interactive\/2024\/11\/03\/us\/elections\/times-siena-wisconsin-poll-crosstabs.html",
+        "spread_winner":"Harris",
+        "spread_value":2.0,
+        "harris_value":"49",
+        "trump_value":"47",
+        "name":"2024 Wisconsin: Trump vs. Harris",
+        "slug":"wisconsin",
+        "polling_start_date":"2024-10-25",
+        "polling_end_date":"2024-11-02"
+    },
+    {
         "id":"148660",
         "type":"poll_rcp_avg",
         "pollster":"Atlas Intel",

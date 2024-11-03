@@ -1,5 +1,22 @@
 [
     {
+        "id":"148695",
+        "type":"poll_rcp_avg",
+        "pollster":"NY Times\/Siena",
+        "date":"10\/24 - 11\/2",
+        "sampleSize":"1010 LV",
+        "marginError":0.0,
+        "link":"https:\/\/www.nytimes.com\/interactive\/2024\/11\/03\/us\/elections\/times-siena-nevada-poll-crosstabs.html",
+        "spread_winner":"Harris",
+        "spread_value":3.0,
+        "trump_value":"46",
+        "harris_value":"49",
+        "name":"2024 Nevada: Trump vs. Harris",
+        "slug":"nevada",
+        "polling_start_date":"2024-10-24",
+        "polling_end_date":"2024-11-02"
+    },
+    {
         "id":"148670",
         "type":"poll_rcp_avg",
         "pollster":"Atlas Intel",
