@@ -1,5 +1,22 @@
 [
     {
+        "id":"148713",
+        "type":"poll_rcp_avg",
+        "pollster":"NBC News",
+        "date":"10\/30 - 11\/2",
+        "sampleSize":"1000 RV",
+        "marginError":3.0,
+        "link":"https:\/\/www.nbcnews.com\/politics\/2024-election\/final-nbc-news-poll-harris-trump-race-neck-neck-significant-gender-gap-rcna178361",
+        "spread_winner":"Wrong Track",
+        "spread_value":-39.0,
+        "right_direction_value":"27",
+        "wrong_track_value":"66",
+        "name":"Direction of Country",
+        "slug":"country_direction",
+        "polling_start_date":"2024-10-30",
+        "polling_end_date":"2024-11-02"
+    },
+    {
         "id":"148571",
         "type":"poll_rcp_avg",
         "pollster":"Forbes\/HarrisX",

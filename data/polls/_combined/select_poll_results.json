@@ -1,6 +1,23 @@
 {
     "general": [
         {
+            "id": "148712",
+            "type": "poll_rcp_avg",
+            "pollster": "NBC News",
+            "date": "10/30 - 11/2",
+            "sampleSize": "1000 RV",
+            "marginError": 3.0,
+            "link": "https://www.nbcnews.com/politics/2024-election/final-nbc-news-poll-harris-trump-race-neck-neck-significant-gender-gap-rcna178361",
+            "spread_winner": "Tie",
+            "spread_value": 0.0,
+            "trump_value": "49",
+            "harris_value": "49",
+            "name": "2024 General Election: Trump vs Harris",
+            "slug": "general",
+            "polling_start_date": "2024-10-30",
+            "polling_end_date": "2024-11-02"
+        },
+        {
             "id": "148704",
             "type": "poll_rcp_avg",
             "pollster": "TIPP",
@@ -69,6 +86,23 @@
             "polling_end_date": "2024-11-02"
         },
         {
+            "id": "148635",
+            "type": "poll",
+            "pollster": "Rasmussen Reports",
+            "date": "10/10 - 10/29",
+            "sampleSize": "12546 LV",
+            "marginError": 2.0,
+            "link": "https://www.rasmussenreports.com/public_content/politics/elections/election_2024/election2024",
+            "spread_winner": "Trump",
+            "spread_value": 3.0,
+            "trump_value": "49",
+            "harris_value": "46",
+            "name": "2024 General Election: Trump vs Harris",
+            "slug": "general",
+            "polling_start_date": "2024-10-10",
+            "polling_end_date": "2024-10-29"
+        },
+        {
             "id": "148649",
             "type": "poll",
             "pollster": "TIPP",
@@ -86,20 +120,20 @@
             "polling_end_date": "2024-11-01"
         },
         {
-            "id": "148635",
+            "id": "148456",
             "type": "poll",
-            "pollster": "Rasmussen Reports",
-            "date": "10/10 - 10/29",
-            "sampleSize": "12546 LV",
-            "marginError": 2.0,
-            "link": "https://www.rasmussenreports.com/public_content/politics/elections/election_2024/election2024",
-            "spread_winner": "Trump",
-            "spread_value": 3.0,
-            "trump_value": "49",
-            "harris_value": "46",
+            "pollster": "Economist/YouGov*",
+            "date": "10/26 - 10/29",
+            "sampleSize": "1310 LV",
+            "marginError": 0.0,
+            "link": "https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_NgtZTja.pdf",
+            "spread_winner": "Harris",
+            "spread_value": 2.0,
+            "trump_value": "47",
+            "harris_value": "49",
             "name": "2024 General Election: Trump vs Harris",
             "slug": "general",
-            "polling_start_date": "2024-10-10",
+            "polling_start_date": "2024-10-26",
             "polling_end_date": "2024-10-29"
         },
         {
@@ -120,23 +154,6 @@
             "polling_end_date": "2024-10-31"
         },
         {
-            "id": "148456",
-            "type": "poll",
-            "pollster": "Economist/YouGov*",
-            "date": "10/26 - 10/29",
-            "sampleSize": "1310 LV",
-            "marginError": 0.0,
-            "link": "https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_NgtZTja.pdf",
-            "spread_winner": "Harris",
-            "spread_value": 2.0,
-            "trump_value": "47",
-            "harris_value": "49",
-            "name": "2024 General Election: Trump vs Harris",
-            "slug": "general",
-            "polling_start_date": "2024-10-26",
-            "polling_end_date": "2024-10-29"
-        },
-        {
             "id": "148543",
             "type": "poll",
             "pollster": "Atlas Intel",
@@ -151,6 +168,23 @@
             "name": "2024 General Election: Trump vs Harris",
             "slug": "general",
             "polling_start_date": "2024-10-30",
+            "polling_end_date": "2024-10-31"
+        },
+        {
+            "id": "148719",
+            "type": "poll_rcp_avg",
+            "pollster": "Morning Consult",
+            "date": "10/29 - 10/31",
+            "sampleSize": "8919 LV",
+            "marginError": 1.0,
+            "link": "https://pro.morningconsult.com/trackers/2024-presidential-election-polling",
+            "spread_winner": "Harris",
+            "spread_value": 2.0,
+            "trump_value": "47",
+            "harris_value": "49",
+            "name": "2024 General Election: Trump vs Harris",
+            "slug": "general",
+            "polling_start_date": "2024-10-29",
             "polling_end_date": "2024-10-31"
         },
         {
@@ -206,7 +240,7 @@
         },
         {
             "id": "148383",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Morning Consult",
             "date": "10/25 - 10/27",
             "sampleSize": "8807 LV",
@@ -8569,6 +8603,23 @@
     ],
     "wisconsin": [
         {
+            "id": "148728",
+            "type": "poll",
+            "pollster": "Morning Consult",
+            "date": "10/21 - 10/30",
+            "sampleSize": " LV",
+            "marginError": 0.0,
+            "link": "https://x.com/cameron_easley/status/1852925147327393967",
+            "spread_winner": "Tie",
+            "spread_value": 0.0,
+            "harris_value": "48",
+            "trump_value": "48",
+            "name": "2024 Wisconsin: Trump vs. Harris",
+            "slug": "wisconsin",
+            "polling_start_date": "2024-10-21",
+            "polling_end_date": "2024-10-30"
+        },
+        {
             "id": "148689",
             "type": "poll_rcp_avg",
             "pollster": "NY Times/Siena",
@@ -11176,6 +11227,23 @@
     ],
     "north_carolina": [
         {
+            "id": "148727",
+            "type": "poll",
+            "pollster": "Morning Consult",
+            "date": "10/22 - 10/31",
+            "sampleSize": " LV",
+            "marginError": 0.0,
+            "link": "https://x.com/cameron_easley/status/1852925147327393967",
+            "spread_winner": "Trump",
+            "spread_value": 2.0,
+            "trump_value": "49",
+            "harris_value": "47",
+            "name": "2024 North Carolina: Trump vs. Harris",
+            "slug": "north_carolina",
+            "polling_start_date": "2024-10-22",
+            "polling_end_date": "2024-10-31"
+        },
+        {
             "id": "148700",
             "type": "poll_rcp_avg",
             "pollster": "NY Times/Siena",
@@ -12249,6 +12317,23 @@
     ],
     "congress_generic": [
         {
+            "id": "148718",
+            "type": "poll_rcp_avg",
+            "pollster": "NBC News",
+            "date": "10/30 - 11/2",
+            "sampleSize": "1000 RV",
+            "marginError": 3.0,
+            "link": "https://www.nbcnews.com/politics/2024-election/final-nbc-news-poll-harris-trump-race-neck-neck-significant-gender-gap-rcna178361",
+            "spread_winner": "Democrats",
+            "spread_value": 1.0,
+            "republicans_value": "46",
+            "democrats_value": "47",
+            "name": "2024 Generic Congressional Vote",
+            "slug": "congress_generic",
+            "polling_start_date": "2024-10-30",
+            "polling_end_date": "2024-11-02"
+        },
+        {
             "id": "148709",
             "type": "poll_rcp_avg",
             "pollster": "Emerson",
@@ -12505,7 +12590,7 @@
         },
         {
             "id": "147937",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "NBC News",
             "date": "10/4 - 10/8",
             "sampleSize": "1000 RV",
@@ -15225,6 +15310,23 @@
         }
     ],
     "harris_favorability": [
+        {
+            "id": "148715",
+            "type": "poll_rcp_avg",
+            "pollster": "NBC News",
+            "date": "10/30 - 11/2",
+            "sampleSize": "1000 RV",
+            "marginError": 3.0,
+            "link": "https://www.nbcnews.com/politics/2024-election/final-nbc-news-poll-harris-trump-race-neck-neck-significant-gender-gap-rcna178361",
+            "spread_winner": "Unfavorable",
+            "spread_value": 7.0,
+            "favorable_value": "43",
+            "unfavorable_value": "50",
+            "name": "Kamala Harris Favorability",
+            "slug": "harris_favorability",
+            "polling_start_date": "2024-10-30",
+            "polling_end_date": "2024-11-02"
+        },
         {
             "id": "148710",
             "type": "poll_rcp_avg",
@@ -25818,6 +25920,23 @@
         }
     ],
     "country_direction": [
+        {
+            "id": "148713",
+            "type": "poll_rcp_avg",
+            "pollster": "NBC News",
+            "date": "10/30 - 11/2",
+            "sampleSize": "1000 RV",
+            "marginError": 3.0,
+            "link": "https://www.nbcnews.com/politics/2024-election/final-nbc-news-poll-harris-trump-race-neck-neck-significant-gender-gap-rcna178361",
+            "spread_winner": "Wrong Track",
+            "spread_value": -39.0,
+            "right_direction_value": "27",
+            "wrong_track_value": "66",
+            "name": "Direction of Country",
+            "slug": "country_direction",
+            "polling_start_date": "2024-10-30",
+            "polling_end_date": "2024-11-02"
+        },
         {
             "id": "148571",
             "type": "poll_rcp_avg",

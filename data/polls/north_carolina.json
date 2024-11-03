@@ -1,5 +1,22 @@
 [
     {
+        "id":"148727",
+        "type":"poll",
+        "pollster":"Morning Consult",
+        "date":"10\/22 - 10\/31",
+        "sampleSize":" LV",
+        "marginError":0.0,
+        "link":"https:\/\/x.com\/cameron_easley\/status\/1852925147327393967",
+        "spread_winner":"Trump",
+        "spread_value":2.0,
+        "trump_value":"49",
+        "harris_value":"47",
+        "name":"2024 North Carolina: Trump vs. Harris",
+        "slug":"north_carolina",
+        "polling_start_date":"2024-10-22",
+        "polling_end_date":"2024-10-31"
+    },
+    {
         "id":"148700",
         "type":"poll_rcp_avg",
         "pollster":"NY Times\/Siena",

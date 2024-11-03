@@ -1,5 +1,22 @@
 [
     {
+        "id":"148728",
+        "type":"poll",
+        "pollster":"Morning Consult",
+        "date":"10\/21 - 10\/30",
+        "sampleSize":" LV",
+        "marginError":0.0,
+        "link":"https:\/\/x.com\/cameron_easley\/status\/1852925147327393967",
+        "spread_winner":"Tie",
+        "spread_value":0.0,
+        "harris_value":"48",
+        "trump_value":"48",
+        "name":"2024 Wisconsin: Trump vs. Harris",
+        "slug":"wisconsin",
+        "polling_start_date":"2024-10-21",
+        "polling_end_date":"2024-10-30"
+    },
+    {
         "id":"148689",
         "type":"poll_rcp_avg",
         "pollster":"NY Times\/Siena",

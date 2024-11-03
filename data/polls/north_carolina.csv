@@ -1,4 +1,5 @@
 id,type,pollster,date,sampleSize,marginError,link,spread_winner,spread_value,trump_value,harris_value,name,slug,polling_start_date,polling_end_date
+148727,poll,Morning Consult,10/22 - 10/31, LV,0.0,https://x.com/cameron_easley/status/1852925147327393967,Trump,2.0,49,47,2024 North Carolina: Trump vs. Harris,north_carolina,2024-10-22,2024-10-31
 148700,poll_rcp_avg,NY Times/Siena,10/28 - 11/2,1010 LV,0.0,https://www.nytimes.com/interactive/2024/11/03/us/elections/times-siena-north-carolina-poll-crosstabs.html,Harris,2.0,46,48,2024 North Carolina: Trump vs. Harris,north_carolina,2024-10-28,2024-11-02
 148664,poll_rcp_avg,Atlas Intel,11/1 - 11/2,1310 LV,3.0,https://www.realclearpolitics.com/docs/2024/Atlas-Poll-US-Swing-States-North-Carolina-02-11-2024.pdf,Trump,4.0,51,47,2024 North Carolina: Trump vs. Harris,north_carolina,2024-11-01,2024-11-02
 148557,poll,Atlas Intel,10/27 - 10/30,1373 LV,3.0,https://www.realclearpolitics.com/docs/2024/Atlas-Poll-US-Swing-States-31-10-2024-North-Carolina.pdf,Trump,4.0,51,47,2024 North Carolina: Trump vs. Harris,north_carolina,2024-10-27,2024-10-30

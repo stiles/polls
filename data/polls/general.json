@@ -1,5 +1,22 @@
 [
     {
+        "id":"148712",
+        "type":"poll_rcp_avg",
+        "pollster":"NBC News",
+        "date":"10\/30 - 11\/2",
+        "sampleSize":"1000 RV",
+        "marginError":3.0,
+        "link":"https:\/\/www.nbcnews.com\/politics\/2024-election\/final-nbc-news-poll-harris-trump-race-neck-neck-significant-gender-gap-rcna178361",
+        "spread_winner":"Tie",
+        "spread_value":0.0,
+        "trump_value":"49",
+        "harris_value":"49",
+        "name":"2024 General Election: Trump vs Harris",
+        "slug":"general",
+        "polling_start_date":"2024-10-30",
+        "polling_end_date":"2024-11-02"
+    },
+    {
         "id":"148704",
         "type":"poll_rcp_avg",
         "pollster":"TIPP",
@@ -68,6 +85,23 @@
         "polling_end_date":"2024-11-02"
     },
     {
+        "id":"148635",
+        "type":"poll",
+        "pollster":"Rasmussen Reports",
+        "date":"10\/10 - 10\/29",
+        "sampleSize":"12546 LV",
+        "marginError":2.0,
+        "link":"https:\/\/www.rasmussenreports.com\/public_content\/politics\/elections\/election_2024\/election2024",
+        "spread_winner":"Trump",
+        "spread_value":3.0,
+        "trump_value":"49",
+        "harris_value":"46",
+        "name":"2024 General Election: Trump vs Harris",
+        "slug":"general",
+        "polling_start_date":"2024-10-10",
+        "polling_end_date":"2024-10-29"
+    },
+    {
         "id":"148649",
         "type":"poll",
         "pollster":"TIPP",
@@ -85,20 +119,20 @@
         "polling_end_date":"2024-11-01"
     },
     {
-        "id":"148635",
+        "id":"148456",
         "type":"poll",
-        "pollster":"Rasmussen Reports",
-        "date":"10\/10 - 10\/29",
-        "sampleSize":"12546 LV",
-        "marginError":2.0,
-        "link":"https:\/\/www.rasmussenreports.com\/public_content\/politics\/elections\/election_2024\/election2024",
-        "spread_winner":"Trump",
-        "spread_value":3.0,
-        "trump_value":"49",
-        "harris_value":"46",
+        "pollster":"Economist\/YouGov*",
+        "date":"10\/26 - 10\/29",
+        "sampleSize":"1310 LV",
+        "marginError":0.0,
+        "link":"https:\/\/d3nkl3psvxxpe9.cloudfront.net\/documents\/econTabReport_NgtZTja.pdf",
+        "spread_winner":"Harris",
+        "spread_value":2.0,
+        "trump_value":"47",
+        "harris_value":"49",
         "name":"2024 General Election: Trump vs Harris",
         "slug":"general",
-        "polling_start_date":"2024-10-10",
+        "polling_start_date":"2024-10-26",
         "polling_end_date":"2024-10-29"
     },
     {
@@ -119,23 +153,6 @@
         "polling_end_date":"2024-10-31"
     },
     {
-        "id":"148456",
-        "type":"poll",
-        "pollster":"Economist\/YouGov*",
-        "date":"10\/26 - 10\/29",
-        "sampleSize":"1310 LV",
-        "marginError":0.0,
-        "link":"https:\/\/d3nkl3psvxxpe9.cloudfront.net\/documents\/econTabReport_NgtZTja.pdf",
-        "spread_winner":"Harris",
-        "spread_value":2.0,
-        "trump_value":"47",
-        "harris_value":"49",
-        "name":"2024 General Election: Trump vs Harris",
-        "slug":"general",
-        "polling_start_date":"2024-10-26",
-        "polling_end_date":"2024-10-29"
-    },
-    {
         "id":"148543",
         "type":"poll",
         "pollster":"Atlas Intel",
@@ -150,6 +167,23 @@
         "name":"2024 General Election: Trump vs Harris",
         "slug":"general",
         "polling_start_date":"2024-10-30",
+        "polling_end_date":"2024-10-31"
+    },
+    {
+        "id":"148719",
+        "type":"poll_rcp_avg",
+        "pollster":"Morning Consult",
+        "date":"10\/29 - 10\/31",
+        "sampleSize":"8919 LV",
+        "marginError":1.0,
+        "link":"https:\/\/pro.morningconsult.com\/trackers\/2024-presidential-election-polling",
+        "spread_winner":"Harris",
+        "spread_value":2.0,
+        "trump_value":"47",
+        "harris_value":"49",
+        "name":"2024 General Election: Trump vs Harris",
+        "slug":"general",
+        "polling_start_date":"2024-10-29",
         "polling_end_date":"2024-10-31"
     },
     {
@@ -205,7 +239,7 @@
     },
     {
         "id":"148383",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Morning Consult",
         "date":"10\/25 - 10\/27",
         "sampleSize":"8807 LV",

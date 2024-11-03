@@ -1,5 +1,22 @@
 [
     {
+        "id":"148718",
+        "type":"poll_rcp_avg",
+        "pollster":"NBC News",
+        "date":"10\/30 - 11\/2",
+        "sampleSize":"1000 RV",
+        "marginError":3.0,
+        "link":"https:\/\/www.nbcnews.com\/politics\/2024-election\/final-nbc-news-poll-harris-trump-race-neck-neck-significant-gender-gap-rcna178361",
+        "spread_winner":"Democrats",
+        "spread_value":1.0,
+        "republicans_value":"46",
+        "democrats_value":"47",
+        "name":"2024 Generic Congressional Vote",
+        "slug":"congress_generic",
+        "polling_start_date":"2024-10-30",
+        "polling_end_date":"2024-11-02"
+    },
+    {
         "id":"148709",
         "type":"poll_rcp_avg",
         "pollster":"Emerson",
@@ -256,7 +273,7 @@
     },
     {
         "id":"147937",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"NBC News",
         "date":"10\/4 - 10\/8",
         "sampleSize":"1000 RV",
