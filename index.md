@@ -56,7 +56,7 @@ The latest forecasts for the 2024 presidential election based on models develope
 | US | <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>Trump - 52%</span> | [Nate Silver](https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model) |
 | US | <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>Trump - 53%</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/2024-election-forecast) |
 | US | <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>Trump - 50%</span> | [Economist](https://www.economist.com/interactive/us-2024-election/prediction-model/president/) |
-| US | <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>Trump - 53%</span> | [The Hill](https://elections2024.thehill.com/forecast/2024/president/) |
+| US | <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>Trump - 54%</span> | [The Hill](https://elections2024.thehill.com/forecast/2024/president/) |
 
 
 ### Swing state polling averages
@@ -81,7 +81,7 @@ The latest forecasts for the 2024 presidential election based on models develope
 | Place             | Margin               | Source       |
 |-------------------|----------------------|--------------|
 | US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +0.8</span> |[Cook Report](https://www.cookpolitical.com/survey-research/cpr-national-polling-average/2024/harris-trump-overall) 
-| US | <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>R +0.2</span> |[RealClearPolitics](https://www.realclearpolling.com/polls/president/general/2024/trump-vs-harris) 
+| US | <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>R +0.1</span> |[RealClearPolitics](https://www.realclearpolling.com/polls/president/general/2024/trump-vs-harris) 
 | US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +1.1</span> |[FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/national/) 
 | US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +0.9</span> |[Nate Silver](https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model) 
 | US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +1.0</span> |[270toWin](https://www.270towin.com/2024-presidential-election-polls/) 
@@ -94,4 +94,4 @@ The latest forecasts for the 2024 presidential election based on models develope
 
  **About this page:** [Github repo](https://github.com/stiles/polls) 
 
- **Last update:** *3 p.m. ET, November 3*.
+ **Last update:** *5 p.m. ET, November 3*.

@@ -8,7 +8,7 @@
     },
     {
         "source":"FiveThirtyEight",
-        "harris":46.0,
+        "harris":47.0,
         "trump":53.0,
         "date":"2024-11-03",
         "fetched":"2024-11-03"
@@ -22,9 +22,9 @@
     },
     {
         "source":"The Hill",
-        "harris":47.0,
-        "trump":53.0,
-        "date":"2024-11-02",
+        "harris":46.0,
+        "trump":54.0,
+        "date":"2024-11-03",
         "fetched":"2024-11-03"
     }
 ]
