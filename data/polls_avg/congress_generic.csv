@@ -1,2 +1,2 @@
 id,type,pollster,date,sampleSize,marginError,link,spread_winner,spread_value,republicans_value,democrats_value,name,slug,polling_start_date,polling_end_date
-7969,rcp_average,rcp_average,10/11 - 11/2,,0.0,,Republicans,0.7,47.3,46.6,2024 Generic Congressional Vote,congress_generic,2024-10-11,2024-11-02
+7969,rcp_average,rcp_average,10/11 - 11/2,,0.0,,Republicans,0.4,47.1,46.7,2024 Generic Congressional Vote,congress_generic,2024-10-11,2024-11-02

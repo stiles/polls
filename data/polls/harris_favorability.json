@@ -34,6 +34,23 @@
         "polling_end_date":"2024-11-02"
     },
     {
+        "id":"148742",
+        "type":"poll_rcp_avg",
+        "pollster":"Yahoo News",
+        "date":"10\/29 - 10\/31",
+        "sampleSize":"1074 LV",
+        "marginError":0.0,
+        "link":"https:\/\/www.yahoo.com\/news\/final-yahoo-newsyougov-election-poll-trump-pulls-even-with-harris-at-47--but-will-enthusiasm-favor-democrats-144135193.html",
+        "spread_winner":"Unfavorable",
+        "spread_value":5.0,
+        "favorable_value":"47",
+        "unfavorable_value":"52",
+        "name":"Kamala Harris Favorability",
+        "slug":"harris_favorability",
+        "polling_start_date":"2024-10-29",
+        "polling_end_date":"2024-10-31"
+    },
+    {
         "id":"148577",
         "type":"poll_rcp_avg",
         "pollster":"Forbes\/HarrisX",

@@ -187,6 +187,23 @@
         "polling_end_date":"2024-10-28"
     },
     {
+        "id":"148720",
+        "type":"poll_rcp_avg",
+        "pollster":"Morning Consult",
+        "date":"10\/21 - 10\/30",
+        "sampleSize":" LV",
+        "marginError":0.0,
+        "link":"https:\/\/x.com\/cameron_easley\/status\/1852925147327393967",
+        "spread_winner":"Tie",
+        "spread_value":0.0,
+        "trump_value":"48",
+        "harris_value":"48",
+        "name":"2024 Pennsylvania: Trump vs. Harris",
+        "slug":"pennsylvania",
+        "polling_start_date":"2024-10-21",
+        "polling_end_date":"2024-10-30"
+    },
+    {
         "id":"148352",
         "type":"poll_rcp_avg",
         "pollster":"InsiderAdvantage",
@@ -324,7 +341,7 @@
     },
     {
         "id":"148522",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"UMass Lowell",
         "date":"10\/16 - 10\/23",
         "sampleSize":"800 LV",
@@ -341,7 +358,7 @@
     },
     {
         "id":"148145",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Trafalgar Group (R)",
         "date":"10\/17 - 10\/19",
         "sampleSize":"1084 LV",
@@ -358,7 +375,7 @@
     },
     {
         "id":"148257",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Bloomberg",
         "date":"10\/16 - 10\/20",
         "sampleSize":"866 LV",
@@ -375,7 +392,7 @@
     },
     {
         "id":"148286",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Franklin &amp; Marshall",
         "date":"10\/9 - 10\/20",
         "sampleSize":"583 LV",
