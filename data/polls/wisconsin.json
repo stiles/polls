@@ -17,6 +17,23 @@
         "polling_end_date":"2024-11-02"
     },
     {
+        "id":"148761",
+        "type":"poll_rcp_avg",
+        "pollster":"InsiderAdvantage",
+        "date":"11\/1 - 11\/2",
+        "sampleSize":"800 LV",
+        "marginError":3.4,
+        "link":"https:\/\/insideradvantage.com\/insideradvantage-surveys-az-mi-wi-pa-nc\/",
+        "spread_winner":"Trump",
+        "spread_value":1.0,
+        "harris_value":"48",
+        "trump_value":"49",
+        "name":"2024 Wisconsin: Trump vs. Harris",
+        "slug":"wisconsin",
+        "polling_start_date":"2024-11-01",
+        "polling_end_date":"2024-11-02"
+    },
+    {
         "id":"148660",
         "type":"poll_rcp_avg",
         "pollster":"Atlas Intel",
@@ -137,7 +154,7 @@
     },
     {
         "id":"148391",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"InsiderAdvantage",
         "date":"10\/26 - 10\/27",
         "sampleSize":"800 LV",

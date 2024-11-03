@@ -34,6 +34,23 @@
         "polling_end_date":"2024-11-02"
     },
     {
+        "id":"148730",
+        "type":"poll_rcp_avg",
+        "pollster":"Noble Predictive Insights",
+        "date":"10\/28 - 10\/31",
+        "sampleSize":"593 LV",
+        "marginError":4.0,
+        "link":"https:\/\/www.noblepredictiveinsights.com\/post\/nevada-poll-of-record-harris-1-rosen-2",
+        "spread_winner":"Harris",
+        "spread_value":1.0,
+        "trump_value":"48",
+        "harris_value":"49",
+        "name":"2024 Nevada: Trump vs. Harris",
+        "slug":"nevada",
+        "polling_start_date":"2024-10-28",
+        "polling_end_date":"2024-10-31"
+    },
+    {
         "id":"148627",
         "type":"poll_rcp_avg",
         "pollster":"Susquehanna",
