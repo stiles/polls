@@ -9,7 +9,7 @@
         "fetched_date":"2024-11-02"
     },
     {
-        "date":"2024-11-02",
+        "date":"2024-11-03",
         "harris":48.1,
         "trump":48.4,
         "source":"RealClearPolitics",
@@ -20,10 +20,10 @@
     {
         "date":"2024-11-02",
         "harris":47.9,
-        "trump":46.8,
+        "trump":46.9,
         "source":"FiveThirtyEight",
-        "winning":"D +1.1",
-        "winning_margin":1.1,
+        "winning":"D +1.0",
+        "winning_margin":1.0,
         "fetched_date":"2024-11-02"
     },
     {
@@ -64,11 +64,11 @@
     },
     {
         "date":"2024-11-02",
-        "harris":48.2,
-        "trump":48.1,
+        "harris":48.1,
+        "trump":48.3,
         "source":"The Hill",
-        "winning":"D +0.1",
-        "winning_margin":0.1,
+        "winning":"R +0.2",
+        "winning_margin":0.2,
         "fetched_date":"2024-11-02"
     }
 ]
