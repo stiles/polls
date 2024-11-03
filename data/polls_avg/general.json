@@ -3,7 +3,7 @@
         "id":"7386",
         "type":"rcp_average",
         "pollster":"rcp_average",
-        "date":"10\/11 - 11\/1",
+        "date":"10\/11 - 11\/2",
         "sampleSize":"",
         "marginError":0.0,
         "link":null,
@@ -14,6 +14,6 @@
         "name":"2024 General Election: Trump vs Harris",
         "slug":"general",
         "polling_start_date":"2024-10-11",
-        "polling_end_date":"2024-11-01"
+        "polling_end_date":"2024-11-02"
     }
 ]

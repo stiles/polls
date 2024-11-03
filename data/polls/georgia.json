@@ -1,7 +1,24 @@
 [
     {
-        "id":"148549",
+        "id":"148668",
         "type":"poll_rcp_avg",
+        "pollster":"Atlas Intel",
+        "date":"11\/1 - 11\/2",
+        "sampleSize":"1174 LV",
+        "marginError":3.0,
+        "link":"https:\/\/www.realclearpolitics.com\/docs\/2024\/Atlas-Poll-US-Swing-States-Georgia-02-11-2024.pdf",
+        "spread_winner":"Trump",
+        "spread_value":2.0,
+        "trump_value":"50",
+        "harris_value":"48",
+        "name":"2024 Georgia: Trump vs. Harris",
+        "slug":"georgia",
+        "polling_start_date":"2024-11-01",
+        "polling_end_date":"2024-11-02"
+    },
+    {
+        "id":"148549",
+        "type":"poll",
         "pollster":"Atlas Intel",
         "date":"10\/27 - 10\/30",
         "sampleSize":"1212 LV",
@@ -14,6 +31,23 @@
         "name":"2024 Georgia: Trump vs. Harris",
         "slug":"georgia",
         "polling_start_date":"2024-10-27",
+        "polling_end_date":"2024-10-30"
+    },
+    {
+        "id":"148639",
+        "type":"poll",
+        "pollster":"Data for Progress (D)**",
+        "date":"10\/25 - 10\/30",
+        "sampleSize":"972 LV",
+        "marginError":3.0,
+        "link":"https:\/\/www.dataforprogress.org\/blog\/2024\/11\/1\/final-data-for-progress-swing-state-polls",
+        "spread_winner":"Harris",
+        "spread_value":1.0,
+        "trump_value":"48",
+        "harris_value":"49",
+        "name":"2024 Georgia: Trump vs. Harris",
+        "slug":"georgia",
+        "polling_start_date":"2024-10-25",
         "polling_end_date":"2024-10-30"
     },
     {

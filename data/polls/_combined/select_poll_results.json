@@ -1,6 +1,23 @@
 {
     "general": [
         {
+            "id": "148672",
+            "type": "poll_rcp_avg",
+            "pollster": "Atlas Intel",
+            "date": "11/1 - 11/2",
+            "sampleSize": "2463 LV",
+            "marginError": 2.0,
+            "link": "https://www.realclearpolitics.com/docs/2024/Atlas-Poll-US-Elections-National-02-11-2024.pdf",
+            "spread_winner": "Trump",
+            "spread_value": 2.0,
+            "trump_value": "50",
+            "harris_value": "48",
+            "name": "2024 General Election: Trump vs Harris",
+            "slug": "general",
+            "polling_start_date": "2024-11-01",
+            "polling_end_date": "2024-11-02"
+        },
+        {
             "id": "148649",
             "type": "poll_rcp_avg",
             "pollster": "TIPP",
@@ -70,7 +87,7 @@
         },
         {
             "id": "148543",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Atlas Intel",
             "date": "10/30 - 10/31",
             "sampleSize": "3490 LV",
@@ -3335,6 +3352,27 @@
     ],
     "general_third_parties": [
         {
+            "id": "148673",
+            "type": "poll_rcp_avg",
+            "pollster": "Atlas Intel",
+            "date": "11/1 - 11/2",
+            "sampleSize": "2463 LV",
+            "marginError": 2.0,
+            "link": "https://www.realclearpolitics.com/docs/2024/Atlas-Poll-US-Elections-National-02-11-2024.pdf",
+            "spread_winner": "Trump",
+            "spread_value": 2.0,
+            "trump_value": "49",
+            "harris_value": "47",
+            "kennedy_value": "",
+            "stein_value": "1",
+            "west_value": "0",
+            "oliver_value": "",
+            "name": "General Election: Trump vs. Harris vs. Kennedy vs. West vs. Stein",
+            "slug": "general_third_parties",
+            "polling_start_date": "2024-11-01",
+            "polling_end_date": "2024-11-02"
+        },
+        {
             "id": "148650",
             "type": "poll_rcp_avg",
             "pollster": "TIPP",
@@ -3378,7 +3416,7 @@
         },
         {
             "id": "148544",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Atlas Intel",
             "date": "10/30 - 10/31",
             "sampleSize": "3490 LV",
@@ -5227,8 +5265,25 @@
     ],
     "georgia": [
         {
-            "id": "148549",
+            "id": "148668",
             "type": "poll_rcp_avg",
+            "pollster": "Atlas Intel",
+            "date": "11/1 - 11/2",
+            "sampleSize": "1174 LV",
+            "marginError": 3.0,
+            "link": "https://www.realclearpolitics.com/docs/2024/Atlas-Poll-US-Swing-States-Georgia-02-11-2024.pdf",
+            "spread_winner": "Trump",
+            "spread_value": 2.0,
+            "trump_value": "50",
+            "harris_value": "48",
+            "name": "2024 Georgia: Trump vs. Harris",
+            "slug": "georgia",
+            "polling_start_date": "2024-11-01",
+            "polling_end_date": "2024-11-02"
+        },
+        {
+            "id": "148549",
+            "type": "poll",
             "pollster": "Atlas Intel",
             "date": "10/27 - 10/30",
             "sampleSize": "1212 LV",
@@ -5241,6 +5296,23 @@
             "name": "2024 Georgia: Trump vs. Harris",
             "slug": "georgia",
             "polling_start_date": "2024-10-27",
+            "polling_end_date": "2024-10-30"
+        },
+        {
+            "id": "148639",
+            "type": "poll",
+            "pollster": "Data for Progress (D)**",
+            "date": "10/25 - 10/30",
+            "sampleSize": "972 LV",
+            "marginError": 3.0,
+            "link": "https://www.dataforprogress.org/blog/2024/11/1/final-data-for-progress-swing-state-polls",
+            "spread_winner": "Harris",
+            "spread_value": 1.0,
+            "trump_value": "48",
+            "harris_value": "49",
+            "name": "2024 Georgia: Trump vs. Harris",
+            "slug": "georgia",
+            "polling_start_date": "2024-10-25",
             "polling_end_date": "2024-10-30"
         },
         {
@@ -6062,6 +6134,23 @@
     ],
     "pennsylvania": [
         {
+            "id": "148666",
+            "type": "poll_rcp_avg",
+            "pollster": "Atlas Intel",
+            "date": "11/1 - 11/2",
+            "sampleSize": "2049 LV",
+            "marginError": 2.0,
+            "link": "https://www.realclearpolitics.com/docs/2024/Atlas-Poll-US-Swing-States-Pennsylvania-02-11-2024.pdf",
+            "spread_winner": "Trump",
+            "spread_value": 2.0,
+            "trump_value": "50",
+            "harris_value": "48",
+            "name": "2024 Pennsylvania: Trump vs. Harris",
+            "slug": "pennsylvania",
+            "polling_start_date": "2024-11-01",
+            "polling_end_date": "2024-11-02"
+        },
+        {
             "id": "148593",
             "type": "poll_rcp_avg",
             "pollster": "USA Today/Suffolk",
@@ -6080,7 +6169,7 @@
         },
         {
             "id": "148559",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Atlas Intel",
             "date": "10/27 - 10/30",
             "sampleSize": "1738 LV",
@@ -6147,38 +6236,21 @@
             "polling_end_date": "2024-10-30"
         },
         {
-            "id": "148623",
-            "type": "poll_rcp_avg",
-            "pollster": "Rasmussen Reports",
-            "date": "10/25 - 10/28",
-            "sampleSize": "849 LV",
+            "id": "148644",
+            "type": "poll",
+            "pollster": "Data for Progress (D)**",
+            "date": "10/25 - 10/30",
+            "sampleSize": "908 LV",
             "marginError": 3.0,
-            "link": "https://www.rasmussenreports.com/public_content/politics/partner_surveys/election_2024_trump_leads_in_pennsylvania_nevada_north_carolina",
-            "spread_winner": "Trump",
+            "link": "https://www.dataforprogress.org/blog/2024/11/1/final-data-for-progress-swing-state-polls",
+            "spread_winner": "Harris",
             "spread_value": 2.0,
-            "trump_value": "49",
-            "harris_value": "47",
+            "trump_value": "48",
+            "harris_value": "50",
             "name": "2024 Pennsylvania: Trump vs. Harris",
             "slug": "pennsylvania",
             "polling_start_date": "2024-10-25",
-            "polling_end_date": "2024-10-28"
-        },
-        {
-            "id": "148506",
-            "type": "poll_rcp_avg",
-            "pollster": "FOX News",
-            "date": "10/24 - 10/28",
-            "sampleSize": "1057 LV",
-            "marginError": 3.0,
-            "link": "https://www.foxnews.com/official-polls/fox-news-poll-its-neck-and-neck-pennsylvania-presidential-race",
-            "spread_winner": "Trump",
-            "spread_value": 1.0,
-            "trump_value": "50",
-            "harris_value": "49",
-            "name": "2024 Pennsylvania: Trump vs. Harris",
-            "slug": "pennsylvania",
-            "polling_start_date": "2024-10-24",
-            "polling_end_date": "2024-10-28"
+            "polling_end_date": "2024-10-30"
         },
         {
             "id": "148427",
@@ -6198,6 +6270,23 @@
             "polling_end_date": "2024-10-29"
         },
         {
+            "id": "148623",
+            "type": "poll_rcp_avg",
+            "pollster": "Rasmussen Reports",
+            "date": "10/25 - 10/28",
+            "sampleSize": "849 LV",
+            "marginError": 3.0,
+            "link": "https://www.rasmussenreports.com/public_content/politics/partner_surveys/election_2024_trump_leads_in_pennsylvania_nevada_north_carolina",
+            "spread_winner": "Trump",
+            "spread_value": 2.0,
+            "trump_value": "49",
+            "harris_value": "47",
+            "name": "2024 Pennsylvania: Trump vs. Harris",
+            "slug": "pennsylvania",
+            "polling_start_date": "2024-10-25",
+            "polling_end_date": "2024-10-28"
+        },
+        {
             "id": "148352",
             "type": "poll_rcp_avg",
             "pollster": "InsiderAdvantage",
@@ -6213,6 +6302,23 @@
             "slug": "pennsylvania",
             "polling_start_date": "2024-10-26",
             "polling_end_date": "2024-10-27"
+        },
+        {
+            "id": "148506",
+            "type": "poll_rcp_avg",
+            "pollster": "FOX News",
+            "date": "10/24 - 10/28",
+            "sampleSize": "1057 LV",
+            "marginError": 3.0,
+            "link": "https://www.foxnews.com/official-polls/fox-news-poll-its-neck-and-neck-pennsylvania-presidential-race",
+            "spread_winner": "Trump",
+            "spread_value": 1.0,
+            "trump_value": "50",
+            "harris_value": "49",
+            "name": "2024 Pennsylvania: Trump vs. Harris",
+            "slug": "pennsylvania",
+            "polling_start_date": "2024-10-24",
+            "polling_end_date": "2024-10-28"
         },
         {
             "id": "148491",
@@ -7322,6 +7428,23 @@
     ],
     "michigan": [
         {
+            "id": "148662",
+            "type": "poll_rcp_avg",
+            "pollster": "Atlas Intel",
+            "date": "11/1 - 11/2",
+            "sampleSize": "1198 LV",
+            "marginError": 3.0,
+            "link": "https://www.realclearpolitics.com/docs/2024/Atlas-Poll-US-Swing-States-Michigan-02-11-2024.pdf",
+            "spread_winner": "Trump",
+            "spread_value": 2.0,
+            "harris_value": "48",
+            "trump_value": "50",
+            "name": "2024 Michigan: Trump vs. Harris",
+            "slug": "michigan",
+            "polling_start_date": "2024-11-01",
+            "polling_end_date": "2024-11-02"
+        },
+        {
             "id": "148651",
             "type": "poll_rcp_avg",
             "pollster": "Rasmussen Reports",
@@ -7374,7 +7497,7 @@
         },
         {
             "id": "148551",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Atlas Intel",
             "date": "10/27 - 10/30",
             "sampleSize": "1136 LV",
@@ -8327,6 +8450,23 @@
     ],
     "wisconsin": [
         {
+            "id": "148660",
+            "type": "poll_rcp_avg",
+            "pollster": "Atlas Intel",
+            "date": "11/1 - 11/2",
+            "sampleSize": "728 LV",
+            "marginError": 4.0,
+            "link": "https://www.realclearpolitics.com/docs/2024/Atlas-Poll-US-Swing-States-Wisconsin-02-11-2024.pdf",
+            "spread_winner": "Trump",
+            "spread_value": 1.0,
+            "harris_value": "49",
+            "trump_value": "50",
+            "name": "2024 Wisconsin: Trump vs. Harris",
+            "slug": "wisconsin",
+            "polling_start_date": "2024-11-01",
+            "polling_end_date": "2024-11-02"
+        },
+        {
             "id": "148589",
             "type": "poll_rcp_avg",
             "pollster": "Marist",
@@ -8362,7 +8502,7 @@
         },
         {
             "id": "148562",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Atlas Intel",
             "date": "10/30 - 10/31",
             "sampleSize": "673 LV",
@@ -9230,6 +9370,23 @@
     ],
     "nevada": [
         {
+            "id": "148670",
+            "type": "poll_rcp_avg",
+            "pollster": "Atlas Intel",
+            "date": "11/1 - 11/2",
+            "sampleSize": "782 LV",
+            "marginError": 4.0,
+            "link": "https://www.realclearpolitics.com/docs/2024/Atlas-Poll-US-Swing-States-Nevada-02-11-2024.pdf",
+            "spread_winner": "Trump",
+            "spread_value": 6.0,
+            "trump_value": "52",
+            "harris_value": "46",
+            "name": "2024 Nevada: Trump vs. Harris",
+            "slug": "nevada",
+            "polling_start_date": "2024-11-01",
+            "polling_end_date": "2024-11-02"
+        },
+        {
             "id": "148627",
             "type": "poll_rcp_avg",
             "pollster": "Susquehanna",
@@ -9282,7 +9439,7 @@
         },
         {
             "id": "148554",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Atlas Intel",
             "date": "10/27 - 10/30",
             "sampleSize": "845 LV",
@@ -9946,6 +10103,23 @@
     ],
     "arizona": [
         {
+            "id": "148669",
+            "type": "poll_rcp_avg",
+            "pollster": "Atlas Intel",
+            "date": "11/1 - 11/2",
+            "sampleSize": "967 LV",
+            "marginError": 3.0,
+            "link": "https://www.realclearpolitics.com/docs/2024/Atlas-Poll-US-Swing-States-Georgia-02-11-2024.pdf",
+            "spread_winner": "Trump",
+            "spread_value": 6.0,
+            "trump_value": "52",
+            "harris_value": "46",
+            "name": "2024 Arizona: Trump vs. Harris",
+            "slug": "arizona",
+            "polling_start_date": "2024-11-01",
+            "polling_end_date": "2024-11-02"
+        },
+        {
             "id": "148583",
             "type": "poll_rcp_avg",
             "pollster": "Noble Predictive Insights",
@@ -9964,7 +10138,7 @@
         },
         {
             "id": "148546",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Atlas Intel",
             "date": "10/30 - 10/31",
             "sampleSize": "1005 LV",
@@ -10832,8 +11006,25 @@
     ],
     "north_carolina": [
         {
-            "id": "148557",
+            "id": "148664",
             "type": "poll_rcp_avg",
+            "pollster": "Atlas Intel",
+            "date": "11/1 - 11/2",
+            "sampleSize": "1310 LV",
+            "marginError": 3.0,
+            "link": "https://www.realclearpolitics.com/docs/2024/Atlas-Poll-US-Swing-States-North-Carolina-02-11-2024.pdf",
+            "spread_winner": "Trump",
+            "spread_value": 4.0,
+            "trump_value": "51",
+            "harris_value": "47",
+            "name": "2024 North Carolina: Trump vs. Harris",
+            "slug": "north_carolina",
+            "polling_start_date": "2024-11-01",
+            "polling_end_date": "2024-11-02"
+        },
+        {
+            "id": "148557",
+            "type": "poll",
             "pollster": "Atlas Intel",
             "date": "10/27 - 10/30",
             "sampleSize": "1373 LV",

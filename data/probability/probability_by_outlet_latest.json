@@ -1,7 +1,14 @@
 [
     {
         "source":"Nate Silver",
-        "harris":49.0,
+        "harris":48.0,
+        "trump":51.0,
+        "date":"2024-11-02",
+        "fetched":"2024-11-02"
+    },
+    {
+        "source":"Nate Silver",
+        "harris":48.0,
         "trump":51.0,
         "date":"2024-11-02",
         "fetched":"2024-11-02"

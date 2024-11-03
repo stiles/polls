@@ -25,10 +25,10 @@
         "state":"Michigan",
         "date":"2024-11-02",
         "source_url":"https:\/\/projects.fivethirtyeight.com\/polls\/president-general\/2024\/michigan\/polling-average.json",
-        "harris":48.0,
+        "harris":47.9,
         "trump":47.0,
-        "winning":"D +1.0",
-        "winning_margin":1.0,
+        "winning":"D +0.9",
+        "winning_margin":0.9,
         "state_abbr":"MI",
         "source":"FiveThirtyEight"
     },

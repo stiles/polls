@@ -1,5 +1,22 @@
 [
     {
+        "id":"148660",
+        "type":"poll_rcp_avg",
+        "pollster":"Atlas Intel",
+        "date":"11\/1 - 11\/2",
+        "sampleSize":"728 LV",
+        "marginError":4.0,
+        "link":"https:\/\/www.realclearpolitics.com\/docs\/2024\/Atlas-Poll-US-Swing-States-Wisconsin-02-11-2024.pdf",
+        "spread_winner":"Trump",
+        "spread_value":1.0,
+        "harris_value":"49",
+        "trump_value":"50",
+        "name":"2024 Wisconsin: Trump vs. Harris",
+        "slug":"wisconsin",
+        "polling_start_date":"2024-11-01",
+        "polling_end_date":"2024-11-02"
+    },
+    {
         "id":"148589",
         "type":"poll_rcp_avg",
         "pollster":"Marist",
@@ -35,7 +52,7 @@
     },
     {
         "id":"148562",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Atlas Intel",
         "date":"10\/30 - 10\/31",
         "sampleSize":"673 LV",

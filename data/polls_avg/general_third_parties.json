@@ -3,7 +3,7 @@
         "id":"8510",
         "type":"rcp_average",
         "pollster":"rcp_average",
-        "date":"10\/4 - 11\/1",
+        "date":"10\/4 - 11\/2",
         "sampleSize":"",
         "marginError":0.0,
         "link":null,
@@ -13,11 +13,11 @@
         "harris_value":"47.1",
         "kennedy_value":"1.3",
         "stein_value":"1.1",
-        "west_value":"0.8",
-        "oliver_value":"0.7",
+        "west_value":"0.7",
+        "oliver_value":"0.8",
         "name":"General Election: Trump vs. Harris vs. Kennedy vs. West vs. Stein",
         "slug":"general_third_parties",
         "polling_start_date":"2024-10-04",
-        "polling_end_date":"2024-11-01"
+        "polling_end_date":"2024-11-02"
     }
 ]
