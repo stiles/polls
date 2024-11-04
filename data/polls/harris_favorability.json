@@ -1,5 +1,22 @@
 [
     {
+        "id":"148813",
+        "type":"poll_rcp_avg",
+        "pollster":"NPR\/PBS\/Marist",
+        "date":"10\/31 - 11\/2",
+        "sampleSize":"1297 LV",
+        "marginError":3.5,
+        "link":"https:\/\/maristpoll.marist.edu\/polls\/u-s-presidential-contest-november-2024\/",
+        "spread_winner":"Favorable",
+        "spread_value":3.0,
+        "favorable_value":"50",
+        "unfavorable_value":"47",
+        "name":"Kamala Harris Favorability",
+        "slug":"harris_favorability",
+        "polling_start_date":"2024-10-31",
+        "polling_end_date":"2024-11-02"
+    },
+    {
         "id":"148715",
         "type":"poll_rcp_avg",
         "pollster":"NBC News",

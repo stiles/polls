@@ -34,6 +34,23 @@
         "polling_end_date":"2024-11-02"
     },
     {
+        "id":"148808",
+        "type":"poll_rcp_avg",
+        "pollster":"East Carolina U.",
+        "date":"10\/28 - 10\/31",
+        "sampleSize":"902 LV",
+        "marginError":3.0,
+        "link":"https:\/\/surveyresearch-ecu.reportablenews.com\/pr\/georgia-remains-a-tossup-as-election-day-nears",
+        "spread_winner":"Trump",
+        "spread_value":1.0,
+        "trump_value":"50",
+        "harris_value":"49",
+        "name":"2024 Georgia: Trump vs. Harris",
+        "slug":"georgia",
+        "polling_start_date":"2024-10-28",
+        "polling_end_date":"2024-10-31"
+    },
+    {
         "id":"148786",
         "type":"poll_rcp_avg",
         "pollster":"InsiderAdvantage",
