@@ -1,20 +1,20 @@
 [
     {
-        "id":"148757",
+        "id":"148804",
         "type":"poll_rcp_avg",
-        "pollster":"InsiderAdvantage",
-        "date":"11\/1 - 11\/2",
-        "sampleSize":"800 LV",
-        "marginError":3.0,
-        "link":"https:\/\/insideradvantage.com\/insideradvantage-surveys-az-mi-wi-pa-nc\/",
+        "pollster":"The Hill\/Emerson",
+        "date":"10\/24 - 10\/29",
+        "sampleSize":"900 LV",
+        "marginError":3.2,
+        "link":"https:\/\/emersoncollegepolling.com\/november-2024-final-swing-state-polls-too-close-to-call-election-for-president\/",
         "spread_winner":"Trump",
-        "spread_value":3.0,
-        "trump_value":"49",
-        "harris_value":"46",
+        "spread_value":2.0,
+        "trump_value":"50",
+        "harris_value":"48",
         "name":"2024 Arizona: Trump vs. Harris",
         "slug":"arizona",
-        "polling_start_date":"2024-11-01",
-        "polling_end_date":"2024-11-02"
+        "polling_start_date":"2024-10-24",
+        "polling_end_date":"2024-10-29"
     },
     {
         "id":"148692",
@@ -31,6 +31,23 @@
         "name":"2024 Arizona: Trump vs. Harris",
         "slug":"arizona",
         "polling_start_date":"2024-10-25",
+        "polling_end_date":"2024-11-02"
+    },
+    {
+        "id":"148757",
+        "type":"poll_rcp_avg",
+        "pollster":"InsiderAdvantage",
+        "date":"11\/1 - 11\/2",
+        "sampleSize":"800 LV",
+        "marginError":3.0,
+        "link":"https:\/\/insideradvantage.com\/insideradvantage-surveys-az-mi-wi-pa-nc\/",
+        "spread_winner":"Trump",
+        "spread_value":3.0,
+        "trump_value":"49",
+        "harris_value":"46",
+        "name":"2024 Arizona: Trump vs. Harris",
+        "slug":"arizona",
+        "polling_start_date":"2024-11-01",
         "polling_end_date":"2024-11-02"
     },
     {

@@ -1,5 +1,22 @@
 [
     {
+        "id":"148806",
+        "type":"poll_rcp_avg",
+        "pollster":"The Hill\/Emerson",
+        "date":"10\/24 - 10\/29",
+        "sampleSize":"840 LV",
+        "marginError":3.3,
+        "link":"https:\/\/emersoncollegepolling.com\/november-2024-final-swing-state-polls-too-close-to-call-election-for-president\/",
+        "spread_winner":"Tie",
+        "spread_value":0.0,
+        "trump_value":"48",
+        "harris_value":"48",
+        "name":"2024 Nevada: Trump vs. Harris",
+        "slug":"nevada",
+        "polling_start_date":"2024-10-24",
+        "polling_end_date":"2024-10-29"
+    },
+    {
         "id":"148695",
         "type":"poll_rcp_avg",
         "pollster":"NY Times\/Siena",
@@ -69,7 +86,7 @@
     },
     {
         "id":"148596",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Emerson",
         "date":"10\/29 - 10\/31",
         "sampleSize":"700 LV",

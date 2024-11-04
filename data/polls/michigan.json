@@ -1,5 +1,22 @@
 [
     {
+        "id":"148799",
+        "type":"poll_rcp_avg",
+        "pollster":"The Hill\/Emerson",
+        "date":"10\/24 - 10\/29",
+        "sampleSize":"790 LV",
+        "marginError":3.4,
+        "link":"https:\/\/emersoncollegepolling.com\/november-2024-final-swing-state-polls-too-close-to-call-election-for-president\/",
+        "spread_winner":"Harris",
+        "spread_value":2.0,
+        "harris_value":"50",
+        "trump_value":"48",
+        "name":"2024 Michigan: Trump vs. Harris",
+        "slug":"michigan",
+        "polling_start_date":"2024-10-24",
+        "polling_end_date":"2024-10-29"
+    },
+    {
         "id":"148686",
         "type":"poll_rcp_avg",
         "pollster":"NY Times\/Siena",
@@ -239,7 +256,7 @@
     },
     {
         "id":"148378",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Emerson",
         "date":"10\/25 - 10\/27",
         "sampleSize":"1000 LV",

@@ -61,17 +61,17 @@ The latest forecasts for the 2024 presidential election based on models develope
 
 
 ### Swing state polling averages
-<span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>former President Donald Trump</span> is leading in <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>five</span> of the potential swing states over Vice President Kamala Harris, according to FiveThirtyEight's averages.
+<span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>former President Donald Trump</span> is leading in <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>four</span> of the potential swing states over Vice President Kamala Harris, according to FiveThirtyEight's averages.
 
 | Place | Margin | Source |
 |-------|--------|--------|
-| Arizona | <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>R +2.6</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/arizona/polling-average.json) |
-| Georgia | <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>R +1.5</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/georgia/polling-average.json) |
-| Michigan | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +0.8</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/michigan/polling-average.json) |
-| Nevada | <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>R +0.6</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/nevada/polling-average.json) |
-| North Carolina | <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>R +1.2</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/north-carolina/polling-average.json) |
-| Pennsylvania | <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>R +0.2</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/pennsylvania/polling-average.json) |
-| Wisconsin | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +0.8</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/wisconsin/polling-average.json) |
+| Arizona | <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>R +2.4</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/arizona/polling-average.json) |
+| Georgia | <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>R +1.2</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/georgia/polling-average.json) |
+| Michigan | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +1.0</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/michigan/polling-average.json) |
+| Nevada | <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>R +0.3</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/nevada/polling-average.json) |
+| North Carolina | <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>R +1.1</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/north-carolina/polling-average.json) |
+| Pennsylvania | <span style='background: #7c4ea5; padding:1px 4px; color: #ffffff; font-weight: bold;'>T +0.0</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/pennsylvania/polling-average.json) |
+| Wisconsin | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +1.0</span> | [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/wisconsin/polling-average.json) |
 
 
 **Data:** [Latest](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/state_averages_latest.json), [trend](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/state_averages_trend.json)
@@ -83,7 +83,7 @@ The latest forecasts for the 2024 presidential election based on models develope
 |-------------------|----------------------|--------------|
 | US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +0.7</span> |[Cook Report](https://www.cookpolitical.com/survey-research/cpr-national-polling-average/2024/harris-trump-overall) 
 | US | <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>R +0.1</span> |[RealClearPolitics](https://www.realclearpolling.com/polls/president/general/2024/trump-vs-harris) 
-| US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +0.9</span> |[FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/national/) 
+| US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +1.1</span> |[FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/national/) 
 | US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +0.7</span> |[Nate Silver](https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model) 
 | US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +0.7</span> |[Nate Silver](https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model) 
 | US | <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>D +1.1</span> |[270toWin](https://www.270towin.com/2024-presidential-election-polls/) 
@@ -96,4 +96,4 @@ The latest forecasts for the 2024 presidential election based on models develope
 
  **About this page:** [Github repo](https://github.com/stiles/polls) 
 
- **Last update:** *9 a.m. ET, November 4*.
+ **Last update:** *11 a.m. ET, November 4*.

@@ -1,5 +1,22 @@
 [
     {
+        "id":"148803",
+        "type":"poll_rcp_avg",
+        "pollster":"The Hill\/Emerson",
+        "date":"10\/24 - 10\/29",
+        "sampleSize":"800 LV",
+        "marginError":3.4,
+        "link":"https:\/\/emersoncollegepolling.com\/november-2024-final-swing-state-polls-too-close-to-call-election-for-president\/",
+        "spread_winner":"Trump",
+        "spread_value":1.0,
+        "trump_value":"50",
+        "harris_value":"49",
+        "name":"2024 Georgia: Trump vs. Harris",
+        "slug":"georgia",
+        "polling_start_date":"2024-10-24",
+        "polling_end_date":"2024-10-29"
+    },
+    {
         "id":"148698",
         "type":"poll_rcp_avg",
         "pollster":"NY Times\/Siena",

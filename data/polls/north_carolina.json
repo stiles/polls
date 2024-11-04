@@ -1,5 +1,39 @@
 [
     {
+        "id":"148795",
+        "type":"poll_rcp_avg",
+        "pollster":"The Hill\/Emerson",
+        "date":"10\/24 - 10\/29",
+        "sampleSize":"860 LV",
+        "marginError":3.3,
+        "link":"https:\/\/emersoncollegepolling.com\/november-2024-final-swing-state-polls-too-close-to-call-election-for-president\/",
+        "spread_winner":"Trump",
+        "spread_value":1.0,
+        "trump_value":"49",
+        "harris_value":"48",
+        "name":"2024 North Carolina: Trump vs. Harris",
+        "slug":"north_carolina",
+        "polling_start_date":"2024-10-24",
+        "polling_end_date":"2024-10-29"
+    },
+    {
+        "id":"148793",
+        "type":"poll_rcp_avg",
+        "pollster":"East Carolina U.",
+        "date":"10\/24 - 10\/29",
+        "sampleSize":"1250 LV",
+        "marginError":3.0,
+        "link":"https:\/\/surveyresearch-ecu.reportablenews.com\/pr\/trump-up-2-points-over-harris-in-north-carolina-as-election-day-nears-josh-stein-maintains-comfortable-lead-over-mark-robinson-in-race-for-nc-governor?_gl=1*13evnlq*_gcl_au*MzYxNTYyNjUzLjE3MzAwNTI4MTQ.",
+        "spread_winner":"Trump",
+        "spread_value":2.0,
+        "trump_value":"50",
+        "harris_value":"48",
+        "name":"2024 North Carolina: Trump vs. Harris",
+        "slug":"north_carolina",
+        "polling_start_date":"2024-10-24",
+        "polling_end_date":"2024-10-29"
+    },
+    {
         "id":"148700",
         "type":"poll_rcp_avg",
         "pollster":"NY Times\/Siena",
@@ -205,7 +239,7 @@
     },
     {
         "id":"148253",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Emerson",
         "date":"10\/21 - 10\/22",
         "sampleSize":"950 LV",
