@@ -7911,40 +7911,6 @@
     ],
     "michigan": [
         {
-            "id": "148799",
-            "type": "poll_rcp_avg",
-            "pollster": "The Hill/Emerson",
-            "date": "10/24 - 10/29",
-            "sampleSize": "790 LV",
-            "marginError": 3.4,
-            "link": "https://emersoncollegepolling.com/november-2024-final-swing-state-polls-too-close-to-call-election-for-president/",
-            "spread_winner": "Harris",
-            "spread_value": 2.0,
-            "harris_value": "50",
-            "trump_value": "48",
-            "name": "2024 Michigan: Trump vs. Harris",
-            "slug": "michigan",
-            "polling_start_date": "2024-10-24",
-            "polling_end_date": "2024-10-29"
-        },
-        {
-            "id": "148686",
-            "type": "poll_rcp_avg",
-            "pollster": "NY Times/Siena",
-            "date": "10/29 - 11/2",
-            "sampleSize": "998 LV",
-            "marginError": 0.0,
-            "link": "https://www.nytimes.com/interactive/2024/11/03/us/elections/times-siena-michigan-poll-crosstabs.html",
-            "spread_winner": "Tie",
-            "spread_value": 0.0,
-            "harris_value": "47",
-            "trump_value": "47",
-            "name": "2024 Michigan: Trump vs. Harris",
-            "slug": "michigan",
-            "polling_start_date": "2024-10-29",
-            "polling_end_date": "2024-11-02"
-        },
-        {
             "id": "148789",
             "type": "poll_rcp_avg",
             "pollster": "Trafalgar Group (R)",
@@ -7962,6 +7928,23 @@
             "polling_end_date": "2024-11-03"
         },
         {
+            "id": "148662",
+            "type": "poll_rcp_avg",
+            "pollster": "Atlas Intel",
+            "date": "11/1 - 11/2",
+            "sampleSize": "1198 LV",
+            "marginError": 3.0,
+            "link": "https://www.realclearpolitics.com/docs/2024/Atlas-Poll-US-Swing-States-Michigan-02-11-2024.pdf",
+            "spread_winner": "Trump",
+            "spread_value": 2.0,
+            "harris_value": "48",
+            "trump_value": "50",
+            "name": "2024 Michigan: Trump vs. Harris",
+            "slug": "michigan",
+            "polling_start_date": "2024-11-01",
+            "polling_end_date": "2024-11-02"
+        },
+        {
             "id": "148759",
             "type": "poll_rcp_avg",
             "pollster": "InsiderAdvantage",
@@ -7976,6 +7959,23 @@
             "name": "2024 Michigan: Trump vs. Harris",
             "slug": "michigan",
             "polling_start_date": "2024-11-01",
+            "polling_end_date": "2024-11-02"
+        },
+        {
+            "id": "148686",
+            "type": "poll_rcp_avg",
+            "pollster": "NY Times/Siena",
+            "date": "10/29 - 11/2",
+            "sampleSize": "998 LV",
+            "marginError": 0.0,
+            "link": "https://www.nytimes.com/interactive/2024/11/03/us/elections/times-siena-michigan-poll-crosstabs.html",
+            "spread_winner": "Tie",
+            "spread_value": 0.0,
+            "harris_value": "47",
+            "trump_value": "47",
+            "name": "2024 Michigan: Trump vs. Harris",
+            "slug": "michigan",
+            "polling_start_date": "2024-10-29",
             "polling_end_date": "2024-11-02"
         },
         {
@@ -7996,23 +7996,6 @@
             "polling_end_date": "2024-11-02"
         },
         {
-            "id": "148662",
-            "type": "poll_rcp_avg",
-            "pollster": "Atlas Intel",
-            "date": "11/1 - 11/2",
-            "sampleSize": "1198 LV",
-            "marginError": 3.0,
-            "link": "https://www.realclearpolitics.com/docs/2024/Atlas-Poll-US-Swing-States-Michigan-02-11-2024.pdf",
-            "spread_winner": "Trump",
-            "spread_value": 2.0,
-            "harris_value": "48",
-            "trump_value": "50",
-            "name": "2024 Michigan: Trump vs. Harris",
-            "slug": "michigan",
-            "polling_start_date": "2024-11-01",
-            "polling_end_date": "2024-11-02"
-        },
-        {
             "id": "148651",
             "type": "poll_rcp_avg",
             "pollster": "Rasmussen Reports",
@@ -8028,6 +8011,23 @@
             "slug": "michigan",
             "polling_start_date": "2024-10-24",
             "polling_end_date": "2024-11-01"
+        },
+        {
+            "id": "148799",
+            "type": "poll_rcp_avg",
+            "pollster": "The Hill/Emerson",
+            "date": "10/24 - 10/29",
+            "sampleSize": "790 LV",
+            "marginError": 3.4,
+            "link": "https://emersoncollegepolling.com/november-2024-final-swing-state-polls-too-close-to-call-election-for-president/",
+            "spread_winner": "Harris",
+            "spread_value": 2.0,
+            "harris_value": "50",
+            "trump_value": "48",
+            "name": "2024 Michigan: Trump vs. Harris",
+            "slug": "michigan",
+            "polling_start_date": "2024-10-24",
+            "polling_end_date": "2024-10-29"
         },
         {
             "id": "148612",
@@ -8218,7 +8218,7 @@
         },
         {
             "id": "148389",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Susquehanna",
             "date": "10/23 - 10/27",
             "sampleSize": "400 LV",
@@ -8235,7 +8235,7 @@
         },
         {
             "id": "148242",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Quinnipiac",
             "date": "10/17 - 10/21",
             "sampleSize": "1136 LV",
@@ -15998,6 +15998,23 @@
             "polling_end_date": "2024-11-02"
         },
         {
+            "id": "148831",
+            "type": "poll_rcp_avg",
+            "pollster": "Forbes/HarrisX",
+            "date": "10/30 - 11/2",
+            "sampleSize": "3759 LV",
+            "marginError": 0.0,
+            "link": "https://elections.harrisx.com/public/HX_Forbes_Poll_Nov_2_24_3Day.html",
+            "spread_winner": "Tie",
+            "spread_value": 0.0,
+            "favorable_value": "49",
+            "unfavorable_value": "49",
+            "name": "Kamala Harris Favorability",
+            "slug": "harris_favorability",
+            "polling_start_date": "2024-10-30",
+            "polling_end_date": "2024-11-02"
+        },
+        {
             "id": "148715",
             "type": "poll_rcp_avg",
             "pollster": "NBC News",
@@ -16050,7 +16067,7 @@
         },
         {
             "id": "148577",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Forbes/HarrisX",
             "date": "10/27 - 10/29",
             "sampleSize": "3718 RV",
