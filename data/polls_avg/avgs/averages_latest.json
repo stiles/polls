@@ -9,9 +9,9 @@
         "fetched_date":"2024-11-03"
     },
     {
-        "date":"2024-11-03",
-        "harris":48.3,
-        "trump":48.4,
+        "date":"2024-11-04",
+        "harris":48.4,
+        "trump":48.5,
         "source":"RealClearPolitics",
         "winning":"R +0.1",
         "winning_margin":0.1,
@@ -20,19 +20,28 @@
     {
         "date":"2024-11-03",
         "harris":47.9,
-        "trump":46.9,
+        "trump":47.0,
         "source":"FiveThirtyEight",
-        "winning":"D +1.0",
-        "winning_margin":1.0,
+        "winning":"D +0.9",
+        "winning_margin":0.9,
         "fetched_date":"2024-11-03"
     },
     {
         "date":"2024-11-03",
         "harris":48.5,
-        "trump":47.6,
+        "trump":47.8,
         "source":"Nate Silver",
-        "winning":"D +0.9",
-        "winning_margin":0.9,
+        "winning":"D +0.7",
+        "winning_margin":0.7,
+        "fetched_date":"2024-11-03"
+    },
+    {
+        "date":"2024-11-03",
+        "harris":48.5,
+        "trump":47.8,
+        "source":"Nate Silver",
+        "winning":"D +0.7",
+        "winning_margin":0.7,
         "fetched_date":"2024-11-03"
     },
     {
