@@ -6,7 +6,7 @@
         "source":"Cook Report",
         "winning":"D +0.8",
         "winning_margin":0.8,
-        "fetched_date":"2024-11-03"
+        "fetched_date":"2024-11-04"
     },
     {
         "date":"2024-11-04",
@@ -15,7 +15,7 @@
         "source":"RealClearPolitics",
         "winning":"R +0.1",
         "winning_margin":0.1,
-        "fetched_date":"2024-11-03"
+        "fetched_date":"2024-11-04"
     },
     {
         "date":"2024-11-03",
@@ -24,7 +24,7 @@
         "source":"FiveThirtyEight",
         "winning":"D +0.9",
         "winning_margin":0.9,
-        "fetched_date":"2024-11-03"
+        "fetched_date":"2024-11-04"
     },
     {
         "date":"2024-11-03",
@@ -33,7 +33,7 @@
         "source":"Nate Silver",
         "winning":"D +0.7",
         "winning_margin":0.7,
-        "fetched_date":"2024-11-03"
+        "fetched_date":"2024-11-04"
     },
     {
         "date":"2024-11-03",
@@ -42,7 +42,7 @@
         "source":"Nate Silver",
         "winning":"D +0.7",
         "winning_margin":0.7,
-        "fetched_date":"2024-11-03"
+        "fetched_date":"2024-11-04"
     },
     {
         "date":"2024-11-03",
@@ -51,7 +51,7 @@
         "source":"270toWin",
         "winning":"D +1.0",
         "winning_margin":1.0,
-        "fetched_date":"2024-11-03"
+        "fetched_date":"2024-11-04"
     },
     {
         "date":"2024-11-03",
@@ -60,7 +60,7 @@
         "source":"Economist",
         "winning":"D +1.2",
         "winning_margin":1.2,
-        "fetched_date":"2024-11-03"
+        "fetched_date":"2024-11-04"
     },
     {
         "date":"2024-11-04",
@@ -69,15 +69,15 @@
         "source":"New York Times",
         "winning":"D +1.0",
         "winning_margin":1.0,
-        "fetched_date":"2024-11-03"
+        "fetched_date":"2024-11-04"
     },
     {
-        "date":"2024-11-03",
+        "date":"2024-11-04",
         "harris":48.3,
         "trump":48.3,
         "source":"The Hill",
         "winning":"T +0.0",
         "winning_margin":0.0,
-        "fetched_date":"2024-11-03"
+        "fetched_date":"2024-11-04"
     }
 ]

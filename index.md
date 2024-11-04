@@ -96,4 +96,4 @@ The latest forecasts for the 2024 presidential election based on models develope
 
  **About this page:** [Github repo](https://github.com/stiles/polls) 
 
- **Last update:** *11 p.m. ET, November 3*.
+ **Last update:** *1 a.m. ET, November 4*.
