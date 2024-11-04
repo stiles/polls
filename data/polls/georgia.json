@@ -17,6 +17,23 @@
         "polling_end_date":"2024-11-02"
     },
     {
+        "id":"148786",
+        "type":"poll",
+        "pollster":"InsiderAdvantage",
+        "date":"11\/2 - 11\/3",
+        "sampleSize":"800 LV",
+        "marginError":3.7,
+        "link":"https:\/\/insideradvantage.com\/insideradvantage-georgia-survey-trump-leads-by-one-in-potentially-chaotic-georgia-election\/",
+        "spread_winner":"Trump",
+        "spread_value":1.0,
+        "trump_value":"49",
+        "harris_value":"48",
+        "name":"2024 Georgia: Trump vs. Harris",
+        "slug":"georgia",
+        "polling_start_date":"2024-11-02",
+        "polling_end_date":"2024-11-03"
+    },
+    {
         "id":"148668",
         "type":"poll_rcp_avg",
         "pollster":"Atlas Intel",
@@ -256,7 +273,7 @@
     },
     {
         "id":"148175",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Atlanta Journal-Constitution",
         "date":"10\/7 - 10\/16",
         "sampleSize":"1000 LV",
@@ -273,7 +290,7 @@
     },
     {
         "id":"148114",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"East Carolina U.",
         "date":"10\/9 - 10\/14",
         "sampleSize":"701 LV",

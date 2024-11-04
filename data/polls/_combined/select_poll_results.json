@@ -18,6 +18,23 @@
             "polling_end_date": "2024-11-02"
         },
         {
+            "id": "148782",
+            "type": "poll_rcp_avg",
+            "pollster": "New York Post",
+            "date": "10/31 - 11/3",
+            "sampleSize": "950 LV",
+            "marginError": 3.0,
+            "link": "https://nypost.com/2024/11/03/us-news/donald-trump-erases-deficit-against-kamala-harris-in-final-pre-election-post-poll/",
+            "spread_winner": "Tie",
+            "spread_value": 0.0,
+            "trump_value": "49",
+            "harris_value": "49",
+            "name": "2024 General Election: Trump vs Harris",
+            "slug": "general",
+            "polling_start_date": "2024-10-31",
+            "polling_end_date": "2024-11-03"
+        },
+        {
             "id": "148704",
             "type": "poll_rcp_avg",
             "pollster": "TIPP",
@@ -5506,6 +5523,23 @@
             "polling_end_date": "2024-11-02"
         },
         {
+            "id": "148786",
+            "type": "poll",
+            "pollster": "InsiderAdvantage",
+            "date": "11/2 - 11/3",
+            "sampleSize": "800 LV",
+            "marginError": 3.7,
+            "link": "https://insideradvantage.com/insideradvantage-georgia-survey-trump-leads-by-one-in-potentially-chaotic-georgia-election/",
+            "spread_winner": "Trump",
+            "spread_value": 1.0,
+            "trump_value": "49",
+            "harris_value": "48",
+            "name": "2024 Georgia: Trump vs. Harris",
+            "slug": "georgia",
+            "polling_start_date": "2024-11-02",
+            "polling_end_date": "2024-11-03"
+        },
+        {
             "id": "148668",
             "type": "poll_rcp_avg",
             "pollster": "Atlas Intel",
@@ -5745,7 +5779,7 @@
         },
         {
             "id": "148175",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Atlanta Journal-Constitution",
             "date": "10/7 - 10/16",
             "sampleSize": "1000 LV",
@@ -5762,7 +5796,7 @@
         },
         {
             "id": "148114",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "East Carolina U.",
             "date": "10/9 - 10/14",
             "sampleSize": "701 LV",
@@ -7805,6 +7839,23 @@
             "polling_end_date": "2024-11-02"
         },
         {
+            "id": "148783",
+            "type": "poll_rcp_avg",
+            "pollster": "MNS/Mitchell Research",
+            "date": "10/29 - 11/2",
+            "sampleSize": "585 LV",
+            "marginError": 4.0,
+            "link": "https://www.realclearpolitics.com/docs/2024/MI_STATEWIDE_MITCHELL_POLL_-FIELD_COPY_-_EXEC_SUMMARY_-_CROSSTABS_OF_MI_106PM_11-3-24.pdf",
+            "spread_winner": "Harris",
+            "spread_value": 2.0,
+            "harris_value": "50",
+            "trump_value": "48",
+            "name": "2024 Michigan: Trump vs. Harris",
+            "slug": "michigan",
+            "polling_start_date": "2024-10-29",
+            "polling_end_date": "2024-11-02"
+        },
+        {
             "id": "148662",
             "type": "poll_rcp_avg",
             "pollster": "Atlas Intel",
@@ -7891,7 +7942,7 @@
         },
         {
             "id": "148516",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "MNS/Mitchell Research",
             "date": "10/28 - 10/29",
             "sampleSize": " LV",
