@@ -34,6 +34,23 @@
         "polling_end_date":"2024-11-02"
     },
     {
+        "id":"148787",
+        "type":"poll_rcp_avg",
+        "pollster":"Trafalgar Group (R)",
+        "date":"11\/1 - 11\/3",
+        "sampleSize":"1086 LV",
+        "marginError":2.9,
+        "link":"https:\/\/www.thetrafalgargroup.org\/wp-content\/uploads\/2024\/11\/WI-Gen-Pres-Report-1103.pdf",
+        "spread_winner":"Harris",
+        "spread_value":1.0,
+        "harris_value":"48",
+        "trump_value":"47",
+        "name":"2024 Wisconsin: Trump vs. Harris",
+        "slug":"wisconsin",
+        "polling_start_date":"2024-11-01",
+        "polling_end_date":"2024-11-03"
+    },
+    {
         "id":"148660",
         "type":"poll_rcp_avg",
         "pollster":"Atlas Intel",
@@ -273,7 +290,7 @@
     },
     {
         "id":"148169",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Trafalgar Group (R)",
         "date":"10\/18 - 10\/20",
         "sampleSize":"1083 LV",
