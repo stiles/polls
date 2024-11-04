@@ -10279,7 +10279,7 @@
         },
         {
             "id": "148191",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Fabrizio/Anzalone",
             "date": "10/8 - 10/15",
             "sampleSize": "600 LV",
@@ -11063,7 +11063,7 @@
         },
         {
             "id": "148281",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Marist",
             "date": "10/17 - 10/22",
             "sampleSize": "1193 LV",
@@ -15963,6 +15963,23 @@
         }
     ],
     "harris_favorability": [
+        {
+            "id": "148821",
+            "type": "poll_rcp_avg",
+            "pollster": "New York Post",
+            "date": "10/31 - 11/3",
+            "sampleSize": "1044 A",
+            "marginError": 0.0,
+            "link": "https://www.realclearpolitics.com/docs/2024/Leger-x-NYP-Presidential-Election.pdf",
+            "spread_winner": "Unfavorable",
+            "spread_value": 1.0,
+            "favorable_value": "43",
+            "unfavorable_value": "44",
+            "name": "Kamala Harris Favorability",
+            "slug": "harris_favorability",
+            "polling_start_date": "2024-10-31",
+            "polling_end_date": "2024-11-03"
+        },
         {
             "id": "148813",
             "type": "poll_rcp_avg",

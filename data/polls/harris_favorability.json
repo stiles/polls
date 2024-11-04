@@ -1,5 +1,22 @@
 [
     {
+        "id":"148821",
+        "type":"poll_rcp_avg",
+        "pollster":"New York Post",
+        "date":"10\/31 - 11\/3",
+        "sampleSize":"1044 A",
+        "marginError":0.0,
+        "link":"https:\/\/www.realclearpolitics.com\/docs\/2024\/Leger-x-NYP-Presidential-Election.pdf",
+        "spread_winner":"Unfavorable",
+        "spread_value":1.0,
+        "favorable_value":"43",
+        "unfavorable_value":"44",
+        "name":"Kamala Harris Favorability",
+        "slug":"harris_favorability",
+        "polling_start_date":"2024-10-31",
+        "polling_end_date":"2024-11-03"
+    },
+    {
         "id":"148813",
         "type":"poll_rcp_avg",
         "pollster":"NPR\/PBS\/Marist",

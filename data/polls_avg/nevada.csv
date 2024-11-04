@@ -1,2 +1,2 @@
 id,type,pollster,date,sampleSize,marginError,link,spread_winner,spread_value,trump_value,harris_value,name,slug,polling_start_date,polling_end_date
-8306,rcp_average,rcp_average,10/8 - 11/2,,0.0,,Trump,1.0,48.5,47.5,2024 Nevada: Trump vs. Harris,nevada,2024-10-08,2024-11-02
+8306,rcp_average,rcp_average,10/16 - 11/2,,0.0,,Trump,1.0,48.5,47.5,2024 Nevada: Trump vs. Harris,nevada,2024-10-16,2024-11-02

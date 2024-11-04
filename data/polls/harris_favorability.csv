@@ -1,4 +1,5 @@
 id,type,pollster,date,sampleSize,marginError,link,spread_winner,spread_value,favorable_value,unfavorable_value,name,slug,polling_start_date,polling_end_date
+148821,poll_rcp_avg,New York Post,10/31 - 11/3,1044 A,0.0,https://www.realclearpolitics.com/docs/2024/Leger-x-NYP-Presidential-Election.pdf,Unfavorable,1.0,43,44,Kamala Harris Favorability,harris_favorability,2024-10-31,2024-11-03
 148813,poll_rcp_avg,NPR/PBS/Marist,10/31 - 11/2,1297 LV,3.5,https://maristpoll.marist.edu/polls/u-s-presidential-contest-november-2024/,Favorable,3.0,50,47,Kamala Harris Favorability,harris_favorability,2024-10-31,2024-11-02
 148715,poll_rcp_avg,NBC News,10/30 - 11/2,1000 RV,3.0,https://www.nbcnews.com/politics/2024-election/final-nbc-news-poll-harris-trump-race-neck-neck-significant-gender-gap-rcna178361,Unfavorable,7.0,43,50,Kamala Harris Favorability,harris_favorability,2024-10-30,2024-11-02
 148710,poll_rcp_avg,Emerson,10/30 - 11/2,1000 LV,3.0,https://emersoncollegepolling.com/november-2024-national-poll-trump-and-harris-remain-locked-in-tight-race/,Tie,0.0,50,50,Kamala Harris Favorability,harris_favorability,2024-10-30,2024-11-02

@@ -239,7 +239,7 @@
     },
     {
         "id":"148191",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Fabrizio\/Anzalone",
         "date":"10\/8 - 10\/15",
         "sampleSize":"600 LV",

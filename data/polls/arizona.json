@@ -239,7 +239,7 @@
     },
     {
         "id":"148281",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Marist",
         "date":"10\/17 - 10\/22",
         "sampleSize":"1193 LV",

@@ -9,12 +9,12 @@
         "fetched":"2024-11-04"
     },
     {
-        "harris":47.0,
-        "trump":53.0,
+        "harris":48.0,
+        "trump":52.0,
         "source":"FiveThirtyEight",
         "date":"2024-11-04",
         "ahead":"Trump",
-        "ahead_value":53.0,
+        "ahead_value":52.0,
         "fetched":"2024-11-04"
     },
     {
@@ -27,12 +27,12 @@
         "fetched":"2024-11-04"
     },
     {
-        "harris":46.0,
-        "trump":54.0,
+        "harris":47.0,
+        "trump":53.0,
         "source":"The Hill",
-        "date":"2024-11-03",
+        "date":"2024-11-04",
         "ahead":"Trump",
-        "ahead_value":54.0,
+        "ahead_value":53.0,
         "fetched":"2024-11-04"
     },
     {
