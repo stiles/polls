@@ -18,12 +18,12 @@
         "fetched":"2024-11-05"
     },
     {
-        "harris":50.0,
-        "trump":49.0,
+        "harris":56.0,
+        "trump":43.0,
         "source":"Economist",
-        "date":"2024-11-04",
+        "date":"2024-11-05",
         "ahead":"Harris",
-        "ahead_value":50.0,
+        "ahead_value":56.0,
         "fetched":"2024-11-05"
     },
     {
