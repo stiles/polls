@@ -64,9 +64,9 @@ hill_latest['date'] = pd.to_datetime(hill_latest['date'])
 nate_url = f'https://static.dwcdn.net/data/U7Nxm.csv?v={epoch_seconds}'
 nate_src = pd.read_csv(nate_url, storage_options=headers)
 nate_src['source'] = 'Nate Silver'
-nate_src['date'] = pd.to_datetime(nate_src['modeldate'], format='mixed').dt.strftime('%Y-%m-%d')
-nate_src.columns = nate_src.columns.str.lower()
-nate_latest = nate_src.query('date == date.max()').drop(['modeldate'], axis=1).round(0)
+nate_latest = nate_src.pivot(index='source', values='ec_win', columns='Candidate').reset_index().drop('nonmag', axis=1)
+nate_latest.columns = nate_latest.columns.str.lower()
+nate_latest['date'] = today
 
 # FiveThirtyEight
 # The data feed is confusing so just pulling from the page
@@ -128,7 +128,7 @@ def winner_value(row):
 
 # Apply the function to create the 'winning' column
 df['ahead'] = df.apply(determine_winner, axis=1)
-df['ahead_value'] = df.apply(winner_value, axis=1)
+df['ahead_value'] = df.apply(winner_value, axis=1).round(1)
 
 # Export
 
