@@ -1,21 +1,21 @@
 [
     {
-        "harris":49.0,
+        "harris":50.0,
         "trump":50.0,
         "source":"Nate Silver",
-        "date":"2024-11-04",
-        "ahead":"Trump",
-        "ahead_value":50.0,
-        "fetched":"2024-11-04"
+        "date":"2024-11-05",
+        "ahead":"Tie",
+        "ahead_value":"0",
+        "fetched":"2024-11-05"
     },
     {
-        "harris":48.0,
-        "trump":52.0,
+        "harris":50.0,
+        "trump":49.0,
         "source":"FiveThirtyEight",
-        "date":"2024-11-04",
-        "ahead":"Trump",
-        "ahead_value":52.0,
-        "fetched":"2024-11-04"
+        "date":"2024-11-05",
+        "ahead":"Harris",
+        "ahead_value":50.0,
+        "fetched":"2024-11-05"
     },
     {
         "harris":50.0,
@@ -24,7 +24,7 @@
         "date":"2024-11-04",
         "ahead":"Harris",
         "ahead_value":50.0,
-        "fetched":"2024-11-04"
+        "fetched":"2024-11-05"
     },
     {
         "harris":47.0,
@@ -33,6 +33,42 @@
         "date":"2024-11-04",
         "ahead":"Trump",
         "ahead_value":53.0,
+        "fetched":"2024-11-05"
+    },
+    {
+        "harris":49.0,
+        "trump":50.0,
+        "source":"Nate Silver",
+        "date":"2024-11-04",
+        "ahead":"Trump",
+        "ahead_value":50,
+        "fetched":"2024-11-04"
+    },
+    {
+        "harris":48.0,
+        "trump":52.0,
+        "source":"FiveThirtyEight",
+        "date":"2024-11-04",
+        "ahead":"Trump",
+        "ahead_value":52,
+        "fetched":"2024-11-04"
+    },
+    {
+        "harris":50.0,
+        "trump":49.0,
+        "source":"Economist",
+        "date":"2024-11-04",
+        "ahead":"Harris",
+        "ahead_value":50,
+        "fetched":"2024-11-04"
+    },
+    {
+        "harris":47.0,
+        "trump":53.0,
+        "source":"The Hill",
+        "date":"2024-11-04",
+        "ahead":"Trump",
+        "ahead_value":53,
         "fetched":"2024-11-04"
     },
     {
@@ -41,7 +77,7 @@
         "source":"Nate Silver",
         "date":"2024-11-03",
         "ahead":"Trump",
-        "ahead_value":52.0,
+        "ahead_value":52,
         "fetched":"2024-11-03"
     },
     {
@@ -50,7 +86,7 @@
         "source":"FiveThirtyEight",
         "date":"2024-11-03",
         "ahead":"Trump",
-        "ahead_value":53.0,
+        "ahead_value":53,
         "fetched":"2024-11-03"
     },
     {
@@ -59,7 +95,7 @@
         "source":"Economist",
         "date":"2024-11-03",
         "ahead":"Trump",
-        "ahead_value":50.0,
+        "ahead_value":50,
         "fetched":"2024-11-03"
     },
     {
@@ -68,7 +104,7 @@
         "source":"The Hill",
         "date":"2024-11-03",
         "ahead":"Trump",
-        "ahead_value":54.0,
+        "ahead_value":54,
         "fetched":"2024-11-03"
     },
     {
@@ -77,7 +113,7 @@
         "source":"Nate Silver",
         "date":"2024-11-02",
         "ahead":"Trump",
-        "ahead_value":51.0,
+        "ahead_value":51,
         "fetched":"2024-11-02"
     },
     {
@@ -86,7 +122,7 @@
         "source":"FiveThirtyEight",
         "date":"2024-11-02",
         "ahead":"Trump",
-        "ahead_value":50.0,
+        "ahead_value":50,
         "fetched":"2024-11-02"
     },
     {
@@ -95,7 +131,7 @@
         "source":"Economist",
         "date":"2024-11-02",
         "ahead":"Harris",
-        "ahead_value":52.0,
+        "ahead_value":52,
         "fetched":"2024-11-02"
     },
     {
@@ -104,7 +140,7 @@
         "source":"The Hill",
         "date":"2024-11-02",
         "ahead":"Trump",
-        "ahead_value":53.0,
+        "ahead_value":53,
         "fetched":"2024-11-02"
     },
     {
@@ -113,7 +149,7 @@
         "source":"Nate Silver",
         "date":"2024-11-01",
         "ahead":"Trump",
-        "ahead_value":54.0,
+        "ahead_value":54,
         "fetched":"2024-11-01"
     },
     {
@@ -122,7 +158,7 @@
         "source":"FiveThirtyEight",
         "date":"2024-11-01",
         "ahead":"Trump",
-        "ahead_value":52.0,
+        "ahead_value":52,
         "fetched":"2024-11-01"
     },
     {
@@ -131,7 +167,7 @@
         "source":"Economist",
         "date":"2024-11-01",
         "ahead":"Trump",
-        "ahead_value":51.0,
+        "ahead_value":51,
         "fetched":"2024-11-01"
     },
     {
@@ -140,7 +176,7 @@
         "source":"The Hill",
         "date":"2024-11-01",
         "ahead":"Trump",
-        "ahead_value":54.0,
+        "ahead_value":54,
         "fetched":"2024-11-01"
     },
     {
@@ -149,7 +185,7 @@
         "source":"Nate Silver",
         "date":"2024-10-31",
         "ahead":"Trump",
-        "ahead_value":55.0,
+        "ahead_value":55,
         "fetched":"2024-10-31"
     },
     {
@@ -158,7 +194,7 @@
         "source":"FiveThirtyEight",
         "date":"2024-10-31",
         "ahead":"Trump",
-        "ahead_value":53.0,
+        "ahead_value":53,
         "fetched":"2024-10-31"
     },
     {
@@ -167,7 +203,7 @@
         "source":"Economist",
         "date":"2024-10-31",
         "ahead":"Harris",
-        "ahead_value":50.0,
+        "ahead_value":50,
         "fetched":"2024-10-31"
     },
     {
@@ -176,7 +212,7 @@
         "source":"The Hill",
         "date":"2024-10-31",
         "ahead":"Trump",
-        "ahead_value":53.0,
+        "ahead_value":53,
         "fetched":"2024-10-31"
     },
     {
@@ -185,7 +221,7 @@
         "source":"Nate Silver",
         "date":"2024-10-30",
         "ahead":"Trump",
-        "ahead_value":54.0,
+        "ahead_value":54,
         "fetched":"2024-10-30"
     },
     {
@@ -194,7 +230,7 @@
         "source":"FiveThirtyEight",
         "date":"2024-10-30",
         "ahead":"Trump",
-        "ahead_value":51.0,
+        "ahead_value":51,
         "fetched":"2024-10-30"
     },
     {
@@ -203,7 +239,7 @@
         "source":"Economist",
         "date":"2024-10-30",
         "ahead":"Tie",
-        "ahead_value":0.0,
+        "ahead_value":0,
         "fetched":"2024-10-30"
     },
     {
@@ -212,7 +248,7 @@
         "source":"The Hill",
         "date":"2024-10-30",
         "ahead":"Trump",
-        "ahead_value":53.0,
+        "ahead_value":53,
         "fetched":"2024-10-30"
     },
     {
@@ -221,7 +257,7 @@
         "source":"Nate Silver",
         "date":"2024-10-29",
         "ahead":"Trump",
-        "ahead_value":55.0,
+        "ahead_value":55,
         "fetched":"2024-10-29"
     },
     {
@@ -230,7 +266,7 @@
         "source":"FiveThirtyEight",
         "date":"2024-10-29",
         "ahead":"Trump",
-        "ahead_value":52.0,
+        "ahead_value":52,
         "fetched":"2024-10-29"
     },
     {
@@ -239,7 +275,7 @@
         "source":"Economist",
         "date":"2024-10-29",
         "ahead":"Trump",
-        "ahead_value":55.0,
+        "ahead_value":55,
         "fetched":"2024-10-29"
     },
     {
@@ -248,7 +284,7 @@
         "source":"The Hill",
         "date":"2024-10-29",
         "ahead":"Trump",
-        "ahead_value":54.0,
+        "ahead_value":54,
         "fetched":"2024-10-29"
     },
     {
@@ -257,7 +293,7 @@
         "source":"Nate Silver",
         "date":"2024-10-28",
         "ahead":"Trump",
-        "ahead_value":55.0,
+        "ahead_value":55,
         "fetched":"2024-10-28"
     },
     {
@@ -266,7 +302,7 @@
         "source":"FiveThirtyEight",
         "date":"2024-10-28",
         "ahead":"Trump",
-        "ahead_value":54.0,
+        "ahead_value":54,
         "fetched":"2024-10-28"
     },
     {
@@ -275,7 +311,7 @@
         "source":"Economist",
         "date":"2024-10-28",
         "ahead":"Trump",
-        "ahead_value":54.0,
+        "ahead_value":54,
         "fetched":"2024-10-28"
     },
     {
@@ -284,7 +320,7 @@
         "source":"The Hill",
         "date":"2024-10-28",
         "ahead":"Trump",
-        "ahead_value":54.0,
+        "ahead_value":54,
         "fetched":"2024-10-28"
     },
     {
@@ -293,7 +329,7 @@
         "source":"Nate Silver",
         "date":"2024-10-27",
         "ahead":"Trump",
-        "ahead_value":53.0,
+        "ahead_value":53,
         "fetched":"2024-10-27"
     },
     {
@@ -302,7 +338,7 @@
         "source":"FiveThirtyEight",
         "date":"2024-10-27",
         "ahead":"Trump",
-        "ahead_value":52.0,
+        "ahead_value":52,
         "fetched":"2024-10-27"
     },
     {
@@ -311,7 +347,7 @@
         "source":"Economist",
         "date":"2024-10-27",
         "ahead":"Trump",
-        "ahead_value":54.0,
+        "ahead_value":54,
         "fetched":"2024-10-27"
     },
     {
@@ -320,7 +356,7 @@
         "source":"The Hill",
         "date":"2024-10-27",
         "ahead":"Trump",
-        "ahead_value":53.0,
+        "ahead_value":53,
         "fetched":"2024-10-27"
     },
     {
@@ -329,7 +365,7 @@
         "source":"Nate Silver",
         "date":"2024-10-26",
         "ahead":"Trump",
-        "ahead_value":53.0,
+        "ahead_value":53,
         "fetched":"2024-10-26"
     },
     {
@@ -338,7 +374,7 @@
         "source":"FiveThirtyEight",
         "date":"2024-10-26",
         "ahead":"Trump",
-        "ahead_value":54.0,
+        "ahead_value":54,
         "fetched":"2024-10-26"
     },
     {
@@ -347,7 +383,7 @@
         "source":"Economist",
         "date":"2024-10-26",
         "ahead":"Trump",
-        "ahead_value":53.0,
+        "ahead_value":53,
         "fetched":"2024-10-26"
     },
     {
@@ -356,7 +392,7 @@
         "source":"The Hill",
         "date":"2024-10-26",
         "ahead":"Trump",
-        "ahead_value":53.0,
+        "ahead_value":53,
         "fetched":"2024-10-26"
     },
     {
@@ -365,7 +401,7 @@
         "source":"Nate Silver",
         "date":"2024-10-25",
         "ahead":"Trump",
-        "ahead_value":53.0,
+        "ahead_value":53,
         "fetched":"2024-10-25"
     },
     {
@@ -374,7 +410,7 @@
         "source":"FiveThirtyEight",
         "date":"2024-10-25",
         "ahead":"Trump",
-        "ahead_value":53.0,
+        "ahead_value":53,
         "fetched":"2024-10-25"
     },
     {
@@ -383,7 +419,7 @@
         "source":"Economist",
         "date":"2024-10-25",
         "ahead":"Trump",
-        "ahead_value":52.0,
+        "ahead_value":52,
         "fetched":"2024-10-25"
     },
     {
@@ -392,7 +428,7 @@
         "source":"The Hill",
         "date":"2024-10-25",
         "ahead":"Trump",
-        "ahead_value":52.0,
+        "ahead_value":52,
         "fetched":"2024-10-25"
     },
     {
@@ -401,7 +437,7 @@
         "source":"Nate Silver",
         "date":"2024-10-24",
         "ahead":"Trump",
-        "ahead_value":54.0,
+        "ahead_value":54,
         "fetched":"2024-10-24"
     },
     {
@@ -410,7 +446,7 @@
         "source":"FiveThirtyEight",
         "date":"2024-10-24",
         "ahead":"Trump",
-        "ahead_value":51.0,
+        "ahead_value":51,
         "fetched":"2024-10-24"
     },
     {
@@ -419,7 +455,7 @@
         "source":"Economist",
         "date":"2024-10-24",
         "ahead":"Trump",
-        "ahead_value":52.0,
+        "ahead_value":52,
         "fetched":"2024-10-24"
     },
     {
@@ -428,7 +464,7 @@
         "source":"The Hill",
         "date":"2024-10-24",
         "ahead":"Trump",
-        "ahead_value":52.0,
+        "ahead_value":52,
         "fetched":"2024-10-24"
     },
     {
@@ -437,7 +473,7 @@
         "source":"Nate Silver",
         "date":"2024-10-23",
         "ahead":"Trump",
-        "ahead_value":53.0,
+        "ahead_value":53,
         "fetched":"2024-10-23"
     },
     {
@@ -446,7 +482,7 @@
         "source":"FiveThirtyEight",
         "date":"2024-10-23",
         "ahead":"Trump",
-        "ahead_value":51.0,
+        "ahead_value":51,
         "fetched":"2024-10-23"
     },
     {
@@ -455,7 +491,7 @@
         "source":"Economist",
         "date":"2024-10-23",
         "ahead":"Trump",
-        "ahead_value":55.0,
+        "ahead_value":55,
         "fetched":"2024-10-23"
     },
     {
@@ -464,7 +500,7 @@
         "source":"The Hill",
         "date":"2024-10-23",
         "ahead":"Trump",
-        "ahead_value":52.0,
+        "ahead_value":52,
         "fetched":"2024-10-23"
     },
     {
@@ -473,7 +509,7 @@
         "source":"Nate Silver",
         "date":"2024-10-22",
         "ahead":"Trump",
-        "ahead_value":53.0,
+        "ahead_value":53,
         "fetched":"2024-10-22"
     },
     {
@@ -482,7 +518,7 @@
         "source":"FiveThirtyEight",
         "date":"2024-10-22",
         "ahead":"Trump",
-        "ahead_value":51.0,
+        "ahead_value":51,
         "fetched":"2024-10-22"
     },
     {
@@ -491,7 +527,7 @@
         "source":"Economist",
         "date":"2024-10-22",
         "ahead":"Trump",
-        "ahead_value":54.0,
+        "ahead_value":54,
         "fetched":"2024-10-22"
     },
     {
@@ -500,7 +536,7 @@
         "source":"The Hill",
         "date":"2024-10-22",
         "ahead":"Trump",
-        "ahead_value":52.0,
+        "ahead_value":52,
         "fetched":"2024-10-22"
     },
     {
@@ -509,7 +545,7 @@
         "source":"Nate Silver",
         "date":"2024-10-21",
         "ahead":"Trump",
-        "ahead_value":53.0,
+        "ahead_value":53,
         "fetched":"2024-10-21"
     },
     {
@@ -518,7 +554,7 @@
         "source":"FiveThirtyEight",
         "date":"2024-10-21",
         "ahead":"Trump",
-        "ahead_value":51.0,
+        "ahead_value":51,
         "fetched":"2024-10-21"
     },
     {
@@ -527,7 +563,7 @@
         "source":"Economist",
         "date":"2024-10-21",
         "ahead":"Trump",
-        "ahead_value":54.0,
+        "ahead_value":54,
         "fetched":"2024-10-21"
     },
     {
@@ -536,7 +572,7 @@
         "source":"The Hill",
         "date":"2024-10-21",
         "ahead":"Trump",
-        "ahead_value":52.0,
+        "ahead_value":52,
         "fetched":"2024-10-21"
     },
     {
@@ -545,7 +581,7 @@
         "source":"Nate Silver",
         "date":"2024-10-20",
         "ahead":"Trump",
-        "ahead_value":53.0,
+        "ahead_value":53,
         "fetched":"2024-10-20"
     },
     {
@@ -554,7 +590,7 @@
         "source":"FiveThirtyEight",
         "date":"2024-10-20",
         "ahead":"Trump",
-        "ahead_value":53.0,
+        "ahead_value":53,
         "fetched":"2024-10-20"
     },
     {
@@ -563,7 +599,7 @@
         "source":"Economist",
         "date":"2024-10-18",
         "ahead":"Harris",
-        "ahead_value":53.0,
+        "ahead_value":53,
         "fetched":"2024-10-20"
     },
     {
@@ -572,7 +608,7 @@
         "source":"The Hill",
         "date":"2024-10-20",
         "ahead":"Trump",
-        "ahead_value":52.0,
+        "ahead_value":52,
         "fetched":"2024-10-20"
     },
     {
@@ -581,7 +617,7 @@
         "source":"Nate Silver",
         "date":"2024-10-19",
         "ahead":"Trump",
-        "ahead_value":51.0,
+        "ahead_value":51,
         "fetched":"2024-10-19"
     },
     {
@@ -590,7 +626,7 @@
         "source":"FiveThirtyEight",
         "date":"2024-10-19",
         "ahead":"Trump",
-        "ahead_value":52.0,
+        "ahead_value":52,
         "fetched":"2024-10-19"
     },
     {
@@ -599,7 +635,7 @@
         "source":"Economist",
         "date":"2024-10-18",
         "ahead":"Harris",
-        "ahead_value":53.0,
+        "ahead_value":53,
         "fetched":"2024-10-19"
     },
     {
@@ -608,7 +644,7 @@
         "source":"The Hill",
         "date":"2024-10-17",
         "ahead":"Tie",
-        "ahead_value":0.0,
+        "ahead_value":0,
         "fetched":"2024-10-19"
     },
     {
@@ -617,7 +653,7 @@
         "source":"Nate Silver",
         "date":"2024-10-18",
         "ahead":"Trump",
-        "ahead_value":52.0,
+        "ahead_value":52,
         "fetched":"2024-10-18"
     },
     {
@@ -626,7 +662,7 @@
         "source":"FiveThirtyEight",
         "date":"2024-10-18",
         "ahead":"Trump",
-        "ahead_value":51.0,
+        "ahead_value":51,
         "fetched":"2024-10-18"
     },
     {
@@ -635,7 +671,7 @@
         "source":"Economist",
         "date":"2024-10-18",
         "ahead":"Harris",
-        "ahead_value":53.0,
+        "ahead_value":53,
         "fetched":"2024-10-18"
     },
     {
@@ -644,7 +680,7 @@
         "source":"The Hill",
         "date":"2024-10-17",
         "ahead":"Tie",
-        "ahead_value":0.0,
+        "ahead_value":0,
         "fetched":"2024-10-18"
     },
     {
@@ -653,7 +689,7 @@
         "source":"Nate Silver",
         "date":"2024-10-17",
         "ahead":"Tie",
-        "ahead_value":0.0,
+        "ahead_value":0,
         "fetched":"2024-10-17"
     },
     {
@@ -662,7 +698,7 @@
         "source":"FiveThirtyEight",
         "date":"2024-10-17",
         "ahead":"Harris",
-        "ahead_value":52.0,
+        "ahead_value":52,
         "fetched":"2024-10-17"
     },
     {
@@ -671,7 +707,7 @@
         "source":"Economist",
         "date":"2024-10-17",
         "ahead":"Harris",
-        "ahead_value":54.0,
+        "ahead_value":54,
         "fetched":"2024-10-17"
     },
     {
@@ -680,7 +716,7 @@
         "source":"The Hill",
         "date":"2024-10-17",
         "ahead":"Tie",
-        "ahead_value":0.0,
+        "ahead_value":0,
         "fetched":"2024-10-17"
     },
     {
@@ -689,7 +725,7 @@
         "source":"Nate Silver",
         "date":"2024-10-05",
         "ahead":"Harris",
-        "ahead_value":56.0,
+        "ahead_value":56,
         "fetched":"2024-10-16"
     },
     {
@@ -698,7 +734,7 @@
         "source":"FiveThirtyEight",
         "date":"2024-10-16",
         "ahead":"Harris",
-        "ahead_value":53.0,
+        "ahead_value":53,
         "fetched":"2024-10-16"
     },
     {
@@ -707,7 +743,7 @@
         "source":"Economist",
         "date":"2024-10-16",
         "ahead":"Harris",
-        "ahead_value":53.0,
+        "ahead_value":53,
         "fetched":"2024-10-16"
     },
     {
@@ -716,7 +752,7 @@
         "source":"The Hill",
         "date":"2024-10-16",
         "ahead":"Tie",
-        "ahead_value":0.0,
+        "ahead_value":0,
         "fetched":"2024-10-16"
     },
     {
@@ -725,7 +761,7 @@
         "source":"Nate Silver",
         "date":"2024-10-05",
         "ahead":"Harris",
-        "ahead_value":56.0,
+        "ahead_value":56,
         "fetched":"2024-10-15"
     },
     {
@@ -734,7 +770,7 @@
         "source":"FiveThirtyEight",
         "date":"2024-10-15",
         "ahead":"Harris",
-        "ahead_value":54.0,
+        "ahead_value":54,
         "fetched":"2024-10-15"
     },
     {
@@ -743,7 +779,7 @@
         "source":"Economist",
         "date":"2024-10-15",
         "ahead":"Harris",
-        "ahead_value":54.0,
+        "ahead_value":54,
         "fetched":"2024-10-15"
     },
     {
@@ -752,7 +788,7 @@
         "source":"The Hill",
         "date":"2024-10-15",
         "ahead":"Harris",
-        "ahead_value":51.0,
+        "ahead_value":51,
         "fetched":"2024-10-15"
     },
     {
@@ -761,7 +797,7 @@
         "source":"Nate Silver",
         "date":"2024-10-05",
         "ahead":"Harris",
-        "ahead_value":56.0,
+        "ahead_value":56,
         "fetched":"2024-10-14"
     },
     {
@@ -770,7 +806,7 @@
         "source":"FiveThirtyEight",
         "date":"2024-10-14",
         "ahead":"Harris",
-        "ahead_value":54.0,
+        "ahead_value":54,
         "fetched":"2024-10-14"
     },
     {
@@ -779,7 +815,7 @@
         "source":"Economist",
         "date":"2024-10-14",
         "ahead":"Harris",
-        "ahead_value":51.0,
+        "ahead_value":51,
         "fetched":"2024-10-14"
     },
     {
@@ -788,7 +824,7 @@
         "source":"The Hill",
         "date":"2024-10-14",
         "ahead":"Harris",
-        "ahead_value":51.0,
+        "ahead_value":51,
         "fetched":"2024-10-14"
     },
     {
@@ -797,7 +833,7 @@
         "source":"Nate Silver",
         "date":"2024-10-05",
         "ahead":"Harris",
-        "ahead_value":56.0,
+        "ahead_value":56,
         "fetched":"2024-10-13"
     },
     {
@@ -806,7 +842,7 @@
         "source":"FiveThirtyEight",
         "date":"2024-10-13",
         "ahead":"Harris",
-        "ahead_value":53.0,
+        "ahead_value":53,
         "fetched":"2024-10-13"
     },
     {
@@ -815,7 +851,7 @@
         "source":"Economist",
         "date":"2024-10-11",
         "ahead":"Harris",
-        "ahead_value":51.0,
+        "ahead_value":51,
         "fetched":"2024-10-13"
     },
     {
@@ -824,7 +860,7 @@
         "source":"The Hill",
         "date":"2024-10-13",
         "ahead":"Harris",
-        "ahead_value":51.0,
+        "ahead_value":51,
         "fetched":"2024-10-13"
     },
     {
@@ -833,7 +869,7 @@
         "source":"Nate Silver",
         "date":"2024-10-05",
         "ahead":"Harris",
-        "ahead_value":56.0,
+        "ahead_value":56,
         "fetched":"2024-10-12"
     },
     {
@@ -842,7 +878,7 @@
         "source":"FiveThirtyEight",
         "date":"2024-10-12",
         "ahead":"Harris",
-        "ahead_value":53.0,
+        "ahead_value":53,
         "fetched":"2024-10-12"
     },
     {
@@ -851,7 +887,7 @@
         "source":"Economist",
         "date":"2024-10-11",
         "ahead":"Harris",
-        "ahead_value":51.0,
+        "ahead_value":51,
         "fetched":"2024-10-12"
     },
     {
@@ -860,7 +896,7 @@
         "source":"The Hill",
         "date":"2024-10-12",
         "ahead":"Harris",
-        "ahead_value":51.0,
+        "ahead_value":51,
         "fetched":"2024-10-12"
     },
     {
@@ -869,7 +905,7 @@
         "source":"Nate Silver",
         "date":"2024-10-05",
         "ahead":"Harris",
-        "ahead_value":56.0,
+        "ahead_value":56,
         "fetched":"2024-10-11"
     },
     {
@@ -878,7 +914,7 @@
         "source":"FiveThirtyEight",
         "date":"2024-10-11",
         "ahead":"Harris",
-        "ahead_value":53.0,
+        "ahead_value":53,
         "fetched":"2024-10-11"
     },
     {
@@ -887,7 +923,7 @@
         "source":"Economist",
         "date":"2024-10-11",
         "ahead":"Harris",
-        "ahead_value":51.0,
+        "ahead_value":51,
         "fetched":"2024-10-11"
     },
     {
@@ -896,7 +932,7 @@
         "source":"The Hill",
         "date":"2024-10-11",
         "ahead":"Harris",
-        "ahead_value":51.0,
+        "ahead_value":51,
         "fetched":"2024-10-11"
     },
     {
@@ -905,7 +941,7 @@
         "source":"Nate Silver",
         "date":"2024-10-05",
         "ahead":"Harris",
-        "ahead_value":56.0,
+        "ahead_value":56,
         "fetched":"2024-10-10"
     },
     {
@@ -914,7 +950,7 @@
         "source":"FiveThirtyEight",
         "date":"2024-10-10",
         "ahead":"Harris",
-        "ahead_value":55.0,
+        "ahead_value":55,
         "fetched":"2024-10-10"
     },
     {
@@ -923,7 +959,7 @@
         "source":"Economist",
         "date":"2024-10-10",
         "ahead":"Harris",
-        "ahead_value":51.0,
+        "ahead_value":51,
         "fetched":"2024-10-10"
     },
     {
@@ -932,7 +968,7 @@
         "source":"The Hill",
         "date":"2024-10-10",
         "ahead":"Harris",
-        "ahead_value":51.0,
+        "ahead_value":51,
         "fetched":"2024-10-10"
     },
     {
@@ -941,7 +977,7 @@
         "source":"Nate Silver",
         "date":"2024-10-05",
         "ahead":"Harris",
-        "ahead_value":56.0,
+        "ahead_value":56,
         "fetched":"2024-10-09"
     },
     {
@@ -950,7 +986,7 @@
         "source":"FiveThirtyEight",
         "date":"2024-10-09",
         "ahead":"Harris",
-        "ahead_value":53.0,
+        "ahead_value":53,
         "fetched":"2024-10-09"
     },
     {
@@ -959,7 +995,7 @@
         "source":"Economist",
         "date":"2024-10-09",
         "ahead":"Harris",
-        "ahead_value":53.0,
+        "ahead_value":53,
         "fetched":"2024-10-09"
     },
     {
@@ -968,7 +1004,7 @@
         "source":"The Hill",
         "date":"2024-10-09",
         "ahead":"Harris",
-        "ahead_value":52.0,
+        "ahead_value":52,
         "fetched":"2024-10-09"
     },
     {
@@ -977,7 +1013,7 @@
         "source":"Nate Silver",
         "date":"2024-10-05",
         "ahead":"Harris",
-        "ahead_value":56.0,
+        "ahead_value":56,
         "fetched":"2024-10-08"
     },
     {
@@ -986,7 +1022,7 @@
         "source":"FiveThirtyEight",
         "date":"2024-10-08",
         "ahead":"Harris",
-        "ahead_value":55.0,
+        "ahead_value":55,
         "fetched":"2024-10-08"
     },
     {
@@ -995,7 +1031,7 @@
         "source":"Economist",
         "date":"2024-10-08",
         "ahead":"Harris",
-        "ahead_value":53.0,
+        "ahead_value":53,
         "fetched":"2024-10-08"
     },
     {
@@ -1004,7 +1040,7 @@
         "source":"The Hill",
         "date":"2024-10-08",
         "ahead":"Harris",
-        "ahead_value":52.0,
+        "ahead_value":52,
         "fetched":"2024-10-08"
     },
     {
@@ -1013,7 +1049,7 @@
         "source":"Nate Silver",
         "date":"2024-10-05",
         "ahead":"Harris",
-        "ahead_value":56.0,
+        "ahead_value":56,
         "fetched":"2024-10-07"
     },
     {
@@ -1022,7 +1058,7 @@
         "source":"FiveThirtyEight",
         "date":"2024-10-07",
         "ahead":"Harris",
-        "ahead_value":55.0,
+        "ahead_value":55,
         "fetched":"2024-10-07"
     },
     {
@@ -1031,7 +1067,7 @@
         "source":"Economist",
         "date":"2024-10-07",
         "ahead":"Harris",
-        "ahead_value":52.0,
+        "ahead_value":52,
         "fetched":"2024-10-07"
     },
     {
@@ -1040,7 +1076,7 @@
         "source":"The Hill",
         "date":"2024-10-07",
         "ahead":"Harris",
-        "ahead_value":53.0,
+        "ahead_value":53,
         "fetched":"2024-10-07"
     },
     {
@@ -1049,7 +1085,7 @@
         "source":"Nate Silver",
         "date":"2024-10-05",
         "ahead":"Harris",
-        "ahead_value":56.0,
+        "ahead_value":56,
         "fetched":"2024-10-06"
     },
     {
@@ -1058,7 +1094,7 @@
         "source":"FiveThirtyEight",
         "date":"2024-10-06",
         "ahead":"Harris",
-        "ahead_value":55.0,
+        "ahead_value":55,
         "fetched":"2024-10-06"
     },
     {
@@ -1067,7 +1103,7 @@
         "source":"Economist",
         "date":"2024-10-04",
         "ahead":"Harris",
-        "ahead_value":54.0,
+        "ahead_value":54,
         "fetched":"2024-10-06"
     },
     {
@@ -1076,7 +1112,7 @@
         "source":"The Hill",
         "date":"2024-10-06",
         "ahead":"Harris",
-        "ahead_value":54.0,
+        "ahead_value":54,
         "fetched":"2024-10-06"
     },
     {
@@ -1085,7 +1121,7 @@
         "source":"Nate Silver",
         "date":"2024-10-05",
         "ahead":"Harris",
-        "ahead_value":56.0,
+        "ahead_value":56,
         "fetched":"2024-10-05"
     },
     {
@@ -1094,7 +1130,7 @@
         "source":"FiveThirtyEight",
         "date":"2024-10-05",
         "ahead":"Harris",
-        "ahead_value":55.0,
+        "ahead_value":55,
         "fetched":"2024-10-05"
     },
     {
@@ -1103,7 +1139,7 @@
         "source":"Economist",
         "date":"2024-10-04",
         "ahead":"Harris",
-        "ahead_value":54.0,
+        "ahead_value":54,
         "fetched":"2024-10-05"
     },
     {
@@ -1112,7 +1148,7 @@
         "source":"The Hill",
         "date":"2024-10-04",
         "ahead":"Harris",
-        "ahead_value":54.0,
+        "ahead_value":54,
         "fetched":"2024-10-05"
     },
     {
@@ -1121,7 +1157,7 @@
         "source":"Nate Silver",
         "date":"2024-10-04",
         "ahead":"Harris",
-        "ahead_value":56.0,
+        "ahead_value":56,
         "fetched":"2024-10-04"
     },
     {
@@ -1130,7 +1166,7 @@
         "source":"FiveThirtyEight",
         "date":"2024-10-04",
         "ahead":"Harris",
-        "ahead_value":54.0,
+        "ahead_value":54,
         "fetched":"2024-10-04"
     },
     {
@@ -1139,7 +1175,7 @@
         "source":"Economist",
         "date":"2024-10-04",
         "ahead":"Harris",
-        "ahead_value":54.0,
+        "ahead_value":54,
         "fetched":"2024-10-04"
     },
     {
@@ -1148,7 +1184,7 @@
         "source":"The Hill",
         "date":"2024-10-04",
         "ahead":"Harris",
-        "ahead_value":54.0,
+        "ahead_value":54,
         "fetched":"2024-10-04"
     },
     {
@@ -1157,7 +1193,7 @@
         "source":"Nate Silver",
         "date":"2024-10-03",
         "ahead":"Harris",
-        "ahead_value":57.0,
+        "ahead_value":57,
         "fetched":"2024-10-03"
     },
     {
@@ -1166,7 +1202,7 @@
         "source":"FiveThirtyEight",
         "date":"2024-10-03",
         "ahead":"Harris",
-        "ahead_value":57.0,
+        "ahead_value":57,
         "fetched":"2024-10-03"
     },
     {
@@ -1175,7 +1211,7 @@
         "source":"Economist",
         "date":"2024-10-03",
         "ahead":"Harris",
-        "ahead_value":55.0,
+        "ahead_value":55,
         "fetched":"2024-10-03"
     },
     {
@@ -1184,7 +1220,7 @@
         "source":"The Hill",
         "date":"2024-10-03",
         "ahead":"Harris",
-        "ahead_value":54.0,
+        "ahead_value":54,
         "fetched":"2024-10-03"
     },
     {
@@ -1193,7 +1229,7 @@
         "source":"Nate Silver",
         "date":"2024-10-02",
         "ahead":"Harris",
-        "ahead_value":57.0,
+        "ahead_value":57,
         "fetched":"2024-10-02"
     },
     {
@@ -1202,7 +1238,7 @@
         "source":"FiveThirtyEight",
         "date":"2024-10-02",
         "ahead":"Harris",
-        "ahead_value":58.0,
+        "ahead_value":58,
         "fetched":"2024-10-02"
     },
     {
@@ -1211,7 +1247,7 @@
         "source":"Economist",
         "date":"2024-10-02",
         "ahead":"Harris",
-        "ahead_value":56.0,
+        "ahead_value":56,
         "fetched":"2024-10-02"
     },
     {
@@ -1220,7 +1256,7 @@
         "source":"The Hill",
         "date":"2024-10-02",
         "ahead":"Harris",
-        "ahead_value":55.0,
+        "ahead_value":55,
         "fetched":"2024-10-02"
     },
     {
@@ -1229,7 +1265,7 @@
         "source":"Nate Silver",
         "date":"2024-10-01",
         "ahead":"Harris",
-        "ahead_value":56.0,
+        "ahead_value":56,
         "fetched":"2024-10-01"
     },
     {
@@ -1238,7 +1274,7 @@
         "source":"FiveThirtyEight",
         "date":"2024-10-01",
         "ahead":"Harris",
-        "ahead_value":56.0,
+        "ahead_value":56,
         "fetched":"2024-10-01"
     },
     {
@@ -1247,7 +1283,7 @@
         "source":"Economist",
         "date":"2024-10-01",
         "ahead":"Harris",
-        "ahead_value":55.0,
+        "ahead_value":55,
         "fetched":"2024-10-01"
     },
     {
@@ -1256,7 +1292,7 @@
         "source":"The Hill",
         "date":"2024-09-30",
         "ahead":"Harris",
-        "ahead_value":55.0,
+        "ahead_value":55,
         "fetched":"2024-10-01"
     },
     {
@@ -1265,7 +1301,7 @@
         "source":"Nate Silver",
         "date":"2024-09-30",
         "ahead":"Harris",
-        "ahead_value":55.0,
+        "ahead_value":55,
         "fetched":"2024-09-30"
     },
     {
@@ -1274,7 +1310,7 @@
         "source":"FiveThirtyEight",
         "date":"2024-09-30",
         "ahead":"Harris",
-        "ahead_value":57.0,
+        "ahead_value":57,
         "fetched":"2024-09-30"
     },
     {
@@ -1283,7 +1319,7 @@
         "source":"Economist",
         "date":"2024-09-30",
         "ahead":"Harris",
-        "ahead_value":57.0,
+        "ahead_value":57,
         "fetched":"2024-09-30"
     },
     {
@@ -1292,7 +1328,7 @@
         "source":"The Hill",
         "date":"2024-09-30",
         "ahead":"Harris",
-        "ahead_value":55.0,
+        "ahead_value":55,
         "fetched":"2024-09-30"
     },
     {
@@ -1301,7 +1337,7 @@
         "source":"Nate Silver",
         "date":"2024-09-29",
         "ahead":"Harris",
-        "ahead_value":56.0,
+        "ahead_value":56,
         "fetched":"2024-09-29"
     },
     {
@@ -1310,7 +1346,7 @@
         "source":"FiveThirtyEight",
         "date":"2024-09-29",
         "ahead":"Harris",
-        "ahead_value":59.0,
+        "ahead_value":59,
         "fetched":"2024-09-29"
     },
     {
@@ -1319,7 +1355,7 @@
         "source":"Economist",
         "date":"2024-09-27",
         "ahead":"Harris",
-        "ahead_value":58.0,
+        "ahead_value":58,
         "fetched":"2024-09-29"
     },
     {
@@ -1328,7 +1364,7 @@
         "source":"The Hill",
         "date":"2024-09-29",
         "ahead":"Harris",
-        "ahead_value":55.0,
+        "ahead_value":55,
         "fetched":"2024-09-29"
     },
     {
@@ -1337,7 +1373,7 @@
         "source":"Nate Silver",
         "date":"2024-09-28",
         "ahead":"Harris",
-        "ahead_value":57.0,
+        "ahead_value":57,
         "fetched":"2024-09-28"
     },
     {
@@ -1346,7 +1382,7 @@
         "source":"FiveThirtyEight",
         "date":"2024-09-28",
         "ahead":"Harris",
-        "ahead_value":58.0,
+        "ahead_value":58,
         "fetched":"2024-09-28"
     },
     {
@@ -1355,7 +1391,7 @@
         "source":"Economist",
         "date":"2024-09-27",
         "ahead":"Harris",
-        "ahead_value":58.0,
+        "ahead_value":58,
         "fetched":"2024-09-28"
     },
     {
@@ -1364,7 +1400,7 @@
         "source":"The Hill",
         "date":"2024-09-28",
         "ahead":"Harris",
-        "ahead_value":56.0,
+        "ahead_value":56,
         "fetched":"2024-09-28"
     },
     {
@@ -1373,7 +1409,7 @@
         "source":"Nate Silver",
         "date":"2024-09-27",
         "ahead":"Harris",
-        "ahead_value":58.0,
+        "ahead_value":58,
         "fetched":"2024-09-27"
     },
     {
@@ -1382,7 +1418,7 @@
         "source":"FiveThirtyEight",
         "date":"2024-09-27",
         "ahead":"Harris",
-        "ahead_value":57.0,
+        "ahead_value":57,
         "fetched":"2024-09-27"
     },
     {
@@ -1391,7 +1427,7 @@
         "source":"Economist",
         "date":"2024-09-27",
         "ahead":"Harris",
-        "ahead_value":58.0,
+        "ahead_value":58,
         "fetched":"2024-09-27"
     },
     {
@@ -1400,7 +1436,7 @@
         "source":"The Hill",
         "date":"2024-09-27",
         "ahead":"Harris",
-        "ahead_value":56.0,
+        "ahead_value":56,
         "fetched":"2024-09-27"
     },
     {
@@ -1409,7 +1445,7 @@
         "source":"Nate Silver",
         "date":"2024-09-26",
         "ahead":"Harris",
-        "ahead_value":55.0,
+        "ahead_value":55,
         "fetched":"2024-09-26"
     },
     {
@@ -1418,7 +1454,7 @@
         "source":"FiveThirtyEight",
         "date":"2024-09-26",
         "ahead":"Harris",
-        "ahead_value":57.0,
+        "ahead_value":57,
         "fetched":"2024-09-26"
     },
     {
@@ -1427,7 +1463,7 @@
         "source":"Economist",
         "date":"2024-09-26",
         "ahead":"Harris",
-        "ahead_value":54.0,
+        "ahead_value":54,
         "fetched":"2024-09-26"
     },
     {
@@ -1436,7 +1472,7 @@
         "source":"The Hill",
         "date":"2024-09-26",
         "ahead":"Harris",
-        "ahead_value":56.0,
+        "ahead_value":56,
         "fetched":"2024-09-26"
     },
     {
@@ -1445,7 +1481,7 @@
         "source":"Nate Silver",
         "date":"2024-09-25",
         "ahead":"Harris",
-        "ahead_value":55.0,
+        "ahead_value":55,
         "fetched":"2024-09-25"
     },
     {
@@ -1454,7 +1490,7 @@
         "source":"FiveThirtyEight",
         "date":"2024-09-25",
         "ahead":"Harris",
-        "ahead_value":55.0,
+        "ahead_value":55,
         "fetched":"2024-09-25"
     },
     {
@@ -1463,7 +1499,7 @@
         "source":"Economist",
         "date":"2024-09-25",
         "ahead":"Harris",
-        "ahead_value":54.0,
+        "ahead_value":54,
         "fetched":"2024-09-25"
     },
     {
@@ -1472,7 +1508,7 @@
         "source":"The Hill",
         "date":"2024-09-25",
         "ahead":"Harris",
-        "ahead_value":55.0,
+        "ahead_value":55,
         "fetched":"2024-09-25"
     },
     {
@@ -1481,7 +1517,7 @@
         "source":"Nate Silver",
         "date":"2024-09-24",
         "ahead":"Harris",
-        "ahead_value":54.0,
+        "ahead_value":54,
         "fetched":"2024-09-24"
     },
     {
@@ -1490,7 +1526,7 @@
         "source":"FiveThirtyEight",
         "date":"2024-09-24",
         "ahead":"Harris",
-        "ahead_value":55.0,
+        "ahead_value":55,
         "fetched":"2024-09-24"
     },
     {
@@ -1499,7 +1535,7 @@
         "source":"Economist",
         "date":"2024-09-24",
         "ahead":"Harris",
-        "ahead_value":53.0,
+        "ahead_value":53,
         "fetched":"2024-09-24"
     },
     {
@@ -1508,7 +1544,7 @@
         "source":"The Hill",
         "date":"2024-09-24",
         "ahead":"Harris",
-        "ahead_value":54.0,
+        "ahead_value":54,
         "fetched":"2024-09-24"
     },
     {
@@ -1517,7 +1553,7 @@
         "source":"Nate Silver",
         "date":"2024-09-23",
         "ahead":"Harris",
-        "ahead_value":53.0,
+        "ahead_value":53,
         "fetched":"2024-09-23"
     },
     {
@@ -1526,7 +1562,7 @@
         "source":"FiveThirtyEight",
         "date":"2024-09-23",
         "ahead":"Harris",
-        "ahead_value":57.0,
+        "ahead_value":57,
         "fetched":"2024-09-23"
     },
     {
@@ -1535,7 +1571,7 @@
         "source":"Economist",
         "date":"2024-09-23",
         "ahead":"Harris",
-        "ahead_value":56.0,
+        "ahead_value":56,
         "fetched":"2024-09-23"
     },
     {
@@ -1544,7 +1580,7 @@
         "source":"The Hill",
         "date":"2024-09-23",
         "ahead":"Harris",
-        "ahead_value":55.0,
+        "ahead_value":55,
         "fetched":"2024-09-23"
     },
     {
@@ -1553,7 +1589,7 @@
         "source":"Nate Silver",
         "date":"2024-09-22",
         "ahead":"Harris",
-        "ahead_value":54.0,
+        "ahead_value":54,
         "fetched":"2024-09-22"
     },
     {
@@ -1562,7 +1598,7 @@
         "source":"FiveThirtyEight",
         "date":"2024-09-22",
         "ahead":"Harris",
-        "ahead_value":62.0,
+        "ahead_value":62,
         "fetched":"2024-09-22"
     },
     {
@@ -1571,7 +1607,7 @@
         "source":"Economist",
         "date":"2024-09-20",
         "ahead":"Harris",
-        "ahead_value":56.0,
+        "ahead_value":56,
         "fetched":"2024-09-22"
     },
     {
@@ -1580,7 +1616,7 @@
         "source":"The Hill",
         "date":"2024-09-22",
         "ahead":"Harris",
-        "ahead_value":55.0,
+        "ahead_value":55,
         "fetched":"2024-09-22"
     },
     {
@@ -1589,7 +1625,7 @@
         "source":"Nate Silver",
         "date":"2024-09-21",
         "ahead":"Harris",
-        "ahead_value":53.0,
+        "ahead_value":53,
         "fetched":"2024-09-21"
     },
     {
@@ -1598,7 +1634,7 @@
         "source":"FiveThirtyEight",
         "date":"2024-09-21",
         "ahead":"Harris",
-        "ahead_value":60.0,
+        "ahead_value":60,
         "fetched":"2024-09-21"
     },
     {
@@ -1607,7 +1643,7 @@
         "source":"Economist",
         "date":"2024-09-20",
         "ahead":"Harris",
-        "ahead_value":56.0,
+        "ahead_value":56,
         "fetched":"2024-09-21"
     },
     {
@@ -1616,7 +1652,7 @@
         "source":"The Hill",
         "date":"2024-09-21",
         "ahead":"Harris",
-        "ahead_value":55.0,
+        "ahead_value":55,
         "fetched":"2024-09-21"
     },
     {
@@ -1625,7 +1661,7 @@
         "source":"Nate Silver",
         "date":"2024-09-20",
         "ahead":"Harris",
-        "ahead_value":51.0,
+        "ahead_value":51,
         "fetched":"2024-09-20"
     },
     {
@@ -1634,7 +1670,7 @@
         "source":"FiveThirtyEight",
         "date":"2024-09-20",
         "ahead":"Harris",
-        "ahead_value":60.0,
+        "ahead_value":60,
         "fetched":"2024-09-20"
     },
     {
@@ -1643,7 +1679,7 @@
         "source":"Economist",
         "date":"2024-09-20",
         "ahead":"Harris",
-        "ahead_value":56.0,
+        "ahead_value":56,
         "fetched":"2024-09-20"
     },
     {
@@ -1652,7 +1688,7 @@
         "source":"The Hill",
         "date":"2024-09-20",
         "ahead":"Harris",
-        "ahead_value":55.0,
+        "ahead_value":55,
         "fetched":"2024-09-20"
     },
     {
@@ -1661,7 +1697,7 @@
         "source":"Nate Silver",
         "date":"2024-09-19",
         "ahead":"Trump",
-        "ahead_value":51.0,
+        "ahead_value":51,
         "fetched":"2024-09-19"
     },
     {
@@ -1670,7 +1706,7 @@
         "source":"FiveThirtyEight",
         "date":"2024-09-19",
         "ahead":"Harris",
-        "ahead_value":61.0,
+        "ahead_value":61,
         "fetched":"2024-09-19"
     },
     {
@@ -1679,7 +1715,7 @@
         "source":"Economist",
         "date":"2024-09-19",
         "ahead":"Harris",
-        "ahead_value":59.0,
+        "ahead_value":59,
         "fetched":"2024-09-19"
     },
     {
@@ -1688,7 +1724,7 @@
         "source":"The Hill",
         "date":"2024-09-19",
         "ahead":"Harris",
-        "ahead_value":55.0,
+        "ahead_value":55,
         "fetched":"2024-09-19"
     },
     {
@@ -1697,7 +1733,7 @@
         "source":"Nate Silver",
         "date":"2024-09-18",
         "ahead":"Trump",
-        "ahead_value":52.0,
+        "ahead_value":52,
         "fetched":"2024-09-18"
     },
     {
@@ -1706,7 +1742,7 @@
         "source":"FiveThirtyEight",
         "date":"2024-09-18",
         "ahead":"Harris",
-        "ahead_value":64.0,
+        "ahead_value":64,
         "fetched":"2024-09-18"
     },
     {
@@ -1715,7 +1751,7 @@
         "source":"Economist",
         "date":"2024-09-18",
         "ahead":"Harris",
-        "ahead_value":56.0,
+        "ahead_value":56,
         "fetched":"2024-09-18"
     },
     {
@@ -1724,7 +1760,7 @@
         "source":"The Hill",
         "date":"2024-09-18",
         "ahead":"Harris",
-        "ahead_value":56.0,
+        "ahead_value":56,
         "fetched":"2024-09-18"
     },
     {
@@ -1733,7 +1769,7 @@
         "source":"Nate Silver",
         "date":"2024-09-17",
         "ahead":"Trump",
-        "ahead_value":56.0,
+        "ahead_value":56,
         "fetched":"2024-09-17"
     },
     {
@@ -1742,7 +1778,7 @@
         "source":"FiveThirtyEight",
         "date":"2024-09-17",
         "ahead":"Harris",
-        "ahead_value":61.0,
+        "ahead_value":61,
         "fetched":"2024-09-17"
     },
     {
@@ -1751,7 +1787,7 @@
         "source":"Economist",
         "date":"2024-09-17",
         "ahead":"Harris",
-        "ahead_value":55.0,
+        "ahead_value":55,
         "fetched":"2024-09-17"
     },
     {
@@ -1760,7 +1796,7 @@
         "source":"The Hill",
         "date":"2024-09-17",
         "ahead":"Harris",
-        "ahead_value":54.0,
+        "ahead_value":54,
         "fetched":"2024-09-17"
     },
     {
@@ -1769,7 +1805,7 @@
         "source":"Nate Silver",
         "date":"2024-09-16",
         "ahead":"Trump",
-        "ahead_value":60.0,
+        "ahead_value":60,
         "fetched":"2024-09-16"
     },
     {
@@ -1778,7 +1814,7 @@
         "source":"FiveThirtyEight",
         "date":"2024-09-16",
         "ahead":"Harris",
-        "ahead_value":60.0,
+        "ahead_value":60,
         "fetched":"2024-09-16"
     },
     {
@@ -1787,7 +1823,7 @@
         "source":"Economist",
         "date":"2024-09-16",
         "ahead":"Harris",
-        "ahead_value":52.0,
+        "ahead_value":52,
         "fetched":"2024-09-16"
     },
     {
@@ -1796,7 +1832,7 @@
         "source":"The Hill",
         "date":"2024-09-16",
         "ahead":"Harris",
-        "ahead_value":55.0,
+        "ahead_value":55,
         "fetched":"2024-09-16"
     },
     {
@@ -1805,7 +1841,7 @@
         "source":"Nate Silver",
         "date":"2024-09-15",
         "ahead":"Trump",
-        "ahead_value":60.0,
+        "ahead_value":60,
         "fetched":"2024-09-15"
     },
     {
@@ -1814,7 +1850,7 @@
         "source":"FiveThirtyEight",
         "date":"2024-09-15",
         "ahead":"Harris",
-        "ahead_value":60.0,
+        "ahead_value":60,
         "fetched":"2024-09-15"
     },
     {
@@ -1823,7 +1859,7 @@
         "source":"Economist",
         "date":"2024-09-13",
         "ahead":"Harris",
-        "ahead_value":51.0,
+        "ahead_value":51,
         "fetched":"2024-09-15"
     },
     {
@@ -1832,7 +1868,7 @@
         "source":"The Hill",
         "date":"2024-09-14",
         "ahead":"Harris",
-        "ahead_value":54.0,
+        "ahead_value":54,
         "fetched":"2024-09-15"
     }
 ]

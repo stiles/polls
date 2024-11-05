@@ -5816,7 +5816,7 @@
         },
         {
             "id": "148639",
-            "type": "poll",
+            "type": "poll_rcp_avg",
             "pollster": "Data for Progress (D)**",
             "date": "10/25 - 10/30",
             "sampleSize": "972 LV",
@@ -5918,7 +5918,7 @@
         },
         {
             "id": "148283",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Marist",
             "date": "10/17 - 10/22",
             "sampleSize": "1193 LV",
@@ -5952,7 +5952,7 @@
         },
         {
             "id": "148117",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "AmGreatness/TIPP",
             "date": "10/14 - 10/16",
             "sampleSize": "813 LV",
@@ -6003,7 +6003,7 @@
         },
         {
             "id": "148043",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Quinnipiac",
             "date": "10/10 - 10/14",
             "sampleSize": "1328 LV",
@@ -9323,23 +9323,6 @@
             "polling_end_date": "2024-11-02"
         },
         {
-            "id": "148647",
-            "type": "poll_rcp_avg",
-            "pollster": "Rasmussen Reports",
-            "date": "10/25 - 10/29",
-            "sampleSize": "818 LV",
-            "marginError": 3.0,
-            "link": "https://www.rasmussenreports.com/public_content/politics/partner_surveys/election_2024_trump_50_harris_47_in_wisconsin",
-            "spread_winner": "Trump",
-            "spread_value": 3.0,
-            "harris_value": "47",
-            "trump_value": "50",
-            "name": "2024 Wisconsin: Trump vs. Harris",
-            "slug": "wisconsin",
-            "polling_start_date": "2024-10-25",
-            "polling_end_date": "2024-10-29"
-        },
-        {
             "id": "148562",
             "type": "poll",
             "pollster": "Atlas Intel",
@@ -9406,6 +9389,23 @@
             "slug": "wisconsin",
             "polling_start_date": "2024-10-27",
             "polling_end_date": "2024-10-30"
+        },
+        {
+            "id": "148647",
+            "type": "poll_rcp_avg",
+            "pollster": "Rasmussen Reports",
+            "date": "10/25 - 10/29",
+            "sampleSize": "818 LV",
+            "marginError": 3.0,
+            "link": "https://www.rasmussenreports.com/public_content/politics/partner_surveys/election_2024_trump_50_harris_47_in_wisconsin",
+            "spread_winner": "Trump",
+            "spread_value": 3.0,
+            "harris_value": "47",
+            "trump_value": "50",
+            "name": "2024 Wisconsin: Trump vs. Harris",
+            "slug": "wisconsin",
+            "polling_start_date": "2024-10-25",
+            "polling_end_date": "2024-10-29"
         },
         {
             "id": "148430",
@@ -12288,7 +12288,7 @@
         },
         {
             "id": "148279",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Marist",
             "date": "10/17 - 10/22",
             "sampleSize": "1226 LV",
@@ -12322,7 +12322,7 @@
         },
         {
             "id": "148524",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "UMass Lowell",
             "date": "10/16 - 10/23",
             "sampleSize": "650 LV",
@@ -13497,7 +13497,7 @@
         },
         {
             "id": "147942",
-            "type": "poll_rcp_avg",
+            "type": "poll",
             "pollster": "Harvard-Harris",
             "date": "10/11 - 10/13",
             "sampleSize": "2596 LV",

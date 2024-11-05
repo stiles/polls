@@ -239,7 +239,7 @@
     },
     {
         "id":"148279",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Marist",
         "date":"10\/17 - 10\/22",
         "sampleSize":"1226 LV",
@@ -273,7 +273,7 @@
     },
     {
         "id":"148524",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"UMass Lowell",
         "date":"10\/16 - 10\/23",
         "sampleSize":"650 LV",

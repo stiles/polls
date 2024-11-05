@@ -120,7 +120,7 @@
     },
     {
         "id":"148639",
-        "type":"poll",
+        "type":"poll_rcp_avg",
         "pollster":"Data for Progress (D)**",
         "date":"10\/25 - 10\/30",
         "sampleSize":"972 LV",
@@ -222,7 +222,7 @@
     },
     {
         "id":"148283",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Marist",
         "date":"10\/17 - 10\/22",
         "sampleSize":"1193 LV",
@@ -256,7 +256,7 @@
     },
     {
         "id":"148117",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"AmGreatness\/TIPP",
         "date":"10\/14 - 10\/16",
         "sampleSize":"813 LV",
@@ -307,7 +307,7 @@
     },
     {
         "id":"148043",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Quinnipiac",
         "date":"10\/10 - 10\/14",
         "sampleSize":"1328 LV",

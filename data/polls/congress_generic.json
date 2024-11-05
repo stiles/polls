@@ -290,7 +290,7 @@
     },
     {
         "id":"147942",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Harvard-Harris",
         "date":"10\/11 - 10\/13",
         "sampleSize":"2596 LV",
