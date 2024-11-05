@@ -47,9 +47,8 @@ th, td {
 
 ## Harris v. Trump: The latest
 
-
 ### National probability
-The latest forecasts for the 2024 presidential election based on models developed by media outlets:
+The closing forecasts for the 2024 presidential election based on models developed by media outlets:
 
 | Place | Favored / Chance | Source |
 |-------|---------------------|--------|
@@ -60,7 +59,7 @@ The latest forecasts for the 2024 presidential election based on models develope
 
 
 ### Swing state polling averages
-<span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>Former President Donald Trump</span> is leading in <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>four</span> of the potential swing states over <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>Vice President Kamala Harris</span>, according to FiveThirtyEight's averages.
+<span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>Former President Donald Trump</span> was leading in <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>four</span> of the potential swing states over <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>Vice President Kamala Harris</span>, according to FiveThirtyEight's averages.
 
 | Place | Margin | Source |
 |-------|--------|--------|
@@ -76,7 +75,7 @@ The latest forecasts for the 2024 presidential election based on models develope
 **Data:** [Latest](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/state_averages_latest.json), [trend](https://stilesdata.com/polling/harris_trump/polls_avg/avgs/state_averages_trend.json)
 
 ### All the national polling averages
-<span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>Vice President Kamala Harris</span> is leading in the national polls by a <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>0.9 percentage point</span> margin over <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>former President Donald Trump</span>, according to an average of prominent polling averages.
+<span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>Vice President Kamala Harris</span> was leading in the national polls by a <span style='background: #5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>0.9 percentage point</span> margin over <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>former President Donald Trump</span>, according to the last average of prominent polling averages.
 
 | Place             | Margin               | Source       |
 |-------------------|----------------------|--------------|
@@ -94,4 +93,4 @@ The latest forecasts for the 2024 presidential election based on models develope
 
  **About this page:** [Github repo](https://github.com/stiles/polls) 
 
- **Final update:** *10 a.m. ET, November 5*.
+ **Final update:** *10 a.m. ET, November 5, Election Day!*.
