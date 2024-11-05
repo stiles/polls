@@ -1,22 +1,5 @@
 [
     {
-        "id":"148877",
-        "type":"poll_rcp_avg",
-        "pollster":"Trafalgar Group (R)",
-        "date":"11\/1 - 11\/3",
-        "sampleSize":"1090 LV",
-        "marginError":2.9,
-        "link":"https:\/\/www.thetrafalgargroup.org\/wp-content\/uploads\/2024\/11\/AZ-24-General-1103_Report.pdf",
-        "spread_winner":"Trump",
-        "spread_value":2.0,
-        "trump_value":"49",
-        "harris_value":"47",
-        "name":"2024 Arizona: Trump vs. Harris",
-        "slug":"arizona",
-        "polling_start_date":"2024-11-01",
-        "polling_end_date":"2024-11-03"
-    },
-    {
         "id":"148842",
         "type":"poll_rcp_avg",
         "pollster":"Atlas Intel",
@@ -32,6 +15,23 @@
         "slug":"arizona",
         "polling_start_date":"2024-11-03",
         "polling_end_date":"2024-11-04"
+    },
+    {
+        "id":"148877",
+        "type":"poll_rcp_avg",
+        "pollster":"Trafalgar Group (R)",
+        "date":"11\/1 - 11\/3",
+        "sampleSize":"1090 LV",
+        "marginError":2.9,
+        "link":"https:\/\/www.thetrafalgargroup.org\/wp-content\/uploads\/2024\/11\/AZ-24-General-1103_Report.pdf",
+        "spread_winner":"Trump",
+        "spread_value":2.0,
+        "trump_value":"49",
+        "harris_value":"47",
+        "name":"2024 Arizona: Trump vs. Harris",
+        "slug":"arizona",
+        "polling_start_date":"2024-11-01",
+        "polling_end_date":"2024-11-03"
     },
     {
         "id":"148757",
@@ -154,7 +154,7 @@
     },
     {
         "id":"148636",
-        "type":"poll",
+        "type":"poll_rcp_avg",
         "pollster":"Data for Progress (D)**",
         "date":"10\/25 - 10\/30",
         "sampleSize":"1079 LV",
@@ -221,23 +221,6 @@
         "polling_end_date":"2024-10-28"
     },
     {
-        "id":"148348",
-        "type":"poll",
-        "pollster":"Trafalgar Group (R)",
-        "date":"10\/24 - 10\/26",
-        "sampleSize":"1094 LV",
-        "marginError":2.9,
-        "link":"https:\/\/www.thetrafalgargroup.org\/wp-content\/uploads\/2024\/10\/AZ-24-General-1027_Report.pdf",
-        "spread_winner":"Trump",
-        "spread_value":2.0,
-        "trump_value":"48",
-        "harris_value":"46",
-        "name":"2024 Arizona: Trump vs. Harris",
-        "slug":"arizona",
-        "polling_start_date":"2024-10-24",
-        "polling_end_date":"2024-10-26"
-    },
-    {
         "id":"148722",
         "type":"poll_rcp_avg",
         "pollster":"Morning Consult",
@@ -255,8 +238,25 @@
         "polling_end_date":"2024-10-29"
     },
     {
+        "id":"148348",
+        "type":"poll",
+        "pollster":"Trafalgar Group (R)",
+        "date":"10\/24 - 10\/26",
+        "sampleSize":"1094 LV",
+        "marginError":2.9,
+        "link":"https:\/\/www.thetrafalgargroup.org\/wp-content\/uploads\/2024\/10\/AZ-24-General-1027_Report.pdf",
+        "spread_winner":"Trump",
+        "spread_value":2.0,
+        "trump_value":"48",
+        "harris_value":"46",
+        "name":"2024 Arizona: Trump vs. Harris",
+        "slug":"arizona",
+        "polling_start_date":"2024-10-24",
+        "polling_end_date":"2024-10-26"
+    },
+    {
         "id":"148394",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"CNN*",
         "date":"10\/21 - 10\/26",
         "sampleSize":"781 LV",

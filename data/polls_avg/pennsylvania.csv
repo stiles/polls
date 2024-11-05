@@ -1,2 +1,2 @@
 id,type,pollster,date,sampleSize,marginError,link,spread_winner,spread_value,trump_value,harris_value,name,slug,polling_start_date,polling_end_date
-8303,rcp_average,rcp_average,10/18 - 11/4,,0.0,,Trump,0.2,48.3,48.1,2024 Pennsylvania: Trump vs. Harris,pennsylvania,2024-10-18,2024-11-04
+8303,rcp_average,rcp_average,10/18 - 11/4,,0.0,,Trump,0.4,48.5,48.1,2024 Pennsylvania: Trump vs. Harris,pennsylvania,2024-10-18,2024-11-04

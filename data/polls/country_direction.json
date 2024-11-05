@@ -1,5 +1,22 @@
 [
     {
+        "id":"148881",
+        "type":"poll_rcp_avg",
+        "pollster":"Ipsos",
+        "date":"11\/1 - 11\/3",
+        "sampleSize":"1242 A",
+        "marginError":0.0,
+        "link":"https:\/\/www.ipsos.com\/sites\/default\/files\/ct\/news\/documents\/2024-11\/Ipsos%20Core%20Political%2011%2004%202024%20PDF_1.pdf",
+        "spread_winner":"Wrong Track",
+        "spread_value":-47.0,
+        "right_direction_value":"17",
+        "wrong_track_value":"64",
+        "name":"Direction of Country",
+        "slug":"country_direction",
+        "polling_start_date":"2024-11-01",
+        "polling_end_date":"2024-11-03"
+    },
+    {
         "id":"148825",
         "type":"poll_rcp_avg",
         "pollster":"Forbes\/HarrisX",
@@ -32,6 +49,23 @@
         "slug":"country_direction",
         "polling_start_date":"2024-10-30",
         "polling_end_date":"2024-11-02"
+    },
+    {
+        "id":"148893",
+        "type":"poll",
+        "pollster":"ABC News\/Ipsos",
+        "date":"10\/29 - 11\/1",
+        "sampleSize":"2267 LV",
+        "marginError":0.0,
+        "link":"https:\/\/www.langerresearch.com\/wp-content\/uploads\/1239a1TheFinalWeekend.pdf",
+        "spread_winner":"Wrong Track",
+        "spread_value":-48.0,
+        "right_direction_value":"26",
+        "wrong_track_value":"74",
+        "name":"Direction of Country",
+        "slug":"country_direction",
+        "polling_start_date":"2024-10-29",
+        "polling_end_date":"2024-11-01"
     },
     {
         "id":"148739",
@@ -103,7 +137,7 @@
     },
     {
         "id":"148475",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Reuters\/Ipsos",
         "date":"10\/25 - 10\/27",
         "sampleSize":"1150 A",

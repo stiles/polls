@@ -171,7 +171,7 @@
     },
     {
         "id":"148606",
-        "type":"poll",
+        "type":"poll_rcp_avg",
         "pollster":"Echelon Insights",
         "date":"10\/27 - 10\/30",
         "sampleSize":"600 LV",
@@ -205,7 +205,7 @@
     },
     {
         "id":"148644",
-        "type":"poll",
+        "type":"poll_rcp_avg",
         "pollster":"Data for Progress (D)**",
         "date":"10\/25 - 10\/30",
         "sampleSize":"908 LV",

@@ -154,7 +154,7 @@
     },
     {
         "id":"148641",
-        "type":"poll",
+        "type":"poll_rcp_avg",
         "pollster":"Data for Progress (D)**",
         "date":"10\/25 - 10\/30",
         "sampleSize":"721 LV",

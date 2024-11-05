@@ -1,5 +1,22 @@
 [
     {
+        "id":"148885",
+        "type":"poll_rcp_avg",
+        "pollster":"Ipsos",
+        "date":"11\/1 - 11\/3",
+        "sampleSize":"1242 A",
+        "marginError":0.0,
+        "link":"https:\/\/www.ipsos.com\/sites\/default\/files\/ct\/news\/documents\/2024-11\/Ipsos%20Core%20Political%2011%2004%202024%20PDF_1.pdf",
+        "spread_winner":"Unfavorable",
+        "spread_value":5.0,
+        "favorable_value":"45",
+        "unfavorable_value":"50",
+        "name":"Kamala Harris Favorability",
+        "slug":"harris_favorability",
+        "polling_start_date":"2024-11-01",
+        "polling_end_date":"2024-11-03"
+    },
+    {
         "id":"148821",
         "type":"poll_rcp_avg",
         "pollster":"New York Post",
@@ -85,6 +102,23 @@
         "polling_end_date":"2024-11-02"
     },
     {
+        "id":"148891",
+        "type":"poll",
+        "pollster":"ABC News\/Ipsos",
+        "date":"10\/29 - 11\/1",
+        "sampleSize":"2267 LV",
+        "marginError":0.0,
+        "link":"https:\/\/www.langerresearch.com\/wp-content\/uploads\/1239a1TheFinalWeekend.pdf",
+        "spread_winner":"Tie",
+        "spread_value":0.0,
+        "favorable_value":"48",
+        "unfavorable_value":"48",
+        "name":"Kamala Harris Favorability",
+        "slug":"harris_favorability",
+        "polling_start_date":"2024-10-29",
+        "polling_end_date":"2024-11-01"
+    },
+    {
         "id":"148742",
         "type":"poll_rcp_avg",
         "pollster":"Yahoo News",
@@ -137,7 +171,7 @@
     },
     {
         "id":"148472",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Reuters\/Ipsos",
         "date":"10\/25 - 10\/27",
         "sampleSize":"1150 A",
