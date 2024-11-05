@@ -61,12 +61,12 @@ fte_src['notes'] = 'w/Kennedy'
 fte_latest = fte_src.query('date == date.max()').drop('kennedy', axis=1)
 
 # Nate Silver
-nate_cols = ['modeldate','state', 'trump','harris', 'rfk']
+nate_cols = ['modeldate','state', 'trump','harris']
 nate_url = f'https://static.dwcdn.net/data/VK7wA.csv?v={epoch_seconds}'
-nate_src = pd.read_csv(nate_url, storage_options=headers).query('state=="National"').dropna(subset='harris')[nate_cols].rename(columns={'modeldate': 'date', 'rfk': 'kennedy'}).round(1)
+nate_src = pd.read_csv(nate_url, storage_options=headers).query('state=="National"').dropna(subset='harris')[nate_cols].rename(columns={'modeldate': 'date'}).round(1)
 nate_src['source'] = 'Nate Silver'
 nate_src['date'] = pd.to_datetime(nate_src['date'], format='mixed').dt.strftime('%Y-%m-%d')
-nate_latest = nate_src.query('date == date.max()').drop('kennedy', axis=1)
+nate_latest = nate_src.query('date == date.max()')
 
 # 270toWin
 data_dict = requests.get('https://www.270towin.com/polls/php/get-polls-by-state.php?election_year=2024&candidate_name_dem=Harris&candidate_name_rep=Trump&sort_by=date').json()['results']
