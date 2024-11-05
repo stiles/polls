@@ -88,18 +88,18 @@ if harris_leads > trump_leads:
     cand_winning = "Vice President Kamala Harris"
     cand_losing = "Former President Donald Trump"
     cand_margin = round(harris_avg - trump_avg, 1)
-    cand_winning_color = '#5194C3'
-    cand_losing_color = '#c52622'
+    cand_winning_color = '5194C3'
+    cand_losing_color = 'c52622'
     state_msg = f"<span style='background: #{cand_winning_color}; padding:1px 4px; color: #ffffff; font-weight: bold;'>{cand_winning}</span> is leading in <span style='background: #{cand_winning_color}; padding:1px 4px; color: #ffffff; font-weight: bold;'>{number_map[trump_leads]}</span> of the potential swing states over <span style='background: #{cand_losing_color}; padding:1px 4px; color: #ffffff; font-weight: bold;'>{cand_losing}</span>, according to FiveThirtyEight's averages."
 elif trump_leads > harris_leads:
     cand_winning = "Former President Donald Trump"
     cand_losing = "Vice President Kamala Harris"
     cand_margin = round(trump_avg - harris_avg, 1)
-    cand_winning_color = '#c52622'
-    cand_losing_color = '#5194C3'
+    cand_winning_color = 'c52622'
+    cand_losing_color = '5194C3'
     state_msg = f"<span style='background: #{cand_winning_color}; padding:1px 4px; color: #ffffff; font-weight: bold;'>{cand_winning}</span> is leading in <span style='background: #{cand_winning_color}; padding:1px 4px; color: #ffffff; font-weight: bold;'>{number_map[trump_leads]}</span> of the potential swing states over <span style='background: #{cand_losing_color}; padding:1px 4px; color: #ffffff; font-weight: bold;'>{cand_losing}</span>, according to FiveThirtyEight's averages."
 else:
-    state_msg = f"The state of the race is mixed, with <span style='background: {cand_winning_color}; padding:1px 4px; color: #ffffff; font-weight: bold;'>{cand_winning}</span> ahead in **{number_map[harris_leads]}** states, <span style='background: {cand_losing_color}; padding:1px 4px; color: #ffffff; font-weight: bold;'>{cand_losing}</span> ahead in **{number_map[trump_leads]}** states."
+    state_msg = f"The state of the race is mixed, with <span style='background: #{cand_winning_color}; padding:1px 4px; color: #ffffff; font-weight: bold;'>{cand_winning}</span> ahead in **{number_map[harris_leads]}** states, <span style='background: #{cand_losing_color}; padding:1px 4px; color: #ffffff; font-weight: bold;'>{cand_losing}</span> ahead in **{number_map[trump_leads]}** states."
 
 # Format sources
 def format_sources(sources):
