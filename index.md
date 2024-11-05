@@ -60,7 +60,7 @@ The latest forecasts for the 2024 presidential election based on models develope
 
 
 ### Swing state polling averages
-<span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>former President Donald Trump</span> is leading in <span style='background: #c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>four</span> of the potential swing states over Vice President Kamala Harris, according to FiveThirtyEight's averages.
+<span style='background: ##c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>Former President Donald Trump</span> is leading in <span style='background: ##c52622; padding:1px 4px; color: #ffffff; font-weight: bold;'>four</span> of the potential swing states over <span style='background: ##5194C3; padding:1px 4px; color: #ffffff; font-weight: bold;'>Vice President Kamala Harris</span>, according to FiveThirtyEight's averages.
 
 | Place | Margin | Source |
 |-------|--------|--------|
@@ -94,4 +94,4 @@ The latest forecasts for the 2024 presidential election based on models develope
 
  **About this page:** [Github repo](https://github.com/stiles/polls) 
 
- **Last update:** *9 a.m. ET, November 5*.
+ **Last update:** *10 a.m. ET, November 5*.
