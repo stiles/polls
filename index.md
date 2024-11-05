@@ -93,4 +93,4 @@ The closing forecasts for the 2024 presidential election based on models develop
 
  **About this page:** [Github repo](https://github.com/stiles/polls) 
 
- **Final update:** *10 a.m. ET, November 5, Election Day!*.
+ **Final update:** *10 a.m. ET, November 5, Election Day!*
