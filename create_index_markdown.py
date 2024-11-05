@@ -21,8 +21,10 @@ probability_df = pd.read_json('data/probability/probability_by_outlet_latest.jso
 def get_favored(row):
     if row['harris'] > row['trump']:
         return "Harris", '#5194C3'  # Blue for Harris
-    else:
+    elif row['harris'] < row['trump']:
         return "Trump", '#c52622'  # Red for Trump
+    else:
+        return 'Tied', '#7c4ea5' # Purple for tie
 
 # Links for each source
 probability_links = {
@@ -113,7 +115,7 @@ def format_sources(sources):
 sources = list(df['source'].unique())
 formatted_sources = format_sources(sources)
 
-msg = f"<span style='background: {avg_winning_color}; padding:1px 4px; color: #ffffff; font-weight: bold;'>{avg_winning}</span> is leading in the national polls by a <span style='background: {avg_winning_color}; padding:1px 4px; color: #ffffff; font-weight: bold;'>{avg_margin} percentage point</span> margin over {avg_losing}, according to an average of prominent polling averages."
+msg = f"<span style='background: {avg_winning_color}; padding:1px 4px; color: #ffffff; font-weight: bold;'>{avg_winning}</span> is leading in the national polls by a <span style='background: {avg_winning_color}; padding:1px 4px; color: #ffffff; font-weight: bold;'>{avg_margin} percentage point</span> margin over <span style='background: {avg_losing_color}; padding:1px 4px; color: #ffffff; font-weight: bold;'>{avg_losing}</span>, according to an average of prominent polling averages."
 
 # Links for each polling source
 source_links = {
@@ -215,10 +217,11 @@ markdown_content += f"""
 
 # Append each row of the DataFrame to the markdown table with links
 for index, row in df.iterrows():
+    print(row)
     source_name = row['source']
     source_location = 'US'
     source_link = source_links.get(source_name, "#")
-    margin_style = f"<span style='background: {'#5194C3' if 'D' in row['winning'] else '#c52622'}; padding:1px 4px; color: #ffffff; font-weight: bold;'>{row['winning']}</span>"
+    margin_style = f"<span style='background: {'#7c4ea5' if 'T' in row['winning'] else ('#5194C3' if 'D' in row['winning'] else '#c52622')}; padding:1px 4px; color: #ffffff; font-weight: bold;'>{row['winning']}</span>"
     
     # Style the Harris and Trump percentage with respective text colors, rounded to 1 decimal place
     harris_style = f"<span style='color: #5194C3; font-weight: bold;'>{row['harris']:.1f}</span>"
