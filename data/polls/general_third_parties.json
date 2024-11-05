@@ -1,5 +1,26 @@
 [
     {
+        "id":"148840",
+        "type":"poll_rcp_avg",
+        "pollster":"Atlas Intel",
+        "date":"11\/3 - 11\/4",
+        "sampleSize":"2703 LV",
+        "marginError":2.0,
+        "link":"https:\/\/www.realclearpolitics.com\/docs\/2024\/Atlas-Poll-US-Elections-National-04-Nov-2024.pdf",
+        "spread_winner":"Trump",
+        "spread_value":1.0,
+        "trump_value":"49",
+        "harris_value":"48",
+        "stein_value":"1",
+        "kennedy_value":"",
+        "oliver_value":"0",
+        "west_value":"0",
+        "name":"General Election: Trump vs. Harris vs. Kennedy vs. West vs. Stein",
+        "slug":"general_third_parties",
+        "polling_start_date":"2024-11-03",
+        "polling_end_date":"2024-11-04"
+    },
+    {
         "id":"148737",
         "type":"poll_rcp_avg",
         "pollster":"NBC News",
@@ -43,7 +64,7 @@
     },
     {
         "id":"148673",
-        "type":"poll_rcp_avg",
+        "type":"poll",
         "pollster":"Atlas Intel",
         "date":"11\/1 - 11\/2",
         "sampleSize":"2463 LV",
