@@ -61,7 +61,7 @@ hill_latest['date'] = pd.to_datetime(hill_latest['date'])
 # Nate Silver
 # Pulling the latest CSV from his Datawrapper chart for win probability
 
-nate_url = f'https://static.dwcdn.net/data/MPpof.csv?v={epoch_seconds}'
+nate_url = f'https://static.dwcdn.net/data/U7Nxm.csv?v={epoch_seconds}'
 nate_src = pd.read_csv(nate_url, storage_options=headers).drop('RFK', axis=1)
 nate_src['source'] = 'Nate Silver'
 nate_src['date'] = pd.to_datetime(nate_src['modeldate'], format='mixed').dt.strftime('%Y-%m-%d')
